@@ -1,4 +1,4 @@
-## Pico plays a sound
+## Nano switches costume
 
 Add an introductory sentence. What will learners achieve by the end of this step?
 

@@ -1,4 +1,4 @@
-## Pico plays a sound
+## Giga changes colour
 
 Add an introductory sentence. What will learners achieve by the end of this step?
 

@@ -1,4 +1,4 @@
-## Pico plays a sound
+## Remix
 
 Add an introductory sentence. What will learners achieve by the end of this step?
 

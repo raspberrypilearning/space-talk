@@ -7,5 +7,10 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Backdrop
+  - title: Pico plays a sound
+  - title: Nano switches costume
+  - title: Giga changes colour
+  - title: Reflection
+  - title: Tera remix
   - title: What next?
