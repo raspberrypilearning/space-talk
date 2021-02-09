@@ -1,23 +1,27 @@
 ## Pico plays a sound
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+Scratch looks like this:
+
+![Scratch editor with Stage, code area and sprite list labelled](images/scratch-editor-labelled.png)
+
+Can you find a sprite?
 
 --- task ---
+Open a [new Scratch project](http://rpf.io/scratch-new). Scratch will open in another browser tab. 
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
-
-You should see...
- 
-![starter project](images/starter_project.png)
-
+--- collapse ---
+---
+title: Working offline
+---
+#link to Scratch guide
+--- collapse ---
 --- /task ---
 
---- task ---
-
-Step content...
-
---- /task ---
+The **stage** is where your project runs. A backdrop changes the way the stage looks.
+Click (or tap) on ‘Choose a Backdrop’
+[image]
+Click on the ‘Space’ category
+Click on a backdrop from the gallery to select it. (we’ve chosen the ‘Space’ backdrop but you can select the one you like best)
+Your stage should look like this:
 
 --- save ---
