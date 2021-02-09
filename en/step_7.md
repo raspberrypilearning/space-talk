@@ -1,23 +1,29 @@
 ## Remix
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+Add the Tera sprite and use any of the blocks you have learned about to make an ‘emote’ for Tera. 
 
---- task ---
+```blocks3
+when this sprite clicked
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+say [Hello!] for [2] secs
 
-You should see...
- 
-![starter project](images/starter_project.png)
+say [Hello!]
 
---- /task ---
+say []
 
---- task ---
+think [Hmm...] for [2] secs
 
-Step content...
+switch costume to [tera-d v]
 
---- /task ---
+set [color v] effect to [0]
+
+clear graphic effects
+
+play sound [pop v] until done
+
+```
+
+Tera’s personality is your choice, there’s no correct answer.
+
 
 --- save ---

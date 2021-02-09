@@ -24,11 +24,9 @@ Now switch to the Code tab and change your code to make Nano say 'thanks!':
 
 ```blocks3
 when this sprite clicked
-say [Thanks!] // show speech bubble
 switch costume to [nano-a2 v] // hand to mouth
-wait [1] secs // so you see the change
+say [Thanks!] for [2] secs // try 1 instead 
 switch costume to [nano-a v] // smiling
-say [] // hide the speech bubble
 ```
 
 *Tip*: All the blocks are colour coded so you will find the `change costume to` block in the `Looks` blocks menu.
