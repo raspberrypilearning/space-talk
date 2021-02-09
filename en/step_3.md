@@ -14,7 +14,7 @@ Open a [new Scratch project](http://rpf.io/scratch-new). Scratch will open in an
 title: Working offline
 ---
 #link to Scratch guide
---- collapse ---
+--- /collapse ---
 --- /task ---
 
 The **stage** is where your project runs. A backdrop changes the way the stage looks.
