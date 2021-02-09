@@ -10,8 +10,8 @@ Add this code
 ```blocks3
 when this sprite clicked
 set [color v] effect to [0] // number up to 200
-think [Hmm...] for [2] secs 
-clear graphic effects
+think [Hmm...] for [2] secs // change it
+clear graphic effects // back to normal
 ```
 
 Giga communicates by changing colour. 
