@@ -3,13 +3,13 @@
 A **sprite** is a character or object in a Scratch project. A sprite can have code, costumes and sounds to change the way it looks and what it does. You will create sprites that ‘emote’ to share their thoughts or feelings. 
 
 --- no-print ---
+<div style="display: flex">
 <div>
-<div style="float:left">
 Click on each sprite to see what they do. 
 
 What happens if you click on one sprite and then quickly click on another?
 </div>
-<div style="float:right" class="scratch-preview">
+<div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
