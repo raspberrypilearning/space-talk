@@ -2,9 +2,7 @@
 
 Scratch looks like this:
 
-![Scratch editor with Stage, code area and sprite list labelled](images/scratch-editor-labelled.png)
-
-Can you find a sprite?
+![Scratch editor with Stage, code area and sprite list labelled](images/scratch-interface.png)
 
 --- task ---
 Open a [new Scratch project](http://rpf.io/scratch-new). Scratch will open in another browser tab. 
