@@ -7,7 +7,7 @@ A **sprite** is a character or object in a Scratch project. A sprite can have co
 Click on each sprite to see what they do. 
 
 What happens if you click on one sprite and then quickly click on another?
-
+</div>
 <div style="float:right" class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
