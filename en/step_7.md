@@ -1,6 +1,6 @@
 ## Remix
 
-Add the Tera sprite and use any of the blocks you have learned about to make an ‘emote’ for Tera. 
+Add the Tera sprite and use any of the blocks you have learned about to make an 'emote' for Tera. 
 
 ```blocks3
 when this sprite clicked
@@ -23,7 +23,6 @@ play sound [pop v] until done
 
 ```
 
-Tera’s personality is your choice, there’s no correct answer.
-
+Tera's personality is your choice, there's no correct answer.
 
 --- save ---
