@@ -2,9 +2,10 @@
 
 A **sprite** is a character or object in a Scratch project. A sprite can have code, costumes and sounds to change the way it looks and what it does. You will create sprites that ‘emote’ to share their thoughts or feelings. 
 
+--- task ---
 --- no-print ---
 <div style="display: flex">
-<div>
+<div style="min-width: 30%">
 Click on each sprite to see what they do. 
 
 What happens if you click on one sprite and then quickly click on another?
@@ -16,6 +17,8 @@ What happens if you click on one sprite and then quickly click on another?
 <br clear="both"/>
 
 --- /no-print ---
+
+--- /task ---
 
 --- print-only ---
 ![Complete project](images/showcase_static.png)
