@@ -13,6 +13,7 @@ You will:
 --- no-print ---
 <div style="display: flex">
 <div style="min-width: 30%; margin-right:20px;">
+### Try it
 Click on each sprite to see what they do. 
 
 What happens if you click on one sprite and then quickly click on another?
