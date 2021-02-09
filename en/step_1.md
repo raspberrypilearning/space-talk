@@ -5,8 +5,7 @@ A **sprite** is a character or object in a Scratch project. A sprite can have co
 You will:
 + add sprites and a **backdrop** to set up your project,
 + make the sprites communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} blocks,
-+ use the **Paint editor** to change the **costume**,
-+ design and code the ‘emote’ for at least one sprite.
++ use the **Paint editor** to change a **costume**.
 
 --- no-print ---
 Click on each sprite to see what they do. What happens if you click on one and then quickly click on another?
