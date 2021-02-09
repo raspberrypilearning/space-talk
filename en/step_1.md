@@ -13,7 +13,6 @@ You will:
 --- no-print ---
 --- task ---
 ### Try it
-<br/>
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 Click on each sprite to see what they do. 
