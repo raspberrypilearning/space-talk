@@ -1,23 +1,41 @@
 ## Nano switches costume
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+Sprites have costumes to change the way they look.
+  
+Add the Nano sprite to your project. 
+Click on the Costumes tab to see Nano’s costumes. 
+[image]
+Go back to the Code tab and drag a `switch costume to` block to the Code area
+Try changing the selected costume by clicking on 'nano-a' and choosing another costume from the menu. Then click on the block to see Nano’s costume change on the stage.
+You can also change costumes with the Paint editor. You are going to make a costume with one hand up to Nano’s mouth. Click back on the Costumes tab.
+Right click on the 'nano-a' costume and choose 'duplicate'. You will have a 'nano-a2' costume.
+Click on the arm on the left and then click 'Delete'. The costume should look like this:
+[image]
+*Tip*: If you make a mistake in the Paint editor you can click Undo [image] 
+Click on the 'nano-c' costume. 
+Click on the arm on the left.
+[image]
+Click on 'copy''
+[Image]
+Switch to costume 'nano-a2' and click on 'Paste'. 
+The costume should look like this:
+[image]
+Now switch to the Code tab and change your code to make Nano say 'thanks!':
 
---- task ---
+```blocks3
+when this sprite clicked
+say [Thanks!] // show speech bubble
+switch costume to [nano-a2 v] // hand to mouth
+wait [1] secs // so you see the change
+switch costume to [nano-a v] // smiling
+say [] // hide the speech bubble
+```
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+*Tip*: All the blocks are colour coded so you will find the `change costume to` block in the `Looks` blocks menu.
 
-You should see...
- 
-![starter project](images/starter_project.png)
 
---- /task ---
+Boxout 
+[Over 100,000 people use the language 'Makaton' to communicate using signs and symbols. You have just coded Nano to use the Makaton sign for 'thank you.' Next time you say thank you to someone why not use your new skill to say it in Makaton.]
 
---- task ---
-
-Step content...
-
---- /task ---
 
 --- save ---
