@@ -11,7 +11,7 @@ You will:
 
 --- task ---
 --- no-print ---
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap;">
 <div style="min-width: 30%; margin-right:20px;">
 ### Try it
 Click on each sprite to see what they do. 
@@ -22,8 +22,6 @@ What happens if you click on one sprite and then quickly click on another?
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
-<br clear="both"/>
-
 --- /no-print ---
 
 --- /task ---
