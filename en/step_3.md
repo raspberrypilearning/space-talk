@@ -20,7 +20,9 @@ Select 'Choose a sprite' and pick the 'Fantasy' category. Click on the Pico spri
 
 --- task ---
 Drag Pico to the left side of the stage position. Your stage should look something like this:
+
 ![Stage with chosen backdrop and Pico sprite positioned on the left][images/pico-on-stage.png] 
+
 --- /task ---
 
 --- task ---
@@ -38,6 +40,7 @@ Pico will show a speech bubble for two seconds.
 Drag the  `say [Hello!] for [2] secs`{:class="block3looks"} block to the Code area. Click on it again. 
 
 ![Drag code say block to code area animated][images/drag-say.gif] 
+
 ![Drag code say block to code area][images/drag-say.png] 
 
 --- /task ---
