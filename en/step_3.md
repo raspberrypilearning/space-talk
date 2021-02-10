@@ -18,13 +18,13 @@ Drag Pico to the left side of the stage position. Your stage should look somethi
 --- /task ---
 
 --- task ---
-Open the `Looks` blocks menu. Click on a `say [Hello!] for [2] secs` block.
+Open the `Looks`{:class="block3looks"} blocks menu. Click on a `say [Hello!] for [2] secs`{:class="block3looks"} block.
 Pico will show a speech bubble for two seconds. 
 
 --- /task ---
 
 --- task ---
-Drag the  `say [Hello!] for [2] secs` block to the Code area. Click on it again. 
+Drag the  `say [Hello!] for [2] secs`{:class="block3looks"} block to the Code area. Click on it again. 
 
 ![Drag code say block to code area animated][images/drag-say.gif] 
 ![Drag code say block to code area][images/drag-say.png] 
@@ -32,7 +32,7 @@ Drag the  `say [Hello!] for [2] secs` block to the Code area. Click on it again.
 --- /task ---
 
 --- task ---
-Drag a `when this sprite clicked` block from the `Events` block menu and connect it to the top of your `say [Hello!] for [2] secs` block in the Code area. The blocks will snap together.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} block menu and connect it to the top of your `say [Hello!] for [2] secs`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
 ```blocks3
 +when this sprite clicked
@@ -49,7 +49,7 @@ Test: Test your code by clicking on Pico on the Stage.
 --- task ---
 Another way to communicate is to use sound.
 
-Click on the Sounds tab for the Pico sprite and you’ll find a `pop` sound. 
+Click on the Sounds tab for the Pico sprite and you’ll find a 'pop' sound. 
 [image]
 
 Click on the play button to see what pop sounds like. You can use this sound in your project but there are some fantastic alien sounds in Scratch too. 
@@ -70,13 +70,13 @@ when this sprite clicked
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
 
-Check that your `start sound` block has your chosen sound in it. If not, you'll need to click on the sound then select your sound from the menu.
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If not, you'll need to click on the sound then select your sound from the menu.
 
 --- /task ---
 
 --- task ---
 
-Test: Click on Pico to see the speech bubble and hear the sound. If you don’t hear the sound make sure you have added the `start sound [Alien Creak1 v]` block under `when this sprite clicked`. Also check that sound is working in your computer or tablet. 
+Test: Click on Pico to see the speech bubble and hear the sound. If you don’t hear the sound make sure you have added the `start sound [Alien Creak1 v]`{:class="block3sound"} block under `when this sprite clicked`. Also check that sound is working in your computer or tablet. 
 
 --- /task ---
 
