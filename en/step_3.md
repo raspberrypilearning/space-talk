@@ -1,31 +1,6 @@
 ## Pico plays a sound
 
 --- task ---
-Can you find a sprite in your project? That's Scratch the cat. 
-
-Delete the cat sprite by clicking the 'x' under the stage.
-
-![Delete cat sprite][images/delete-sprite.png] 
-
---- /task ---
-
---- task ---
-Select 'Choose a sprite' and pick the 'Fantasy' category. Click on the Pico sprite to add it to your project.
-
-![Choose a sprite menu][images/choose-a-sprite.png] 
-
-![Fantasy category with Pico][images/fantasy-pico.png] 
-
---- /task ---
-
---- task ---
-Drag Pico to the left side of the stage position. Your stage should look something like this:
-
-![Stage with chosen backdrop and Pico sprite positioned on the left][images/pico-on-stage.png] 
-
---- /task ---
-
---- task ---
 Open the `Looks`{:class="block3looks"} blocks menu. Click on a `say [Hello!] for [2] secs`{:class="block3looks"} block.
 
 ![Clicking on say hello in Looks block menu](images/say-hello.png)
