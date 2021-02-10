@@ -27,7 +27,7 @@ You can also change costumes with the Paint editor. You are going to make a cost
 
 Click on the **Costumes** tab then right-click on the **nano-a** costume and choose 'duplicate'. You will now have a **nano-a2** costume.
 
-![image of the duplicate costume menu](images/nano-costumes.png)
+![image of the duplicate costume menu](images/nano-duplicate-costume.png)
 
 ![image of the duplicated costume](images/nano-a2-costume.png)
 
