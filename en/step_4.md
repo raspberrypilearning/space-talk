@@ -3,24 +3,34 @@
 Sprites have costumes to change the way they look.
 
 --- task ---
-Add the Nano sprite to your project.
+Add the **Nano** sprite to your project.
 --- /task ---
 
 --- task ---
-Click on the Costumes tab to see Nano's costumes. 
-[image]
+Click on the **Costumes** tab to see Nano's costumes. 
+![image of costumes for the Nano sprite](images/nano-costumes.png)
 --- /task ---
 
 --- task ---
-Go back to the Code tab and drag a `switch costume to` block to the Code area
-Try changing the selected costume by clicking on 'nano-a' and choosing another costume from the menu. Then click on the block to see Nano's costume change on the stage.
+Go back to the **Code** tab and drag a `switch costume to` block to the Code area. 
+
+Try changing the selected costume by clicking on **nano-a** and choosing another costume from the menu. Click on the block to see Nano's costume change on the stage:
+
 ![image of the Nano sprite](images/nano-sprite.png)
 
+![image of the switch costume menu](images/nano-switch-costume-menu.png)
+
 --- /task ---
 
 --- task ---
-You can also change costumes with the Paint editor. You are going to make a costume with one hand up to Nano’s mouth. Click back on the Costumes tab.
-Right click on the 'nano-a' costume and choose 'duplicate'. You will have a 'nano-a2' costume.
+You can also change costumes with the Paint editor. You are going to make a costume with one hand up to Nano’s mouth. 
+
+Click on the **Costumes** tab then right-click on the **nano-a** costume and choose 'duplicate'. You will have a **nano-a2** costume.
+
+![image of the duplicate costume menu](images/nano-costumes.png)
+
+![image of the duplicated costume](images/nano-a2-costume.png)
+
 --- /task ---
 
 --- task ---
@@ -44,7 +54,7 @@ The costume should look like this:
 --- /task ---
 
 --- task ---
-Now switch to the Code tab and change your code to make Nano say 'thanks!':
+Now switch to the Code tab and change your code to make Nano say 'Thanks!':
 
 ![image of the Nano sprite](images/nano-sprite.png)
 
