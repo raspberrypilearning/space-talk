@@ -72,6 +72,8 @@ say [Hello!] for [2] secs // hide after 2 seconds
 
 Check that your `start sound` block has your chosen sound in it. If not, you'll need to click on the sound then select your sound from the menu.
 
+--- /task ---
+
 --- task ---
 
 Test: Click on Pico to see the speech bubble and hear the sound. If you don’t hear the sound make sure you have added the `start sound [Alien Creak1 v]` block under `when this sprite clicked`. Also check that sound is working in your computer or tablet. 
