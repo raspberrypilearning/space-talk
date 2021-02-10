@@ -50,7 +50,7 @@ Can you find a sprite in your project? That's Scratch the cat.
 
 Delete the cat sprite by clicking the 'x' under the stage.
 
-![Delete cat sprite][images/delete-sprite.png] 
+![Delete cat sprite](images/delete-sprite.png) 
 
 --- /task ---
 
@@ -58,7 +58,7 @@ Delete the cat sprite by clicking the 'x' under the stage.
 
 Click on **Choose a Sprite** from the Sprite list.
 
-![Choose a sprite menu][images/choose-a-sprite.png] 
+![Choose a sprite menu](images/choose-a-sprite.png) 
 
 --- /task ---
 
@@ -66,7 +66,7 @@ Click on **Choose a Sprite** from the Sprite list.
 
 Select the **Fantasy** category. Click on the **Pico** sprite to add it to your project.
 
-![Fantasy category with Pico][images/fantasy-pico.png] 
+![Fantasy category with Pico](images/fantasy-pico.png) 
 
 --- /task ---
 
@@ -74,7 +74,7 @@ Select the **Fantasy** category. Click on the **Pico** sprite to add it to your 
 
 Drag Pico to the left side of the stage position. Your stage should look something like this:
 
-![Stage with chosen backdrop and Pico sprite positioned on the left][images/pico-on-stage.png] 
+![Stage with chosen backdrop and Pico sprite positioned on the left](images/pico-on-stage.png) 
 
 --- /task ---
 
@@ -82,13 +82,13 @@ Drag Pico to the left side of the stage position. Your stage should look somethi
 
 Type the name of your program into the text box at the top of the screen, to give your program a name.
 
-![Project naming text box][images/project-name.png] 
+![Project naming text box](images/project-name.png) 
 
 Next, click on **File**, and then on **Save now** to save your project.
 
 If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
-![File menu options][images/file-menu.png] 
+![File menu options](images/file-menu.png)
 
 --- /task ---
 
