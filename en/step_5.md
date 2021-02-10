@@ -20,8 +20,10 @@ clear graphic effects // back to normal
 --- /task ---
 
 --- task ---
-Try different numbers in the `set color effect`{:class="block3looks"} block until you find a colour you like. You can also change the words and number of seconds in the `think`{:class="block3looks"} block.
-
+Try different numbers in the `set color effect`{:class="block3looks"} block until you find a colour you like. 
 --- /task ---
 
+--- task ---
+Change the words and number of seconds in the `think`{:class="block3looks"} block.
+--- /task ---
 --- save ---
