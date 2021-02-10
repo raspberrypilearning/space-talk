@@ -1,4 +1,4 @@
-## Remix
+## Upgrade your project
 
 Add the Tera sprite and use any of the blocks you have learned about to make an 'emote' for Tera. 
 Tera's personality is your choice, there's no correct answer.
