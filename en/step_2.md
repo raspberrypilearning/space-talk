@@ -37,4 +37,15 @@ Your Stage should look like this:
 ![Scratch editor with the space backdrop added](images/inserted-backdrop.png)
 --- /task ---
 
+--- task ---
+
+Type the name of your program into the text box at the top of the screen, to give your program a name.
+
+Next, click on File, and then on Save now to save your project.
+
+If you are not online or you do not have a Scratch account, you can click on Save to your computer to save a copy of your project.
+
+--- /task ---
+
+
 --- save ---
