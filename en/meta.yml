@@ -7,7 +7,7 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - title: Introduction
-  - title: Space backdrop
+  - title: Space scene
   - title: Pico plays a sound
   - title: Nano switches costume
   - title: Giga changes colour
