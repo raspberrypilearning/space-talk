@@ -62,11 +62,11 @@ Play a few different sounds using  the play buttons. Once you have found the one
 --- /task ---
 
 --- task ---
-Click back on the Code tab and from the 'Sound' blocks menu find the `start sound until` block. Drag the block into the Code area and connect it between the `when this sprite clicked` and `say [Hello!] for [2] secs` blocks. 
+Click back on the Code tab and from the `Sound`{:class="block3sound"} blocks menu find the `start sound`{:class="block3sound"} block. Drag the block into the Code area and connect it between the `when this sprite clicked`{:class="block3events"} and `say [Hello!] for [2] secs`{:class="block3looks"} blocks. 
 
 ```blocks3
 when this sprite clicked
-+start sound [Alien Creak1 v] // don't wait
++start sound [Alien Creak1 v]
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
 
