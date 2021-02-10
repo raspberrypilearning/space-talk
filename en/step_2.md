@@ -1,4 +1,4 @@
-## Space backdrop
+## Space scene
 
 The Scratch editor looks like this:
 
