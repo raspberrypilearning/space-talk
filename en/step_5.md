@@ -1,11 +1,14 @@
 ## Giga changes colour
 
-
 Sprites can also use thought bubbles and change colours to show their personality.
 
+--- task ---
 Add the Giga sprite.
 
-Add this code
+--- /task ---
+
+--- task ---
+Add this code to make Giga communicate by changing colour. 
 
 ```blocks3
 when this sprite clicked
@@ -14,9 +17,11 @@ think [Hmm...] for [2] secs // change it
 clear graphic effects // back to normal
 ```
 
-Giga communicates by changing colour. 
+--- /task ---
 
-Try different numbers in the `set color effect` block until you find a colour you like. You can also change the words and number of seconds in the `think` block.
+--- task ---
+Try different numbers in the `set color effect`{:class="block3looks"} block until you find a colour you like. You can also change the words and number of seconds in the `think`{:class="block3looks"} block.
 
+--- /task ---
 
 --- save ---
