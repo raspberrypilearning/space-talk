@@ -3,12 +3,18 @@
 --- task ---
 Can you find a sprite in your project? That's Scratch the cat. 
 
-Delete the cat sprite by ...
+Delete the cat sprite by clicking the 'x' under the stage.
+
+![Delete cat sprite][images/delete-sprite.png] 
 
 --- /task ---
 
 --- task ---
-Select 'Choose a sprite' and pick the 'Fantasy category. Click on the Pico sprite to add it to your project.
+Select 'Choose a sprite' and pick the 'Fantasy' category. Click on the Pico sprite to add it to your project.
+
+![Choose a sprite menu][images/choose-a-sprite.png] 
+
+![Fantasy category with Pico][images/fantasy-pico.png] 
 
 --- /task ---
 
@@ -19,7 +25,12 @@ Drag Pico to the left side of the stage position. Your stage should look somethi
 
 --- task ---
 Open the `Looks`{:class="block3looks"} blocks menu. Click on a `say [Hello!] for [2] secs`{:class="block3looks"} block.
+
+![Clicking on say hello in Looks block menu](images/say-hello.png)
+
 Pico will show a speech bubble for two seconds. 
+
+![Pico with hello in speech bubble](images/say-hello-stage.png)
 
 --- /task ---
 
@@ -34,6 +45,10 @@ Drag the  `say [Hello!] for [2] secs`{:class="block3looks"} block to the Code ar
 --- task ---
 Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} block menu and connect it to the top of your `say [Hello!] for [2] secs`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
+![Animation of blocks snapping together](images/snap-together.png)
+
+![image of Pico sprite](images/pico-sprite.png)
+
 ```blocks3
 +when this sprite clicked
 say [Hello!] for [2] secs // hide after 2 seconds
@@ -43,19 +58,22 @@ say [Hello!] for [2] secs // hide after 2 seconds
 
 --- task ---
 Test: Test your code by clicking on Pico on the Stage. 
-[image]
 --- /task ---
 
 --- task ---
 Another way to communicate is to use sound.
 
 Click on the Sounds tab for the Pico sprite and you’ll find a 'pop' sound. 
-[image]
 
-Click on the play button to see what pop sounds like. You can use this sound in your project but there are some fantastic alien sounds in Scratch too. 
-[image]
+![Sound editor](images/sound-editor.png)
+
+Click on the 'play' button to hear the pop sound. You can use this sound in your project but there are some fantastic alien sounds in Scratch too. 
+
 To choose a new sound click on the 'Choose a sound' button and select the 'Space' category. 
-[image]
+
+![Choose sound menu](images/choose-sound.png)
+
+![Space category](images/space-category.png)
 
 Play a few different sounds using  the play buttons. Once you have found the one you want to use click on it to add it to your project. 
 
@@ -63,6 +81,8 @@ Play a few different sounds using  the play buttons. Once you have found the one
 
 --- task ---
 Click back on the Code tab and from the `Sound`{:class="block3sound"} blocks menu find the `start sound`{:class="block3sound"} block. Drag the block into the Code area and connect it between the `when this sprite clicked`{:class="block3events"} and `say [Hello!] for [2] secs`{:class="block3looks"} blocks. 
+
+![image of Pico sprite](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -76,7 +96,7 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 
 --- task ---
 
-Test: Click on Pico to see the speech bubble and hear the sound. If you don’t hear the sound make sure you have added the `start sound [Alien Creak1 v]`{:class="block3sound"} block under `when this sprite clicked`. Also check that sound is working in your computer or tablet. 
+Test: Click on Pico to see the speech bubble and hear the sound. If you don’t hear the sound make sure you have added the `start sound [Alien Creak1 v]`{:class="block3sound"} block under `when this sprite clicked`{:class="block3events"}. Also check that sound is working in your computer or tablet. 
 
 --- /task ---
 
