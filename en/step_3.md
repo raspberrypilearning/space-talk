@@ -6,11 +6,11 @@ To use blocks you can click on them in the Blocks menu.
 
 Open the `Looks`{:class="block3looks"} blocks menu. Click on a `say [Hello!] for [2] secs`{:class="block3looks"} block.
 
-![Clicking on say hello in Looks block menu](images/say-hello-blocks-menu.png)
+![Clicking on say hello in Looks block menu](images/pico-say-hello-blocks-menu.png)
 
 Pico will show a speech bubble for two seconds. 
 
-![Pico with hello in speech bubble](images/say-hello-stage.png)
+![Pico with hello in speech bubble](images/pico-say-hello-stage.png)
 
 --- /task ---
 
@@ -20,9 +20,9 @@ Blocks can be dragged to the Code area and used from there.
 
 Drag the `say [Hello!] for [2] secs`{:class="block3looks"} block to the Code area. Click on it again. 
 
-![Drag code say block to code area animated](images/drag-say.gif) 
+![Drag code say block to code area animated](images/pico-drag-say.gif) 
 
-![Drag code say block to code area](images/drag-say.png) 
+![Drag code say block to code area](images/pico-drag-say.png) 
 
 --- /task ---
 
@@ -32,7 +32,7 @@ You can connect blocks together in the Code area to use more than one at a time.
 
 Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} block menu and connect it to the top of your `say [Hello!] for [2] secs`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![Animation of blocks snapping together](images/snap-together.gif)
+![Animation of blocks snapping together](images/pico-snap-together.gif)
 
 ![image of Pico sprite](images/pico-sprite.png)
 
@@ -55,7 +55,7 @@ Another way to communicate is to use sound.
 
 Click on the **Sounds** tab for the **Pico** sprite and you’ll find a `pop` sound. Click on the **play** button to hear the pop sound. 
 
-![Sound editor](images/sound-play.png)
+![Sound editor](images/pico-sound-play.png)
 
 --- /task ---
 
@@ -65,9 +65,9 @@ You can use this sound in your project but there are some fantastic alien sounds
 
 To choose a new sound click on the **Choose a Sound** button and select the **Space** category. 
 
-![Choose sound menu](images/choose-sound.png)
+![Choose sound menu](images/pico-choose-sound.png)
 
-![Space category](images/space-category.png)
+![Space category](images/pico-space-category.png)
 
 --- /task ---
 
@@ -75,7 +75,7 @@ To choose a new sound click on the **Choose a Sound** button and select the **Sp
 
 Play a few different sounds using the play buttons. Once you have found the one you want to use click on it to add it to your project. 
 
-![Inserted sound](images/inserted-sound.png)
+![Inserted sound](images/pico-inserted-sound.png)
 
 --- /task ---
 
@@ -97,7 +97,7 @@ say [Hello!] for [2] secs // hide after 2 seconds
 
 Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If not, you'll need to click on the sound then select your sound from the menu.
 
-![image of sound menu](images/sound-menu.png)
+![image of sound menu](images/pico-sound-menu.png)
 
 --- /task ---
 
