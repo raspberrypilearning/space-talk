@@ -6,7 +6,7 @@ To use blocks you can click on them in the Blocks menu.
 
 Open the `Looks`{:class="block3looks"} blocks menu. Click on a `say [Hello!] for [2] secs`{:class="block3looks"} block.
 
-![Clicking on say hello in Looks block menu](images/say-hello.png)
+![Clicking on say hello in Looks block menu](images/say-hello-blocks-menu.png)
 
 Pico will show a speech bubble for two seconds. 
 
@@ -32,7 +32,7 @@ You can connect blocks together in the Code area to use more than one at a time.
 
 Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} block menu and connect it to the top of your `say [Hello!] for [2] secs`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![Animation of blocks snapping together](images/snap-together.png)
+![Animation of blocks snapping together](images/snap-together.gif)
 
 ![image of Pico sprite](images/pico-sprite.png)
 
@@ -55,7 +55,7 @@ Another way to communicate is to use sound.
 
 Click on the **Sounds** tab for the **Pico** sprite and you’ll find a `pop` sound. Click on the **play** button to hear the pop sound. 
 
-![Sound editor](images/sound-editor.png)
+![Sound editor](images/sound-play.png)
 
 --- /task ---
 
