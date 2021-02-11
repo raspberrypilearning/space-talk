@@ -20,9 +20,9 @@ Blocks can be dragged to the Code area and used from there.
 
 Drag the `say [Hello!] for [2] secs`{:class="block3looks"} block to the Code area. Click on it again. 
 
-![Drag code say block to code area animated][images/drag-say.gif] 
+![Drag code say block to code area animated](images/drag-say.gif) 
 
-![Drag code say block to code area][images/drag-say.png] 
+![Drag code say block to code area](images/drag-say.png) 
 
 --- /task ---
 
