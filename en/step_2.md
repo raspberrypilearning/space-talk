@@ -44,11 +44,11 @@ Click on your chosen backdrop to add it to your project. Your Stage should look 
 
 --- /task ---
 
-Can you find a sprite in your project? That's Scratch the cat. 
+Can you find a sprite that has already been included in your project? That's Scratch the cat. 
 
 --- task ---
 
-Delete the cat sprite by clicking the 'x' under the stage.
+Delete the cat **Sprite1** sprite by clicking the trash can in the Sprite list.
 
 ![Delete cat sprite](images/delete-sprite.png) 
 
@@ -72,7 +72,7 @@ Select the **Fantasy** category. Click on the **Pico** sprite to add it to your 
 
 --- task ---
 
-Drag Pico to the left side of the stage position. Your stage should look something like this:
+Drag Pico to position it on the left side of the stage. Your stage should look something like this:
 
 ![Stage with chosen backdrop and Pico sprite positioned on the left](images/pico-on-stage.png) 
 
