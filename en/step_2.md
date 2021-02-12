@@ -1,4 +1,6 @@
-## Space scene
+## Create your scene
+
+Create a scene for your sprite.
 
 The Scratch editor looks like this:
 
@@ -6,7 +8,7 @@ The Scratch editor looks like this:
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab. 
+Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
 --- collapse ---
 ---
@@ -44,13 +46,13 @@ Click on your chosen backdrop to add it to your project. Your Stage should look 
 
 --- /task ---
 
-Can you find a sprite that has already been included in your project? That's Scratch the cat. 
+Can you find a sprite that has already been included in your project? That's Scratch the cat.
 
 --- task ---
 
 Delete the cat **Sprite1** sprite by clicking the trash can in the Sprite list.
 
-![Delete cat sprite](images/delete-sprite.png) 
+![Delete cat sprite](images/delete-sprite.png)
 
 --- /task ---
 
@@ -58,7 +60,7 @@ Delete the cat **Sprite1** sprite by clicking the trash can in the Sprite list.
 
 Click on **Choose a Sprite** from the Sprite list.
 
-![Choose a sprite menu](images/choose-a-sprite.png) 
+![Choose a sprite menu](images/choose-a-sprite.png)
 
 --- /task ---
 
@@ -66,7 +68,7 @@ Click on **Choose a Sprite** from the Sprite list.
 
 Select the **Fantasy** category. Click on the **Pico** sprite to add it to your project.
 
-![Fantasy category with Pico](images/fantasy-pico.png) 
+![Fantasy category with Pico](images/fantasy-pico.png)
 
 --- /task ---
 
@@ -74,7 +76,7 @@ Select the **Fantasy** category. Click on the **Pico** sprite to add it to your 
 
 Drag Pico to position it on the left side of the stage. Your stage should look something like this:
 
-![Stage with chosen backdrop and Pico sprite positioned on the left](images/pico-on-stage.png) 
+![Stage with chosen backdrop and Pico sprite positioned on the left](images/pico-on-stage.png)
 
 --- /task ---
 
@@ -82,7 +84,7 @@ Drag Pico to position it on the left side of the stage. Your stage should look s
 
 Type the name of your program into the text box at the top of the screen, to give your program a name.
 
-![Project naming text box](images/project-name.png) 
+![Project naming text box](images/project-name.png)
 
 Next, click on **File**, and then on **Save now** to save your project.
 
