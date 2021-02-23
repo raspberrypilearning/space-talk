@@ -85,7 +85,7 @@ Play a few different sounds using the play buttons. Once you have found the one 
 
 Click back on the **Code** tab. From the `Sound`{:class="block3sound"} blocks menu find the `start sound`{:class="block3sound"} block. Drag the block into the Code area between the `when this sprite clicked`{:class="block3events"} block and `say [Hello!] for [2] secs`{:class="block3looks"} block. 
 
-![Start sound block being added between two blocks](images/pico-sprite.png)
+![Start sound block being added between two blocks](images/pico-insert-block.gif)
 
 Your code should look like this:
 
