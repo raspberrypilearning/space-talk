@@ -1,6 +1,6 @@
 ## Pico plays a sound
 
-Sprites can emote in different ways. Let's get Pico to play a sound by coding with Scratch blocks.
+Sprites can emote in different ways. You will add code blocks to start playing a sound when Pico is clicked.
 
 To use blocks you can click on them in the Blocks menu.
 

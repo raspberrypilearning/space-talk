@@ -1,10 +1,6 @@
 ## Create your scene
 
-Create a scene for your sprite.
-
-The Scratch editor looks like this:
-
-![Scratch editor with Stage, code area and sprite list labelled](images/scratch-interface.png)
+You will set up your project with a space backdrop and the first sprite. 
 
 --- task ---
 
@@ -18,7 +14,11 @@ To set up Scratch for offline use visit [our Scratch guide](https://learning-adm
 --- /collapse ---
 --- /task ---
 
-The **Stage** is where your project runs. A backdrop changes the way the stage looks.
+The Scratch editor looks like this:
+
+![Scratch editor with Stage, code area and sprite list labelled](images/scratch-interface.png)
+
+The **Stage** is where your project runs. A **backdrop** changes the way the stage looks.
 
 --- task ---
 
