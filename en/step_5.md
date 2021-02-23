@@ -16,7 +16,7 @@ Add this code to make Giga communicate by changing colour.
 when this sprite clicked
 set [color v] effect to [0] // 0 is the normal colour
 think [Hmm...] for [2] secs 
-clear graphic effects // back to normal
+clear graphic effects // back to normal colour
 ```
 
 --- /task ---
