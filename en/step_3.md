@@ -105,7 +105,7 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 
 --- task ---
 
-Test: Click on Pico to see the speech bubble and hear the sound. If you don’t hear the sound make sure you have added the `start sound [Alien Creak1 v]`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also check that sound is working in your computer or tablet.
+**Test:** Click on Pico to see the speech bubble and hear the sound. If you don’t hear the sound make sure you have added the `start sound [Alien Creak1 v]`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also check that sound is working in your computer or tablet.
 
 --- /task ---
 

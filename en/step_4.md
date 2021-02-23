@@ -93,13 +93,15 @@ switch costume to [nano-a v] // smiling
 ```
 --- /task ---
 
-*Tip*: All the blocks are colour coded so you will find the `change costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu.
+**Tip:** All the blocks are colour coded so you will find the `change costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu.
 
-**Boxout**
+--- task ---
 
+**Test:** Click on Nano to see the sprite say "Thanks!" with words and costume changes.
 
-<p style="border-left: solid; border-width:10px; border-color: teal; background-color: aliceblue; padding: 10px;">
-**Did you know?** <span style="color: teal">Millions of people use sign language to communicate using signs and symbols. You have just coded the **Nano** sprite to use a popular sign for 'thank you.' Next time you say thank you to someone, why not use your new skill!
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. You have just coded the **Nano** sprite to use a popular sign for 'thank you.' Next time you say thank you to someone, why not use your new skill!
 </p>
 
 --- save ---

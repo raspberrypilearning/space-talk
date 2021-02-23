@@ -1,6 +1,6 @@
 ## Introduction
 
-You will create sprites that ‘emote’ to share their thoughts or feelings. 
+You will create sprites that 'emote' to share their thoughts or feelings. 
 
 A **sprite** is a character or object in a Scratch project. A sprite can have code, costumes and sounds to change the way it looks and what it does. 
 
@@ -30,6 +30,6 @@ What happens if you click on one sprite and then quickly click on another?
 ![Complete project](images/showcase_static.png)
 --- /print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: teal; background-color: aliceblue; padding: 10px;">
-**Did you know?** <span style="color: teal">**emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+**Did you know?** <span style="color: #0faeb0">**emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement and graphic effects, just like in Scratch. Do you play any games that use emotes?
 </p>
