@@ -10,20 +10,23 @@ Add the Giga sprite.
 --- task ---
 Add this code to make Giga communicate by changing colour. 
 
+![The Giga sprite](images/giga-sprite.png)
+
 ```blocks3
 when this sprite clicked
-set [color v] effect to [0] // number up to 200
-think [Hmm...] for [2] secs // change it
+set [color v] effect to [0] // 0 is the normal colour
+think [Hmm...] for [2] secs 
 clear graphic effects // back to normal
 ```
 
 --- /task ---
 
 --- task ---
-Try different numbers in the `set color effect`{:class="block3looks"} block until you find a colour you like. 
+Try different numbers from 1 to 200 in the `set color effect`{:class="block3looks"} block until you find a colour you like. 
 --- /task ---
 
 --- task ---
 Change the words and number of seconds in the `think`{:class="block3looks"} block.
 --- /task ---
+
 --- save ---

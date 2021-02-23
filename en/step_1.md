@@ -1,14 +1,13 @@
 ## Introduction
 
-You will create sprites that 'emote' to share their thoughts or feelings. 
+You will create a space scene with characters that 'emote' to share their thoughts or feelings. 
 
-A **sprite** is a character or object in a Scratch project. A sprite can have code, costumes and sounds to change the way it looks and what it does. 
+In Scratch, characters and objects are called **sprites** and they appear on the **Stage**. A **backdrop** changes the way the stage looks.
 
 You will:
-+ add sprites and a **backdrop** to set up your project,
++ add sprites and a backdrop to set up your project,
 + make the sprites communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks,
 + use the **Paint editor** to change a **costume**.
-
 
 --- no-print ---
 --- task ---

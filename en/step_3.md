@@ -1,6 +1,6 @@
 ## Pico plays a sound
 
-Sprites can emote in different ways. You will add code blocks to start playing a sound when Pico is clicked.
+A sprite can have code, costumes and sounds to change the way it looks and what it does. You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
 
 To use blocks you can click on them in the Blocks menu.
 
@@ -47,7 +47,7 @@ say [Hello!] for [2] secs // hide after 2 seconds
 
 --- task ---
 
-Test: Test your code by clicking on Pico on the Stage.
+**Test:** Click on Pico on the Stage see the speech bubble show for two seconds. It's important to test your code to make sure it does what you expect.
 
 --- /task ---
 
@@ -55,13 +55,13 @@ Another way to communicate is to use sound.
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you’ll find a `pop` sound. Click on the **play** button to hear the pop sound.
+Click on the **Sounds** tab for the **Pico** sprite and you’ll find a 'pop' sound. Click on the **play** button to hear the pop sound.
 
 ![Selecting the pop sound in the sound editor](images/pico-sound-play.png)
 
 --- /task ---
 
-You can use this sound in your project but there are some fantastic alien sounds in Scratch too.
+There are some fantastic alien sounds in Scratch that you can add to your sprite.
 
 --- task ---
 
@@ -83,7 +83,11 @@ Play a few different sounds using the play buttons. Once you have found the one 
 
 --- task ---
 
-Click back on the **Code** tab. From the `Sound`{:class="block3sound"} blocks menu find the `start sound`{:class="block3sound"} block. Drag the block into the Code area and connect it between the `when this sprite clicked`{:class="block3events"} block and `say [Hello!] for [2] secs`{:class="block3looks"} block.
+Click back on the **Code** tab. From the `Sound`{:class="block3sound"} blocks menu find the `start sound`{:class="block3sound"} block. Drag the block into the Code area between the `when this sprite clicked`{:class="block3events"} block and `say [Hello!] for [2] secs`{:class="block3looks"} block. 
+
+![Start sound block being added between two blocks](images/pico-sprite.png)
+
+Your code should look like this:
 
 ![The Pico sprite](images/pico-sprite.png)
 

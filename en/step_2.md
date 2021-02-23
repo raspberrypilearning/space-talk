@@ -40,7 +40,7 @@ In our example we've chosen the **Space** backdrop but you can select the one yo
 
 --- task ---
 
-Click on your chosen backdrop to add it to your project. Your Stage should look like this:
+Click on your chosen backdrop to add it to your project. Your Stage should show the backdrop you chose:
 
 ![Scratch editor with the space backdrop added](images/inserted-backdrop.png)
 
@@ -82,9 +82,11 @@ Drag Pico to position it on the left side of the stage. Your stage should look s
 
 --- task ---
 
-Type the name of your program into the text box at the top of the screen, to give your program a name.
+Type 'Space talk' into the project title box at the top of the screen.
 
 ![Project naming text box](images/project-name.png)
+
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects. 
 
 Next, click on **File**, and then on **Save now** to save your project.
 
@@ -94,4 +96,3 @@ If you are not online or you do not have a Scratch account, you can click on **S
 
 --- /task ---
 
---- save ---
