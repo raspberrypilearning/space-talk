@@ -88,9 +88,9 @@ Now switch to the **Code** tab and change your code to make the **Nano** sprite 
 
 ```blocks3
 when this sprite clicked
-switch costume to [nano-a2 v] // hand to mouth
+switch costume to [nano-a2 v] // hand goes to mouth
 say [Thanks!] for [2] secs // try 1 instead of 2
-switch costume to [nano-a v] // smiling
+switch costume to [nano-a v] // Nano smiles
 ```
 --- /task ---
 
