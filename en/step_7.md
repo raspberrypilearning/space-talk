@@ -7,6 +7,8 @@ Tera's personality is your choice, so have fun using your own creative ideas.
 
 You can also 'remix' the project to make any changes you like. You could change the backdrop, how the sprites emote and even choose different sprites and give them emotes.
 
+**Tip:** Click on a sprite in the Sprite list under the Stage to change the code, costumes and sound for that sprite. 
+
 <script>
 scratchblocks.renderMatching("code.blocks", {
   inline: true,
