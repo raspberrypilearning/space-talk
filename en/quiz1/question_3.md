@@ -5,34 +5,55 @@
 legend: Question 3 of 3
 ---
 
-To make Nano say thank you in sign language, you switched to the Costumes tab, duplicated Nano's 'nano-a' costume and swapped the arm.
-
-Which answer shows how Nano's other arm is added?
+In your project, you made Nano say thank you in sign language.  Which code did you use to get Nano to move a hand to their mouth?
 
 --- choices ---
 
-- ( ) Copy
+- ( ) 
+```blocks3
+when this sprite clicked
+start sound [Alien Creak1 v]
+say [Hello!] for [2] secs 
+```
 
   --- feedback ---
-You used Copy to copy the arm from the costume with both arms up.
+This code plays a sound and shows a speech bubble.
   --- /feedback ---
 
-- ( ) Duplicate
+- ( ) 
+```blocks3
+when this sprite clicked
+set [color v] effect to [0] 
+think [Hmm...] for [2] secs 
+clear graphic effects 
+```
 
   --- feedback ---
-You used the Duplicate option to make a copy of your costume.
+This code changes the sprites's colour and shows a thought bubble. 
   --- /feedback ---
 
-- (x) Paste
+- (x) 
+```blocks3
+when this sprite clicked
+switch costume to [nano-a2 v] 
+say [Thanks!] for [2] secs
+switch costume to [nano-a v]
+```
 
   --- feedback ---
-Yes. The paste button added the copied arm  to your duplicated costume.
+Yes, the `switch costume` blocks change the sprite's costume so that the arm moves.
   --- /feedback ---
 
-- ( ) Delete
+- ( ) 
+```blocks3
+when this sprite clicked
+set [color v] effect to [0]
+start sound [Alien Creak1 v] 
+clear graphic effects 
+```
 
   --- feedback ---
-You used Delete to remove Nano's arm in the down position.
+This sprite plays a sound a changes the sprite's colour. 
   --- /feedback ---
 
 
