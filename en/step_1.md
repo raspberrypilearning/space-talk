@@ -6,7 +6,7 @@ In Scratch, characters and objects are called **sprites** and they appear on the
 
 You will:
 + add sprites and a backdrop to set up your project,
-+ make the sprites communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks,
++ make the sprites communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks when you click on them,
 + use the **Paint editor** to change a **costume**.
 
 --- no-print ---
