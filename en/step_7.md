@@ -17,4 +17,8 @@ scratchblocks.renderMatching("code.blocks", {
 });
 </script>
 
+```blocks3
+say [hello]
+```
+
 --- save ---
