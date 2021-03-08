@@ -16,13 +16,13 @@ legend: Question 1 of 3
 
 In the project, you added a backdrop and some Sprite characters.
 
-[picture of the editor with add a sound, add a Sprite, add a backdrop & 4th optioned numbered.]
+[picture of the editor with add a sound, add a Sprite, add a backdrop & 4th optioned numbered.](images/question1.png)
 
 Where do you click to add a Sprite to your project?
 
 --- choices ---
 
-- ( ) 4: The Costumes tab
+- ( ) 1: The Costumes tab
 
   --- feedback ---
 You clicked on the Costumes tab to edit costumes for your sprite.
@@ -34,13 +34,13 @@ You clicked on the Costumes tab to edit costumes for your sprite.
 You clicked on the Sounds tab to choose new sounds for your sprite.
   --- /feedback ---
 
-- (x) 1: The Sprite list
+- (x) 3: The Sprite list
 
   --- feedback ---
 Yes. This is the area where you can see all of the sprites in the project and click on sprites to select them.
   --- /feedback ---
 
-- ( ) 3: The Stage pane
+- ( ) 4: The Stage pane
 
   --- feedback ---
   This is the pane that you clicked on to choose backdrops
