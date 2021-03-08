@@ -16,7 +16,7 @@ legend: Question 1 of 3
 
 In the project, you added a backdrop and some Sprite characters.
 
-[picture of the editor with add a sound, add a Sprite, add a backdrop & 4th optioned numbered.](images/question1.png)
+![picture of the editor with add a sound, add a Sprite, add a backdrop & 4th optioned numbered.](images/question1.png)
 
 Where do you click to add a Sprite to your project?
 
