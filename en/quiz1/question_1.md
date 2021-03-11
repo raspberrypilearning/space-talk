@@ -18,6 +18,10 @@ In the project, you added a backdrop and some Sprite characters.
 
 Where do you click to add a Sprite to your project?
 
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
+
 ![picture of the editor with add a sound, add a Sprite, add a backdrop & 4th optioned numbered.](images/question1.png)
 
 --- choices ---
