@@ -4,7 +4,7 @@ Sprites can also use thought bubbles and change colours to show their personalit
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-![giga sprite thinking hmmm](images/giga-step2.png)
+![giga sprite thinking hmmm](images/giga-step2.png){:width="300px"}
 </div>
 </div>
 
