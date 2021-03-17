@@ -2,6 +2,12 @@
 
 You will set up your project with a space backdrop and the first sprite. 
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+![The space backdrop with pico sprite](images/backdrop-step.png)
+</div>
+</div>
+
 --- task ---
 
 Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
@@ -22,7 +28,9 @@ The **Stage** is where your project runs. A **backdrop** changes the way the sta
 
 --- task ---
 
-Click (or tap) on **Choose a Backdrop** from the Stage pane:
+Click (or tap, on a tablet) on **Choose a Backdrop** from the Stage pane:
+
+![Choose a backdrop button](images/backdrop-button.png)
 
 ![Scratch editor showing Choose a Backdrop selected in the bottom right corner](images/choose-a-backdrop.png)
 
@@ -36,7 +44,7 @@ Click on the **Space** category:
 
 --- /task ---
 
-In our example we've chosen the **Space** backdrop but you can select the one you like best.
+In our example we've chosen the **Space** backdrop but choose the one you like best.
 
 --- task ---
 
@@ -60,13 +68,15 @@ Delete the cat **Sprite1** sprite by clicking the trash can in the Sprite list.
 
 Click on **Choose a Sprite** from the Sprite list.
 
+![Choose a sprite button](images/sprite-button.png)
+
 ![Choose a sprite menu](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add it to your project.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
 ![Fantasy category with Pico](images/fantasy-pico.png)
 
@@ -74,7 +84,7 @@ Select the **Fantasy** category. Click on the **Pico** sprite to add it to your 
 
 --- task ---
 
-Drag Pico to position it on the left side of the stage. Your stage should look something like this:
+Drag Pico to position them on the left side of the stage. Your stage should look something like this:
 
 ![Stage with chosen backdrop and Pico sprite positioned on the left](images/pico-on-stage.png)
 
@@ -82,7 +92,7 @@ Drag Pico to position it on the left side of the stage. Your stage should look s
 
 --- task ---
 
-Type 'Space talk' into the project title box at the top of the screen.
+Type your title into the project title box at the top of the screen.
 
 ![Project naming text box](images/project-name.png)
 

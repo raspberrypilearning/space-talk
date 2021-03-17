@@ -18,13 +18,13 @@ Where would you go to find this block?
 - (x) `Looks`{:class="block3looks"}
 
   --- feedback ---
-Yes. The `switch costume`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu which is the same colour as the block.
+Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu which is the same colour as the block.
   --- /feedback ---
 
 - ( ) `Sound`{:class="block3sound"}
 
   --- feedback ---
-The blocks in the `Sound`{:class="block3looks"} blocks menu are used to make sprites play sounds.
+The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
   --- /feedback ---
 
 - ( ) `Motion`{:class="block3motion"}

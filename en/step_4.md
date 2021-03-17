@@ -1,12 +1,18 @@
 ## Nano switches costumes
 
+You will get Nano to emote by switching **costumes**.
+
 Sprites have **costumes** to change the way they look. You can animate a sprite by changing its costumes.
 
-Change Nano's costume with code blocks.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+![nano sprite saying thanks](images/nano-step-2.png)
+</div>
+</div>
 
 --- task ---
 
-Add the **Nano** sprite to your project.
+Add the **Nano** sprite to your project from the **Fantasy** category.
 
 ![Choose a sprite menu](images/choose-sprite-menu.png)
 
@@ -22,9 +28,9 @@ Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
 --- task ---
 
-Go back to the **Code** tab and drag a `switch costume to`{:class="block3looks"} block to the Code area.
+Go back to the **Code** tab, open the `Looks`{:class="block3looks"} blocks menu and drag a `switch costume to`{:class="block3looks"} block to the Code area.
 
-Try changing the selected costume by clicking on **nano-a** and choosing another costume from the menu. Click on the block to see Nano's costume change on the stage:
+Try changing the selected costume by clicking on **nano-a** and choosing another costume such as **nano-d** from the drop-down menu. Click on the block to see Nano's costume change on the stage:
 
 ![The Nano sprite](images/nano-sprite.png)
 
@@ -32,7 +38,7 @@ Try changing the selected costume by clicking on **nano-a** and choosing another
 
 --- /task ---
 
-You can also create costumes for your sprites with the Paint editor. You are going to make a costume with one hand up to Nano’s mouth. 
+You can create new costumes for your sprites with the Paint editor. You are going to make a costume of Nano with one hand up to their mouth. 
 
 --- task ---
 
@@ -58,7 +64,8 @@ The costume should look like this:
 
 --- /task ---
 
-**Tip:** If you make a mistake in the Paint editor you can click Undo ![image of the undo icon](images/nano-undo.png)
+**Tip:** If you make a mistake in the Paint editor, you can click Undo.
+![image of the undo icon](images/nano-undo.png)
 
 --- task ---
 
@@ -94,11 +101,11 @@ switch costume to [nano-a v] // Nano smiles
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour coded so you will find the `change costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu.
+**Tip:** All the blocks are colour coded so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} Blocks menu.
 
 --- task ---
 
-**Test:** Click on Nano to see the sprite say "Thanks!" with words and costume changes.
+**Test:** Click on Nano, on the Stage, to see the sprite say "Thanks!" with words and costume changes.
 
 --- /task ---
 
