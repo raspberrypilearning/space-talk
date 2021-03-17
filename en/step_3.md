@@ -4,7 +4,7 @@ A sprite can have code, costumes and sounds to change the way it looks and what 
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-![pico sprite saying hello](images/pico-step2.png)
+![pico sprite saying hello](images/pico-step2.png){:width="300px"}
 </div>
 </div>
 
