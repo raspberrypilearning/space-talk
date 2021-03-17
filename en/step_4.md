@@ -6,7 +6,7 @@ Sprites have **costumes** to change the way they look. You can animate a sprite 
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-![nano sprite saying thanks](images/nano-step-2.png)
+![nano sprite saying thanks](images/nano-step-2.png){:width="300px"}
 </div>
 </div>
 
