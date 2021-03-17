@@ -41,7 +41,7 @@ switch costume to [nano-a v]
 ```
 
   --- feedback ---
-Yes, the `switch costume` blocks change the sprite's costume so that the arm moves.
+Yes, the `switch costume`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
   --- /feedback ---
 
 - ( ) 
@@ -53,10 +53,8 @@ clear graphic effects
 ```
 
   --- feedback ---
-This sprite plays a sound a changes the sprite's colour. 
+This script plays a sound and changes the sprite's colour. 
   --- /feedback ---
-
-
 
 --- /choices ---
 

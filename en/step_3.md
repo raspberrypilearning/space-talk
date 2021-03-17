@@ -2,8 +2,11 @@
 
 A sprite can have code, costumes and sounds to change the way it looks and what it does. You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 ![pico sprite saying hello](images/pico-step2.png)
-![pico sprite on stage saying hello](images/pico-step.png)
+</div>
+</div>
 
 To use blocks you can click on them in the Blocks menu.
 

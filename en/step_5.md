@@ -2,8 +2,11 @@
 
 Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 ![giga sprite thinking hmmm](images/giga-step2.png)
-![giga sprite on stage thinking hmmm](images/giga-step.png)
+</div>
+</div>
 
 --- task ---
 Add the Giga sprite. 
@@ -33,6 +36,12 @@ Try different numbers from 1 to 200 in the `set color effect`{:class="block3look
 
 --- task ---
 Change the words and number of seconds in the `think`{:class="block3looks"} block.
+--- /task ---
+
+--- task ---
+
+**Test:** Click on Giga, on the Stage, to see the sprite say change colour and use a thought bubble.
+
 --- /task ---
 
 --- save ---

@@ -4,8 +4,11 @@ You will get Nano to emote by switching **costumes**.
 
 Sprites have **costumes** to change the way they look. You can animate a sprite by changing its costumes.
 
-![nano sprite saying thanks](images/nano-step2.png)
-![nano sprite on stage saying thanks](images/nano-step.png)
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+![nano sprite saying thanks](images/nano-step-2.png)
+</div>
+</div>
 
 --- task ---
 

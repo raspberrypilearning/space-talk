@@ -2,8 +2,11 @@
 
 Add the Tera sprite and use any of the blocks you have learned about to make an 'emote' for Tera.
 
-![pico sprite](images/tera-step.png)
-![pico sprite on stage](images/tera-step2.png)
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+![tera sprite on stage](images/tera-step2.png)
+</div>
+</div>
 
 Tera's personality is your choice, so have fun using your own creative ideas.
 

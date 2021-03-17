@@ -2,7 +2,11 @@
 
 You will set up your project with a space backdrop and the first sprite. 
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 ![The space backdrop with pico sprite](images/backdrop-step.png)
+</div>
+</div>
 
 --- task ---
 
