@@ -4,7 +4,7 @@ Add the Tera sprite and use any of the blocks you have learned about to make an 
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-![tera sprite on stage](images/tera-step2.png)
+![tera sprite on stage](images/tera-step2.png){:width="300px"}
 </div>
 </div>
 
