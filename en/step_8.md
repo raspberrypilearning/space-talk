@@ -1,10 +1,10 @@
 ## What next?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) path, you can move on to the [Scratch tour bus](https://projects.raspberrypi.org/en/projects/scratch-tour-bus) project. In this project, you will code an animation with sprites that need to make it to a bus before it leaves.
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) path, you can move on to the [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) project. In this project, you will code an animation with sprites that need to make it to a bus before it leaves.
 
 --- print-only ---
 
-![Scratch tour bus screenshot showing characters and a bus](images/scratch-tour-bus.png)
+![Characters and a bus](images/scratch-tour-bus.png)
 
 --- /print-only ---
 
