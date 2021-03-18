@@ -12,12 +12,8 @@ You will set up your project with a space backdrop and the first sprite.
 
 Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
---- collapse ---
----
-title: Working offline
----
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
---- /collapse ---
+[[[working-offline]]]
+
 --- /task ---
 
 The Scratch editor looks like this:
