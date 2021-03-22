@@ -52,6 +52,8 @@ Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
 
+**Tip:** To give you more information about the code, the `say (Hello!) for (2) seconds`{:class="block3looks"} block above has a comment 'hide after 2 seconds'. Look out for more comments to help you as you create your space scene.
+
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -110,7 +112,7 @@ Your code should look like this:
 
 ```blocks3
 when this sprite clicked
-+start sound [Alien Creak1 v]
++start sound [Alien Creak1 v] 
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
 
