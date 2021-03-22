@@ -6,11 +6,11 @@ In this project, you will create a space scene with characters that 'emote' to s
 <span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
 </p>
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. A **backdrop** changes the way that the Stage looks.
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. 
 
 You will:
-+ Add sprites and a backdrop to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} blocks
++ Add sprites and a **backdrop** to set up your project
++ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
 + Use the **Paint editor** to change a **costume**
 
 --- no-print ---

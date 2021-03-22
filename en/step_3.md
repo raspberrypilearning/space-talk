@@ -56,7 +56,7 @@ say [Hello!] for [2] secs // hide after 2 seconds
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**comment**</span> is an explanation of what your code does. You will see comments in code examples. You don't need to add the comments when you add code to your project. (But if you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later.)
+A <span style="color: #0faeb0">**comment**</span> is an explanation of what your code does. The `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block above has the comment "hide after 2 seconds". You will see comments in code examples. You don't need to add the comments when you add code to your project. (But if you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later.)
 </p>
 
 --- task ---
@@ -79,7 +79,7 @@ There are some fantastic alien sounds in Scratch that you can add to your sprite
 
 --- task ---
 
-To choose a new sound, click the **Choose a Sound** button and select the **Space** category.
+To choose a new sound, click the **Choose a Sound** button and select the **Space** category or type `space` in the search box.
 
 ![The 'Choose a Sound' menu](images/sound-button.png)
 
@@ -111,7 +111,7 @@ Your code should look like this:
 
 ```blocks3
 when this sprite clicked
-+start sound [Alien Creak1 v]
++start sound [Alien Creak1 v] 
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
 
