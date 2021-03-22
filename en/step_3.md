@@ -78,7 +78,7 @@ There are some fantastic alien sounds in Scratch that you can add to your sprite
 
 --- task ---
 
-To choose a new sound click on the **Choose a Sound** button and select the **Space** category.
+To choose a new sound click on the **Choose a Sound** button and select the **Space** category or type 'space' in the search box.
 
 ![Choose sound menu](images/sound-button.png)
 
