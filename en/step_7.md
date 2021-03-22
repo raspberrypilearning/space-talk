@@ -42,7 +42,7 @@ You can also 'remix' the project to make any changes you like. You could change 
 title: Completed project
 ---
 
-You can view the [completed project](https://scratch.mit.edu/projects/485673032/).
+You can view the [completed project](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
