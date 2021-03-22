@@ -52,12 +52,10 @@ Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
 
-**Tip:** To give you more information about the code, the `say (Hello!) for (2) seconds`{:class="block3looks"} block above has a comment 'hide after 2 seconds'. Look out for more comments to help you as you create your space scene.
-
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**comment**</span> is an explanation of what your code does. You will see comments in code examples. You don’t need to add the comments when you add code to your project. (But if you have time at the end it is a good idea to add comments to your code so it is easier to understand later.)
+A <span style="color: #0faeb0">**comment**</span> is an explanation of what your code does. The `say (Hello!) for (2) seconds`{:class="block3looks"} block above has a comment 'hide after 2 seconds'. You will see comments in code examples. You don’t need to add the comments when you add code to your project. (But if you have time at the end it is a good idea to add comments to your code so it is easier to understand later.)
 </p>
 
 --- task ---
