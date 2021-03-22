@@ -34,7 +34,7 @@ Click (or tap, on a tablet) on **Choose a Backdrop** from the Stage pane:
 
 --- task ---
 
-Click on the **Space** category:
+Click on the **Space** category or type 'space' in the search box:
 
 ![The backdrops gallery with space category selected](images/space-backdrops.png)
 
