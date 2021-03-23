@@ -38,7 +38,7 @@ Try changing the selected costume: click on `nano-a`{:class="block3looks"} and c
 
 --- /task ---
 
-You can create new costumes for your sprites with the Paint editor. You will make a costume of Nano with one hand up to its mouth. 
+You can create new costumes for your sprites with the Paint editor. You will make a costume of Nano with one hand up to their mouth. 
 
 --- task ---
 
