@@ -54,16 +54,14 @@ say [Hello!] for [2] secs // hide after 2 seconds
 ```
 
 --- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**comment**</span> is an explanation of what your code does.
+  
+A comment is an explanation of what your code does.
   
 ```blocks3
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
   
 You will see comments in code examples. You don't need to add the comments when you add code to your project. (But if you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later.)
-</p>
 
 --- task ---
 
