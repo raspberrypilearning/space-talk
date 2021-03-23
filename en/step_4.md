@@ -1,6 +1,6 @@
 ## Nano switches costumes
 
-You will get the **Nano** sprite to emote by switching **costumes**.
+You will get Nano to emote by switching **costumes**.
 
 Sprites have **costumes** to change the way that they look. You can animate a sprite by changing its costumes.
 
@@ -38,7 +38,7 @@ Try changing the selected costume: click on `nano-a`{:class="block3looks"} and c
 
 --- /task ---
 
-You can create new costumes for your sprites with the Paint editor. You will make a costume of the **Nano** sprite with one hand up to its mouth. 
+You can create new costumes for your sprites with the Paint editor. You will make a costume of Nano with one hand up to its mouth. 
 
 --- task ---
 
