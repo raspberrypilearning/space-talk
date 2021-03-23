@@ -1,4 +1,4 @@
-## The Giga sprite changes colour
+## Giga changes colour
 
 Sprites can also use thought bubbles and change colours to show their personality. You will get the **Giga** sprite to do this.
 
