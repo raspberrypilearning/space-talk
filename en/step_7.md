@@ -1,14 +1,14 @@
 ## Upgrade your project
 
-Add the Tera sprite and use any of the blocks you have learned about to make an 'emote' for Tera.
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-![tera sprite on stage](images/tera-step2.png){:width="300px"}
+![The Tera sprite on the Stage](images/tera-step.png){:width="300px"}
 </div>
 </div>
 
-Tera's personality is your choice, so have fun using your own creative ideas.
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
 ```blocks3
 when this sprite clicked
@@ -32,9 +32,9 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, how the sprites emote and even choose different sprites and give them emotes.
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Tip:** Click on a sprite in the Sprite list under the Stage to change the code, costumes and sound for that sprite. 
+**Tip:** Click on a sprite in the Sprite list under the Stage to change the code, costumes, and sound for that sprite. 
 
 --- collapse ---
 
@@ -42,7 +42,7 @@ You can also 'remix' the project to make any changes you like. You could change 
 title: Completed project
 ---
 
-You can view the [completed project](https://scratch.mit.edu/projects/485673032/).
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
