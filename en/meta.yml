@@ -8,9 +8,9 @@ last_tested: "2021-02-09"
 steps:
   - title: Introduction
   - title: Create your scene
-  - title: The Pico sprite plays a sound
-  - title: The Nano sprite switches costumes
-  - title: The Giga sprite changes colour
+  - title: Pico plays a sound
+  - title: Nano switches costumes
+  - title: Giga changes colour
   - title: Reflection
     knowledge_quiz:
       path: quiz1
