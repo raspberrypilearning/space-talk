@@ -58,7 +58,7 @@ say [Hello!] for [2] secs // hide after 2 seconds
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">**comment**</span> is an explanation of what your code does.
   
-  ```blocks3
+```blocks3
 say [Hello!] for [2] secs // hide after 2 seconds
 ```
   
