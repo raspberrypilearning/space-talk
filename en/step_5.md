@@ -1,6 +1,6 @@
 ## Giga changes colour
 
-Sprites can also use thought bubbles and change colours to show their personality. You will get the **Giga** sprite to do this.
+Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
