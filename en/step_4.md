@@ -1,4 +1,4 @@
-## The Nano sprite switches costumes
+## Nano switches costumes
 
 You will get the **Nano** sprite to emote by switching **costumes**.
 
