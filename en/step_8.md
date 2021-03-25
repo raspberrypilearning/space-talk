@@ -1,9 +1,10 @@
 ## Upgrade your project
 
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
-
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+</div>
+<div>
 ![The Tera sprite on the Stage](images/tera-step.png){:width="300px"}
 </div>
 </div>
