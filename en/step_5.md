@@ -73,13 +73,13 @@ The costume should look like this:
 --- /task ---
 
 **Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-![Image of the 'Undo' icon](images/nano-undo.png)
+!['Undo' icon](images/nano-undo.png)
 
 --- task ---
 
 Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
 
-![Nano c with arm selected](images/nano-c-arm-selected.png)
+![The nano-c costume with their arm selected.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
@@ -87,7 +87,7 @@ Go to the **nano-c** costume and click on the arm on the left-hand side, then cl
 
 Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
 
-![nano-b with new arm](images/nano-b-new-arm.png)
+![The nano-b costume with their new arm](images/nano-b-new-arm.png)
 
 --- /task ---
 
