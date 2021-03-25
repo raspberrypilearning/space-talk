@@ -11,6 +11,8 @@ Sprites have **costumes** to change the way that they look. You can animate a sp
 </div>
 </div>
 
+### Nano says 'Thanks!' 
+
 --- task ---
 
 Add the **Nano** sprite to your project from the **Fantasy** category.
@@ -41,10 +43,14 @@ switch costume to [nano-a v] // Nano smiles
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is bringing your right hand up to your mouth. 
+### Nano uses sign language
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
 </p>
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to make one with one hand up to their mouth. 
+Nano will use sign language by switching costumes. 
+
+You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to say 'thank you' in sign language. 
 
 --- task ---
 
