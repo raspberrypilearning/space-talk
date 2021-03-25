@@ -57,8 +57,6 @@ Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
 Click on the **nano-b** costume. Click on the arm on the left-hand side and then click on **Delete**.
 
-![The nano-b costume](images/nano-b.png)
-
 ![Nano with arm selected](images/nano-arm-selected.png)
 
 The costume should look like this:
@@ -74,8 +72,6 @@ The costume should look like this:
 
 Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
 
-![The nano-c costume](images/nano-c.png)
-
 ![Nano c with arm selected](images/nano-c-arm-selected.png)
 
 --- /task ---
@@ -83,8 +79,6 @@ Go to the **nano-c** costume and click on the arm on the left-hand side, then cl
 --- task ---
 
 Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
-
-![The nano-b costume](images/nano-b.png)
 
 ![nano-b with new arm](images/nano-b-new-arm.png)
 
