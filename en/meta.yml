@@ -8,6 +8,7 @@ last_tested: "2021-02-09"
 steps:
   - title: Introduction
   - title: Create your scene
+  - title: Pico says hello
   - title: Pico plays a sound
   - title: Nano switches costumes
   - title: Giga changes colour
