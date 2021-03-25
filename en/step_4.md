@@ -2,6 +2,12 @@
 
 Another way to communicate is to use sound.
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+![The Pico sprite saying "Hello!"](images/pico-step2.png){:width="300px"}
+</div>
+</div>
+
 --- task ---
 
 Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click the **Play** button to hear the **pop** sound.
