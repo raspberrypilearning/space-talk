@@ -90,4 +90,7 @@ Go back to the **nano-b** costume and click on **Paste**. The costume should loo
 
 --- /task ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to say thank you in sign language. Next time you say thank you to someone, why not use your new skill?
+</p>
+
 --- save ---
