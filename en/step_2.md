@@ -54,7 +54,7 @@ Can you find a sprite that has already been included in your project? That is th
 
 --- task ---
 
-Delete the **Sprite1** (cat) sprite. To do this, click on the **Rubbish bin** in the Sprite list.
+Delete the **Sprite1** (cat) sprite. Select the **Sprite1** sprite under the stage and click on the **Delete** icon.
 
 ![Delete the Sprite1 (cat) sprite](images/delete-sprite.png)
 

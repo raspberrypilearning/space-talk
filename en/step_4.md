@@ -1,115 +1,76 @@
-## Nano switches costumes
+## Pico plays a sound
 
-You will get Nano to emote by switching **costumes**.
-
-Sprites have **costumes** to change the way that they look. You can animate a sprite by changing its costumes.
+Another way to communicate is to use sound.
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-![The Nano sprite saying "Thanks!"](images/nano-step-2.png){:width="300px"}
+![The Pico sprite saying "Hello!"](images/pico-step2.png){:width="300px"}
 </div>
 </div>
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click the **Play** button to hear the **pop** sound.
 
-![The 'Choose a Sprite' menu](images/choose-sprite-menu.png)
+![Selecting the pop sound in the Sound editor](images/pico-sound-play.png)
+
+--- /task ---
+
+There are some fantastic alien sounds in Scratch that you can add to your sprite.
+
+--- task ---
+
+To choose a new sound, click the **Choose a Sound** button and select the **Space** category or type `space` in the search box.
+
+![The 'Choose a Sound' menu](images/sound-button.png)
+
+![The 'Choose a Sound' menu](images/pico-choose-sound.png)
+
+![The 'Space' category](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Play a few different sounds using the **Play** buttons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-![The available costumes for the Nano sprite](images/nano-costumes.png)
-
---- /task ---
-
---- task ---
-
-Go back to the **Code** tab, open the `Looks`{:class="block3looks"} blocks menu, and drag a `switch costume to`{:class="block3looks"} block to the Code area.
-
-Try changing the selected costume: click on `nano-a`{:class="block3looks"} and choose another costume such as `nano-d`{:class="block3looks"} from the drop-down menu. Click on the block to see the **Nano** sprite's costume change on the Stage:
-
-![The Nano sprite](images/nano-sprite.png)
-
-![The 'switch costume' menu within the code block](images/nano-switch-costume-menu.png)
-
---- /task ---
-
-You can create new costumes for your sprites with the Paint editor. You will make a costume of Nano with one hand up to its mouth. 
-
---- task ---
-
-Click on the **Costumes** tab, then right-click (or on a tablet, tap and hold) on the **nano-a** costume and choose **duplicate**. You will now have a **nano-a2** costume.
-
-![The menu to duplicate costumes](images/nano-duplicate-costume.png)
-
-![The location of the duplicated costume](images/nano-a2-costume.png)
+![Inserted sound, playing the Animal Creak sound](images/pico-inserted-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the arm on the left-hand side and then click on **Delete**.
+Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block. 
 
-![The nano-a2 costume](images/nano-a2.png)
+Drag the block into the Code area between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
 
-![Nano with arm selected](images/nano-arm-selected.png)
+![The 'start sound' block being added between two blocks](images/pico-insert-block.gif)
 
-The costume should look like this:
+Your code should look like this:
 
-![Nano with arm deleted](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-![Image of the 'Undo' icon](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume](images/nano-c.png)
-
-![Nano c with arm selected](images/nano-c-arm-selected.png)
-
---- /task ---
-
---- task ---
-
-Go back to the **nano-a2** costume and click on **Paste**. The costume should look like this:
-
-![The nano-c costume](images/nano-a2.png)
-
-![Nano a2 with new arm](images/nano-a2-new-arm.png)
-
---- /task ---
-
---- task ---
-
-Now, switch to the **Code** tab and change your code to make the **Nano** sprite `say`{:class="block3looks"} `Thanks!`:
-
-![The Nano sprite](images/nano-sprite.png)
+![The Pico sprite](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
-switch costume to [nano-a2 v] // hand goes to mouth
-say [Thanks!] for [2] secs // try 1 instead of 2
-switch costume to [nano-a v] // Nano smiles
++start sound [Alien Creak1 v] 
+say [Hello!] for [2] secs // hide after 2 seconds
 ```
---- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+--- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage to see the sprite say "Thanks!" with words and costume changes.
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block then select your chosen sound from the drop-down menu.
+
+![Clicking on your new sound in the sound menu](images/pico-sound-menu.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. You have just coded the **Nano** sprite to use a popular sign for 'thank you'. Next time you say thank you to someone, why not use your new skill?
-</p>
+--- task ---
+
+**Test:** Click on the **Pico** sprite to see the speech bubble and hear the sound. If you do not hear the sound, make sure that you have added the `start sound [Alien Creak1]`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+
+--- /task ---
 
 --- save ---
+
