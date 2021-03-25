@@ -5,7 +5,7 @@
 legend: Question 3 of 3
 ---
 
-In your project, you made Nano say thank you in sign language.  Which code did you use to get Nano to move a hand to their mouth?
+In your project, you made Nano say 'thank you' in sign language. Which code did you use to get Nano to move a hand to their mouth?
 
 --- choices ---
 
@@ -29,7 +29,7 @@ clear graphic effects
 ```
 
   --- feedback ---
-This code changes the sprites's colour and shows a thought bubble. 
+This code changes the sprite's colour and shows a thought bubble. 
   --- /feedback ---
 
 - (x) 

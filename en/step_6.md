@@ -18,7 +18,7 @@ Drag the **Giga** sprite to the right-hand side of the Stage.
 --- task ---
 Make sure that you have the **Giga** sprite selected in the Sprite list under the Stage. Add this code to make the **Giga** sprite communicate by changing colour. 
 
-![The Giga sprite](images/giga-sprite.png)
+![The Giga sprite.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked

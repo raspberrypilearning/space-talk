@@ -5,7 +5,7 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say hello in a speech bubble.
+You made Pico say "Hello!" in a speech bubble.
 
 ```blocks3
 say [Hello!] for [2] secs
@@ -18,7 +18,7 @@ Where would you go to find this block?
 - (x) `Looks`{:class="block3looks"}
 
   --- feedback ---
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu which is the same colour as the block.
+Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
   --- /feedback ---
 
 - ( ) `Sound`{:class="block3sound"}

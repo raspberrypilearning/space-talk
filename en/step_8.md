@@ -5,7 +5,7 @@
 Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
 </div>
 <div>
-![The Tera sprite on the Stage](images/tera-step.png){:width="300px"}
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 </div>
 </div>
 

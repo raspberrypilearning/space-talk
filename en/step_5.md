@@ -17,7 +17,7 @@ Sprites have **costumes** to change the way that they look. You can animate a sp
 
 Add the **Nano** sprite to your project from the **Fantasy** category.
 
-![The 'Choose a Sprite' menu](images/choose-sprite-menu.png)
+![The 'Choose a Sprite' menu.](images/choose-sprite-menu.png)
 
 --- /task ---
 
@@ -25,7 +25,7 @@ Add the **Nano** sprite to your project from the **Fantasy** category.
 
 Make sure **Nano** is selected under the Stage. Click on the **Code** tab and add a script to `say`{:class="block3looks"} `Thanks!`:
 
-![The Nano sprite](images/nano-sprite.png)
+![The Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -56,7 +56,7 @@ You can edit costumes for your sprites with the Paint editor. You will edit a co
 
 Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
-![The available costumes for the Nano sprite](images/nano-costumes.png)
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
@@ -64,16 +64,16 @@ Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
 Click on the **nano-b** costume. Click on the arm on the left-hand side and then click on **Delete**.
 
-![Nano with arm selected](images/nano-arm-selected.png)
+![The nano-b costume with their arm selected.](images/nano-arm-selected.png)
 
 The costume should look like this:
 
-![Nano with arm deleted](images/nano-arm-deleted.png)
+![The nano-b costume with their arm deleted.](images/nano-arm-deleted.png)
 
 --- /task ---
 
 **Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-!['Undo' icon](images/nano-undo.png)
+![The 'Undo' icon.](images/nano-undo.png)
 
 --- task ---
 
@@ -87,7 +87,7 @@ Go to the **nano-c** costume and click on the arm on the left-hand side, then cl
 
 Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
 
-![The nano-b costume with their new arm](images/nano-b-new-arm.png)
+![The nano-b costume with their new arm.](images/nano-b-new-arm.png)
 
 --- /task ---
 
