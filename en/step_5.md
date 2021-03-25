@@ -1,11 +1,12 @@
 ## Nano switches costumes
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 You will get Nano to emote by switching **costumes**.
 
 Sprites have **costumes** to change the way that they look. You can animate a sprite by changing its costumes.
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+</div>
+<div>
 ![The Nano sprite saying "Thanks!"](images/nano-step-2.png){:width="300px"}
 </div>
 </div>

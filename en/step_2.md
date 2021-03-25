@@ -1,9 +1,10 @@
 ## Create your scene
 
-In this step, you will set up your project with a space backdrop and the first sprite. 
-
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+In this step, you will set up your project with a space backdrop and the first sprite. 
+</div>
+<div>
 ![The Space backdrop with the Pico sprite](images/backdrop-step.png){:width="300px"}
 </div>
 </div>

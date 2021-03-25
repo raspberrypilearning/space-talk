@@ -1,9 +1,10 @@
 ## Pico plays a sound
 
-Another way to communicate is to use sound.
-
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Another way to communicate is to use sound.
+</div>
+<div>
 ![The Pico sprite saying "Hello!"](images/pico-step2.png){:width="300px"}
 </div>
 </div>
