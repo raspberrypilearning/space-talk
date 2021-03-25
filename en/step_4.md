@@ -1,4 +1,4 @@
-### Pico plays a sound
+## Pico plays a sound
 
 Another way to communicate is to use sound.
 
