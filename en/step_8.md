@@ -14,13 +14,13 @@ The **Tera** sprite's personality is your choice, so have fun using your own cre
 ```blocks3
 when this sprite clicked
 
-say [Hello!] for [2] secs
+say [Hello!] for [2] seconds
 
 say [Hello!]
 
 say [] // hide speech bubble
 
-think [Hmm...] for [2] secs
+think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 

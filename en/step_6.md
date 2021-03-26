@@ -23,8 +23,8 @@ Make sure that you have the **Giga** sprite selected in the Sprite list under th
 ```blocks3
 when this sprite clicked
 set [color v] effect to [0] // 0 is the normal colour
-think [Hmm...] for [2] secs 
-clear graphic effects // back to normal colour
+think [Hmm...] for [2] seconds 
+clear graphic effects // back to the normal colour
 ```
 
 --- /task ---

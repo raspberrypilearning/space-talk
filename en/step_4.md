@@ -27,7 +27,7 @@ To choose a new sound, click the **Choose a Sound** button and select the **Spac
 
 ![The 'Choose a Sound' menu.](images/pico-choose-sound.png)
 
-![The 'Space' category.](images/pico-space-category.png)
+![The 'Space' category in the Sound Library.](images/pico-space-category.png)
 
 --- /task ---
 
@@ -35,7 +35,7 @@ To choose a new sound, click the **Choose a Sound** button and select the **Spac
 
 Play a few different sounds using the **Play** buttons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-![Inserted sound, playing the Alien Creak1 sound.](images/pico-inserted-sound.png)
+![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
 --- /task ---
 
@@ -54,22 +54,22 @@ Your code should look like this:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Hello!] for [2] secs // hide after 2 seconds
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block then select your chosen sound from the drop-down menu.
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-![Clicking on your new sound in the sound menu.](images/pico-sound-menu.png)
+![Clicking on your chosen sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite to see the speech bubble and hear the sound. If you do not hear the sound, make sure that you have added the `start sound [Alien Creak1]`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**Test:** Click on the **Pico** sprite to see the speech bubble and hear the sound. If you do not hear the sound, make sure that you have added the `start sound Alien Creak1`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
 
 --- /task ---
 
