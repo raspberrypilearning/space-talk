@@ -5,7 +5,7 @@
 legend: Question 3 of 3
 ---
 
-In your project, you made Nano say 'thank you' in sign language. Which code did you use to get Nano to move a hand to their mouth?
+In your project, you made Nano sign 'thank you'. Which code did you use to get Nano to move a hand to their mouth?
 
 --- choices ---
 
@@ -13,7 +13,7 @@ In your project, you made Nano say 'thank you' in sign language. Which code did 
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Hello!] for [2] secs 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -23,8 +23,8 @@ This code plays a sound and shows a speech bubble.
 - ( ) 
 ```blocks3
 when this sprite clicked
-set [color v] effect to [0] 
-think [Hmm...] for [2] secs 
+set [color v] effect to [50] 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
@@ -35,7 +35,7 @@ This code changes the sprite's colour and shows a thought bubble.
 - (x) 
 ```blocks3
 when this sprite clicked
-switch costume to [nano-a2 v] 
+switch costume to [nano-b v] 
 say [Thanks!] for [2] secs
 switch costume to [nano-a v]
 ```
@@ -47,7 +47,7 @@ Yes, the `switch costume`{:class="block3looks"} blocks change the sprite's costu
 - ( ) 
 ```blocks3
 when this sprite clicked
-set [color v] effect to [0]
+set [color v] effect to [50]
 start sound [Alien Creak1 v] 
 clear graphic effects 
 ```

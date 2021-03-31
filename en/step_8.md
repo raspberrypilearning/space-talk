@@ -35,7 +35,7 @@ start sound [pop v]
 
 You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Tip:** Click on a sprite in the Sprite list under the Stage to change the code, costumes, and sound for that sprite. 
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite. 
 
 --- collapse ---
 

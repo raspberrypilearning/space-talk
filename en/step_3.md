@@ -19,7 +19,7 @@ Open the `Looks`{:class="block3looks"} blocks menu.
 
 Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-![The 'say Hello! for 2 seconds' block highlighted in yellow.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
 The **Pico** sprite will show a speech bubble for two seconds.
 
@@ -37,7 +37,7 @@ Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `s
 
 ![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-![Drag the 'say' block to the Code area. The code block is highlighted in yellow.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
 
