@@ -27,7 +27,7 @@ The **Stage** is where your project runs. A **backdrop** changes the way that th
 
 Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-![The 'Choose a Backdrop' button.](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
 ![The Scratch editor with 'Choose a Backdrop' selected in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
@@ -65,7 +65,7 @@ Delete the **Sprite1** (Scratch Cat) sprite. Select the **Sprite1** sprite in th
 
 Click on **Choose a Sprite** in the Sprite list.
 
-![The 'Choose a Sprite' button.](images/sprite-button.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
 ![The 'Choose a Sprite' menu in the Scratch editor.](images/choose-a-sprite.png)
 
