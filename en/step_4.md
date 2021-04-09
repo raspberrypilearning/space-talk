@@ -11,7 +11,7 @@ Another way to communicate is to use sound.
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click the **Play** button to hear the **pop** sound.
+Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
 
 ![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
 
@@ -33,7 +33,7 @@ To choose a new sound, click on the **Choose a Sound** icon and select the **Spa
 
 --- task ---
 
-Play a few different sounds using the **Play** buttons. Once you have found the sound that you want to use, click on it to add it to your project.
+Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
 ![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 

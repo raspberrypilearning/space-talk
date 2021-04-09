@@ -11,7 +11,7 @@ In this step, you will set up your project with a space backdrop and the first s
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
@@ -19,7 +19,7 @@ Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scrat
 
 The Scratch editor looks like this:
 
-!An annotated screenshot of the Scratch editor with the Stage, Code area, and Sprite list labelled.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor with the Stage, Code area, and Sprite list labelled.](images/scratch-interface.png)
 
 The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
