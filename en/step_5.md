@@ -23,7 +23,12 @@ Add the **Nano** sprite to your project from the **Fantasy** category.
 
 --- task ---
 
-Make sure that **Nano** is selected below the Stage. Click on the **Code** tab and add a script to `say`{:class="block3looks"} `Thanks!`:
+Make sure that **Nano** is selected below the Stage. 
+
+![The Sprite list with a blue border on the nano sprite to show nano is selected.](images/nano-selected.png)
+
+
+Click on the **Code** tab and add a script to `say`{:class="block3looks"} `Thanks!`:
 
 ![The Nano sprite.](images/nano-sprite.png)
 
