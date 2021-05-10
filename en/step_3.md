@@ -63,7 +63,11 @@ A comment is an explanation of what your code does.
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project. (But if you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later.)
+You will see comments in code examples. You don't need to add the comments when you add code to your project. 
+
+If you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment right-click on a block in the Code area and choose `add comment`.
+
+![The popup menu when you right-click on a block. 'Add comment' is selected.](images/add-comment.png)
 
 --- task ---
 

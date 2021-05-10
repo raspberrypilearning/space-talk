@@ -89,7 +89,7 @@ Drag the **Pico** sprite to position them on the left-hand side of the Stage. Yo
 
 --- task ---
 
-Type the title of your project into the project title box at the top of the screen.
+If you are signed in to your Scratch account, type the title of your project into the project title box at the top of the screen.
 
 ![The project title box.](images/project-name.png)
 
