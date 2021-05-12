@@ -5,7 +5,7 @@
 legend: Question 3 of 3
 ---
 
-In your project, you made Nano sign 'thank you'. Which code did you use to get Nano to move a hand to their mouth?
+In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
 
 --- choices ---
 
@@ -36,12 +36,12 @@ This code changes the sprite's colour and shows a thought bubble.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] secs
+say [Thanks!] for [2] seconds
 switch costume to [nano-a v]
 ```
 
   --- feedback ---
-Yes, the `switch costume`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Yes, the `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
   --- /feedback ---
 
 - ( ) 
