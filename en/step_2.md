@@ -41,7 +41,7 @@ Click on the **Space** category or type `space` in the search box:
 
 --- /task ---
 
-In our example, we have chosen the **Space** backdrop, but choose the one that you like the most.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
 --- task ---
 
@@ -51,7 +51,7 @@ Click on your chosen backdrop to add it to your project. The Stage should show t
 
 --- /task ---
 
-Can you find a sprite that has already been included in your project? That is the Scratch Cat.
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
 
 --- task ---
 

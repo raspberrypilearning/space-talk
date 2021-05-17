@@ -23,9 +23,9 @@ Add the **Nano** sprite to your project from the **Fantasy** category.
 
 --- task ---
 
-Make sure that **Nano** is selected below the Stage. 
+Make sure that **Nano** is selected in the Sprite list below the Stage. 
 
-![The Sprite list with a blue border on the nano sprite to show nano is selected.](images/nano-selected.png)
+![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
 
 
 Click on the **Code** tab and add a script to `say`{:class="block3looks"} `Thanks!`:
@@ -36,7 +36,7 @@ Click on the **Code** tab and add a script to `say`{:class="block3looks"} `Thank
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
 say [Thanks!] for [2] seconds // try 1 instead of 2
-switch costume to [nano-a v] // Nano smiles
+switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
@@ -44,7 +44,7 @@ switch costume to [nano-a v] // Nano smiles
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage to see Nano say "Thanks!".
+**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
 
 --- /task ---
 
@@ -55,7 +55,7 @@ switch costume to [nano-a v] // Nano smiles
 
 Nano will use sign language by switching costumes. 
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign 'thank you'. 
+You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you". 
 
 --- task ---
 
@@ -98,11 +98,11 @@ Go back to the **nano-b** costume and click on **Paste**. The costume should loo
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage to see the sprite say "Thanks!" with words and costumes.
+**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign 'thank you'. Next time you thank someone, why not use your new skill?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
 </p>
 
 --- save ---

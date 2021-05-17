@@ -16,7 +16,7 @@ Drag the **Giga** sprite to the right-hand side of the Stage.
 --- /task ---
 
 --- task ---
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour. 
+Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
 
 ![The Giga sprite.](images/giga-sprite.png)
 
@@ -41,7 +41,7 @@ Change the words and number of seconds in the `think`{:class="block3looks"} bloc
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage to see the sprite change colour and use a thought bubble.
+**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
 
 --- /task ---
 

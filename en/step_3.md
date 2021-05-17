@@ -7,7 +7,7 @@ A sprite can have code, costumes, and sounds to change the way that it looks and
 You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
-![The Pico sprite saying "Hello!"](images/pico-step2.png){:width="300px"}
+![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
 </div>
 </div>
 
@@ -65,13 +65,13 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 You will see comments in code examples. You don't need to add the comments when you add code to your project. 
 
-If you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment right-click on a block in the Code area and choose `add comment`.
+If you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-![The popup menu when you right-click on a block. 'Add comment' is selected.](images/add-comment.png)
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage to see the speech bubble show for two seconds. It is important to test your code to make sure that it does what you expect.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
 
