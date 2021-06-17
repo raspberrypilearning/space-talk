@@ -4,7 +4,7 @@ Well done, you have learned a lot! Now, it's time to reflect — reflecting is a
 
 Answer the three questions below to reflect on what you have learned.
 
-After each question, press **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+When you have answered each question, press **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
 Have fun!
 
@@ -43,7 +43,7 @@ Yes. This is the area where you can see all of the sprites in the project and cl
 - ( ) 4: The Stage pane
 
   --- feedback ---
-  This is the pane that you clicked on to choose backdrops.
+You clicked on the Stage pane to choose backdrops.
   --- /feedback ---
 
 --- /choices ---
