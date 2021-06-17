@@ -23,7 +23,7 @@ Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` 
 
 The **Pico** sprite will show a speech bubble for two seconds.
 
-![The Pico sprite with "Hello" in a speech bubble.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
 **Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
