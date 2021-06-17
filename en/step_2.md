@@ -19,7 +19,7 @@ Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scra
 
 The Scratch editor looks like this:
 
-![An annotated screenshot of the Scratch editor with the Stage, Code area, and Sprite list labelled.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
 The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
@@ -29,7 +29,7 @@ Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
 ![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' selected in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
 --- /task ---
 
@@ -55,19 +55,19 @@ Can you see the sprite that is already included in your project? That is the Scr
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite. Select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-![Delete the Sprite1 (Scratch Cat) sprite.](images/delete-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list.
+Click on **Choose a Sprite** in the Sprite list:
 
 ![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
-![The 'Choose a Sprite' menu in the Scratch editor.](images/choose-a-sprite.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
 --- /task ---
 
