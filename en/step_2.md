@@ -37,7 +37,7 @@ Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
 Click on the **Space** category or type `space` in the search box:
 
-![The Backdrops Library with the 'Space' category selected.](images/space-backdrops.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
 --- /task ---
 
@@ -89,9 +89,9 @@ Drag the **Pico** sprite to position them on the left-hand side of the Stage. Yo
 
 --- task ---
 
-If you are signed in to your Scratch account, type the title of your project into the project title box at the top of the screen.
+If you are signed in to your Scratch account, type the name of your project in the project name box at the top of the screen.
 
-![The project title box.](images/project-name.png)
+![The project name box.](images/project-name.png)
 
 **Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects. 
 
