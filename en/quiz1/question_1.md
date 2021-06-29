@@ -16,7 +16,7 @@ legend: Question 1 of 3
 
 In the project, you added a backdrop and some sprite characters.
 
-Where do you click to add a sprite to your project?
+Where do you go to add a sprite to your project?
 
 ![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
