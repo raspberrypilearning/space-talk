@@ -29,7 +29,7 @@ clear graphic effects
 ```
 
   --- feedback ---
-This code changes the sprite's colour and shows a thought bubble. 
+This code changes the colour of the sprite and shows a thought bubble. 
   --- /feedback ---
 
 - (x) 
@@ -53,7 +53,7 @@ clear graphic effects
 ```
 
   --- feedback ---
-This code changes the sprite's colour and plays a sound. 
+This code changes the colour of the sprite and plays a sound. 
   --- /feedback ---
 
 --- /choices ---
