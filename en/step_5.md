@@ -17,7 +17,7 @@ Sprites have **costumes** to change the way that they look. To animate a sprite,
 
 Add the **Nano** sprite to your project from the **Fantasy** category.
 
-![The 'Choose a Sprite' menu.](images/choose-sprite-menu.png)
+![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
 
 --- /task ---
 
@@ -92,7 +92,7 @@ Go to the **nano-c** costume and click on the arm on the left-hand side, then cl
 
 Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
 
-![The nano-b costume with the new arm.](images/nano-b-new-arm.png)
+![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
 
 --- /task ---
 
