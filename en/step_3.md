@@ -23,7 +23,7 @@ Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` 
 
 The **Pico** sprite will show a speech bubble for two seconds.
 
-![The Pico sprite with "Hello" in a speech bubble.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
 **Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
@@ -65,7 +65,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 You will see comments in code examples. You don't need to add the comments when you add code to your project. 
 
-If you have time at the end, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
 ![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
 

@@ -2,7 +2,7 @@ title: Space talk
 hero_image: images/banner.png
 description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
