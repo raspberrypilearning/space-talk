@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-In the project, you added a backdrop and some sprite characters.
+In your project, you added a backdrop and some sprite characters.
 
 Where do you go to add a sprite to your project?
 
@@ -25,13 +25,13 @@ Where do you go to add a sprite to your project?
 - ( ) 1: The **Costumes** tab
 
   --- feedback ---
-You clicked on the **Costumes** tab to edit costumes for your sprite.
+You went to the **Costumes** tab to edit a costume for your sprite.
   --- /feedback ---
 
 - ( ) 2: The **Sounds** tab
 
   --- feedback ---
-You clicked on the **Sounds** tab to choose new sounds for your sprite.
+You went to the **Sounds** tab to choose a new sound for your sprite.
   --- /feedback ---
 
 - (x) 3: The Sprite list
@@ -43,7 +43,7 @@ Yes. This is the area where you can see all of the sprites in the project and cl
 - ( ) 4: The Stage pane
 
   --- feedback ---
-You clicked on the Stage pane to choose backdrops.
+You went to the Stage pane to choose a backdrop.
   --- /feedback ---
 
 --- /choices ---
