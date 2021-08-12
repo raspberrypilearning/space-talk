@@ -37,7 +37,7 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 - (x) 3: The Sprite list
 
   --- feedback ---
-Yes. This is the area where you can see all of the sprites in the project and click on sprites to select them.
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
   --- /feedback ---
 
 - ( ) 4: The Stage pane
