@@ -27,6 +27,10 @@ What happens if you click on one sprite and then quickly click on another sprite
 </div>
 --- /task --- --- /no-print ---
 
---- print-only --- ![The completed project.](images/showcase_static.png) --- /print-only ---
+--- print-only ---
+
+![The completed project.](images/showcase_static.png)
+
+--- /print-only ---
 
 
