@@ -1,6 +1,5 @@
 
 --- question ---
-
 ---
 legend: Question 2 of 3
 ---
@@ -18,25 +17,33 @@ Where would you go to find this block?
 - (x) `Looks`{:class="block3looks"}
 
   --- feedback ---
+
 Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+
   --- /feedback ---
 
 - ( ) `Sound`{:class="block3sound"}
 
   --- feedback ---
+
 The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+
   --- /feedback ---
 
 - ( ) `Motion`{:class="block3motion"}
 
   --- feedback ---
+
 The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+
   --- /feedback ---
 
 - ( ) `Events`{:class="block3events"}
 
   --- feedback ---
+
 The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+
   --- /feedback ---
 
 --- /choices ---

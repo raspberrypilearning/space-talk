@@ -1,6 +1,5 @@
 
 --- question ---
-
 ---
 legend: Question 3 of 3
 ---
@@ -17,7 +16,9 @@ say [Hello!] for [2] seconds
 ```
 
   --- feedback ---
+
 This code plays a sound and shows a speech bubble.
+
   --- /feedback ---
 
 - ( ) 
@@ -29,7 +30,9 @@ clear graphic effects
 ```
 
   --- feedback ---
+
 This code changes the colour of the sprite and shows a thought bubble. 
+
   --- /feedback ---
 
 - (x) 
@@ -41,7 +44,9 @@ switch costume to [nano-a v]
 ```
 
   --- feedback ---
+
 Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+
   --- /feedback ---
 
 - ( ) 
@@ -53,7 +58,9 @@ clear graphic effects
 ```
 
   --- feedback ---
+
 This code changes the colour of the sprite and plays a sound. 
+
   --- /feedback ---
 
 --- /choices ---
