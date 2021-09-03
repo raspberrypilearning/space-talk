@@ -5,7 +5,9 @@
 Another way to communicate is to use sound.
 </div>
 <div>
+
 ![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+
 </div>
 </div>
 
