@@ -7,7 +7,9 @@ A sprite can have code, costumes, and sounds to change the way that it looks and
 You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
+
 ![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+
 </div>
 </div>
 
