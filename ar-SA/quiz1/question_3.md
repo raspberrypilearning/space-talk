@@ -5,7 +5,7 @@
 legend: Question 3 of 3
 ---
 
-In your project, you made Nano say thank you in sign language.  Which code did you use to get Nano to move a hand to their mouth?
+In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
 
 --- choices ---
 
@@ -13,7 +13,7 @@ In your project, you made Nano say thank you in sign language.  Which code did y
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Hello!] for [2] secs 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback --- This code plays a sound and shows a speech bubble. --- /feedback ---
@@ -21,32 +21,32 @@ say [Hello!] for [2] secs
 - ( )
 ```blocks3
 when this sprite clicked
-set [color v] effect to [0] 
-think [Hmm...] for [2] secs 
+set [color v] effect to [50] 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
-  --- feedback --- This code changes the sprites's colour and shows a thought bubble. --- /feedback ---
+  --- feedback --- This code changes the colour of the sprite and shows a thought bubble. --- /feedback ---
 
 - (x)
 ```blocks3
 when this sprite clicked
-switch costume to [nano-a2 v] 
-say [Thanks!] for [2] secs
+switch costume to [nano-b v] 
+say [Thanks!] for [2] seconds
 switch costume to [nano-a v]
 ```
 
-  --- feedback --- Yes, the `switch costume`{:class="block3looks"} blocks change the sprite's costume so that the arm moves. --- /feedback ---
+  --- feedback --- Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves. --- /feedback ---
 
 - ( )
 ```blocks3
 when this sprite clicked
-set [color v] effect to [0]
+set [color v] effect to [50]
 start sound [Alien Creak1 v] 
 clear graphic effects 
 ```
 
-  --- feedback --- This script plays a sound and changes the sprite's colour. --- /feedback ---
+  --- feedback --- This code changes the colour of the sprite and plays a sound. --- /feedback ---
 
 --- /choices ---
 
