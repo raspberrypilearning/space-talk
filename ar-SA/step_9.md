@@ -4,7 +4,7 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- print-only ---
 
-![Characters and a bus](images/scratch-tour-bus.png)
+![The 'Catch the bus' project.](images/scratch-tour-bus.png)
 
 --- /print-only ---
 
