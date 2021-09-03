@@ -4,34 +4,39 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 You will get Nano to emote by switching **costumes**.
 
-Sprites have **costumes** to change the way that they look. You can animate a sprite by changing its costumes.
+Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
 </div>
 <div>
-![The Nano sprite saying "Thanks!"](images/nano-step-2.png){:width="300px"}
+![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
 </div>
 </div>
 
-### Nano says 'Thanks!'
+### Nano says "Thanks!"
 
 --- task ---
 
 Add the **Nano** sprite to your project from the **Fantasy** category.
 
-![The 'Choose a Sprite' menu](images/choose-sprite-menu.png)
+![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure **Nano** is selected under the Stage. Click on the **Code** tab and add a script to `say`{:class="block3looks"} `Thanks!`:
+Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
 
-![The Nano sprite](images/nano-sprite.png)
+![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+
+
+Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+
+![The Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
-say [Thanks!] for [2] secs // try 1 instead of 2
-switch costume to [nano-a v] // Nano smiles
+say [Thanks!] for [2] seconds // try 1 instead of 2
+switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
@@ -39,7 +44,7 @@ switch costume to [nano-a v] // Nano smiles
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage to see the sprite say "Thanks!".
+**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
 
 --- /task ---
 
@@ -50,35 +55,35 @@ switch costume to [nano-a v] // Nano smiles
 
 Nano will use sign language by switching costumes.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to say 'thank you' in sign language.
+You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
 
 --- task ---
 
 Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
-![The available costumes for the Nano sprite](images/nano-costumes.png)
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side and then click on **Delete**.
+Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
 
-![Nano with arm selected](images/nano-arm-selected.png)
+![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
 
 The costume should look like this:
 
-![Nano with arm deleted](images/nano-arm-deleted.png)
+![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
 
 --- /task ---
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**. ![Image of the 'Undo' icon](images/nano-undo.png)
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**. ![The 'Undo' icon.](images/nano-undo.png)
 
 --- task ---
 
 Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
 
-![Nano c with arm selected](images/nano-c-arm-selected.png)
+![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
@@ -86,17 +91,17 @@ Go to the **nano-c** costume and click on the arm on the left-hand side, then cl
 
 Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
 
-![nano-b with new arm](images/nano-b-new-arm.png)
+![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage to see the sprite say "Thanks!" with words and costumes.
+**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to say thank you in sign language. Next time you say thank you to someone, why not use your new skill?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
 </p>
 
 --- save ---
