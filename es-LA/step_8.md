@@ -5,7 +5,9 @@
 Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
 </div>
 <div>
+
 ![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+
 </div>
 </div>
 
@@ -38,7 +40,6 @@ You can also 'remix' the project to make any changes you like. You could change 
 **Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
 --- collapse ---
-
 ---
 title: Completed project
 ---
