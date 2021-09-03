@@ -7,7 +7,9 @@ You will get Nano to emote by switching **costumes**.
 Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
 </div>
 <div>
+
 ![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+
 </div>
 </div>
 
@@ -78,6 +80,7 @@ The costume should look like this:
 --- /task ---
 
 **Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
 ![The 'Undo' icon.](images/nano-undo.png)
 
 --- task ---

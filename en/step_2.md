@@ -5,7 +5,9 @@
 In this step, you will set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
+
 ![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+
 </div>
 </div>
 
