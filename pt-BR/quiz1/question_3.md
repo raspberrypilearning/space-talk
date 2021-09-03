@@ -1,6 +1,5 @@
 
 --- question ---
-
 ---
 legend: Question 3 of 3
 ---
@@ -16,7 +15,11 @@ start sound [Alien Creak1 v]
 say [Hello!] for [2] seconds 
 ```
 
-  --- feedback --- This code plays a sound and shows a speech bubble. --- /feedback ---
+  --- feedback ---
+
+This code plays a sound and shows a speech bubble.
+
+  --- /feedback ---
 
 - ( )
 ```blocks3
@@ -26,7 +29,11 @@ think [Hmm...] for [2] seconds
 clear graphic effects 
 ```
 
-  --- feedback --- This code changes the colour of the sprite and shows a thought bubble. --- /feedback ---
+  --- feedback ---
+
+This code changes the colour of the sprite and shows a thought bubble.
+
+  --- /feedback ---
 
 - (x)
 ```blocks3
@@ -36,7 +43,11 @@ say [Thanks!] for [2] seconds
 switch costume to [nano-a v]
 ```
 
-  --- feedback --- Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves. --- /feedback ---
+  --- feedback ---
+
+Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+
+  --- /feedback ---
 
 - ( )
 ```blocks3
@@ -46,7 +57,11 @@ start sound [Alien Creak1 v]
 clear graphic effects 
 ```
 
-  --- feedback --- This code changes the colour of the sprite and plays a sound. --- /feedback ---
+  --- feedback ---
+
+This code changes the colour of the sprite and plays a sound.
+
+  --- /feedback ---
 
 --- /choices ---
 
