@@ -41,6 +41,15 @@ You can also 'remix' the project to make any changes you like. You could change 
 
 --- collapse ---
 ---
+title: Space talk certificate
+---
+
+Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills.
+
+--- /collapse ---
+
+--- collapse ---
+---
 title: Completed project
 ---
 
