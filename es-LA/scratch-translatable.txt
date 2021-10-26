@@ -1,23 +1,23 @@
-Hello!
+¡Hola!
 
-hide speech after 2 seconds
+esconde lo que dice después de 2 segundos
 
-Thanks!
+¡Gracias!
 
-when Nano is clicked
+cuando se hace clic en Nano
 
-Nano talking
+Nano hablando
 
-try 1 instead of 2
+prueba 1 en vez de 2
 
-Nano smiling
+Nano sonriendo
 
-Hm...
+Umm...
 
-0 is the starting colour
+el color inicial es 0
 
-back to the starting colour
+de vuelta al color inicial
 
-hide speech bubble
+esconde la burbuja de diálogo
 
-number up to 200
+número hasta 200
