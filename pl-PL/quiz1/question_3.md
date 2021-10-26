@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Pytanie 3 z 3
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+W swoim projekcie sprawiłeś, że Nano pokazał „dziękuję”. Którego kodu użyłeś, aby Nano przyłożył rękę do ust?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+Ten kod odtwarza dźwięk i wyświetla dymek z tekstem.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+Ten kod zmienia kolor duszka i pokazuje bańkę myśli.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Tak. Bloki `zmień kostium na`{:class="block3looks"} zmieniają kostium duszka tak, aby ramię się poruszyło.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+Ten kod zmienia kolor duszka i odtwarza dźwięk.
 
   --- /feedback ---
 
