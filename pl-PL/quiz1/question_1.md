@@ -1,55 +1,55 @@
-## Reflection
+## Przemyślenia
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Dobra robota, dużo materiału już za Tobą! Teraz nadszedł czas na przemyślenia — przemyślenia są ważną częścią uczenia się, ponieważ pomagają tworzyć nowe połączenia w mózgu.
 
-Answer the three questions below to reflect on what you have learned.
+Odpowiedz na trzy poniższe pytania, aby przypomnieć sobie to, czego się nauczyłeś.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Po udzieleniu odpowiedzi na każde pytanie kliknij **Prześlij**. Zostaniesz poprowadzony w kierunku prawidłowej odpowiedzi. Możesz powtarzać to ćwiczenie wielokrotnie.
 
-Have fun!
+Miłej zabawy!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pytanie 1 z 3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+W swoim projekcie dodałeś tło i kilka postaci duszków.
 
-Where do you go to add a sprite to your project?
+Gdzie się skierujesz, aby dodać duszka do projektu?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Zrzut ekranu pełnego edytora Scratch z adnotacjami: 1 — zakładka Kostiumy, 2 — zakładka Dźwięki, 3 — lista duszków i 4 — podświetlony panel Scena.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Zakładka **Kostiumy**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Przeszedłeś do zakładki **Kostiumy**, aby edytować kostium dla swojego duszka.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Zakładka **Dźwięki**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Przeszedłeś do zakładki **Dźwięki**, aby wybrać nowy dźwięk dla swojego duszka.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Lista duszków
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Tak. To jest obszar, w którym możesz zobaczyć wszystkie duszki w projekcie, dodawać i usuwać duszki oraz klikać na duszki, aby je zaznaczyć.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Okno Scena
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Przeszedłeś do okna Scena, aby wybrać tło.
 
   --- /feedback ---
 
