@@ -1,57 +1,57 @@
-## Pico says hello
+## Pico mówi: "cześć"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+Możesz użyć kodu, kostiumów i dźwięku, aby zmienić wygląd i zachowanie duszka. 
   
-You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Dodasz bloki kodu, aby Pico wyrażał emocje z użyciem słów i dźwięku po kliknięciu duszka.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Duszek Pico mówiący „Cześć!”](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-To use blocks, you can click on them in the Blocks menu.
+Aby użyć bloków, możesz kliknąć na nie w menu bloków.
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Otwórz menu blokowe `Wygląd`{:class="block3looks"}.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Kliknij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="block3looks"} `2` `sekundy`{:class="block3looks"}.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![„Powiedz Cześć! przez 2 sekundy blok otoczony jest świecącą żółtą obwódką.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+Duszek **Pico** pokaże dymek z tekstem przez dwie sekundy.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![Duszek Pico z tekstem "Cześć!" w dymku.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Wskazówka:** Kiedy bloki kodu w Scratchu są uruchomione, otacza je żółty świecący kontur.
 
 --- /task ---
 
-You can drag blocks to the Code area, and they can be used from there.
+Możesz przeciągać bloki do obszaru Skrypt i następnie stamtąd ich używać.
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Przeciągnij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="block3looks"} `2` `sekundy`{:class="block3looks"} do obszaru Skrypt. Kliknij go ponownie.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![Przeciąganie bloku "powiedz" to obszaru Skrypt i kliknięcie by go uruchomić.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![Blok "powiedz" został przeciągnięty do obszaru Skrypt. Blok kodu jest otoczony świecącym żółtym konturem.](images/pico-drag-say.png)
 
 --- /task ---
 
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
+Bloki można łączyć ze sobą w obszarze Skrypt, aby uruchomić więcej niż jeden na raz. Połączone bloki będą uruchamiane w kolejności od góry do dołu.
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Przeciągnij blok `kiedy ten duszek kliknięty`{:class = "block3events"} z menu bloków `Zdarzenia`{:class="block3events"} do górnej krawędzi bloku `Powiedz`{:class="block3looks"} w obszarze Skrypt. Bloki się połączą.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![Bloki kodu łączą się, animacja. Kiedy Pico zostanie kliknięty, mówi "Cześć!" przez dwie sekundy.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![Duszek Pico.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,20 +60,20 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-A comment is an explanation of what your code does.
+Komentarz jest wyjaśnieniem, co robi Twój skrypt.
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+W przykładach kodu zobaczysz komentarze. Nie musisz dodawać komentarzy podczas dodawania kodu do projektu.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Jeśli po zakończeniu projektu masz czas, dobrym pomysłem jest dodanie komentarzy do kodu, aby później był łatwiejszy do zrozumienia. Aby dodać komentarz, kliknij prawym przyciskiem myszy (lub na tablecie naciśnij i przytrzymaj) blok w obszarze Skrypt i wybierz **Dodaj komentarz**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![Wyskakujące menu, które pojawia się po kliknięciu bloku prawym przyciskiem myszy. Wybrano opcję „Dodaj komentarz”.](images/add-comment.png)
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**Test:** Kliknij duszka **Pico** na Scenie i sprawdź, czy dymek wyświetla się przez dwie sekundy. To ważne, by przetestować kod i upewnić się, że robi to, czego oczekujesz.
 
 --- /task ---
 
