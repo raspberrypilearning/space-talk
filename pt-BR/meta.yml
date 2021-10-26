@@ -13,12 +13,14 @@ steps:
     title: Create your scene
   - 
     title: Pico says hello
+    completion: engaged
   - 
     title: Pico plays a sound
   - 
     title: Nano switches costumes
   - 
     title: Giga changes colour
+    completion: internal
   - 
     title: Reflection
     knowledge_quiz:
@@ -28,5 +30,6 @@ steps:
       passing_score: 3
   - 
     title: Upgrade your project
+    completion: external
   - 
     title: What next?
