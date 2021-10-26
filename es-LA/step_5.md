@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nano cambia de disfraz
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+Conseguirás que Nano se exprese cambiando de **disfraces**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+Los objetos tienen **disfraces** para cambiar su apariencia. Para animar un objeto, puedes cambiar sus disfraces.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![El objeto Pico diciendo, "¡Hola!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano dice "¡Gracias!"
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Agrega el objeto **Nano** a tu proyecto de la categoría **Fantasía**.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![El ícono "Elegir un objeto".](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Asegúrate de que el objeto **Nano** esté seleccionado en la lista de objetos debajo del escenario.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![La lista de objetos, con un borde azul alrededor del objeto Nano para mostrar que Nano está seleccionado.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+Haz clic en la pestaña **Código** y agrega código para hacer que el objeto **Nano** `diga`{:class="block3looks"} `¡Gracias!`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![El objeto Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**Consejo:** Todos los bloques están codificados por colores, así que encontrarás el bloque `cambiar disfraz a`{:class="block3looks"} en el menú de bloques `Apariencia`{:class="block3looks"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**Prueba:** Haz clic en el objeto **Nano** en el escenario y verifica que aparezca la burbuja de diálogo y que Nano cambie su disfraz.
 
 --- /task ---
 
-### Nano uses sign language
+### Nano usa lenguaje de señas
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millones de personas utilizan el lenguaje de señas para comunicarse. Un signo común para decir 'gracias' es **llevar la mano derecha a la boca**. 
 </p>
 
-Nano will use sign language by switching costumes.
+Nano usará el lenguaje de señas cambiando de disfraz.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Puedes editar los disfraces para tus sprites con el editor de dibujo. Editarás un disfraz de Nano para que diga 'gracias'.
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Haz clic en la pestaña **Disfraces** para ver los disfraces del objeto **Nano**:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Disfraces disponibles para el objeto Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Haz clic en el disfraz **nano-b**. Haz clic en el brazo del lado izquierdo y luego haz clic en **Eliminar**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![El disfraz de nano-b con el brazo seleccionado.](images/nano-arm-selected.png)
 
-The costume should look like this:
+El disfraz debería verse así:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![El disfraz de nano-b con el brazo eliminado.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Consejo:** Si cometes un error en el editor de dibujos, puedes hacer clic en **Deshacer**.
+
+![El icono 'Deshacer'.](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Ve al disfraz **nano-c** y haz clic en el brazo en el lado izquierdo, luego haz clic en **Copiar**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![El disfraz nano-c con el brazo seleccionado.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+Vuelve al disfraz **nano-b** y haz clic en **Pegar**. El disfraz debería verse así:
+
+![El disfraz de nano-b con el brazo del disfraz de nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Prueba:** Haz clic en el objeto **Nano** en el Escenario y verifica que aparezca la burbuja de diálogo y que el disfraz de Nano cambie al disfraz que has editado.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Has aprendido a decir "gracias" con signos. La próxima vez que agradezcas a alguien, ¿por qué no utilizas tu nueva habilidad?
 </p>
 
 --- save ---
