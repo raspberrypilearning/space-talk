@@ -1,25 +1,25 @@
 ## Introduction
 
-In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
+Dans ce projet, tu vas créer une scène spatiale avec des personnages qui « s'émeuvent » pour partager leurs pensées ou leurs sentiments.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**Les émotions**</span> sont un moyen de montrer la personnalité d'un personnage dans un jeu. Ils peuvent utiliser la parole, les sons, les mouvements et les effets graphiques, tout comme dans Scratch. Joues-tu à des jeux qui utilisent des émotions ?
 </p>
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+Dans Scratch, les personnages et les objets sont appelés **sprites**, et ils apparaissent sur la **Scène**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Tu vas devoir :
++ Ajouter des sprites et un **arrière-plan** pour configurer ton projet
++ Cliquer sur les sprites pour les faire communiquer en utilisant le blocs code `apparence`{:class="block3looks"} et `son`{:class="block3sound"}
++ Utiliser l'**éditeur peinture** pour changer un **costume**
 
 --- no-print --- --- task ---
-### Try it
+### Essaie-le
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Clique sur chaque sprite pour voir ce qu'ils font. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+Que se passe-t-il si tu cliques sur un sprite puis cliques rapidement sur un autre sprite ?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +29,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![Le projet achevé.](images/showcase_static.png)
 
 --- /print-only ---
 
