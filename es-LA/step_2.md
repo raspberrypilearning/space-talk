@@ -1,97 +1,101 @@
-## Create your scene
+## Crea tu escena
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will set up your project with a space backdrop and the first sprite. 
+En este paso, configurarás tu proyecto con un fondo espacial y el primer objeto. 
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![El fondo Space con el objeto Pico.] (images/backdrop-step.png) {:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
 
 [[[working-offline]]]
 
 --- /task ---
 
-The Scratch editor looks like this:
+El editor de Scratch se ve así:
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Una captura de pantalla anotada del editor de Scratch, con el escenario, el panel del escenario, el panel de objetos, la lista de objetos y el área de código etiquetados.](images/scratch-interface.png)
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+El **Escenario** es donde se ejecuta tu proyecto. Un **fondo** cambia la apariencia del escenario.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+Haz clic (o toca, en una tableta) en **Elije un fondo** en el panel del Escenario:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![El ícono 'Elige un fondo'.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![El editor de Scratch con 'Elige un fondo' resaltado en la esquina inferior derecha.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+Haz clic en la categoría **Espacio** o escribe `space` en el cuadro de búsqueda:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![La biblioteca de fondos con la categoría 'Espacio' seleccionada.](images/space-backdrops.png)
 
 --- /task ---
 
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+En nuestro ejemplo, hemos elegido el fondo **Space**, pero elije el fondo que más te guste.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Haz clic en el fondo que elegiste para agregarlo a tu proyecto. El escenario debe mostrar el fondo que elegiste:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![El editor de Scratch con el fondo 'Space'.](images/inserted-backdrop.png)
 
 --- /task ---
 
+¿Puedes ver el objeto que ya está incluido en tu proyecto? Ese es el gato Scratch.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Elimina el **Objeto1** (el gato Scratch): selecciona el objeto **Objeto1** en la lista de objetos debajo del escenario y haz clic en el ícono **Eliminar**.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![El ícono 'Eliminar'.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+Haz clic en **Elegir un objeto** en la lista de objetos:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![El ícono 'Elegir un objeto'.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![El editor de Scratch con 'Elegir un objeto' resaltado.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-If you are signed in to your Scratch account, type the name of your project in the project name box at the top of the screen.
+Selecciona la categoría **Fantasía**. Haz clic en el objeto **Pico** para agregarlo a tu proyecto.
+
+![La categoría 'Fantasía' con el objeto Pico.](images/fantasy-pico.png)
+
+--- /task ---
+
+--- task ---
+
+Arrastra el objeto **Pico** para colocarlo en el lado izquierdo del escenario. Tu escenario debería verse más o menos así:
+
+![El escenario con el fondo elegido y el objeto Pico colocado en el lado izquierdo.](images/pico-on-stage.png)
+
+--- /task ---
+
+--- task ---
+
+If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+
+![The remix button.](images/remix-button.png)
+
+Type the name of your project in the project name box at the top of the screen.
 
 ![The project name box.](images/project-name.png)
 
