@@ -1,57 +1,57 @@
-## Pico plays a sound
+## Pico odtwarza dźwięk
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+Innym sposobem komunikowania się jest użycie dźwięku.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Duszek Pico mówiący „Cześć!”](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Kliknij zakładkę **Dźwięki** duszka **Pico**, a znajdziesz dźwięk **pop**. Kliknij ikonę **Odtwórz** aby go usłyszeć.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
-
---- /task ---
-
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
-
---- task ---
-
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
-
-![The 'Choose a Sound' icon.](images/sound-button.png)
-
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
-
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![Odtwarzanie dźwięku pop w zakładce Dźwięki.](images/pico-sound-play.png)
 
 --- /task ---
 
+W Scratchu jest kilka fantastycznych kosmicznych dźwięków, które możesz dodać do swojego duszka.
+
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+Aby wybrać nowy dźwięk, kliknij ikonę **Wybierz dźwięk** i wybierz kategorię **Kosmos** lub wpisz `space` w polu wyszukiwania.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![Ikona 'Wybierz dźwięk'.](images/sound-button.png)
+
+![Edytor Scratcha z podświetloną opcją „Wybierz dźwięk”.](images/pico-choose-sound.png)
+
+![Kategoria „Kosmos” w Bibliotece Dźwięków.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+Odtwórz kilka różnych dźwięków za pomocą ikon **Odtwórz**. Kiedy już znajdziesz dźwięk, którego chcesz użyć, kliknij go, aby dodać go do swojego projektu.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+![Przykładowy dźwięk (Alien Creak1) pokazany poniżej dźwięku pop w zakładce Dźwięki.](images/pico-inserted-sound.png)
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+--- /task ---
 
-Your code should look like this:
+--- task ---
 
-![The Pico sprite.](images/pico-sprite.png)
+Kliknij na zakładkę **Skrypt**. W menu bloków `Dźwięk`{:class="block3sound"} znajdź blok `zagraj dźwięk`{:class="block3sound"}.
+
+Przeciągnij blok do obszaru Skrypt, pomiędzy blok `kiedy ten duszek kliknięty`{:class="block3events"}, a blok `powiedz`{:class="block3looks"}. Zrobi się luka i blok wskoczy na swoje miejsce.
+
+![Blok "zagraj dźwięk" dodany pomiędzy dwoma blokami.](images/pico-insert-block.gif)
+
+Twój kod powinien wyglądać tak:
+
+![Duszek Pico.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -63,15 +63,15 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+Upewnij się, że Twój blok `zagraj dźwięk`{:class="block3sound"} zawiera Twój wybrany dźwięk. Jeśli nie, kliknij dźwięk w bloku `zagraj dźwięk`{:class="block3sound"}, a następnie wybierz swój dźwięk z rozwijanego menu.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![Kliknięcie dźwięku Alien Creak1 w menu rozwijanym w bloku „zagraj dźwięk”.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**Test:** Kliknij duszka **Pico** i sprawdź, czy dymek wyświetla się i czy słyszysz dźwięk. Jeśli nie słyszysz dźwięku, upewnij się, że dodałeś blok `zagraj dźwięk`{:class="block3sound"} pod blokiem `gdy ten duszek kliknięty`{:class="block3events"}. Sprawdź również, czy działają głośniki w komputerze lub tablecie.
 
 --- /task ---
 
