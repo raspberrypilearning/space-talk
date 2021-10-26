@@ -13,7 +13,7 @@ In this step, you will set up your project with a space backdrop and the first s
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
@@ -91,7 +91,11 @@ Drag the **Pico** sprite to position them on the left-hand side of the Stage. Yo
 
 --- task ---
 
-If you are signed in to your Scratch account, type the name of your project in the project name box at the top of the screen.
+If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+
+![The remix button.](images/remix-button.png)
+
+Type the name of your project in the project name box at the top of the screen.
 
 ![The project name box.](images/project-name.png)
 
