@@ -1,55 +1,55 @@
-## Reflection
+## Que faire ensuite?
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Bravo, tu as beaucoup appris ! Maintenant, il est temps de réfléchir — la réflexion est une partie importante de l'apprentissage, car elle aide à établir de nouvelles connexions dans votre cerveau.
 
-Answer the three questions below to reflect on what you have learned.
+Réponds aux trois questions ci-dessous pour réfléchir à ce que tu as appris.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Lorsque tu as répondu à chaque question, tapes sur **Soumettre**. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
 
-Have fun!
+Amuse-toi bien!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend : Question 1 sur 3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+Dans ton projet, tu as ajouté un arrière-plan et des personnages de sprite.
 
-Where do you go to add a sprite to your project?
+Où vas-tu pour ajouter un sprite à ton projet ?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Une capture d'écran annotée de l'éditeur Scratch complet avec 1 — L'onglet Costumes, 2 – L'onglet Sons, 3 – La liste Sprite et 4 – Le volet Scène en surbrillance.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1 : L'onglet **Costumes**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Tu es allé dans l'onglet **Costumes** pour modifier un costume pour ton sprite.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2 : L'onglet **Sons**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Tu es allé dans l'onglet **Sons** pour choisir un nouveau son pour ton sprite.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: La liste des Sprites
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Oui. C'est la zone où tu peux voir tous les sprites du projet, ajouter et supprimer des sprites, et cliquer sur les sprites pour les sélectionner.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Le volet Scène
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Tu es allé dans le volet Scène pour choisir un arrière plan.
 
   --- /feedback ---
 
