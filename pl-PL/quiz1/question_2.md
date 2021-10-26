@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Pytanie 2 z 3
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+Sprawiłeś, że Pico powiedział „Cześć!” w dymku z tekstem.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Gdzie będziesz szukać tego bloku?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Wygląd`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Tak. Blok `powiedz`{:class="block3looks"} znajduje się w menu blokowym `Wygląd`{:class="block3looks"}, które ma ten sam kolor co blok.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `Dźwięk`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Bloki w menu bloków `Dźwięk`{:class="block3sound"} sprawiają, że duszki odtwarzają dźwięki.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Ruch`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Bloki w menu bloków `Ruch`{:class="block3motion"} są używane do wprawiania duszków w ruch.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Zdarzenia`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Bloki w menu bloków `Zdarzenia`{:class="block3events"} są używane, aby coś się wydarzyło.
 
   --- /feedback ---
 
