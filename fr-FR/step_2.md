@@ -99,13 +99,13 @@ Type the name of your project in the project name box at the top of the screen.
 
 ![The project name box.](images/project-name.png)
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+**Astuce :** Donne à tes projets des noms utiles afin de pouvoir les retrouver facilement lorsque tu as de nombreux projets.
 
-Next, click on **File**, and then on **Save now** to save your project.
+Ensuite, clique sur **Fichier**, puis sur **Enregistrer maintenant** pour enregistrer ton projet.
 
 ![The 'File' menu options.](images/file-menu.png)
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+Si tu n'es pas en ligne ou que tu n'as pas de compte Scratch, tu peux cliquer sur **Enregistrer sur ton ordinateur** pour enregistrer une copie de ton projet.
 
 --- /task ---
 
