@@ -1,23 +1,23 @@
-Hello!
+Привет!
 
-hide speech after 2 seconds
+скрыть речь через 2 секунды
 
-Thanks!
+Спасибо!
 
-when Nano is clicked
+при нажатии на Nano
 
-Nano talking
+Nano разговаривает
 
-try 1 instead of 2
+попробуй 1 вместо 2
 
-Nano smiling
+Nano улыбается
 
-Hm...
+Хммм...
 
-0 is the starting colour
+0 - начальный цвет
 
-back to the starting colour
+вернуться к исходному цвету
 
-hide speech bubble
+скрыть диалоговое окно
 
-number up to 200
+число до 200
