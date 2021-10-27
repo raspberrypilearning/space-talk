@@ -1,25 +1,25 @@
-## Pico plays a sound
+## Pico воспроизводит звук
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+Другой способ общения - использование звука.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Спрайт Pico говорит: «Привет!»](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Щелкни вкладку **Звуки** для спрайта **Pico** и ты найдешь звук **pop**. Щёлкни значок **Играть**, чтобы услышать звук **pop**.
 
 ![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
 
 --- /task ---
 
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
+В Scratch есть несколько фантастических звуков пришельцев, которые ты можешь добавить в свой спрайт.
 
 --- task ---
 
