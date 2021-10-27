@@ -13,7 +13,7 @@ Dans cette étape, tu vas configurer ton projet avec un fond d'espace et le prem
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
+Ouvre le [projet de démarrage Space talk](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 [[[working-offline]]]
 
@@ -91,11 +91,11 @@ Fais glisser le sprite **Pico** pour les positionner sur le côté gauche de la 
 
 --- task ---
 
-Si tu es connecté à ton compte Scratch, clique sur le bouton vert Remix. This will save a copy of the project to your Scratch account.
+Si tu es connecté à ton compte Scratch, clique sur le bouton vert Remix. Cela enregistrera une copie du projet sur ton compte Scratch.
 
 ![Bouton Remix.](images/remix-button.png)
 
-Type the name of your project in the project name box at the top of the screen.
+Tape le nom de ton projet dans la zone nom du projet en haut de l'écran.
 
 ![La zone de nom du projet.](images/project-name.png)
 
