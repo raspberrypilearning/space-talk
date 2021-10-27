@@ -93,17 +93,17 @@ Fais glisser le sprite **Pico** pour les positionner sur le côté gauche de la 
 
 If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
 
-![The remix button.](images/remix-button.png)
+![Bouton Remix.](images/remix-button.png)
 
 Type the name of your project in the project name box at the top of the screen.
 
-![The project name box.](images/project-name.png)
+![La zone de nom du projet.](images/project-name.png)
 
 **Astuce :** Donne à tes projets des noms utiles afin de pouvoir les retrouver facilement lorsque tu as de nombreux projets.
 
 Ensuite, clique sur **Fichier**, puis sur **Enregistrer maintenant** pour enregistrer ton projet.
 
-![The 'File' menu options.](images/file-menu.png)
+![Les options du menu « Fichier ».](images/file-menu.png)
 
 Si tu n'es pas en ligne ou que tu n'as pas de compte Scratch, tu peux cliquer sur **Enregistrer sur ton ordinateur** pour enregistrer une copie de ton projet.
 
