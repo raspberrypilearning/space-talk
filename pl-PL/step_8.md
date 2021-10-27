@@ -14,25 +14,25 @@ Dodaj duszka **Tera** i użyj dowolnych bloków, o których się nauczyłeś, ab
 Osobowość duszka **Tera** to Twój wybór, więc baw się dobrze korzystając z własnych kreatywnych pomysłów.
 
 ```blocks3
-when this sprite clicked
+kiedy ten duszek kliknięty
 
-say [Hello!] for [2] seconds
+powiedz [Witaj!] przez [2] sekundę
 
-say [Hello!]
+powiedz [Witaj!]
 
-say [] // hide speech bubble
+powiedz [] // ukryj dymek
 
-think [Hmm...] for [2] seconds
+pomyśl [Hmm...] przez [2] sekundy
 
-switch costume to [tera-d v]
+przełącz kostium na [tera-d v]
 
-set [color v] effect to [0] // number up to 200
+ustaw efekt [kolor v] na [0] // liczbę do 200
 
-clear graphic effects
+wyczyść efekty graficzne
 
-play sound [pop v] until done
+odtwórz dźwięk [pop v] 
 
-start sound [pop v]
+uruchom dźwięk [pop v]
 ```
 
 Możesz także „zremiksować” projekt, aby wprowadzić dowolne zmiany. Możesz zmienić tło i sposób emotowania duszków, a nawet wybrać inne duszki i dać im emoty.
@@ -41,19 +41,19 @@ Możesz także „zremiksować” projekt, aby wprowadzić dowolne zmiany. Może
 
 --- collapse ---
 ---
-title: Space talk certificate
+tytuł: Certyfikat Kosmicznej rozmowy
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Dobra robota! Ukończyłeś projekt Kosmiczna rozmowa. Oto [certyfikatu](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, aby uczcić Twoje nowe umiejętności. Pobierz kopię, a następnie otwórz ją, aby dodać swoje imię.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+title: Ukończony projekt
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Tutaj możesz zobaczyć [ukończony projekt](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
