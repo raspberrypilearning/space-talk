@@ -50,10 +50,10 @@ Well done! You have completed the Space talk project. Here is [a certificate](ht
 
 --- collapse ---
 ---
-title: Completed project
+title: Le projet achevé
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Tu peux voir le [projet terminé ici](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
