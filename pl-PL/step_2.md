@@ -13,7 +13,7 @@ W tym kroku skonfigurujesz swój projekt, dodając do niego kosmiczne tło i pie
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch otworzy się w nowej karcie przeglądarki.
+Otwórz [projekt startowy Kosmicznej rozmowy ](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch otworzy się w nowej karcie przeglądarki.
 
 [[[working-offline]]]
 
@@ -91,21 +91,21 @@ Przeciągnij **Pico** tak, aby umieścić go po lewej stronie Sceny. Twoja Scena
 
 --- task ---
 
-If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+Jeśli jesteś zalogowany na swoje konto Scratch, kliknij zielony przycisk Remix. Spowoduje to zapisanie kopii projektu na Twoim koncie Scratch.
 
-![The remix button.](images/remix-button.png)
+![Przycisk remiksu.](images/remix-button.png)
 
-Type the name of your project in the project name box at the top of the screen.
+Wpisz nazwę swojego projektu w polu nazwy projektu u góry ekranu.
 
-![The project name box.](images/project-name.png)
+![Pole nazwy projektu.](images/project-name.png)
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+**Wskazówka:** Nadaj swoim projektom pomocne nazwy, aby łatwo je znaleźć, gdy będziesz mieć wiele projektów.
 
-Next, click on **File**, and then on **Save now** to save your project.
+Następnie kliknij **Plik**, a potem **Zapisz teraz**, aby zapisać swój projekt.
 
-![The 'File' menu options.](images/file-menu.png)
+![Opcje menu „Plik”.](images/file-menu.png)
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+Jeśli nie jesteś online lub nie masz konta Scratch, możesz kliknąć **Zapisz na swoim komputerze** aby zapisać kopię swojego projektu.
 
 --- /task ---
 
