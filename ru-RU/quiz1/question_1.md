@@ -1,4 +1,4 @@
-## Reflection
+## Закрепление знаний
 
 Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
 
