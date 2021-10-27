@@ -41,10 +41,10 @@ Tu peux également « remixer » le projet pour apporter les modifications que
 
 --- collapse ---
 ---
-title: Space talk certificate
+title : certificat de conversation dans l'espace
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Bravo ! Tu as terminé le projet Space talk. Voici [un certificat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} pour célébrer tes nouvelles compétences. Télécharge une copie puis ouvre-le pour ajouter ton nom.
 
 --- /collapse ---
 
