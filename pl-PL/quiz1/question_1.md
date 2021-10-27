@@ -1,6 +1,6 @@
-## Przemyślenia
+## Powtórka
 
-Dobra robota, dużo materiału już za Tobą! Teraz nadszedł czas na przemyślenia — przemyślenia są ważną częścią uczenia się, ponieważ pomagają tworzyć nowe połączenia w mózgu.
+Dobra robota, dużo materiału już za Tobą! Teraz nadszedł czas na sprawdzenie swojej wiedzy — powtarzanie jest ważną częścią uczenia się, ponieważ pomaga tworzyć nowe połączenia w mózgu.
 
 Odpowiedz na trzy poniższe pytania, aby przypomnieć sobie to, czego się nauczyłeś.
 
