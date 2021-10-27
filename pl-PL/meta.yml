@@ -22,7 +22,7 @@ steps:
     title: Giga zmienia kolor
     completion: internal
   - 
-    title: Przemyślenia
+    title: Powtórka
     knowledge_quiz:
       path: quiz1
       version: 1
