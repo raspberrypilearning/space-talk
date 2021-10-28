@@ -1,12 +1,12 @@
-## Giga changes colour
+## Giga меняет цвет
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+Спрайты также могут использовать выноски и менять цвета, чтобы показать свою индивидуальность. Ты сделаешь так, чтобы Giga сделал это.
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![Спрайт Giga думает: «Хмм...».](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
@@ -15,15 +15,15 @@ Sprites can also use thought bubbles and change colours to show their personalit
 
 Add the **Giga** sprite.
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+Перетащи спрайт **Giga** в правую часть Сцены.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+Убедись, что у тебя спрайт **Giga** выбран в Списке Спрайтов под Сценой. Add this code to make the **Giga** sprite communicate by changing colour:
 
-![The Giga sprite.](images/giga-sprite.png)
+![Спрайт Giga.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -34,23 +34,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**Совет:** Щёлкни спрайт в Списке Спрайтов под Сценой, прежде чем добавлять или изменять его код, костюмы или звук. Убедись, что ты выбрал нужный спрайт.
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+Попробуй использовать разные числа от `1` до `200` в `установить эффект цвет`{:class="block3looks"}, пока не найдёшь цвет, который тебе понравится.
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+Измени слова и количество секунд в блоке `думать`{:class="block3looks"}.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**Тест:** Нажми на спрайт **Giga** на Сцене и убедись, что спрайт меняет цвет и показывает о чём он думает.
 
 --- /task ---
 
