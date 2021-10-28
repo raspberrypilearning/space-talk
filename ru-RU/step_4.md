@@ -23,7 +23,7 @@
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+Чтобы выбрать новый звук, щёлкни значок **Выбрать звук** и выбери категорию **Космос** или введи `космос` в поле поиска.
 
 ![The 'Choose a Sound' icon.](images/sound-button.png)
 
@@ -35,7 +35,7 @@ To choose a new sound, click on the **Choose a Sound** icon and select the **Spa
 
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+Воспроизведи несколько разных звуков с помощью значков **Играть**. Как только ты найдёшь звук, который хочешь использовать, щёлкни по нему, чтобы добавить в свой проект.
 
 ![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
@@ -43,13 +43,13 @@ Play a few different sounds using the **Play** icons. Once you have found the so
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+Перейди на вкладку **Код**. В меню блоков `Звук`{:class="block3sound"} найди блок `включить звук`{:class="block3sound"}.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+Перетащи блок в Область кода между блоком `когда спрайт нажат`{:class="block3events"} и блоком `говорить`{:class="block3looks"}. Откроется щель, и блок встанет на место.
 
 ![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
 
-Your code should look like this:
+Твой код должен выглядеть вот так:
 
 ![The Pico sprite.](images/pico-sprite.png)
 
@@ -63,7 +63,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+Убедись, что в блоке `включить звук`{:class="block3sound"} есть выбранный тобой звук. Если это не так, тебе нужно нажать на звук в блоке `включить звук`{:class="block3sound"}, а затем выбрать выбранный звук в раскрывающемся меню.
 
 ![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
@@ -71,7 +71,7 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**Тест:** Нажми на спрайт **Pico** и убедись, что появляется диалоговое окно и слышен звук. Если ты не услышишь звук, убедись, что ты добавил блок `включить звук`{:class="block3sound"} под блоком `когда спрайт нажат`{:class="block3events"}. Also, check that the sound is working on your computer or tablet.
 
 --- /task ---
 
