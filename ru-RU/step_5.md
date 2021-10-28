@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nano меняет костюмы
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+У тебя получится, чтобы Nano проявил эмоцию, сменив **костюмы**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+Sprites have **costumes** to change the way that they look. Чтобы оживить спрайт, ты можешь изменить его костюмы.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![Спрайт Nano говорит: «Спасибо!»](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano говорит: «Спасибо!»
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Добавь в свой проект спрайт **Nano** из категории **Фантастика**.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![Иконка «Выбрать спрайт».](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Убедись, что **Nano** выбран в Списке Спрайтов под Сценой.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Список спрайтов с синей рамкой вокруг спрайта Nano, чтобы показать, что Nano выбран.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+Перейди на вкладку **Код** и добавь скрипт, чтобы спрайт **Nano** мог `говорить`{:class="block3looks"} `Спасибо!`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![Спрайт Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**Совет:** Все блоки имеют цветовую кодировку, поэтому ты найдёшь блок `изменить костюм на`{:class="block3looks"} в меню блоков `Внешний вид`.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**Тест:** Нажми на спрайт **Nano** на Сцене и убедись, что диалоговое окно появляется и костюм Nano изменяется.
 
 --- /task ---
 
-### Nano uses sign language
+### Nano использует язык жестов
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Миллионы людей используют язык жестов для общения. Распространенный знак "спасибо" - это **поднести правую руку ко рту**. 
 </p>
 
-Nano will use sign language by switching costumes.
+Nano будет использовать язык жестов, меняя костюмы.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Ты можешь редактировать костюмы для своих спрайтов с помощью графического редактора. Ты отредактируешь костюм Nano, чтобы он сделал знак «спасибо».
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Перейди на вкладку **Костюмы**, чтобы увидеть костюмы для спрайта **Nano**:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Доступные костюмы для спрайта Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Нажми на костюм **nano-b**. Нажми на руку с левой стороны, а затем нажми на **Удалить**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![Костюм nano-b с выбранной рукой.](images/nano-arm-selected.png)
 
-The costume should look like this:
+Костюм должен выглядеть так:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![Костюм nano-b с удалённой рукой.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Совет:** Если ты ошибся в графическом редакторе, ты можешь нажать на **Отменить**.
+
+![Значок «Отменить».](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Перейди на костюм **nano-c** и нажми на руку с левой стороны, затем нажми **Копировать**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![Костюм nano-c с выбранной рукой.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+Вернись к костюму **nano-b** и нажми на **Вставить**. Костюм должен выглядеть так:
+
+![Костюм nano-b с рукой из костюма nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Тест:** Нажми на спрайт **Nano** на Сцене и убедись, что появляется диалоговое окно и костюм Nano меняется на костюм, который ты редактировал.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Ты научился как показывать знак «спасибо». В следующий раз, когда ты будешь кого-нибудь благодарить, почему бы не использовать свой новый навык?
 </p>
 
 --- save ---
