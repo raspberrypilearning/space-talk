@@ -13,7 +13,7 @@
 
 --- task ---
 
-Add the **Giga** sprite.
+Добавь спрайт **Giga**.
 
 Перетащи спрайт **Giga** в правую часть Сцены.
 
@@ -21,7 +21,7 @@ Add the **Giga** sprite.
 
 --- task ---
 
-Убедись, что у тебя спрайт **Giga** выбран в Списке Спрайтов под Сценой. Add this code to make the **Giga** sprite communicate by changing colour:
+Убедись, что у тебя спрайт **Giga** выбран в Списке Спрайтов под Сценой. Добавь этот код, чтобы спрайт **Giga** мог общаться, изменяя цвет:
 
 ![Спрайт Giga.](images/giga-sprite.png)
 
