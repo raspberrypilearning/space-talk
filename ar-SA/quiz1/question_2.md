@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: سؤال ٢ من ٣
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+لقد جعلت بيكو يقول "مرحبًا!" في فقاعة كلام.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+الى أين ستذهب للعثور على هذه الكتلة؟
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `المظاهر`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+نعم. كتلة `قل`{:class="block3looks"} في قائمة كتلة `الهيئة`{:class="block3looks"} وهي بنفس لون الكتلة البرمجية.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `الصوت`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+الكتل البرمجية في قائمة `الصوت`{:class="block3sound"} تستخدم لجعل الكائن يصدر اصوات.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `الحركة`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+الكتل البرمجية في قائمة كتل `الحركة`{:class="block3motion"} تستخدم لجعل الكائن يتحرك.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `الاحداث`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+الكتل البرمجية في قائمة كتل `الاحداث`{:class="block3events"} تستخدم لجعل الاشياء تحدث.
 
   --- /feedback ---
 
