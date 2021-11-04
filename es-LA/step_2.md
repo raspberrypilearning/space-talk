@@ -13,7 +13,7 @@ En este paso, configurarás tu proyecto con un fondo espacial y el primer objeto
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
+Abre el [proyecto de inicio de Conversación espacial](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
 
 [[[working-offline]]]
 
@@ -99,13 +99,13 @@ Type the name of your project in the project name box at the top of the screen.
 
 ![The project name box.](images/project-name.png)
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+**Consejo:** Dale a tus proyectos nombres útiles para que puedas encontrarlos fácilmente cuando tengas muchos proyectos.
 
-Next, click on **File**, and then on **Save now** to save your project.
+A continuación, haz clic en **Archivo**y luego en **Guardar ahora** para guardar tu proyecto.
 
 ![The 'File' menu options.](images/file-menu.png)
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+Si no estás en línea o no tienes una cuenta Scratch, puedes hacer clic en **Guardar en tu computador** para guardar una copia de tu proyecto.
 
 --- /task ---
 
