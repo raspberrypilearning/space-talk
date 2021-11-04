@@ -39,7 +39,7 @@ Clique sur l'onglet **Code** et ajoute un script pour faire `dire`{:class="block
 ```blocks3
 when this sprite clicked // quand on clique sur Nano
 switch costume to [nano-b v] // Nano parle
-say [Thanks!] for [2] seconds // essaye 1 au lieu de 2
+say [Merci !] for [2] seconds // essaye 1 au lieu de 2
 switch costume to [nano-a v] // Nano souriant
 ```
 --- /task ---

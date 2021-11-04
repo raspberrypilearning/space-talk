@@ -41,7 +41,7 @@ Tu peux également « remixer » le projet pour apporter les modifications que
 
 --- collapse ---
 ---
-title: certificat de conversation dans l'espace
+title: Certificat de conversation dans l'espace
 ---
 
 Bravo ! Tu as terminé le projet Space talk. Voici [un certificat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} pour célébrer tes nouvelles compétences. Télécharge une copie puis ouvre-le pour ajouter ton nom.
