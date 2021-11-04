@@ -1,55 +1,55 @@
-## Reflection
+## تفكير
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+أحسنت ، لقد تعلمت الكثير! الآن ، حان وقت التفكير - التفكير جزء مهم من التعلم ، لأنه يساعد في إنشاء روابط جديدة في عقلك.
 
-Answer the three questions below to reflect on what you have learned.
+أجب عن الأسئلة الثلاثة أدناه لتفكر فيما تعلمته.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+عندما تجيب على كل سؤال ، انقر فوق **إرسال**. سيتم توجيهك نحو الإجابة الصحيحة. يمكنك القيام بهذا النشاط عدة مرات كما تريد.
 
-Have fun!
+إستمتع!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: السؤال ١ الى ٣
 ---
 
-In your project, you added a backdrop and some sprite characters.
+لقد أضفت في مشروعك خلفية وبعض الكائنات.
 
-Where do you go to add a sprite to your project?
+إلى أين تذهب لإضافة كائن إلى مشروعك؟
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![لقطة شاشة مشروحة لمحرر Scratch الكامل مع 1 - علامة تبويب المظاهر ، 2 - علامة تبويب الأصوات ، 3 - قائمة الكائنات ، و 4 - تم تمييز جزء المنصة.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: علامة التبويب **المظاهر**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+لقد ذهبت إلى **المظاهر** لتعديل زي الكائن الخاص بك.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: علامة التبويب **الصوت**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+لقد ذهبت إلى علامة التبويب **الصوت** لاختيار صوت جديد للكائن الخاص بك.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: قائمة الكائنات
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+نعم. هذه هي المنطقة التي يمكنك من خلالها مشاهدة جميع الكائنات في المشروع وإضافة وحذف الكائنات والنقر على الكائنات لتحديدها.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- () 4: جزء المنصة
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+لقد ذهبت إلى جزء المنصة لاختيار خلفية.
 
   --- /feedback ---
 
