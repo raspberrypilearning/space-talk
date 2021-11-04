@@ -1,29 +1,29 @@
-## Giga changes colour
+## Giga verandert van kleur
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+Sprites kunnen ook denkballonnen gebruiken en van kleur veranderen om hun persoonlijkheid te tonen. Je gaat Giga dit laten doen.
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![De Giga sprite denkt, "Hmm...".](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Add the **Giga** sprite.
+Voeg de **Giga** sprite toe.
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+Sleep de **Giga** sprite naar de rechterkant van het Speelveld.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+Zorg ervoor dat je de **Giga** sprite hebt geselecteerd in de Sprite-lijst onder het Speelveld. Voeg deze code toe om de **Giga** sprite te laten communiceren door van kleur te veranderen:
 
-![The Giga sprite.](images/giga-sprite.png)
+![De Giga sprite.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -34,23 +34,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**Tip:** Klik op de sprite in de Sprite lijst onder het Speelveld voordat je code, uiterlijken of geluid toevoegt of wijzigt. Zorg ervoor dat je op de juiste sprite hebt geklikt.
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+Probeer verschillende getallen van `1` tot `200` in de `verander kleur effect met`{:class="block3looks"} blok totdat je een kleur vindt die je leuk vindt.
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+Verander de woorden en het aantal seconden in het `denk`{:class="block3looks"} blok.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**Test:** Klik op de **Giga** sprite in het speelveld en controleer of de sprite van kleur verandert en een tekstballon toont.
 
 --- /task ---
 
