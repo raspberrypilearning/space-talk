@@ -1,0 +1,26 @@
+---
+title: Ruimte praat
+hero_image: images/banner.png
+description: Gebruik Scratch om sprites een 'emotie' te geven zodat ze communiceren wanneer erop wordt geklikt
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Inleiding
+  - title: Creëer je scène
+  - title: Pico zegt hallo
+    completion: engaged
+  - title: Pico maakt een geluid
+  - title: Nano wisselt van uiterlijk
+  - title: Giga verandert van kleur
+    completion: internal
+  - title: Reflectie
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: Verbeter je project
+    completion: external
+  - title: Wat kun je verder nog doen?
