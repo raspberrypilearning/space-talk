@@ -14,7 +14,7 @@ Où irais-tu pour trouver ce bloc ?
 
 --- choices ---
 
-- (x) `apparence`{:class="block3looks"}
+- (x) `Apparence`{:class="block3looks"}
 
   --- feedback ---
 
