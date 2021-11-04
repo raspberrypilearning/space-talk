@@ -1,10 +1,10 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) project. In this project, you will code an animation with sprites that need to make it to a bus before it leaves.
+Als je het [Inleiding tot Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pad hebt gevolgd, kun je doorgaan naar het [Neem de bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) project. In dit project codeer je een animatie met sprites die de bus moeten halen voordat deze vertrekt.
 
 --- print-only ---
 
-![The 'Catch the bus' project.](images/scratch-tour-bus.png)
+![Het project 'Neem de bus'.](images/scratch-tour-bus.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Wil je nog meer plezier hebben met het het verkennen van Scratch, dan kun je een van [deze projecten](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) proberen.
