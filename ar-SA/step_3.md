@@ -1,57 +1,57 @@
-## Pico says hello
+## Pico يقول مرحبًا
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+يمكن أن يكون للكائن تعليمة برمجية، مظاهر، وأصوات لتغيير الطريقة التي يظهر بها وما يفعله. 
   
-You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
+ستضيف كتل برمجية لجعل Pico يعبر بالكلمات والصوت عند النقر فوق الكائن.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![الكائن Pico يقول، "مرحباً!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-To use blocks, you can click on them in the Blocks menu.
+لاستخدام الكتل البرمجية، يمكنك النقر عليهم في قائمة الكتل.
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+افتح قائمة الكتل البرمجية `الهيئة` {:class="block3looks"}.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+انقر على كتلة `قل`{:class = "block3looks"} `السلام عليكم!` `لـمدة `{: class = "block3looks"} `2` `ثانية`{: class = "block3looks"}.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![قَول مرحبا! تتوهج مجموعة لمدة ثانيتين بخط عريض أصفر.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+الكائن **Pico** سيُظهر فقاعة كلامية لمدة ثانيتين.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![الكائن Pico مع "السلام عليكم!" في فقاعة كلام.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**نصيحة:** الكتل البرمجية في Scratch تتوهج بخط عريض أصفر عند تشغيلها.
 
 --- /task ---
 
-You can drag blocks to the Code area, and they can be used from there.
+يمكنك سحب الكتل البرمجية إلى منطقة التعليمة البرمجية، ويمكن استخدامهم من هناك.
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+اسحب كتلة `قل`{:class="block3looks"} `السلام عليكم!` `لمدة`{:class="block3looks"} `2` `ثانية`{:class="block3looks"} إلى منطقة التعليمة البرمجية. اضغط عليها مرة أخرى.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![سحب كتلة "قل" إلى منطقة التعليمة البرمجية والنقر عليها لتشغيلها.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![تم سحب كتلة "قل" إلى منطقة التعليمة البرمجية. تتوهج مجموعة التعليمة البرمجية بخط عريض أصفر.](images/pico-drag-say.png)
 
 --- /task ---
 
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
+يمكن توصيل الكتل معًا في منطقة التعليمات البرمجية لتشغيل أكثر من كتلة في وقت واحد. سيتم تشغيل الكتل المتصلة بالترتيب من أعلى إلى أسفل.
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+اسحب كتلة `عند نقر هذا الكائن`{:class="block3events"} من `الأحداث` {:class="block3events"} في قائمة الكتل وقم بتوصيله إلى أعلى كتلة `قل` {:class="block3looks"}في منطقة التعليمة البرمجية. الكتل سوف تلتصق ببعضها البعض.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![رسم متحرك للكتل تلتصق ببعضها البعض. عندما يتم النقر فوق Pico ، يقولون "السلام عليكم!" لمدة ثانيتين.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![الكائن Pico.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,20 +60,20 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-A comment is an explanation of what your code does.
+التعليق هو شرح لما تفعله التعليمة البرمجية الخاصة بك.
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+سترى التعليقات في أمثلة التعليمة البرمجية. لست بحاجة إلى إضافة التعليقات عند إضافة التعليمة البرمجية إلى مشروعك.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+إذا كان لديك وقت عند الانتهاء من مشروعك، فأنها فكرة جيدة لإضافة تعليقات إلى التعليمة البرمجية الخاصة بك حتى يسهل فهمها لاحقًا. لإضافة تعليق ، انقر بزر الماوس الأيمن (أو على الجهاز اللوحي، انقر مع الاستمرار) على كتلة في منطقة التعليمة البرمجية واختر **إضافة تعليق**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![القائمة المنبثقة التي تظهر عند النقر بزر الماوس الأيمن فوق كتلة. تم تحديد "إضافة تعليق".](images/add-comment.png)
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**اختبار:** انقر فوق الكائن **Pico** على المنصة وتحقق من ظهور فقاعة الكلام لمدة ثانيتين. من المهم اختبار التعليمة البرمجية الخاص بك للتأكد من أنها تفعل ما تتوقعه.
 
 --- /task ---
 
