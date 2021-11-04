@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Вопрос 2 из 3
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+Ты сделал так, что Pico говорит "Привет!" в диалоговом окне.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Куда бы ты пошёл, чтобы найти этот блок?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Внешний вид`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Да. Блок `говорить`{:class="block3looks"} находится в меню блоков `Внешний вид`{:class="block3looks"}, имеюшей тот же цвет, что и блок.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- () `Звук`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Блоки в меню блоков `Звуки`{:class="block3sound"} используются для воспроизведения звуков спрайтов.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- () `Движение`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Блоки в меню блоков `Движение`{:class="block3motion"} используются для движения спрайтов.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- () `События`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Блоки в меню блоков `События`{:class="block3events"} используются для того, чтобы что-то происходило.
 
   --- /feedback ---
 
