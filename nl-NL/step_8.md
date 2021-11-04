@@ -1,17 +1,17 @@
-## Upgrade your project
+## Verbeter je project
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Voeg de **Tera** sprite toe en gebruik een van de blokken waar je over hebt geleerd om een 'emotie' te maken voor de **Tera** sprite.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![De Tera sprite in het Speelveld.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+De persoonlijkheid van de **Tera** sprite is jouw keuze, dus veel plezier met het gebruiken van je eigen creatieve ideeën.
 
 ```blocks3
 when this sprite clicked
@@ -35,25 +35,25 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Je kunt het project ook 'remixen' om allerlei wijzigingen aan te brengen. Je zou de achtergrond kunnen veranderen, en hoe de sprites emoties laten zien, en zelfs verschillende sprites kiezen en ze emoties geven.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Tip:** Klik op een sprite in de Sprite lijst onder het Speelveld om de code, de uiterlijken en het geluid voor die sprite te wijzigen.
 
 --- collapse ---
 ---
-title: Space talk certificate
+titel: Ruimte praat-certificaat
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Goed gedaan! Je hebt het Ruimte praat-project afgerond. Hier is [een certificaat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} om je nieuwe vaardigheden te vieren. Download een kopie en open deze om jouw naam toe te voegen.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+title: Voltooid project
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/485673032/){:target="_blank"} bekijken.
 
 --- /collapse ---
 
