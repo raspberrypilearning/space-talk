@@ -1,23 +1,23 @@
-Hello!
+مرحباً!
 
-hide speech after 2 seconds
+إخفاء الكلام بعد ثانيتين
 
-Thanks!
+شكرا!
 
-when Nano is clicked
+عندما يتم النقر فوق Nano
 
-Nano talking
+Nano يتحدث
 
-try 1 instead of 2
+جرب 1 بدلاً من 2
 
-Nano smiling
+Nano يبتسم
 
-Hm...
+همم...
 
-0 is the starting colour
+الصفر هو لون البداية
 
-back to the starting colour
+العودة إلى لون البداية
 
-hide speech bubble
+إخفاء فقاعة الكلام
 
-number up to 200
+عدد يصل إلى 200
