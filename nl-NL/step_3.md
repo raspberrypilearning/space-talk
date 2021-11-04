@@ -1,57 +1,57 @@
-## Pico says hello
+## Pico zegt hallo
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+Een sprite kan code, uiterlijken en geluiden hebben om de manier waarop hij eruitziet en doet, te veranderen. 
   
-You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Je voegt codeblokken toe om Pico emoties met woorden en geluid te laten maken als op de sprite wordt geklikt.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![De Pico sprite zegt: "Hallo!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-To use blocks, you can click on them in the Blocks menu.
+Om blokken te gebruiken, kun je op ze klikken in het blokkenmenu.
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Open het `Uiterlijken`{:class="block3looks"} blokkenmenu.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Klik op een `zeg`{:class="block3looks"} `Hallo!` `voor`{:class="block3looks"} `2` `seconden`{:class="block3looks"} blok.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![Het 'zeg hallo! voor 2 seconden' blok gloeit met een gele omtrek.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+De **Pico** sprite toont gedurende twee seconden een tekstballon.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![De Pico sprite met "Hallo!" in een tekstballon.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Tip:** Codeblokken in Scratch gloeien met een gele omtreklijn wanneer ze actief zijn.
 
 --- /task ---
 
-You can drag blocks to the Code area, and they can be used from there.
+Je kunt blokken naar het codegebied slepen en ze kunnen vanaf daar worden gebruikt.
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Sleep de `zeg`{:class="block3looks"} `Hallo!` `voor`{;class="block3looks"} `2` `seconden`{:class="block3looks"} blok naar het codegebied. Klik er nogmaals op.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![Het 'zeg'-blok naar het codegebied slepen en erop klikken om het uit te voeren.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![Het 'zeg'-blok is naar het codegebied gesleept. Het codeblok gloeit met een gele omtrek.](images/pico-drag-say.png)
 
 --- /task ---
 
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
+Blokken kunnen in het codegebied met elkaar worden verbonden om er meer dan één te laten werken. Verbonden blokken worden van boven naar beneden uitgevoerd.
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Sleep een `wanneer deze op sprite wordt geklikt`{:class="block3events"} blok uit het `Gebeurtenissen`{:class="block3events"} blokkenmenu en verbind het met de bovenkant van je `zeg`{:class="block3looks"} blok in het codegebied. De blokken zullen in elkaar klikken.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![Een animatie van de blokken die in elkaar klikken. Als er op Pico wordt geklikt, zegt het "Hallo!" gedurende twee seconden.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![De Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,20 +60,20 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-A comment is an explanation of what your code does.
+Een opmerking is een uitleg van wat je code doet.
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+Je ziet opmerkingen in de codevoorbeelden. Je hoeft de opmerkingen niet toe te voegen wanneer je code aan jouw project toevoegt.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Als je tijd hebt zodra je jouw project hebt afgerond, is het een goed idee om opmerkingen aan je code toe te voegen, zodat deze later gemakkelijker te begrijpen is. Om een opmerking toe te voegen, klik je met de rechtermuisknop (of tik je op een tablet en houdt je vast) op een blok in het codegebied en kies je **Commentaar toevoegen**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![Het pop-up menu dat verschijnt wanneer je met de rechtermuisknop op een blok klikt. 'Opmerking toevoegen' is geselecteerd.](images/add-comment.png)
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**Test:** Klik op de **Pico** sprite in het Speelveld en controleer of de tekstballon twee seconden lang verschijnt. Het is belangrijk om je code te testen om er zeker van te zijn dat deze doet wat je verwacht.
 
 --- /task ---
 
