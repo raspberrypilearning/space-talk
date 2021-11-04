@@ -1,0 +1,26 @@
+---
+title: Parler de l'espace
+hero_image: images/banner.png
+description: Utiliser Scratch pour donner aux sprites une « émotion » afin qu'ils communiquent lorsqu'ils sont cliqués
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Introduction
+  - title: Créer ta scène
+  - title: Pico dit bonjour
+    completion: engaged
+  - title: Pico joue un son
+  - title: Nano change de costume
+  - title: Giga change de couleur
+    completion: internal
+  - title: Réaction
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: Améliorer ton projet
+    completion: external
+  - title: Et ensuite ?
