@@ -1,55 +1,55 @@
 ## Закрепление знаний
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Молодец, ты многому научился! А теперь пора закрепить знания: закрепление знаний - важная часть обучения, потому что оно помогает установить новые связи в твоём мозге.
 
-Answer the three questions below to reflect on what you have learned.
+Ответь на три вопроса ниже, чтобы закрепить те знания, которые ты узнал.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Когда ты ответишь на каждый вопрос, нажми **Отправить**. Тебя перенаправят к правильному ответу. Ты можешь выполнять это задание столько раз, сколько захочешь.
 
-Have fun!
+Повеселись!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Вопрос 1 из 3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+В свой проект ты добавил фон и несколько персонажей-спрайтов.
 
-Where do you go to add a sprite to your project?
+Куда надо нажать, чтобы добавить спрайт в свой проект?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Аннотированный снимок экрана редактора Scratch с 1 - вкладкой «Костюмы», 2 - вкладкой «Звуки», 3 - списком спрайтов и 4 - выделенной областью «Сцена».](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- () 1: Вкладка **Костюмы**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Ты перешёл на вкладку **Костюмы**, чтобы отредактировать костюм для своего спрайта.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- () 2: Вкладка **Звуки**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Ты перешёл на вкладку **Звуки**, чтобы выбрать новый звук для своего спрайта.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Список спрайтов
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Да. Это область, где ты можешь видеть все спрайты в проекте, добавлять и удалять спрайты, а также щёлкать на спрайты, чтобы выбрать их.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- () 4: Панель сцены
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Ты перешёл на панель «Сцена», чтобы выбрать фон.
 
   --- /feedback ---
 
