@@ -2,16 +2,16 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Добавь спрайт **Tera** и используй любой из блоков, о которых ты узнал, чтобы создать «эмоцию» для спрайта **Tera**.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![Спрайт Tera на Сцене.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+Личные качества спрайта **Tera** - это твой выбор, так что получай удовольствие, используя свои собственные творческие идеи.
 
 ```blocks3
 when this sprite clicked
@@ -35,25 +35,25 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Ты также можешь «переделать» проект, чтобы внести любые изменения, которые тебе нравятся. Ты можешь изменить фон и то, как спрайты проявляют эмоции, и даже выбрать разные спрайты и дать им эмоции.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Совет:** Щёлкни спрайт в Списке Спрайтов под Сценой, чтобы изменить код, костюмы и звук для этого спрайта.
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: Сертификат Космический разговор
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Отличная работа! Ты завершил проект Космический разговор. Вот [сертификат](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, чтобы отметить твои новые навыки. Загрузи копию, затем открой её, чтобы добавить свое имя.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+title: Завершённый проект
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Ты можешь увидеть [завершённый проект здесь](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
