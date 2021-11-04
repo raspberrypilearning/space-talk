@@ -1,17 +1,17 @@
-## Upgrade your project
+## قم بترقية مشروعك
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+أضف الكائن ** Tera ** واستخدم أيًا من الكتل البرمجية التي تعلمتها لعمل "تعبير" للكائن ** Tera **.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![الكائن Tera على المنصة.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+شخصية الكائن **Tera**هي اختيارك ، لذا استمتع باستخدام أفكارك الإبداعية الخاصة.
 
 ```blocks3
 when this sprite clicked
@@ -35,25 +35,25 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+يمكنك أيضًا "إعادة عمل" المشروع لإجراء أي تغييرات تريدها. يمكنك تغيير الخلفية، وكيفية تعبير الكائنات، وحتى اختيار كائنات مختلفة ومنحهم المشاعر.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**نصيحة:** انقر فوق الكائن في قائمة الكائن أسفل المنصة لتغيير التعليمة البرمجية، المظاهر، أو الصوت.
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: شهادة حديث الفضاء
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+أحسنت! لقد أكملت مشروع حديث الفضاء. هنا [شهادة](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_ blank"} للاحتفال بمهاراتك الجديدة. قم بتنزيل نسخة ثم افتحها لإضافة اسمك.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+title: مشروع مكتمل
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+يمكنك عرض [المشروع المكتمل هنا](https://scratch.mit.edu/projects/485673032/){:target="_ blank"}.
 
 --- /collapse ---
 
