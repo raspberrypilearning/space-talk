@@ -1,57 +1,57 @@
-## Pico plays a sound
+## Pico يشغل صوت
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+طريقة أخرى للتواصل هي استخدام الصوت.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![الكائن Pico يقول، "السلام عليكم!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+أنقر على تبويب **الأصوات** للكائن Pico وستجد صوت **pop**. أنقر على أيقونة **التشغيل** لسماع صوت **pop**.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
-
---- /task ---
-
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
-
---- task ---
-
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
-
-![The 'Choose a Sound' icon.](images/sound-button.png)
-
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
-
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![تشغيل صوت pop في تبويب الصوت.](images/pico-sound-play.png)
 
 --- /task ---
 
+هناك بعض الأصوات الغريبة الرائعة في Scratch والتي يمكنك إضافتها إلى كائنك.
+
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+لاختيار صوت جديد، أنقرعلى أيقونة **اختيار صوت** وأختر فئة **فضاء** أو اكتب `space` في مربع البحث.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![أيقونة 'اختيار الصوت'.](images/sound-button.png)
+
+![محرر Scratch مع تظليل "أختيار صوت".](images/pico-choose-sound.png)
+
+![فئة "الفضاء" في مكتبة الصوت.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+قم بتشغيل بعض الأصوات المختلفة باستخدام أيقونات **التشغيل**. بمجرد العثور على الصوت الذي تريد استخدامه، انقر فوقه لإضافته إلى مشروعك.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+![مثال صوتي (صوت Alien Creak1) يظهر أسفل صوت pop في تبويب الأصوات.](images/pico-inserted-sound.png)
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+--- /task ---
 
-Your code should look like this:
+--- task ---
 
-![The Pico sprite.](images/pico-sprite.png)
+انقر على تبويب **المقاطع البرمجية**. في قائمة كتل `الصوت`{:class="block3sound"} جد كتلة `بداية الصوت`{:class="block3sound"}.
+
+اسحب الكتلة إلى منطقة التعليمة البرمجية، بين كتلة `عند نقر هذا الكائن`{: class = "block3events"} وكتلة `قل`{: class = "block3looks"}. ستفتح فجوة وستثبت الكتلة في مكانها.
+
+![إضافة كتلة "ابدأ الصوت" بين الكتلتين.](images/pico-insert-block.gif)
+
+يجب أن تبدو التعليمة البرمجية الخاص بك بالشكل التالي:
+
+![الكائن Pico.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -63,15 +63,15 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+تحقق من أن كتلة `ابدأ الصوت`{:class="block3sound"} تحتوي على الصوت الذي اخترته فيها. إذا لم يكن كذلك، فأنت بحاجة إلى النقر فوق الصوت في كتلة`ابدأ الصوت`{:class="block3sound"}، ثم حدد الصوت الذي اخترته في القائمة المنسدلة.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![النقر فوق صوت Alien Creak1 في القائمة المنسدلة داخل كتلة "ابدأ الصوت".](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**اختبار:** انقر فوق الكائن **Pico** وتحقق من ظهور فقاعة الكلام ويمكنك سماع الصوت. إذا كنت لا تسمع الصوت، تأكد من أنك قمت بإضافة كتلة `ابدأ الصوت`{:class="block3sound"} تحت كتلة `عند نقر هذا الكائن`{:class="block3events"}. تحقق أيضًا من أن الصوت يعمل على جهاز الكمبيوتر أو الجهاز اللوحي.
 
 --- /task ---
 
