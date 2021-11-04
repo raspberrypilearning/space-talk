@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nano wisselt van uiterlijk
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+Je gaat Nano een emotie laten zien door van **Uiterlijk** te wisselen.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+Sprites hebben **uiterlijken** om hun uiterlijk te veranderen. Om een sprite te animeren, kun je zijn uiterlijk laten veranderen.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![De Nano sprite zegt: "Dank je!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano zegt "Dank je!"
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Voeg de **Nano** sprite uit de categorie **Fantasie** toe aan je project.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![Het pictogram 'Kies een Sprite'.](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Zorg ervoor dat de **Nano** sprite geselecteerd is in de Sprite lijst onder het Speelveld.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![De Sprite-lijst, met een blauwe rand rond de Nano sprite om aan te geven dat Nano is geselecteerd.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+Klik op de **Code** tab en voeg een script toe om de **Nano** sprite{:class="block3looks"} `Dank je!` te laten `zeggen`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![De Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**Tip:** Alle blokken zijn kleurgecodeerd, dus je vindt het `verander uiterlijk naar`{:class="block3looks"} blok in het `Uiterlijken`{:class="block3looks"} blokkenmenu.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**Test:** Klik op de **Nano** sprite in het Speelveld en controleer of de tekstballon verschijnt en Nano's uiterlijk verandert.
 
 --- /task ---
 
-### Nano uses sign language
+### Nano gebruikt gebarentaal
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miljoenen mensen gebruiken gebarentaal om te communiceren. Een veelgebruikt teken voor 'dank je' is **je rechterhand naar je mond brengen**. 
 </p>
 
-Nano will use sign language by switching costumes.
+Nano gebruikt gebarentaal door van uiterlijk te wisselen.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Je kunt uiterlijken voor je sprites bewerken met de Teken-editor. Je zult een uiterlijk van Nano bewerken om het "dank je" te laten weergeven.
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Klik op het **Uiterlijken** tabblad om de uiterlijken voor de **Nano** sprite te zien:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![De beschikbare uiterlijken voor de Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Klik op het **nano-b** uiterlijk. Klik op de arm aan de linkerkant en klik vervolgens op **Verwijderen**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![Het nano-b-uiterlijk met de arm geselecteerd.](images/nano-arm-selected.png)
 
-The costume should look like this:
+Het uiterlijk zou er als volgt uit moeten zien:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![Het nano-b-uiterlijk met de arm verwijderd.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Tip:** Als je een fout maakt in de Teken-editor, kun je klikken op **Ongedaan maken**.
+
+![Het pictogram 'Ongedaan maken'.](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Ga naar het **nano-c** uiterlijk en klik op de arm aan de linkerkant, klik dan op **Kopie maken**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![Het nano-c-uiterlijk met de arm geselecteerd.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+Ga terug naar het **nano-b** uiterlijk en klik op **Plakken**. Het uiterlijk zou er als volgt uit moeten zien:
+
+![Het nano-b-uiterlijk met de arm uit het nano-c-uiterlijk.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Test:** Klik op de **Nano** sprite in het Speelveld en controleer of de tekstballon verschijnt en Nano's uiterlijk verandert in het uiterlijk dat je hebt bewerkt.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Je hebt het gebaar voor "dank je" geleerd. Waarom zou je de volgende keer dat je iemand bedankt, je nieuwe vaardigheid niet gebruiken?
 </p>
 
 --- save ---
