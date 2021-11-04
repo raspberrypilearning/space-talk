@@ -1,55 +1,55 @@
-## Reflection
+## Reflectie
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Goed gedaan, je hebt veel geleerd! Nu is het tijd om te reflecteren - reflecteren is een belangrijk onderdeel van leren, omdat het helpt om nieuwe verbindingen in je hersenen te maken.
 
-Answer the three questions below to reflect on what you have learned.
+Beantwoord de drie onderstaande vragen om na te denken over wat je hebt geleerd.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Wanneer je de vraag hebt beantwoord, klik je op **Verzenden**. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
 
-Have fun!
+Veel plezier!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Vraag 1 van 3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+In je project heb je een achtergrond en enkele sprite-personages toegevoegd.
 
-Where do you go to add a sprite to your project?
+Waar ga je heen om een sprite aan je project toe te voegen?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Een verhelderend screenshot van de volledige Scratch-editor met 1 — Het tabblad Uiterlijken, 2 — Het tabblad Geluiden, 3 — De Sprite-lijst en 4 — Het deelvenster Speelveld gemarkeerd.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Het tabblad **Uiterlijken**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Je ging naar het **Uiterlijkens** tabblad om een uiterlijk voor je sprite te bewerken.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Het tabblad **Geluiden**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Je ging naar het **Geluiden** tabblad om een nieuw geluid voor je sprite te kiezen.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: De Sprite-lijst
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Ja. Dit is het gebied waar je alle sprites in het project kunt zien, sprites kunt toevoegen en verwijderen en op sprites kunt klikken om ze te selecteren.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Het deelvenster Speelveld
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Je ging naar het deelvenster Speelveld om een achtergrond te kiezen.
 
   --- /feedback ---
 
