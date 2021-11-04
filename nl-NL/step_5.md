@@ -32,7 +32,7 @@ Zorg ervoor dat de **Nano** sprite geselecteerd is in de Sprite lijst onder het 
 ![De Sprite-lijst, met een blauwe rand rond de Nano sprite om aan te geven dat Nano is geselecteerd.](images/nano-selected.png)
 
 
-Klik op de **Code** tab en voeg een script toe om de **Nano** sprite{:class="block3looks"} `Dank je!` te laten `zeggen`:
+Klik op de **Code** tab en voeg een script toe om de **Nano** sprite `Dank je!` te laten `zeggen`{:class="block3looks"}:
 
 ![De Nano sprite.](images/nano-sprite.png)
 

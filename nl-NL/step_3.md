@@ -35,7 +35,7 @@ Je kunt blokken naar het codegebied slepen en ze kunnen vanaf daar worden gebrui
 
 --- task ---
 
-Sleep de `zeg`{:class="block3looks"} `Hallo!` `voor`{;class="block3looks"} `2` `seconden`{:class="block3looks"} blok naar het codegebied. Klik er nogmaals op.
+Sleep de `zeg`{:class="block3looks"} `Hallo!` `voor`{:class="block3looks"} `2` `seconden`{:class="block3looks"} blok naar het codegebied. Klik er nogmaals op.
 
 ![Het 'zeg'-blok naar het codegebied slepen en erop klikken om het uit te voeren.](images/pico-drag-say.gif)
 

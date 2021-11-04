@@ -45,7 +45,7 @@ Speel een paar verschillende geluiden met behulp van het **Play** pictogram. Zod
 
 Klik op het **Code** tabblad. Zoek bij de `Geluid`{:class="block3sound"} blokken het blok `start geluid`{:class="block3sound"}.
 
-Sleep het blok naar het codegebied tussen `wanneer op deze sprite wordt geklikt` {:class="block3events"} blok en het `zeg`{:class="block3looks"} blok. Er ontstaat een opening en het blok klikt op zijn plaats.
+Sleep het blok naar het codegebied tussen `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok en het `zeg`{:class="block3looks"} blok. Er ontstaat een opening en het blok klikt op zijn plaats.
 
 ![Het 'startgeluid'-blok dat tussen de twee blokken wordt toegevoegd.](images/pico-insert-block.gif)
 
