@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legend: سؤال ٣ من ٣
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+في مشروعك ، قمت بجعل Nano يعطي علامة "شكرًا لك". ما الكتل البرمجية التي استخدمتها لجعل Nano يحرك يده إلى فمه؟
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+تقوم هذه الكتل البرمجية بتشغيل صوت ويظهر فقاعة كلام.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+تغير هذه الكتل البرمجية لون الكائن ويظهر فقاعة فكرية.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+نعم. الكتل البرمجة `غير المظهر الى`{:class="block3looks"} تعمل على تغيير شكل الكائن بحيث تتحرك يده.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+تغير هذه الكتل البرمجية لون الكائن وتجعله يصدر صوتا.
 
   --- /feedback ---
 
