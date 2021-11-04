@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Vraag 2 van 3
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+Je liet Pico in een tekstballon "Hallo!" zeggen.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Waar zou je dit blok kunnen vinden?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Uiterlijken`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Ja. Het `zeg`{:class="block3looks"} blok staat in het `Uiterlijken`{:class="block3looks"} blokkenmenu, dat dezelfde kleur heeft als het blok.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `Geluid`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+De blokken in het `Geluid`{:class="block3sound"} blokkenmenu worden gebruikt om sprites geluiden te laten maken.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Beweging`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+De blokken in het `Beweging`{:class="block3motion"} blokkenmenu worden gebruikt om sprites te laten bewegen.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Gebeurtenissen`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+De blokken in het `Gebeurtenissen`{:class="block3events"} blokkenmenu worden gebruikt om dingen te laten gebeuren.
 
   --- /feedback ---
 
