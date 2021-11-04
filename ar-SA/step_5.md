@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nano يبدل المظاهر
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+ستجعل Nano يعبر عن مشاعره عن طريق تبديل مظهره ** الهيئة**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+الكائنات تمتلك **المظاهر** لتغيير الطريقة التي تظهر بها. لتحريك كائن ما، يمكنك تغيير مظهره.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![الكائن Nano يقول، "شكراً!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano يقول "شكرًا!"
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+أضف الكائن **Nano** إلى مشروعك من فئة **عالم الخيال**.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![أيقونة "اختيار كائن".](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+تأكد من تحديد الكائن **Nano** في قائمة الكائن أسفل المنصة.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![قائمة الكائن، مع أطار أزرق حول الكائن Nano لإظهار أنه تم أختيار Nano.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+أنقر على تبويب **المقاطع البرمجية** وأضف نص للحصول على الكائن **Nano** `لقول` {:class="block3looks"}`شكراً!`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![الكائن Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**نصيحة:** جميع الكتل البرمجية مرمزة بالألوان، لذلك ستجد مظهر التبديل ``{:class="block3looks"} الى كتلة برمجية في قائمة الكتل `الهيئة`{:class="block3looks"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**اختبار:** انقر فوق الكائن **Nano** على المنصة وتحقق من ظهور فقاعة الكلام وتغيير مظهر Nano.
 
 --- /task ---
 
-### Nano uses sign language
+### Nano يستخدم لغة الإشارة
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">يستخدم الملايين من الناس لغة الإشارة للتواصل. من العلامات الشائعة لـ "شكرًا لك" **رفع يدك اليمنى إلى فمك**. 
 </p>
 
-Nano will use sign language by switching costumes.
+سيستخدم Nano لغة الإشارة عن طريق تبديل المظاهر.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+يمكنك تعديل المظاهر للكائنات الخاصة بك باستخدام محرر الرسام. ستقوم بتعديل مظهر Nano لجعلهم يلوحون ب "شكرًا لك".
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+انقر فوق تبويب **المظاهر** لرؤية مظاهر الكائن **Nano**:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![المظاهر المتاحة للكائن Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+أنقر على مظهر **nano-b**. أنقر فوق الذراع الموجود على الجانب الأيسر، ثم أنقر فوق **مسح**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![المظهر nano-b مع الذراع المحدد.](images/nano-arm-selected.png)
 
-The costume should look like this:
+المظهر يجب أن يبدو كما يلي:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![المظهر nano-b مع الذراع المحذوف.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**نصيحة:** إذا قمت بخطأ ما في محرر الرسام ، يمكنك النقر فوق **تراجع**.
+
+![أيقونة ’التراجع’.](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+اذهب إلى مظهر **nano-c** وانقر على الذراع التي على الجانب الأيسر، ثم انقر على **نسخ**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![المظهر nano-c مع الذراع المحدد.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+ارجع إلى مظهر **nano-b** وانقر على **لصق**. المظهر يجب أن يبدو كما يلي:
+
+![المظهر nano-b مع الذراع من المظهر nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**اختبار:** انقر فوق الكائن **Nano** على المنصة وتحقق من ظهور فقاعة الكلام وتغيير مظهر Nano إلى المظهر الذي قمت بتعديله.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">لقد تعلمت كيفية التلويح بـ "شكرًا". في المرة القادمة التي تشكر فيها شخصًا ما، لماذا لا تستخدم مهارتك الجديدة؟
 </p>
 
 --- save ---
