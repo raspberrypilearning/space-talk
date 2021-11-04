@@ -1,23 +1,23 @@
-Hello!
+Hallo!
 
-hide speech after 2 seconds
+spraak verbergen na 2 seconden
 
-Thanks!
+Dank je!
 
-when Nano is clicked
+wanneer op Nano wordt geklikt
 
-Nano talking
+Nano praat
 
-try 1 instead of 2
+probeer 1 in plaats van 2
 
-Nano smiling
+Nano lacht
 
-Hm...
+Hmm...
 
-0 is the starting colour
+0 is de startkleur
 
-back to the starting colour
+terug naar de startkleur
 
-hide speech bubble
+tekstballon verbergen
 
-number up to 200
+aantal tot 200
