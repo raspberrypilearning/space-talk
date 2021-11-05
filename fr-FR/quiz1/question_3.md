@@ -35,7 +35,7 @@ Ce code change la couleur du sprite et affiche une bulle de pensée.
 
   --- /feedback ---
 
-- (X)
+- (x)
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
