@@ -8,7 +8,7 @@
 </div>
 <div>
 
-! [Το αντικείμενο Pico λέει, «Γεια!».](images/pico-step2.png){:width="300px"}
+![Το αντικείμενο Pico λέει, «Γεια!».](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>

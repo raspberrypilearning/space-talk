@@ -41,7 +41,7 @@ Możesz także „zremiksować” projekt, aby wprowadzić dowolne zmiany. Może
 
 --- collapse ---
 ---
-tytuł: Certyfikat Kosmicznej rozmowy
+title: Certyfikat Kosmicznej rozmowy
 ---
 
 Dobra robota! Ukończyłeś projekt Kosmiczna rozmowa. Oto [certyfikatu](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, aby uczcić Twoje nowe umiejętności. Pobierz kopię, a następnie otwórz ją, aby dodać swoje imię.
