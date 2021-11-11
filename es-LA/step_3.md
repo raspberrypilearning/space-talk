@@ -47,7 +47,7 @@ Los bloques se pueden conectar entre si en el área de Código para ejecutar má
 
 --- task ---
 
-Arrastra un bloque `al hacer clic en este objeto` del menú `Eventos`{:class="block3events"} y conéctelo a la parte superior de tu bloque `decir`{:class="block3looks"} en el área de Código. Los bloques van a encajar.
+Arrastra un bloque `al hacer clic en este objeto`{:class="block3events"} del menú `Eventos`{:class="block3events"} y conéctelo a la parte superior de tu bloque `decir`{:class="block3looks"} en el área de Código. Los bloques van a encajar.
 
 ![Una animación de los bloques que encajan juntos. Cuando se hace clic en Pico, dice "¡Hola!" durante dos segundos.](images/pico-snap-together.gif)
 

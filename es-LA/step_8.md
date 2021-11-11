@@ -41,10 +41,10 @@ También puedes 'reinventar' el proyecto para realizar los cambios que desees. P
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: Certificado de conversación espacial
 ---
 
-¡Bien hecho! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+¡Bien hecho! Has completado el proyecto Conversación espacial. Aquí tienes [un certificado](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} para celebrar tus nuevas habilidades. Descarga una copia y luego ábrela para agregar tu nombre.
 
 --- /collapse ---
 
