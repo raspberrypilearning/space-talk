@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Ο Nano αλλάζει ενδυμασίες
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+Θα κάνεις τον Nano να εκφραστεί αλλάζοντας **ενδυμασίες**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+Τα αντικείμενα έχουν **ενδυμασίες** για να αλλάζουν την εμφάνισή τους. Για να ζωντανέψεις ένα αντικείμενο, μπορείς να αλλάξεις τις ενδυμασίες του.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![Το αντικείμενο Nano που λέει, "Ευχαριστώ!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Ο Nano λέει «Ευχαριστώ!»
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Πρόσθεσε το αντικείμενο **Nano** στο έργο σου από την κατηγορία **Φαντασία**.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![Το εικονίδιο «Επιλέξτε ένα Αντικείμενο».](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Βεβαιώσου ότι το αντικείμενο **Nano** είναι επιλεγμένο στη λίστα Αντικειμένων κάτω από την Σκηνή.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Η λίστα Αντικειμένων, με ένα μπλε περίγραμμα γύρω από το αντικείμενο Nano για να δείξει ότι έχει επιλεγεί το Nano.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+Κάνε κλικ στην καρτέλα **Κώδικας** και πρόσθεσε script για να κάνεις το αντικείμενο **Nano** να `πει`{:class="block3looks"} `Ευχαριστώ!`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![Το αντικείμενο Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**Συμβουλή:** Όλα τα μπλοκ είναι χρωματικά κωδικοποιημένα, επομένως θα βρεις το μπλοκ `άλλαξε ενδυμασία σε`{:class="block3looks"} στο μενού μπλοκ `Όψεις`{:class="block3looks"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**Δοκιμή:** Κάνε κλικ στο αντικείμενο **Nano** στην Σκηνή και έλεγξε ότι εμφανίζεται το συννεφάκι ομιλίας και ότι αλλάζει το κοστούμι του Nano.
 
 --- /task ---
 
-### Nano uses sign language
+### Ο Nano χρησιμοποιεί τη νοηματική γλώσσα
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Εκατομμύρια άνθρωποι χρησιμοποιούν τη νοηματική γλώσσα για να επικοινωνήσουν. Ένα κοινό σημάδι για το «ευχαριστώ» είναι **να φέρεις το δεξί σου χέρι στο στόμα σου**. 
 </p>
 
-Nano will use sign language by switching costumes.
+Ο Nano θα χρησιμοποιήσει τη νοηματική γλώσσα αλλάζοντας ενδυμασίες.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Μπορείς να επεξεργαστείς ενδυμασίες για τα αντικείμενά σου με το πρόγραμμα επεξεργασίας Ζωγραφική. Θα επεξεργαστείς μια ενδυμασίατου Nano για να τον κάνεις να πει "ευχαριστώ".
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Κάνε κλικ στην καρτέλα **Ενδυμασίες** για να δεις τις ενδυμασίες για το αντικείμενο **Nano**:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Διαθέσιμες ενδυμασίες για το αντικείμενο Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Κάνε κλικ στην ενδυμασία **nano-b**. Κάνε κλικ στο χέρι στην αριστερή πλευρά και, στη συνέχεια, κάνε κλικ στο **Διαγραφή**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![Η ενδυμασία nano-b με επιλεγμένο το χέρι.](images/nano-arm-selected.png)
 
-The costume should look like this:
+Η ενδυμασία πρέπει να μοιάζει με αυτό:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![Η ενδυμασία nano-b με το χέρι διαγραμμένο.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Συμβουλή:** Εάν κάνεις λάθος στον επεξεργαστή Ζωγραφική, μπορείς να κάνεις κλικ στην επιλογή **Αναίρεση**.
+
+![Το εικονίδιο «Αναίρεση».](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Μετακινήσου στην ενδυμασία **nano-c** και κάνε κλικ στο χέρι στην αριστερή πλευρά και, στη συνέχεια, κάνε κλικ στο **Αντιγραφή**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![Η ενδυμασία nano-c με επιλεγμένο το χέρι.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+Επίστρεψε στην ενδυμασία **nano-b** και κάνε κλικ στο **Επικόλληση**. Η ενδυμασία πρέπει να μοιάζει με αυτό:
+
+![Η ενδυμασία nano-b με το χέρι από την ενδυμασία nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Δοκιμή:** Κάνε κλικ στο αντικείμενο **Nano** στην Σκηνή και έλεγξε ότι εμφανίζεται το συννεφάκι ομιλίας και ότι η ενδυμασία του Nano αλλάζει με την ενδυμασία που έχεις επεξεργαστεί.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Έχεις μάθει πώς να λες «ευχαριστώ». Την επόμενη φορά που θα ευχαριστήσεις κάποιον, γιατί να μην χρησιμοποιήσεις τη νέα σου ικανότητα;
 </p>
 
 --- save ---
