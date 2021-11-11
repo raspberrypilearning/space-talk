@@ -1,0 +1,26 @@
+---
+title: Kosmiczna rozmowa
+hero_image: images/banner.png
+description: Użyj Scratcha, aby dać duszkom „emotkę”, tak by komunikowały się po kliknięciu
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Wprowadzenie
+  - title: Stwórz swoją scenę
+  - title: 'Pico mówi: "cześć"'
+    completion: engaged
+  - title: Pico odtwarza dźwięk
+  - title: Nano zmienia kostiumy
+  - title: Giga zmienia kolor
+    completion: internal
+  - title: Powtórka
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: Ulepsz swój projekt
+    completion: external
+  - title: Co dalej?
