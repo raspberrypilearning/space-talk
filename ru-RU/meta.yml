@@ -1,0 +1,26 @@
+---
+title: Космический разговор
+hero_image: images/banner.png
+description: Используй Scratch, чтобы наделить спрайты «эмоциями», как будто они общаются при нажатии
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Введение
+  - title: Создай свою сцену
+  - title: Pico здоровается
+    completion: engaged
+  - title: Pico воспроизводит звук
+  - title: Nano меняет костюмы
+  - title: Giga меняет цвет
+    completion: internal
+  - title: Закрепление знаний
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: Улучшение своего проекта
+    completion: external
+  - title: Что дальше?

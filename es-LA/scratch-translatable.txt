@@ -1,0 +1,23 @@
+¡Hola!
+
+esconde lo que dice después de 2 segundos
+
+¡Gracias!
+
+cuando se hace clic en Nano
+
+Nano hablando
+
+prueba 1 en vez de 2
+
+Nano sonriendo
+
+Umm...
+
+el color inicial es 0
+
+de vuelta al color inicial
+
+esconde la burbuja de diálogo
+
+número hasta 200
