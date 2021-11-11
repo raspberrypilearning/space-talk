@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Ερώτηση 3 από 3
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+Στο έργο σου έβαλες τον Νάνο να πει «ευχαριστώ». Ποιον κώδικα χρησιμοποίησες για να κάνεις τον Nano να μετακινήσει το χέρι του στο στόμα του;
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+Αυτός ο κώδικας αναπαράγει έναν ήχο και εμφανίζει ένα συννεφάκι ομιλίας.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+Αυτός ο κώδικας αλλάζει το χρώμα του αντικειμένου και εμφανίζει ένα συννεφάκι σκέψης.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Ναι. Το μπλοκ `άλλαξε ενδυμασία σε`{:class="block3looks"} αλλάζει το κοστούμι του αντικειμένου έτσι ώστε το χέρι να κινείται.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+Αυτός ο κώδικας αλλάζει το χρώμα του αντικειμένου και αναπαράγει έναν ήχο.
 
   --- /feedback ---
 
