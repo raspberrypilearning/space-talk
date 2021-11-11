@@ -1,55 +1,55 @@
-## Reflection
+## Αναστοχασμός
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Μπράβο, έμαθες πολλά! Τώρα, ήρθε η ώρα να εξετάσεις τις νέες γνώσεις- ο αναστοχασμός είναι σημαντικό μέρος της μάθησης, επειδή βοηθά στη δημιουργία νέων συνδέσεων στον εγκέφαλό σου.
 
-Answer the three questions below to reflect on what you have learned.
+Απάντησε στις τρεις ερωτήσεις παρακάτω για να διαπιστώσεις τι έμαθες.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Όταν απαντήσεις σε κάθε ερώτηση, κάνε κλικ στην**Υποβολή**. Θα οδηγηθείς στη σωστή απάντηση. Μπορείς να επαναλάβεις αυτήν τη δραστηριότητα όσες φορές θέλεις.
 
-Have fun!
+Καλή διασκέδαση!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Ερώτηση 1 από 3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+Στο έργο σου, πρόσθεσες ένα υπόβαθρο και μερικούς χαρακτήρες αντικειμένων.
 
-Where do you go to add a sprite to your project?
+Πού πήγες για να προσθέσεις ένα αντικείμενο στο έργο σου;
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Ένα σχολιασμένο στιγμιότυπο οθόνης του πλήρους προγράμματος επεξεργασίας Scratch με 1 — Η καρτέλα Ενδυμασίες, 2 — Η καρτέλα Ήχοι, 3 — Η λίστα Αντικειμένων και 4 — Η καρτέλα Σκηνή έχουν επιλεγεί.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Στην καρτέλα **Ενδυμασίες**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Πήγες στην καρτέλα **Ενδυμασίες** για να επεξεργαστείς μια ενδυμασία για το αντικείμενό σου.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Στην καρτέλα **Ήχοι**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Πήγες στην καρτέλα **Ήχοι** για να επιλέξεις έναν νέο ήχο για το αντικείμενό σου.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Στη λίστα Αντικειμένων
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Ναι. Αυτή είναι η περιοχή όπου μπορείς να δεις όλα τα αντικείμενα στο έργο, να προσθέσεις και να διαγράψεις αντικείμενα και να κάνεις κλικ στα αντικείμενα για να τα επιλέξεις.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Στον πίνακα Σκηνή
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Πήγες στον πίνακα Σκηνή για να επιλέξεις ένα υπόβαθρο.
 
   --- /feedback ---
 
