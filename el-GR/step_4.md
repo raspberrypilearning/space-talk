@@ -1,57 +1,57 @@
-## Pico plays a sound
+## Ο Pico παίζει έναν ήχο
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+Ένας άλλος τρόπος επικοινωνίας είναι η χρήση ήχου.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+! [Το αντικείμενο Pico λέει, «Γεια!».](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Κάνε κλικ στην καρτέλα **Ήχοι** για το αντικείμενο **Pico** και θα βρεις έναν ήχο **pop**. Κάνε κλικ στο εικονίδιο **Αναπαραγωγή** για να ακούσεις τον ήχο **pop**.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
-
---- /task ---
-
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
-
---- task ---
-
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
-
-![The 'Choose a Sound' icon.](images/sound-button.png)
-
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
-
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![Αναπαραγωγή του ήχου pop στην καρτέλα Ήχοι.](images/pico-sound-play.png)
 
 --- /task ---
 
+Υπάρχουν μερικοί φανταστικοί εξωγήινοι ήχοι στο Scratch που μπορείς να προσθέσεις στο αντικείμενό σου.
+
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+Για να επιλέξεις νέο ήχο, κάνε κλικ στο εικονίδιο **Διάλεξε Ήχο** και επίλεξε το **Διάστημα** ή πληκτρολόγησε `διάστημα` στο πλαίσιο αναζήτησης.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![Το εικονίδιο «Διάλεξε Ήχο».](images/sound-button.png)
+
+![Ο επεξεργαστής Scratch με επιλεγμένο το «Διάλεξε Ήχο».](images/pico-choose-sound.png)
+
+![Η κατηγορία «Διάστημα» στη Βιβλιοθήκη Ήχων.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+Παίξε μερικούς διαφορετικούς ήχους χρησιμοποιώντας τα εικονίδια **Αναπαραγωγή**. Μόλις βρεις τον ήχο που θέλεις να χρησιμοποιήσεις, κάνε κλικ σε αυτόν για να τον προσθέσεις στο έργο σου.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+![Ένα παράδειγμα ήχου (ο ήχος Alien Creak1) που εμφανίζεται κάτω από τον ήχο pop στην καρτέλα Ήχοι.](images/pico-inserted-sound.png)
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+--- /task ---
 
-Your code should look like this:
+--- task ---
 
-![The Pico sprite.](images/pico-sprite.png)
+Κάνε κλικ στην καρτέλα **Κώδικας**. Στο μενού μπλοκ `Ήχος`{:class="block3sound"}, βρες το μπλοκ `παίξε τον ήχο`{:class="block3sound"}.
+
+Σύρε το μπλοκ στην περιοχή Κώδικα, μεταξύ του μπλοκ `όταν γίνει κλικ σε αυτό το αντικείμενο`{:class="block3events"} και του μπλοκ `πες`{:class="block3looks"}. Θα ανοίξει ένα κενό και το μπλοκ θα κουμπώσει στη θέση του.
+
+![Το μπλοκ «παίξε τον ήχο» προστίθεται μεταξύ των δύο μπλοκ.](images/pico-insert-block.gif)
+
+Ο κώδικας θα πρέπει να μοιάζει κάπως έτσι:
+
+![Το αντικείμενο Pico.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -63,15 +63,15 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+Βεβαιώσου ότι το μπλοκ `παίξε τον ήχο`{:class="block3sound"} περιέχει τον ήχο που έχεις επιλέξει. Εάν όχι, πρέπει να κάνεις κλικ στον ήχο στο μπλοκ `παίξε τον ήχο`{:class="block3sound"}, στη συνέχεια να επιλέξεις τον ήχο που έχεις επιλέξει στο αναπτυσσόμενο μενού.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![Κάνοντας κλικ στον ήχο Alien Creak1 στο αναπτυσσόμενο μενού στο μπλοκ «παίξε τον ήχο».](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**Δοκιμή:** Κάνε κλικ στο αντικείμενο **Pico** και έλεγξε ότι εμφανίζεται το συννεφάκι ομιλίας και μπορείς να ακούσεις τον ήχο. Εάν δεν ακούς τον ήχο, βεβαιώσου ότι έχεις προσθέσει το μπλοκ `παίξε τον ήχο`{:class="block3sound"} κάτω από το μπλοκ `όταν γίνει κλικ σε αυτό το αντικείμενο`{:class="block3events"}. Επίσης, έλεγξε ότι ο ήχος λειτουργεί στον υπολογιστή ή το tablet σου.
 
 --- /task ---
 
