@@ -1,35 +1,35 @@
 ---
-title: Space talk
+title: Ομιλία στο διάστημα
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+description: Χρησιμοποίησε το Scratch για να δώσεις στα αντικείμενα μια 'έκφραση' ώστε να επικοινωνούν όταν γίνεται κλικ πάνω τους
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Create your scene
+    title: Δημιούργησε την σκηνή σου
   - 
-    title: Pico says hello
+    title: Ο Pico λέει γεια
     completion: engaged
   - 
-    title: Pico plays a sound
+    title: Ο Pico παίζει έναν ήχο
   - 
-    title: Nano switches costumes
+    title: Ο Nano αλλάζει ενδυμασίες
   - 
-    title: Giga changes colour
+    title: Ο Giga αλλάζει χρώμα
     completion: internal
   - 
-    title: Reflection
+    title: Αναστοχασμός
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: Upgrade your project
+    title: Αναβάθμισε το έργο σου
     completion: external
   - 
-    title: What next?
+    title: Τι υπάρχει στη συνέχεια;
