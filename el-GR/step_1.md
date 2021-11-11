@@ -1,25 +1,25 @@
-## Introduction
+## Εισαγωγή
 
-In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
+Σε αυτό το έργο, θα δημιουργήσεις μια διαστημική σκηνή με χαρακτήρες που «εκφράζονται» για να μοιραστούν τις σκέψεις ή τα συναισθήματά τους.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">** Εκφράσεις **</span> είναι ένας τρόπος εμφάνισης της προσωπικότητας ενός χαρακτήρα σε ένα παιχνίδι. Μπορούν να χρησιμοποιήσουν ομιλία, ήχους, κίνηση και γραφικά εφέ, όπως ακριβώς και στο Scratch. Παίζεις παιχνίδια που χρησιμοποιούν εκφράσεις;
 </p>
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+Στο Scratch, οι χαρακτήρες και τα πράγματα ονομάζονται **αντικείμενα** (sprites) και εμφανίζονται στην **Σκηνή**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Θα χρειαστεί να:
++ Προσθέσεις αντικείμενα και ένα **υπόβαθρο** για να ρυθμίσεις το έργο σου
++ Κάνεις κλικ στα αντικείμενα για να τα κάνεις να επικοινωνούν χρησιμοποιώντας μπλοκ κώδικα `Όψεων`{:class="block3looks"} και `Ήχου`{:class="block3sound"}
++ Χρησιμοποιήσεις τον **Επεξεργαστή Ζωγραφική** για να αλλάξεις μια **ενδυμασία**
 
 --- no-print --- --- task ---
-### Try it
+### Δοκίμασέ το
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Κάνε κλικ σε κάθε αντικείμενο για να δεις τι κάνει. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+Τι συμβαίνει εάν κάνεις κλικ σε ένα αντικείμενο και μετά κάνεις γρήγορα κλικ σε ένα άλλο αντικείμενο;
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +29,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![Το ολοκληρωμένο έργο.](images/showcase_static.png)
 
 --- /print-only ---
 
