@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Ερώτηση 2 από 3
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+Κάνε τον Pico να πει «Γεια!» σε ένα συννεφάκι ομιλίας.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Πού θα πήγαινες για να βρεις αυτό το μπλοκ;
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Όψεις`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Ναι. Το μπλοκ `πες`{:class="block3looks"} βρίσκεται στο μενού μπλοκ `Όψεις`{:class="block3looks"}, το οποίο έχει το ίδιο χρώμα με το μπλοκ.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `Ήχος`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Τα μπλοκ στο μενού μπλοκ `Ήχος`{:class="block3sound"} χρησιμοποιούνται για να κάνουν τα αντικείμενα να παίζουν ήχους.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Κίνηση`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Τα μπλοκ στο μενού μπλοκ `Κίνηση`{:class="block3motion"} χρησιμοποιούνται για την κίνηση των αντικειμένων.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Συμβάντα`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Τα μπλοκ στο μενού μπλοκ `Συμβάντα`{:class="block3events"} χρησιμοποιούνται για να κάνουν τα πράγματα να συμβούν.
 
   --- /feedback ---
 
