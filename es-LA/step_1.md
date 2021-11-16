@@ -33,4 +33,4 @@ Haz clic en cada objeto para ver qué hacen.
 
 --- /print-only ---
 
-
+![](https://code.org/api/hour/begin_raspi_space.png)
