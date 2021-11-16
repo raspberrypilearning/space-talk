@@ -21,6 +21,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-  - title: قم بترقية مشروعك
     completion: external
+  - title: قم بترقية مشروعك
   - title: ما التالي؟

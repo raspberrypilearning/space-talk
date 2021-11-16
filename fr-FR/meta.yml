@@ -21,6 +21,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-  - title: Améliorer ton projet
     completion: external
+  - title: Améliorer ton projet
   - title: Et ensuite ?
