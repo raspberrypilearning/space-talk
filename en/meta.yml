@@ -13,13 +13,13 @@ steps:
   - title: Pico plays a sound
   - title: Nano switches costumes
   - title: Giga changes colour
-    completion: internal
   - title: Reflection
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion: internal     
   - title: Upgrade your project
     completion: external
   - title: What next?
