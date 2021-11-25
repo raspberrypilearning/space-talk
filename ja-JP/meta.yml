@@ -1,35 +1,35 @@
 ---
-title: Space talk
+title: スペーストーク
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+description: Scratchでスプライトに「感情を表現（エモート）」させ、クリックでコミュニケーションできるようにしましょう。
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Create your scene
+    title: 場面を作る
   - 
-    title: Pico says hello
+    title: Picoに「こんにちは」と言わせる
     completion: engaged
   - 
-    title: Pico plays a sound
+    title: ピコが音を出す
   - 
-    title: Nano switches costumes
+    title: Nanoのコスチュームを変える
   - 
-    title: Giga changes colour
+    title: Gigaの色を変える
     completion: internal
   - 
-    title: Reflection
+    title: ふりかえり
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-  - 
-    title: Upgrade your project
     completion: external
   - 
-    title: What next?
+    title: プロジェクトをアップグレードする
+  - 
+    title: 次のステップ
