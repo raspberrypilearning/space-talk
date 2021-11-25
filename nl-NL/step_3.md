@@ -35,7 +35,7 @@ Je kunt blokken naar het codegebied slepen en ze kunnen vanaf daar worden gebrui
 
 --- task ---
 
-Sleep de `zeg`{:class="block3looks"} `Hallo!` `voor`{;class="block3looks"} `2` `seconden`{:class="block3looks"} blok naar het codegebied. Klik er nogmaals op.
+Sleep een `zeg`{:class="block3looks"} `Hallo!` `voor`{;class="block3looks"} `2` `seconden`{:class="block3looks"} blok naar het codegebied. Klik er nogmaals op.
 
 ![Het 'zeg'-blok naar het codegebied slepen en erop klikken om het uit te voeren.](images/pico-drag-say.gif)
 
@@ -47,7 +47,7 @@ Blokken kunnen in het codegebied met elkaar worden verbonden om er meer dan éé
 
 --- task ---
 
-Sleep een `wanneer deze op sprite wordt geklikt`{:class="block3events"} blok uit het `Gebeurtenissen`{:class="block3events"} blokkenmenu en verbind het met de bovenkant van je `zeg`{:class="block3looks"} blok in het codegebied. De blokken zullen in elkaar klikken.
+Sleep een `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok uit het `Gebeurtenissen`{:class="block3events"} blokkenmenu en verbind het met de bovenkant van je `zeg`{:class="block3looks"} blok in het codegebied. De blokken zullen in elkaar klikken.
 
 ![Een animatie van de blokken die in elkaar klikken. Als er op Pico wordt geklikt, zegt het "Hallo!" gedurende twee seconden.](images/pico-snap-together.gif)
 
@@ -67,7 +67,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Je ziet opmerkingen in de codevoorbeelden. Je hoeft de opmerkingen niet toe te voegen wanneer je code aan jouw project toevoegt.
 
-Als je tijd hebt zodra je jouw project hebt afgerond, is het een goed idee om opmerkingen aan je code toe te voegen, zodat deze later gemakkelijker te begrijpen is. Om een opmerking toe te voegen, klik je met de rechtermuisknop (of tik je op een tablet en houdt je vast) op een blok in het codegebied en kies je **Commentaar toevoegen**.
+Als je tijd over hebt zodra je jouw project hebt afgerond, is het een goed idee om opmerkingen aan je code toe te voegen, zodat deze later gemakkelijker te begrijpen is. Om een opmerking toe te voegen, klik je met de rechtermuisknop (of tik je op een tablet en houdt je vast) op een blok in het codegebied en kies je **Commentaar toevoegen**.
 
 ![Het pop-up menu dat verschijnt wanneer je met de rechtermuisknop op een blok klikt. 'Opmerking toevoegen' is geselecteerd.](images/add-comment.png)
 
