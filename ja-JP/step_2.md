@@ -13,7 +13,7 @@
 
 --- task ---
 
-[Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}を開きます。 Scratchが別のブラウザタブで開きます。
+[スペーストークスタータープロジェクト](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}を開きます。 Scratchが別のブラウザタブで開きます。
 
 [[[working-offline]]]
 
