@@ -28,8 +28,8 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - 
     title: Αναβάθμισε το έργο σου
-    completion: external
   - 
     title: Τι υπάρχει στη συνέχεια;
