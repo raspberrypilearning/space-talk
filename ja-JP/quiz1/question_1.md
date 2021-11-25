@@ -1,55 +1,55 @@
-## Reflection
+## ふりかえり
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+お疲れさまでした。たくさんのことを学びましたね！ 次はふりかえりの時間です。ふりかえりを行うことで、脳に新しいつながりを作ることができます。このため、ふりかえりは学習の大事な部分です。
 
-Answer the three questions below to reflect on what you have learned.
+以下の3つの質問に答えて、学んだことをふりかえってみましょう。
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+それぞれの質問に回答したら、**送信**をクリックします。 正しい答えが表示されます。 このアクティビティは何度でも実行できます。
 
-Have fun!
+お楽しみください!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: 質問1/3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+プロジェクトで、背景といくつかのスプライトキャラクターを追加しました。
 
-Where do you go to add a sprite to your project?
+プロジェクトにスプライトを追加するにはどこに移動しますか？
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![1 — コスチューム タブ、2 — 音タブ、3スプライトリスト、4 —ステージペインが強調表示された、完全なScratchエディタの注釈付きスクリーンショット。](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- () 1： **コスチューム**タブ
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+**コスチューム**タブでは、スプライトのコスチュームを編集しました。
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- () 2： **音**タブ
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+**音**タブでは、スプライトの新しい音を選択しました。
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3：スプライトリスト
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+はい。 ここでプロジェクト内のすべてのスプライトの表示、追加、削除ができます。スプライトをクリックすると選択できます。
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- () 4：ステージペイン
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+ステージペインでは、背景を選択しました。
 
   --- /feedback ---
 
