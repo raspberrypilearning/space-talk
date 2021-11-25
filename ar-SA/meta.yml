@@ -28,8 +28,8 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - 
     title: قم بترقية مشروعك
-    completion: external
   - 
     title: ما التالي؟
