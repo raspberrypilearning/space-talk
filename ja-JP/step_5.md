@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nanoのコスチュームを変える
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+**コスチューム**を切り替えることで、Nanoにエモートさせることができます。
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+スプライトには、見た目を変えるための**コスチューム**があります。 コスチュームを変更してスプライトを動かすことができます。
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![Nanoスプライトが「ありがとう！」と言う](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nanoが「ありがとう！」と言う
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+**ファンタジー**カテゴリからプロジェクトに**Nano**スプライトを追加します。
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![「スプライトを選ぶ」アイコン。](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+ステージの下にあるスプライトリストで**Nano**スプライトが選択されていることを確認します。
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Nanoが選択されていることを示すためにNanoスプライトの周りが青く囲まれたスプライトリスト。](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+「**コード**」タブをクリックし、**Nano**スプライトが`ありがとう！``と言う`{:class="block3looks"}ためのスクリプトを追加します。
 
-![The Nano sprite.](images/nano-sprite.png)
+![Nanoスプライト。](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**ヒント:** すべてのブロックは色で分類されているため、`コスチュームを...にする`{:class="block3looks"}ブロックは`見た目`{:class="block3looks"}ブロックメニューにあります。
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**テスト:** ステージの**Nano**スプライトをクリックし、ふきだしが表示され、Nanoのコスチュームが変わることを確認します。
 
 --- /task ---
 
-### Nano uses sign language
+### Nanoが手話で話す
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">何百万人もの人々が手話を使ってコミュニケーションをとっています。 世界でよく使われている「ありがとう」の手話は、**右手を口に近づける**ことです。 
 </p>
 
-Nano will use sign language by switching costumes.
+Nanoがコスチュームを変えることで手話を使います。
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+ペイントエディタを使用して、スプライトのコスチュームを編集できます。 Nanoのコスチュームを編集して、「ありがとう」の手話を行います。
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+**Nano**スプライトのコスチュームを表示するには、「**コスチューム**」タブをクリックします。
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Nanoスプライトで利用可能なコスチューム。](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+**nano-b**コスチュームをクリックします。 左側の腕をクリックし、**削除**をクリックします。
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![腕が選択されたnano-bコスチューム。](images/nano-arm-selected.png)
 
-The costume should look like this:
+コスチュームは次のようになります。
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![腕が削除されたnano-bコスチューム。](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**ヒント:** ペイントエディタで間違えた場合は、**元に戻す**をクリックできます。
+
+![「元に戻す」アイコン。](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+**nano-c**コスチュームに移動し、左側の腕をクリックして **コピー**をクリックします。
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![腕が選択されたnano-cコスチューム。](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+**nano-b**コスチュームに戻り、**貼り付け**をクリックします。 コスチュームは次のようになります。
+
+![nano-cコスチュームの腕が表示されたnano-bコスチューム。](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**テスト:** **Nano**スプライトをクリックし、ふきだしが表示され、Nanoのコスチュームが編集したコスチュームに変わることを確認します。
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">これで、「ありがとう」の手話を学びました。 次に誰かに感謝するときに、ぜひ使ってみてください。
 </p>
 
 --- save ---
