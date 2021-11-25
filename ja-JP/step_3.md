@@ -1,57 +1,57 @@
-## Pico says hello
+## Picoに「こんにちは」と言わせる
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+スプライトにコード、コスチューム、サウンドを設定して見た目や動きを変更できます。 
   
-You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
+コードブロックを追加して、スプライトがクリックされたときにPicoが言葉と音でエモートするようにします。
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Picoスプライトが「こんにちは！」と言う](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-To use blocks, you can click on them in the Blocks menu.
+ブロックを使用するには、ブロックメニューでブロックをクリックします。
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+`見た目`{:class = "block3looks"} ブロックメニューを開きます。
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+`こんにちは!`{:class="block3looks"}と`2``秒言う`{:class="block3looks"}ブロックをクリックします。
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![こんにちは！と言う 2秒間ブロックの周りが黄色く光る様子。](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+**Pico**スプライトが2秒間ふきだしを表示します。
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![Picoスプライトと「こんにちは！」のふきだし。](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**ヒント:** Scratchのコードブロックは、実行時にまわりが黄色く光ります。
 
 --- /task ---
 
-You can drag blocks to the Code area, and they can be used from there.
+ブロックをコードエリアにドラッグして、そこから使用できます。
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+`こんにちは!``と`{:class="block3looks"} `2` `秒言う`{:class="block3looks"} ブロックをコードエリアにドラッグします。 もう一度クリックします。
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![「言う」ブロックをコードエリアにドラッグし、クリックして実行する。](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![「言う」ブロックがコードエリアにドラッグされた様子。 コードブロックの周りが黄色く光る様子。](images/pico-drag-say.png)
 
 --- /task ---
 
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
+コードエリアではブロックを互いに接続して、一度に複数のブロックを実行できます。 接続されたブロックは上から下に順番に実行されます。
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+`イベント`{:class="block3events"} ブロックメニューから `このスプライトが押されたとき`{:class="block3events"} ブロックをドラッグし、コードエリアの `言う`{:class="block3looks"} ブロックの上につなげます。 ブロック同士がくっつきます。
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![ブロックがくっつく様子の動画。 Picoをクリックすると、「こんにちは！」と2秒間言う。](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![Picoスプライト。](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,20 +60,20 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-A comment is an explanation of what your code does.
+コメントは、コードの機能の説明です。
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+コード例にコメントが表示されます。 プロジェクトにコードを追加するときにコメントを追加する必要はありません。
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+プロジェクトが終了したときに時間があれば、あとから理解しやすいようにコードにコメントを追加することをおすすめします。 コメントを追加するには、コードエリアでブロックを右クリック (タブレットの場合はタップして保持) し、**コメントを追加**を選択します。
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![ブロックを右クリックしたときに表示されるポップアップメニュー。 「コメントを追加」が選択された状態。](images/add-comment.png)
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**テスト:** ステージ上の**Pico**スプライトをクリックし、ふきだしが2秒間表示されることを確認します。 コードをテストして、期待どおりに動作することを確認することが重要です。
 
 --- /task ---
 
