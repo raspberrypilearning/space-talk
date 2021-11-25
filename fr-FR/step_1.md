@@ -33,4 +33,5 @@ Que se passe-t-il si tu cliques sur un sprite puis cliques rapidement sur un aut
 
 --- /print-only ---
 
+![](https://code.org/api/hour/begin_raspi_space.png)
 
