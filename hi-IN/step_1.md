@@ -33,4 +33,5 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- /print-only ---
 
+![](https://code.org/api/hour/begin_raspi_space.png)
 
