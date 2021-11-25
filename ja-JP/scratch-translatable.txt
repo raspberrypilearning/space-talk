@@ -1,23 +1,23 @@
-Hello!
+こんにちは！
 
-hide speech after 2 seconds
+2秒後にセリフを隠す
 
-Thanks!
+ありがとう！
 
-when Nano is clicked
+Nanoがクリックされたとき
 
-Nano talking
+Nanoが話す
 
-try 1 instead of 2
+2の代わりに1を試してみましょう
 
-Nano smiling
+Nanoが笑う
 
-Hm...
+うーん...
 
-0 is the starting colour
+0が最初の色
 
-back to the starting colour
+最初の色に戻る
 
-hide speech bubble
+ふきだしを隠す
 
-number up to 200
+200までの数
