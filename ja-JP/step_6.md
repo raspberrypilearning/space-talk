@@ -1,29 +1,29 @@
-## Giga changes colour
+## Gigaの色を変える
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+スプライトでは、ふきだしを使ったり色を変えたりして個性を出すこともできます。 Gigaには次のようなことをさせます。
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![Gigaスプライトが「うーん...」と考える](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Add the **Giga** sprite.
+**Giga**スプライトを追加します。
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+**Giga**スプライトをステージの右側にドラッグします。
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+ステージの下にあるスプライトリストで**Giga**スプライトが選択されていることを確認します。 次のコードを追加して、**Giga**スプライトが色を変えることでコミュニケーションを行うようにします。
 
-![The Giga sprite.](images/giga-sprite.png)
+![Gigaスプライト。](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -34,23 +34,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**ヒント:** コード、コスチューム、または音を追加または変更する前に、ステージの下にあるスプライトリストでスプライトをクリックします。 正しいスプライトをクリックしていることを確認してください。
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+`色の効果を...にする`{:class="block3looks"} ブロックで`1`から`200`までのさまざまな数字を試してお気に入りの数を見つけます。
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+`...と考える`{:class="block3looks"} ブロックで言葉や数字を変更します。
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**テスト: **ステージの**Giga**スプライトをクリックし、スプライトの色が変わり、ふきだしが表示されることを確認します。
 
 --- /task ---
 
