@@ -21,3 +21,15 @@ powrót do koloru początkowego
 ukryj dymek z tekstem
 
 liczba mniejsza lub równa 200
+
+play sound, doesn't wait
+
+shows speech bubble
+
+hand to mouth
+
+smiling
+
+shows a thought bubble
+
+goes back to normal colour
