@@ -21,3 +21,15 @@ retour à la couleur de départ
 masquer la bulle de dialogue
 
 nombre jusqu'à 200
+
+play sound, doesn't wait
+
+shows speech bubble
+
+hand to mouth
+
+smiling
+
+shows a thought bubble
+
+goes back to normal colour
