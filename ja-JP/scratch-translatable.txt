@@ -21,3 +21,15 @@ Nanoが笑う
 ふきだしを隠す
 
 200までの数
+
+play sound, doesn't wait
+
+shows speech bubble
+
+hand to mouth
+
+smiling
+
+shows a thought bubble
+
+goes back to normal colour
