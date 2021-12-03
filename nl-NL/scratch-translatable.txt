@@ -22,14 +22,14 @@ tekstballon verbergen
 
 aantal tot 200
 
-play sound, doesn't wait
+geluid afspelen, wacht niet
 
-shows speech bubble
+toont tekstballon
 
-hand to mouth
+hand naar mond
 
-smiling
+lachend
 
-shows a thought bubble
+laat een gedachtenballon zien
 
-goes back to normal colour
+terug naar de startkleur
