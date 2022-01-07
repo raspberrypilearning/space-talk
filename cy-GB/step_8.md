@@ -1,17 +1,17 @@
-## Upgrade your project
+## Uwchraddio dy brosiect
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Ychwanega'r corlun **Tera** a defnyddio unrhyw un o'r blociau rwyt ti wedi dysgu amdanyn nhw i greu 'emoshlun' ar gyfer y corlun **Tera**.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![Y corlun Tera ar y Llwyfan.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+Dy ddewis di yw personoliaeth y corlun **Tera**, felly beth am gael hwyl wrth ddefnyddio dy syniadau creadigol dy hun.
 
 ```blocks3
 when this sprite clicked
@@ -35,25 +35,25 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Galli di hefyd 'ailgymysgu' y prosiect i wneud unrhyw newidiadau hoffet ti. Gelli di newid y gefnlen, emoshluniau'r corluniau, a hyd yn oed dewis corluniau gwahanol a rhoi emoshluniau iddyn nhw.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Awgrym:** Clicia gorlun yn rhestr y Corluniau sydd o dan y Llwyfan i newid cod, gwisgoedd a sain y corlun hwnnw.
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: Tystysgrif Sgwrs yn y Sêr
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Da iawn! Rwyt ti wedi cwblhau'r prosiect Sgwrs yn y Sêr. Dyma [dystysgrif](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} i ddathlu dy sgiliau newydd. Llwytha gopi i lawr a'i agor i ychwanegu dy enw.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+teitl: Prosiect gorffenedig
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Galli di weld y [prosiect wedi'i gwblhau yma](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
