@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nano yn newid ei wisg
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+Bydd di'n gwneud i Nano ddefnyddio emoshlun drwy newid **gwisgoedd**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+Mae gan gorluniau **wisgoedd** sy'n newid y ffordd maen nhw'n edrych. I animeiddio corlun, galli di newid ei wisg.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![Corlun Nano yn dweud, "Diolch!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano'n dweud "Diolch!"
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Ychwanega gorlun **Nano** at dy brosiect o'r categori **Ffantasi**.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![Yr eicon 'Dewiswch Gorlun'.](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Gwna'n siŵr dy fod wedi dewis corlun **Nano** yn rhestr y Corluniau o dan y Llwyfan.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Y rhestr Corluniau, gydag amlinell las o gwmpas corlun Nano i ddangos mai Nano sydd wedi'i ddewis.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+Clicia'r tab **Cod** ac ychwanegu sgript i wneud i gorlun **Nano** `ddweud`{:class="block3looks"} `Diolch!`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![Corlun Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**Awgrym:** Mae'r holl flociau wedi'u trefnu yn ôl eu lliw, felly bydd y bloc `newid gwisg i`{:class="block3looks"} yn y ddewislen blociau `Edrychiad`{:class="block3looks"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**Prawf:** Clicia'r corlun **Nano** ar y Llwyfan a gwneud yn siŵr bod swigen siarad yn ymddangos a bod gwisg Nano yn newid.
 
 --- /task ---
 
-### Nano uses sign language
+### Nano yn defnyddio iaith arwyddion
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Mae miliynau o bobl yn defnyddio iaith arwyddion i gyfathrebu. Arwydd cyffredin ar gyfer 'diolch' yw **codi dy law dde i dy geg**. 
 </p>
 
-Nano will use sign language by switching costumes.
+Bydd Nano yn defnyddio iaith arwyddion drwy newid gwisgoedd.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Galli di olygu gwisgoedd dy gorluniau drwy ddefnyddio'r Golygydd paent. Byddi di'n golygu gwisg Nano er mwyn gwneud iddo arwyddo "diolch".
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Clicia'r tab **Gwisgoedd** i weld gwisgoedd y corlun **Nano**:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Y gwisgoedd sydd ar gael ar gyfer corlun Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Clicia'r wisg **nano-b**. Clicia'r fraich ar yr ochr chwith, ac wedyn clicio **Dileu**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![Y wisg nano-b gyda'r fraich wedi'i dewis.](images/nano-arm-selected.png)
 
-The costume should look like this:
+Dylai'r wisg edrych fel hyn:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![Y wisg nano-b gyda'r fraich wedi'i dileu.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Awgrym:** Os byddi di'n gwneud camgymeriad yn y Golygydd paent, galli di glicio **Dad-wneud**.
+
+![Yr eicon 'Dad-wneud'.](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Cer i'r wisg **nano-c** a chlicio'r fraich ar yr ochr chwith, ac wedyn clicio **Copïo**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![Y wisg nano-c gyda'r fraich wedi'i dewis.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+Dos yn ôl i'r wisg **nano-b** a chlicio **Gludo**. Dylai'r wisg edrych fel hyn:
+
+![Y wisg nano-b gyda'r fraich o'r wisg nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Prawf:** Clicia'r corlun **Nano** ar y Llwyfan a gwneud yn siŵr bod swigen siarad yn ymddangos a bod gwisg Nano yn newid i'r wisg rydych chi wedi'i golygu.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Rwyt ti wedi dysgu sut i arwyddo "diolch". Y tro nesaf y byddi di'n diolch i rywun, beth am ddefnyddio dy sgil newydd?
 </p>
 
 --- save ---
