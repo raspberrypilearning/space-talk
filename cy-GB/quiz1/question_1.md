@@ -1,55 +1,55 @@
-## Reflection
+## Myfyrio
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Da iawn, rwyt ti wedi dysgu cryn dipyn! Nawr, mae'n bryd myfyrio ar y dysgu - mae hyn yn elfen bwysig o ddysgu, oherwydd mae'n helpu i wneud cysylltiadau newydd yn dy ymennydd.
 
-Answer the three questions below to reflect on what you have learned.
+Ateba'r tri chwestiwn isod i fyfyrio ar yr hyn rwyt ti wedi'i ddysgu.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Ar ôl ateb pob cwestiwn, clicia ar **Cyflwyno**. Byddi di'n cael dy dywys i'r ateb cywir. Galli di wneud hyn gymaint ag y mynni.
 
-Have fun!
+Mwynha!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Cwestiwn 1 o 3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+Yn dy brosiect, fe wnes di ychwanegu cefnlen a rhai cymeriadau corlun.
 
-Where do you go to add a sprite to your project?
+Ble i fynd i ychwanegu corlun at dy brosiect?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Ciplun gyda nodiadau o'r golygydd Scratch llawn gydag 1 - Y tab Gwisgoedd, 2 - Y tab Seiniau, 3 - Y Rhestr o Gorluniau, a 4 - y Llwyfan wedi'i amlygu.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- () 1: Y tab **Gwisgoedd**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Rwyt ti wedi mynd i'r tab **Gwisgoedd** i olygu gwisg dy gorlun.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Y tab **Seiniau**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Rwyt ti wedi mynd i'r tab **Seiniau** i ddewis sain newydd ar gyfer dy gorlun.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Rhestr o Gorluniau
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Iawn. Dyma lle galli di weld yr holl gorluniau yn y prosiect, ychwanegu a dileu corluniau, a chlicio ar gorluniau i'w dewis.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Cwarel y Llwyfan
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Rwyt ti wedi mynd i gwarel y Llwyfan i ddewis cefnlen.
 
   --- /feedback ---
 
