@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Cwestiwn 3 o 3
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+Yn dy brosiect, roedd nano wedi dweud "diolch" yn iaith arwyddion. Pa god wnes ti ei ddefnyddio i gael Nano i symud ei law i'w geg?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+Mae'r cod hwn yn chwarae sain ac yn dangos swigen siarad.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+Mae'r cod hwn yn newid lliw y corlun ac yn dangos swigen meddwl.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Iawn. Mae'r blociau `newid gwisg i`{:class="block3looks"} yn newid gwisg y corlun fel bod y fraich yn symud.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+Mae'r cod hwn yn newid lliw y corlun ac yn chwarae sain.
 
   --- /feedback ---
 
