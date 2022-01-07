@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Cwestiwn 2 o 3
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+Rwyt ti wedi gwneud i Pico ddweud "Helo!" mewn swigen siarad.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Ble fydde ti'n mynd i ddod o hyd i'r bloc hwn?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Edrychiad`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Iawn. Mae'r bloc `dweud`{:class="block3looks"} yn y ddewislen blociau `Edrychiad`{:class="block3looks"}, sydd yr un lliw â'r bloc.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `Seiniau`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Yn y ddewislen blociau `Seiniau`{:class="block3sound"}, mae'r blociau'n gallu gwneud i'r corlun gynhyrchu synau.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Symudiad`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Yn y ddewislen `Symudiad`{:class="block3motion"}, mae'r blociau'n gallu dweud wrth y corlun i symud.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Digwyddiadau`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Yn y ddewislen blociau `Digwyddiadau`{:class="block3events"}, mae'r blociau'n cael eu defnyddio i wneud i bethau ddigwydd.
 
   --- /feedback ---
 
