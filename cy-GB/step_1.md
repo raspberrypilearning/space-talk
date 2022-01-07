@@ -1,25 +1,25 @@
-## Introduction
+## Cyflwyniad
 
-In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
+Yn y prosiect hwn, byddi di'n creu golygfa o’r gofod gyda chymeriadau sy’n defnyddio 'emoshluniau' i rannu eu meddyliau neu eu teimladau.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+Mae <span style="color: #0faeb0">**emoshluniau**</span> yn ffordd o gyfleu personoliaeth cymeriad mewn gêm. Gallant ddefnyddio lleisiau, synau, symudiadau ac effeithiau graffeg, yn union fel yn Scratch. Wyt ti'n chwarae unrhyw gemau sy'n defnyddio emoshluniau?
 </p>
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+Yn Scratch, gelwir cymeriadau a gwrthrychau yn **gorluniau**, ac maen nhw'n ymddangos ar y **Llwyfan**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Byddi di'n:
++ Ychwanegu corluniau a **chefnlen** i osod dy brosiect
++ Clicio ar gorluniau i wneud iddyn nhw gyfathrebu gan ddefnyddio blociau cod `Edrychiad`{:class="block3looks"} a `Sain`{:class="block3sound"}
++ Defnyddio'r **Golygydd paent** i newid **gwisg**
 
 --- no-print --- --- task ---
-### Try it
+### Rho gynnig arni
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Clicia ar bob corlun i weld beth maen nhw'n ei wneud. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+Beth sy'n digwydd os wyt ti'n clicio ar un corlun ac wedyn yn clicio ar gorlun arall yn syth wedyn?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +29,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![Y prosiect gorffenedig.](images/showcase_static.png)
 
 --- /print-only ---
 
