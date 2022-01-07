@@ -1,35 +1,35 @@
-Hello!
+Helo!
 
-hide speech after 2 seconds
+cuddio'r llais ar ôl 2 eiliad
 
-Thanks!
+Diolch!
 
-when Nano is clicked
+pan fydd Nano yn cael ei glicio
 
-Nano talking
+Nano yn siarad
 
-try 1 instead of 2
+rho gynnig ar 1 yn lle 2
 
-Nano smiling
+Nano yn gwenu
 
 Hm...
 
-0 is the starting colour
+0 yw'r lliw cychwynnol
 
-back to the starting colour
+mynd yn ôl i'r lliw cychwyn
 
-hide speech bubble
+cuddio'r swigen siarad
 
-number up to 200
+rhif hyd at 200
 
-play sound, doesn't wait
+chwarae sain, ddim yn aros
 
-shows speech bubble
+dangos y swigen siarad
 
-hand to mouth
+llaw i'r geg
 
-smiling
+gwenu
 
-shows a thought bubble
+dangos swigen meddwl
 
-goes back to normal colour
+mynd yn ôl i'r lliw arferol
