@@ -21,11 +21,11 @@ Agora'r ddewislen blociau `Edrychiad`{:class="block3looks"}.
 
 Clicia ar y bloc `dweud`{:class="block3looks"} `Helo!` `am`{:class="block3looks"} `2` `eiliad`{:class="block3looks"}.
 
-![Y bloc 'dweud Helo! am 2 eiliad' yn goleuo gydag amlinell melyn.](images/pico-say-Helo-blocks-menu.png)
+![Y bloc 'dweud Helo! am 2 eiliad' yn goleuo gydag amlinell melyn.](images/pico-say-helloo-blocks-menu.png)
 
 Bydd y corlun **Pico** yn agor swigen siarad am ddwy eiliad.
 
-![Y corlun Pico gyda "Helo!" mewn swigen siarad.](images/pico-say-Helo-stage.png)
+![Y corlun Pico gyda "Helo!" mewn swigen siarad.](images/pico-say-hello-stage.png)
 
 **Awgrym:** Mae blociau cod yn Scratch yn goleuo gydag amlinell melyn pan fyddan nhw ar waith.
 

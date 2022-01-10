@@ -37,7 +37,7 @@ Clicia (neu daro ar dabled) **Dewiswch Gefnlen** yn y cwarel Llwyfan:
 
 --- task ---
 
-Clicia ar y categori **Space** neu deipio `space` yn y blwch chwilio:
+Clicia ar y categori **Gofod** neu deipio `space` yn y blwch chwilio:
 
 ![Y Llyfrgell Cefnlenni gyda'r categori "Gofod" wedi'i ddewis.](images/space-backdrops.png)
 
