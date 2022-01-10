@@ -21,7 +21,7 @@ Agora'r ddewislen blociau `Edrychiad`{:class="block3looks"}.
 
 Clicia ar y bloc `dweud`{:class="block3looks"} `Helo!` `am`{:class="block3looks"} `2` `eiliad`{:class="block3looks"}.
 
-![Y bloc 'dweud Helo! am 2 eiliad' yn goleuo gydag amlinell melyn.](images/pico-say-helloo-blocks-menu.png)
+![Y bloc 'dweud Helo! am 2 eiliad' yn goleuo gydag amlinell melyn.](images/pico-say-hello-blocks-menu.png)
 
 Bydd y corlun **Pico** yn agor swigen siarad am ddwy eiliad.
 
