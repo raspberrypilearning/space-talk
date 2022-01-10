@@ -1,0 +1,35 @@
+Helo!
+
+cuddio'r llais ar ôl 2 eiliad
+
+Diolch!
+
+pan fydd Nano yn cael ei glicio
+
+Nano yn siarad
+
+rho gynnig ar 1 yn lle 2
+
+Nano yn gwenu
+
+Hm...
+
+0 yw'r lliw cychwynnol
+
+mynd yn ôl i'r lliw cychwyn
+
+cuddio'r swigen siarad
+
+rhif hyd at 200
+
+chwarae sain, ddim yn aros
+
+dangos y swigen siarad
+
+llaw i'r geg
+
+gwenu
+
+dangos swigen meddwl
+
+mynd yn ôl i'r lliw arferol
