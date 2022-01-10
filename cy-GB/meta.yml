@@ -1,0 +1,26 @@
+---
+title: Sgwrs yn y Sêr
+hero_image: images/banner.png
+description: Defnyddio Scratch i roi 'emoshlun' i gymeriadau corlun fel eu bod yn cyfathrebu ar ôl eu clicio
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Cyflwyniad
+  - title: Creu eich golygfa
+  - title: Pico yn dweud helo
+    completion: engaged
+  - title: Pico yn chwarae sain
+  - title: Nano yn newid gwisgoedd
+  - title: Giga yn newid lliw
+    completion: internal
+  - title: Myfyrio
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: allanol
+  - title: Uwchraddio dy brosiect
+  - title: Beth nesaf?
