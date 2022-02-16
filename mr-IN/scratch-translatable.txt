@@ -1,35 +1,35 @@
 Hello!
 
-hide speech after 2 seconds
+2 सेकंदांनंतर स्पीच लपवा
 
 Thanks!
 
-when Nano is clicked
+nano वर जेव्हा क्लिक केले जाते
 
-Nano talking
+Nano टॉकींग
 
-try 1 instead of 2
+2 ऐवजी 1 चा प्रयत्न करा
 
-Nano smiling
+Nano स्माइलिंग
 
 Hm...
 
-0 is the starting colour
+0 हा सुरूवातीचा रंग आहे
 
-back to the starting colour
+सुरूवातीच्या रंगावर परत
 
-hide speech bubble
+स्पीच बबल लपवा
 
-number up to 200
+200 पर्यंतच्या संख्या
 
-play sound, doesn't wait
+साऊंड प्ले करा, प्रतिक्षा करू नका
 
-shows speech bubble
+स्पीच बबल दाखवतो
 
-hand to mouth
+हँड टू माऊथ
 
-smiling
+स्माइलिंग
 
-shows a thought bubble
+थॉट बबल दाखवतो
 
-goes back to normal colour
+सामान्य रंगावर परत जातो
