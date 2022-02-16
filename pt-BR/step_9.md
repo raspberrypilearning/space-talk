@@ -1,10 +1,10 @@
-## What next?
+## E agora?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) project. In this project, you will code an animation with sprites that need to make it to a bus before it leaves.
+Se você está seguindo o caminho de [Introdução ao Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro), você pode continuar para o projeto [Pegue o ônibus](https://projects.raspberrypi.org/en/projects/catch-the-bus). Neste projeto, você irá codificar uma animação com atores que precisam chegar a um ônibus antes que ele saia.
 
 --- print-only ---
 
-![The 'Catch the bus' project.](images/scratch-tour-bus.png)
+![O projeto 'Pegue o ônibus'.](images/scratch-tour-bus.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Se você quiser se divertir mais explorando os Scratch, então você pode tentar qualquer um [destes projetos](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
