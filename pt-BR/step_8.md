@@ -1,17 +1,17 @@
-## Upgrade your project
+## Melhore o seu projeto
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Adicione o ator **Tera** e use qualquer um dos blocos que você aprendeu para fazer uma 'animação' para o ator **Tera**.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![O ator Tera no Palco.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+A personalidade do ato **Tera** é sua escolha, então divirta-se usando suas próprias idéias criativas.
 
 ```blocks3
 when this sprite clicked
@@ -35,25 +35,25 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Você também pode brincar com o projeto e fazer quaisquer mudanças que você quiser. Você pode mudar o pano de fundo e como animar os atores, e até mesmo escolher diferentes atores e dar a eles emoções.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Dica:** Clique no ator na lista de Atores abaixo do Palco para adicionar ou alterar o código, fantasia ou som.
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: Certificado de Conversa espacial
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Muito bem! Você concluiu o projeto Conversa espacial. Aqui está [um certificado](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} para celebrar suas novas habilidades. Baixe uma cópia e abra-a para adicionar seu nome.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+title: Projeto concluído
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Você pode ver o [projeto concluído aqui](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
