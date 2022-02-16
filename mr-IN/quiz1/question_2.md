@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: प्रश्न 3 पैकी 2
 ---
 
 You made Pico say "Hello!" in a speech bubble.
@@ -10,7 +10,7 @@ You made Pico say "Hello!" in a speech bubble.
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+हा ठोकळा शोधण्यासाठी तुम्ही कोठे गेलात?
 
 --- choices ---
 
@@ -18,7 +18,7 @@ Where would you go to find this block?
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+हो. `say`{:class="block3looks"} ठोकळा  `Looks`{:class="block3looks"} ठोकळा मेनूमध्ये आहे, ज्याचा ठोकळ्याप्रमाणेच रंग आहे.
 
   --- /feedback ---
 
@@ -26,7 +26,7 @@ Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+`Sound`{:class="block3sound"} या ठोकळा मेनूमध्ये असलेले ठोकळे स्प्राईटला साऊंड प्ले करण्यासाठी वापरले जातात.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make spr
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+`Motion`{:class="block3motion"} ठोकळा मेनूमधील ठोकळे स्प्राईट मूव तयार करण्यासाठी वापरले जातात.
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make s
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+`Events`{:class="block3events"} ठोकळा मेनूमधील ठोकळे गोष्टी घडविण्यासाठी वापरले जातात.
 
   --- /feedback ---
 
