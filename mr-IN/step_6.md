@@ -1,8 +1,8 @@
-## Giga changes colour
+## Giga ने रंग बदलला
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+स्प्राईट्स थॉट बबल्स सुद्धा वापरू शकतात आणि त्यांचे व्यक्तीमत्व दाखवण्यासाठी रंग बदलू शकतात. हे करण्यासाठी तुम्हाला Giga मिळेल.
 </div>
 <div>
 
@@ -13,7 +13,7 @@ Sprites can also use thought bubbles and change colours to show their personalit
 
 --- task ---
 
-Add the **Giga** sprite.
+**Giga** स्प्राईट जोडा.
 
 Drag the **Giga** sprite to the right-hand side of the Stage.
 
@@ -21,9 +21,9 @@ Drag the **Giga** sprite to the right-hand side of the Stage.
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. रंग बदलून संवाद साधण्यासाठी **Giga** स्प्राईट तयार करण्यासाठी हा कोड समाविष्ट करा:
 
-![The Giga sprite.](images/giga-sprite.png)
+![Giga स्प्राईट.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -34,7 +34,7 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. तुम्ही योग्य स्प्राइटवर क्लिक केले असल्याची खात्री करा.
 
 --- task ---
 
