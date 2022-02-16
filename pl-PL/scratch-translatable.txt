@@ -22,14 +22,14 @@ ukryj dymek z tekstem
 
 liczba mniejsza lub równa 200
 
-play sound, doesn't wait
+odtwórz dźwięk bez czekania
 
-shows speech bubble
+pokaż dynek rozmowy
 
-hand to mouth
+ręka przy ustach
 
-smiling
+Nano się uśmiecha
 
-shows a thought bubble
+pokaż dymek myśli
 
-goes back to normal colour
+powrót do koloru początkowego
