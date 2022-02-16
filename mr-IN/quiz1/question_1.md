@@ -1,55 +1,55 @@
-## Reflection
+## परावर्तन
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+शाब्बास, तुम्ही खूप काही शिकलात! आता, चिंतन करण्याची वेळ आहे - चिंतन हा अभ्यासाचा महत्वाचा भाग आहे, कारण त्यामुळे तुमच्या मेंदूला नवीन माहिती मिळण्यास मदत होते.
 
-Answer the three questions below to reflect on what you have learned.
+तुम्ही काय शिकलात याचे चिंतन करण्यासाठी खालील तीन प्रश्नांची उत्तरे द्या.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+तुम्ही प्रत्येक प्रश्नाचे उत्तरे दिल्यावर, **Submit** वर क्लिक करा. तुम्हाला योग्य उत्तराचे मार्गदर्शन केले जाईल. तुम्हाला हवे तेवढ्या वेळा तुम्ही ही कृती करू शकता.
 
-Have fun!
+मजा करा!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: प्रश्न 3 पैकी 1
 ---
 
-In your project, you added a backdrop and some sprite characters.
+तुमच्या प्रोजेक्टमध्ये, तुम्ही बॅकड्रॉप आणि काही स्प्राईट कॅरेक्टर समाविष्ट केलेत.
 
-Where do you go to add a sprite to your project?
+तुमच्या प्रोजेक्टमध्ये स्प्राईट समाविष्ट करण्यासाठी तुम्ही कोठे गेलात?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![1- Costumes टॅब, 2- Sounds टॅब, 3- Sprite लीस्ट, आणि 4-Stage पेन यांसह पूर्ण Scratch एडिटरचा सांगितलेला स्क्रीनशॉट.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: **Costumes** टॅब
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+तुमच्या स्प्राईटसाठी कॉश्चुम एडिट करण्यास तुम्ही **Costumes** टॅबवर गेलात.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: **Sounds** टॅब
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+तुमच्या स्प्राईट साठी नवीन साऊंड निवडण्यास तुम्ही **Sounds** टॅबवर गेलात.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Sprite लीस्ट
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+हो. हा असा भाग आहे ज्यात तुम्ही प्रोजेक्टमधील सर्व स्प्राईट बघू शकता, समाविष्ट करू शकता आणि स्प्राईट्स डिलीट करू शकता, आणि ते निवडण्यासाठी स्प्राईट्सवर क्लिक करू शकता.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Stage पेन
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+तुम्ही बॅकड्रॉप निवडण्यासाठी Stage पेनवर गेलात.
 
   --- /feedback ---
 
