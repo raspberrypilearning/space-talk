@@ -1,8 +1,8 @@
-## Pico plays a sound
+## Pico साऊंड प्ले करतो
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+संवाद साधण्याचा दुसरा मार्ग म्हणजे साऊंड वापरणे.
 </div>
 <div>
 
@@ -13,45 +13,45 @@ Another way to communicate is to use sound.
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+**Pico** sprite साठी **Sounds** टॅबवर क्लिक करा आणि तुम्हाला **pop** साऊंड मिळेल. Click on the **Play** icon to hear the **pop** sound.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![Sounds टॅबमध्ये पॉप साऊंड प्ले होत आहे.](images/pico-sound-play.png)
 
 --- /task ---
 
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
+Scratch मध्ये काही विलक्षण ऍलियन साऊंड आहेत जे तुम्ही तुमच्या स्प्राईट मध्ये जोडू शकता.
 
 --- task ---
 
 To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+!['Choose a Sound' आयकॉन.](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+![हायलाईट केलेल्या 'Choose a Sound' सह Scratch एडिटर.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
-
---- /task ---
-
---- task ---
-
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
-
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![Sound Library मधील 'Space' कॅटेगरी.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+**Play** आयकॉन वापरून काही वेगळे साऊंड प्ले करा. तुम्हाला वापरायचा असलेला साऊंड सापडला की, तो तुमच्या प्रोजेक्टमध्ये जोडण्यासाठी त्यावर क्लिक करा.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+![उदाहरण साऊंड (Alien Creak1 sound) Sounds टॅब मधील पॉप साऊंडच्या खाली दाखवला आहे.](images/pico-inserted-sound.png)
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+--- /task ---
 
-Your code should look like this:
+--- task ---
 
-![The Pico sprite.](images/pico-sprite.png)
+**Code** टॅब वर क्लिक करा. `Sound`{:class="block3sound"} ब्लॉक्स मेनूमध्ये, `start sound`{:class="block3sound"} ब्लॉक शोधा.
+
+ब्लॉक कोड एरियात ड्रॅग करा, `when this sprite clicked`{:class="block3events"} आणि `say`{:class="block3looks"} ब्लॉक दरम्यान. गॅप उघडेल आणि ब्लॉक जागेवर स्नॅप होईल.
+
+![दोन ब्लॉक्समध्ये 'start sound' ब्लॉक जोडला जात आहे.](images/pico-insert-block.gif)
+
+आपला कोड असा दिसला पाहिजे:
+
+![Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -63,7 +63,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+तुमच्या `start sound`{:class="block3sound"} ब्लॉकमध्ये तुम्ही निवडलेला साऊंड आहे का ते तपासा. तो नसल्यास, तुम्ही `start sound`{:class="block3sound"} ब्लॉकमध्ये साऊंडवर क्लिक करणे आवश्यक आहे, त्यानंतर ड्रॉप-डाऊन मेनूमधील तुमचा साऊंड निवडा.
 
 ![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
@@ -71,7 +71,7 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**चाचणी:** **Pico** स्प्राइटवर क्लिक करा आणि दोन सेकंदांसाठी स्पीच बबल दिसत आहे का ते तपासा. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. तसेच, तुमच्या संगणकावर किंवा टॅबलेटवर साऊंड कार्यरत आहे का ते तपासा.
 
 --- /task ---
 
