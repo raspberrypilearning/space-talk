@@ -1,57 +1,57 @@
-## Pico says hello
+## Pico diz olá
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+Um ator pode ter código, fantasias e sons para mudar sua aparência e o que faz. 
   
-You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Você adicionará blocos de código para fazer o Pico reagir com palavras e sons quando o sprite for clicado.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![O ator Pico falando, "Olá"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-To use blocks, you can click on them in the Blocks menu.
+Para usar blocos, você pode clicar neles no menu Blocos.
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Abra o menu `Aparência`{:class="block3looks"} nos blocos.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Clique em um bloco `diga`{:class="block3looks"} `Olá` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![O bloco 'diga Olá! por 2 segundos' brilhando com um contorno amarelo.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+O **Pico** mostrará um balão de fala por dois segundos.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![O ator Pico com "Olá!" em um balão de fala.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Dica:** blocos de código no Scratch brilham com um contorno amarelo quando estão em execução.
 
 --- /task ---
 
-You can drag blocks to the Code area, and they can be used from there.
+Você pode arrastar blocos para a área de código e eles podem ser usados a partir daí.
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Arraste o bloco `diga`{:class="block3looks"} `Olá` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"} para a área de Código. Clique nele novamente.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![Arrastando o bloco 'diga' para a área de código e clicando nele para executá-lo.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![O bloco 'diga' foi arrastado para a área de código. O bloco de código brilha com um contorno amarelo.](images/pico-drag-say.png)
 
 --- /task ---
 
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
+Os blocos podem ser conectados juntos na área de Código para executar mais de um por vez. Os blocos conectados serão executados na ordem de cima para baixo.
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Arraste um bloco `quando este ator for clicado`{:class="block3events"} do menu de blocos `Eventos`{:class="block3events"} e conecte-o ao topo do seu bloco `diga`{:class="block3looks"} na área de Código. Os blocos se encaixarão.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![Uma animação dos blocos se encaixando. Quando o Pico é clicado, ele diz "Olá!" por dois segundos.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![O ator Pico.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,20 +60,20 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-A comment is an explanation of what your code does.
+Um comentário é uma explicação do que seu código faz.
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+Você verá comentários em exemplos de código. Você não precisa adicionar comentários ao adicionar código ao seu projeto.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Se você tiver tempo ao terminar seu projeto, é uma boa ideia adicionar comentários ao seu código para que seja mais fácil de entender mais tarde. Para adicionar um comentário, clique com o botão direito (ou em um tablet, pressione e segure) em um bloco na área de Código e escolha **Comentar**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![O menu pop-up que aparece quando você clica com o botão direito em um bloco. 'Comentar' é selecionado.](images/add-comment.png)
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**Teste:** Clique no ator **Pico** no Palco e verifique se o balão de fala aparece por dois segundos. É importante testar seu código para ter certeza de que ele faz o que você espera.
 
 --- /task ---
 
