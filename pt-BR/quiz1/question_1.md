@@ -1,55 +1,56 @@
-## Reflection
+## Reflexão
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Muito bem, você aprendeu muito! Agora, é hora de refletir - refletir é uma parte importante do aprendizado, porque isso ajuda a fazer novas conexões no seu cérebro.
 
-Answer the three questions below to reflect on what you have learned.
+Responda às três perguntas abaixo para refletir sobre o que você aprendeu.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Após responder cada pergunta, clique em **Enviar**. Você será levado para a resposta correta. Você pode repetir quantas vezes quiser.
 
-Have fun!
+Divirta-se!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pergunta 1 de 3
 ---
 
-In your project, you added a backdrop and some sprite characters.
+Em seu projeto, você adicionou um cenário e alguns personagens (atores).
 
-Where do you go to add a sprite to your project?
+Onde você vai para adicionar um ator ao seu projeto?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 
+3 — Lista de Atores e 4 - O painel Palco destacado.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: A aba **Fantasias**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: A aba **Sons**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Você foi até a aba **Sons** para escolher um novo som para seu sprite.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: A lista de atores
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Sim. Esta é a área onde você pode ver todos os atores no projeto, adicionar e deletar atores e clicar nos atores para selecioná-los.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: O painel do palco
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Você foi para o painel Palco para escolher um Cenário.
 
   --- /feedback ---
 
