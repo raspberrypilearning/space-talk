@@ -1,25 +1,25 @@
-## Introduction
+## Introdução
 
-In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
+Neste projeto, você criará uma cena espacial com personagens com 'emote' para compartilhar seus pensamentos ou sentimentos.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**Emotes**</span> são uma forma de mostrar a personalidade de um personagem em um jogo. Eles podem usar fala, sons, movimento e efeitos gráficos, assim como no Scratch. Você joga algum jogo que usa emotes?
 </p>
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+No Scratch, os personagens e objetos são chamados de **atores** e aparecem no **Palco**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Você irá:
++ Adicione atores e um **cenário** para configurar seu projeto
++ Clique nos atores para fazê-los se comunicar usando blocos `Aparência`{:class="block3looks"} e `Som`{:class="block3sound"}
++ Use o **editor de imagens** para mudar uma **fantasia**
 
 --- no-print --- --- task ---
-### Try it
+### Experimente
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Clique em cada ator para ver o que eles fazem. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+O que acontece se você clicar em um ator e depois clicar rapidamente em outro?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +29,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![O projeto concluído.](images/showcase_static.png)
 
 --- /print-only ---
 
