@@ -1,8 +1,8 @@
-## Upgrade your project
+## तुमचा प्रोजेक्ट अपग्रेड करा
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+**Tera** स्प्राईट जोडा आणि **Tera** स्प्राईटसाठी 'emote' बनविण्याबद्दल तुम्ही जे शिकलात त्यापैकी कुठल्याही ब्लॉकचा वापर करा.
 </div>
 <div>
 
@@ -11,7 +11,7 @@ Add the **Tera** sprite and use any of the blocks that you have learned about to
 </div>
 </div>
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+**Tera** स्प्राईटचे व्यक्तीमत्व ही तुमची निवड आहे, त्यामुळे तुमच्या स्वतःच्या क्रिएटीव कल्पना वापरून मजा करा.
 
 ```blocks3
 when this sprite clicked
@@ -35,25 +35,27 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+तुम्हाला आवडणारे कोणतेही बदल करण्यासाठी तुम्ही प्रोजेक्ट 'रीमीक्स' सुद्धा करू शकता. तुम्ही बॅकड्रॉप, आणि स्प्राईट इमोट कसा करतो ते बदलू शकता, आणि वेगवेगळे स्प्राईट निवडू शकता आणि त्यांना इमोट देऊ शकता.
 
 **Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: स्पेस टॉक प्रमाणपत्र
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+छान! तुम्ही स्पेस टॉक प्रोजेक्ट पूर्ण केला आहे. तुमचे नवीन कौशल्य साजरे करण्यासाठी येथे [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} आहे. एक प्रत डाउनलोड करा नंतर तुमचे नाव जोडण्यासाठी ती उघडा.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+title: पूर्ण झालेला प्रोजेक्ट
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+तुम्ही
+
+येथे पूर्ण झालेला प्रोजेक्ट<0>{:target="_blank"} बघू शकता.</p> 
 
 --- /collapse ---
 
