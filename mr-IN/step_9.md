@@ -1,10 +1,10 @@
-## What next?
+## पुढे काय?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) project. In this project, you will code an animation with sprites that need to make it to a bus before it leaves.
+तुम्ही [Scratch चा परिचय](https://projects.raspberrypi.org/en/pathways/scratch-intro) मार्गाचे पालन करत असलात, तर तुम्ही [बस पकडा](https://projects.raspberrypi.org/en/projects/catch-the-bus) प्रोजेक्टवर जाऊ शकता. या प्रोजेक्टमध्ये, तुम्ही स्प्राईट सह ऍनिमेशन कोड कराल ज्याची बस सोडण्याआधी ती बनविण्यासाठी आवश्यकता आहे.
 
 --- print-only ---
 
-![The 'Catch the bus' project.](images/scratch-tour-bus.png)
+!['बस पकडा' प्रोजेक्ट.](images/scratch-tour-bus.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+तुम्हाला Scratch शोधतांना अधिक मजा हवी असल्यास, तुम्ही [या प्रोजेक्ट](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) पैकी कशाचाही प्रयत्न करू शकता.
