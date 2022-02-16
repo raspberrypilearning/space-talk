@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nano troca de fantasias
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+Você fará Nano se animar trocando de **fantasias**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+Atores têm **fantasias** para mudar sua aparência. Para animar um sprite, você pode alterar suas fantasias.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![O ator Nano falando, "Obrigado!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano diz "Obrigado!"
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Adicione o ator **Nano** ao seu projeto selecionando da categoria **Imaginários**.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![O ícone 'Selecione um ator'.](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Verifique se o ator **Nano** esteja selecionado na lista de Atores abaixo do Palco.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![A lista de Atores, com uma borda azul ao redor do ator Nano para mostrar que o Nano está selecionado.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+Clique na aba **Código** e adicione um script para fazer com que o ator **Nano** `diga`{:class="block3looks"} `Obrigado!`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![O ator Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**Dica:** Todos os blocos são codificados por cores, assim você vai encontrar o bloco `mude para a fantasia`:class="block3looks"} no menu de blocos `Aparência`{:class="block3looks"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**Teste:** Clique no **Nano** no Palco e verifique se o balão de fala aparece e se a fantasia de Nano muda.
 
 --- /task ---
 
-### Nano uses sign language
+### Nano usa linguagem de sinais
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Milhões de pessoas usam a linguagem de sinais para se comunicar. Um sinal comum para 'obrigado' é **levar a mão direita à boca**. 
 </p>
 
-Nano will use sign language by switching costumes.
+Nano usará linguagem de sinais trocando de fantasia.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Você pode editar as fantasias para seus atores com o editor de pintura. Você editará uma fantasia de Nano para que eles assinale "obrigado".
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Clique na aba **Fantasias** para ver as fantasias para o ator **Nano**:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Fantasias disponíveis para o ator Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Clique na fantasia **nano-b**. Clique no braço do lado esquerdo da tela e, a seguir, clique em **Apagar**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![Fantasia nano-b com um braço selecionado.](images/nano-arm-selected.png)
 
-The costume should look like this:
+A fantasia deve ficar assim:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![Fantasia nano-b com um braço apagado.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Dica:** Se você cometer um erro no editor do Paint, pode clicar em **Desfazer**.
+
+![O ícone 'Desfazer'.](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Vá para a **nano-c** e clique no braço do lado esquerdo da tela, depois clique em **Copiar**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![Fantasia nano-c com um braço selecionado.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+Volte para a fantasia **nano-b** e clique em **Colar**. A fantasia deve ficar assim:
+
+![Fantasia nano-b com o braço da fantasia nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Teste:** Clique no ator **Nano** no Palco e verifique se o balão de fala aparece e a fantasia de Nano muda para a fantasia que você editou.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Você aprendeu a fazer o sinal de "obrigado". Da próxima vez que você agradecer a alguém, por que não usar sua nova habilidade?
 </p>
 
 --- save ---
