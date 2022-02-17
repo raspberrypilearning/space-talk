@@ -44,7 +44,7 @@ switch costume to [nano-a v] // Nano sorrindo
 ```
 --- /task ---
 
-**Dica:** Todos os blocos são codificados por cores, assim você vai encontrar o bloco `mude para a fantasia`:class="block3looks"} no menu de blocos `Aparência`{:class="block3looks"}.
+**Dica:** Todos os blocos são codificados por cores, assim você vai encontrar o bloco `mude para a fantasia`{:class="block3looks"} no menu de blocos `Aparência`{:class="block3looks"}.
 
 --- task ---
 
