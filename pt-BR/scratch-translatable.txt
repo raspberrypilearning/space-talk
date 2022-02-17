@@ -1,0 +1,35 @@
+Olá!
+
+esconder a fala após 2 segundos
+
+Obrigado!
+
+quando o Nano é clicado
+
+Nano falando
+
+tente 1 em vez de 2
+
+Nano sorrindo
+
+Hm...
+
+0 é a cor inicial
+
+de volta à cor inicial
+
+esconder balão de fala
+
+número até 200
+
+toca som, não espera
+
+mostra balão de diálogo
+
+mão na boca
+
+sorrindo
+
+mostra um balão de pensamento
+
+volta a cor normal
