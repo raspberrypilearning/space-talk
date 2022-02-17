@@ -57,7 +57,7 @@ Você consegue ver ator que já fora incluído em seu projeto? Esse é o Scratch
 
 --- task ---
 
-Exclua o ator **** (Scratch Cat): selecione o ator **Sprite1** na lista Ator abaixo do Palco e clique no ícone **Delete**.
+Exclua o ator **Sprite1** (Scratch Cat): selecione o ator **Sprite1** na lista Ator abaixo do Palco e clique no ícone **Apagar**.
 
 ![O ícone 'Excluir'.](images/delete-sprite.png)
 
