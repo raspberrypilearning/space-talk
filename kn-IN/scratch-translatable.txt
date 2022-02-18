@@ -1,35 +1,35 @@
-Hello!
+ನಮಸ್ಕಾರ!
 
-hide speech after 2 seconds
+2 ಸೆಕೆಂಡುಗಳ ನಂತರ ಮಾತನ್ನು ಮರೆಮಾಡಿ
 
-Thanks!
+ಧನ್ಯವಾದಗಳು!
 
-when Nano is clicked
+Nano ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ
 
-Nano talking
+Nano ಮಾತನಾಡುತ್ತಿರುವುದು
 
-try 1 instead of 2
+2ರ ಬದಲು 1 ಪ್ರಯತ್ನಿಸಿ
 
-Nano smiling
+Nano ನಗುತ್ತಿರುವುದು
 
-Hm...
+ಹಾಂ...
 
-0 is the starting colour
+0 ಪ್ರಾರಂಭದ ಬಣ್ಣ
 
-back to the starting colour
+ಪ್ರಾರಂಭಿಕ ಬಣ್ಣಕ್ಕೆ ಮರಳುವುದು
 
-hide speech bubble
+ಮಾತಿನ ಗುಳ್ಳೆಯನ್ನು ಮರೆಮಾಚುವುದು
 
-number up to 200
+200 ರವರೆಗಿನ ಸಂಖ್ಯೆಗಳು
 
-play sound, doesn't wait
+ಧ್ವನಿಯನ್ನು ನುಡಿಸಿ, ಕಾಯುವುದಿಲ್ಲ
 
-shows speech bubble
+ಮಾತಿನ ಗುಳ್ಳೆ ತೋರಿಸುತ್ತದೆ
 
-hand to mouth
+ಕೈಯನ್ನು ಬಾಯಿಗೆ
 
-smiling
+ನಗುತ್ತಿರುವುದು
 
-shows a thought bubble
+ಆಲೋಚನಾ ಗುಳ್ಳೆ ತೋರಿಸುತ್ತದೆ
 
-goes back to normal colour
+ಸಾಮಾನ್ಯ ಬಣ್ಣಕ್ಕೆ ಮರಳಿ ಹೋಗುತ್ತದೆ
