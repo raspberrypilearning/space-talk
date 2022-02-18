@@ -1,16 +1,16 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: दूसरा प्रश्न
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+आपने Pico से एक स्पीच बबल में "Hello!" बुलवाया।
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+आप इस ब्लॉक को ढूंढने के लिए कहां जाएंगे?
 
 --- choices ---
 
@@ -18,7 +18,7 @@ Where would you go to find this block?
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+हाँ! `say`{:class="block3looks"} ब्लॉक `Looks`{:class="block3looks"} ब्लॉक मेन्यू में है, जो ब्लॉक के समान रंग का है।
 
   --- /feedback ---
 
@@ -26,7 +26,7 @@ Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+ब्लॉक मेन्यू `Sound`{:class="block3sound"} में ब्लॉक्स का उपयोग स्प्राइट्स से आवाज़ निकालने के लिए किया जाता है।
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make spr
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+ब्लॉक मेनू में `Motion`{:class="block3motion"} ब्लॉक का उपयोग स्प्राइट्स को चलाने के लिए किया जाता है।
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make s
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+ब्लॉक मेनू `Event`{:class="block3events"} में ब्लॉक का उपयोग चीजों को करवाने के लिए किया जाता है।
 
   --- /feedback ---
 
