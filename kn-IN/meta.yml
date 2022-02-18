@@ -1,28 +1,28 @@
 ---
-title: Space talk
+title: "ಬಾಹ್ಯಾಕಾಶ ಮಾತುಕತೆ\n\nಇದು ಪ್ರಾಜೆಕ್ಟ್ ಶೀರ್ಷಿಕೆ. ಈ ಪ್ರಾಜೆಕ್ಟನಲ್ಲಿ‌, ವಿದ್ಯಾರ್ಥಿಗಳು ತಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ಅಥವಾ ಭಾವನೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ʼಅಭಿನಯಿಸುವʼ ಪಾತ್ರಗಳನ್ನೊಳಗೊಂಡ ಬಾಹ್ಯಾಕಾಶ ದೃಶ್ಯವನ್ನು ನಿರ್ಮಾಣ ಮಾಡುತ್ತಾರೆ"
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+description: ಸ್ಪ್ರೈಟ್‌ಗೆ ʼಅಭಿನಯʼ ಕೊಡಲು Scratch ಉಪಯೋಗಿಸಿ, ಅದರಿಂದ ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ ಅವು ತಿಳಿಸುತ್ತವೆ
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: Create your scene
+    title: ನಿಮ್ಮ ದೃಶ್ಯವನ್ನು ಇಲ್ಲಿ ರಚಿಸಿ
   - 
-    title: Pico says hello
+    title: Pico ಹಲೋ ಹೇಳುತ್ತಾನೆ
     completion: engaged
   - 
-    title: Pico plays a sound
+    title: Pico ಧ್ವನಿಯನ್ನು ನುಡಿಸುತ್ತಾನೆ
   - 
-    title: Nano switches costumes
+    title: Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
   - 
-    title: Giga changes colour
+    title: Giga ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
     completion: internal
   - 
-    title: Reflection
+    title: ಪುನರ್ಮನನ
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +30,6 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
   - 
-    title: What next?
+    title: ಮುಂದೆ ಏನು?
