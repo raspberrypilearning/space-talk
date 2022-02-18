@@ -1,35 +1,35 @@
-Hello!
+नमस्कार!
 
-hide speech after 2 seconds
+2 सेकंड के बाद स्पीच छुपा दें
 
-Thanks!
+धन्यवाद!
 
-when Nano is clicked
+जब Nano पर क्लिक किया जाता है
 
-Nano talking
+Nano बात कर रहा है
 
-try 1 instead of 2
+2 के बजाय 1 प्रयास करें
 
-Nano smiling
+Nano मुस्कुराते हुए
 
-Hm...
+हम्म...
 
-0 is the starting colour
+0 प्रारंभिक रंग है
 
-back to the starting colour
+शुरुआती रंग में वापस
 
-hide speech bubble
+स्पीच बबल छुपाएं
 
-number up to 200
+200 तक की संख्या
 
-play sound, doesn't wait
+ध्वनि बजती है, रुकती नहीं
 
-shows speech bubble
+स्पीच बबल दिखाता है
 
-hand to mouth
+हाथ मुंह तक ले जाएँ
 
-smiling
+मुस्कराते हुए
 
-shows a thought bubble
+एक थॉट बबल दिखाता है
 
-goes back to normal colour
+सामान्य रंग में वापस चला जाता है
