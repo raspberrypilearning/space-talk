@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+ವಿಷಯಸೂಚಿ: ಪ್ರಶ್ನೆ 2
 ---
 
 You made Pico say "Hello!" in a speech bubble.
@@ -10,7 +10,7 @@ You made Pico say "Hello!" in a speech bubble.
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+ಈ ಬ್ಲಾಕ್‌ನ್ನು ಕಂಡುಹಿಡಿಯಲು ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀರಿ?
 
 --- choices ---
 
@@ -18,7 +18,7 @@ Where would you go to find this block?
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+ಹೌದು. `say`{:class="block3looks"} ಬ್ಲಾಕ್ `Looks`{:class="block3looks"} ಬ್ಲಾಕ್‌ಗಳ ಮೆನುನಲ್ಲಿ ಇದೆ, ಅದು ಬ್ಲಾಕ್‌ ಬಣ್ಣವನ್ನೇ ಹೊಂದಿದೆ.
 
   --- /feedback ---
 
@@ -26,7 +26,7 @@ Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+ಬ್ಲಾಕ್‌ ಮೆನುವಿನಲ್ಲಿರುವ `Sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸ್ಪ್ರೈಟ್‌ಗಳು ಧ್ವನಿ ನುಡಿಸಲು ಉಪಯೋಗಿಸುತ್ತಾರೆ.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make spr
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+ಸ್ಪ್ರೈಟ್‌ಗಳು ಚಲಿಸುವಂತೆ ಮಾಡಲು ಬ್ಲಾಕ್‌ ಮೆನುವಿನಲ್ಲಿರುವ `Motion`{:class="block3motion"} ಬ್ಲಾಕ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸುತ್ತಾರೆ.
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make s
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+ಘಟನೆಗಳು ನಡೆಯುವಂತೆ ಮಾಡಲು ಬ್ಲಾಕ್‌ ಮೆನುವಿನಲ್ಲಿರುವ `Events`{:class="block3events"} ಬ್ಲಾಕ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸುತ್ತಾರೆ.
 
   --- /feedback ---
 
