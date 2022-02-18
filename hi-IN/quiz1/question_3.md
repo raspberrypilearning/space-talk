@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legend: आखिरी प्रश्न
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+अपने प्रोजेक्ट में, आपने Nano से "thank you" साइन करवाया। Nano का हाथ उसके मुंह तक ले जाने के लिए आपने किस कोड का इस्तेमाल किया?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+यह कोड एक ध्वनि निकालता है और स्पीच बबल दिखाता है।
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+यह कोड स्प्राइट का रंग बदलता है और एक स्पीच बबल दिखाता है।
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+हाँ! `switch costume to`{:class="block3looks"} ब्लॉक स्प्राइट के कॉस्ट्यूम को बदल देता है ताकि बाँह हिल जाए।
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+यह कोड स्प्राइट का रंग बदलता है और एक ध्वनि निकालता है।
 
   --- /feedback ---
 
