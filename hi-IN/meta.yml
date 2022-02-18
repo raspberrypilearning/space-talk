@@ -1,35 +1,35 @@
 ---
-title: Space talk
+title: अंतरिक्ष वार्ता
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+description: स्प्राइट्स को 'इमोट' देने के लिए Scratch का उपयोग करें ताकि क्लिक करने पर वे बातें कर सकें
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Create your scene
+    title: अपना दृश्य बनाएं
   - 
-    title: Pico says hello
+    title: Pico हेलो (hello) कहता है
     completion: engaged
   - 
-    title: Pico plays a sound
+    title: Pico ने बजायी एक ध्वनि
   - 
-    title: Nano switches costumes
+    title: Nano ने कास्ट्यूम (costume) बदल लिया
   - 
-    title: Giga changes colour
+    title: Giga ने रंग बदला
     completion: internal
   - 
-    title: Reflection
+    title: सोचिए
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-    completion: external
+    completion: बाहरी
   - 
-    title: Upgrade your project
+    title: प्रोजेक्ट को अपग्रेड करें
   - 
-    title: What next?
+    title: आगे क्या?
