@@ -1,35 +1,35 @@
-## Reflection
+## ಪುನರ್ಮನನ
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+ಭೇಷ್, ನೀವು ಬಹಳಷ್ಟು ಕಲಿತಿದ್ದೀರಿ! ಈಗ ಪುನರ್ಮನನ ಮಾಡುವ ಸಮಯ — ಪುನರ್ಮನನ ಕಲಿಕೆಯ ಒಂದು ಮಹತ್ವದ ಭಾಗ, ಏಕೆಂದರೆ ಅದು ನಿಮ್ಮ ಮೆದುಳಿನಲ್ಲಿ ಹೊಸ ಸಂಪರ್ಕಗಳನ್ನು ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
 
-Answer the three questions below to reflect on what you have learned.
+ನೀವು ಕಲಿತಿದ್ದನ್ನು ಪುನರ್ಮನನ ಮಾಡಲು ಈ ಕೆಳಗಿನ ಮೂರು ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+ನೀವು ಪ್ರತಿ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿದಾಗ, **ಸಬ್ಮಿಟ್**ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ಸರಿಯಾದ ಉತ್ತರದೆಡೆಗೆ ನಿಮಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಲಾಗುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಯನ್ನು ನೀವು ಎಷ್ಟು ಸಲ ಬೇಕಾದರೂ ಮಾಡಬಹುದು.
 
-Have fun!
+ಆನಂದಿಸಿ!
 
 --- question ---
 ---
-legend: Question 1 of 3
+ವಿಷಯಸೂಚಿ: ಪ್ರಶ್ನೆ 1
 ---
 
-In your project, you added a backdrop and some sprite characters.
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟನಲ್ಲಿ, ನೀವು ಹಿನ್ನೆಲೆ ಮತ್ತು ಕೆಲವು ಸ್ಪ್ರೈಟ್ ಪಾತ್ರಗಳನ್ನು ಸೇರಿಸಿದ್ದೀರಿ.
 
-Where do you go to add a sprite to your project?
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸ್ಪ್ರೈಟ್ ಸೇರಿಸಲು ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀರಿ?
 
 ![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- () 1:**Costumes** ಟ್ಯಾಬ್
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ನ ಉಡುಪನ್ನು ಎಡಿಟ್‌ ಮಾಡಲು ನೀವು **Costumes** ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿದ್ದೀರಿ.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- () 2: **Sounds** ಟ್ಯಾಬ್
 
   --- feedback ---
 
@@ -37,11 +37,11 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: ಸ್ಪ್ರೈಟ್ ಲಿಸ್ಟ್
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+ಹೌದು. ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನೀವು ಎಲ್ಲಾ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ನೋಡಬಹುದಾದ ಪ್ರದೇಶವಾಗಿದೆ ಇದು, ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಅಳಿಸಿ, ಮತ್ತು ಅವುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಸ್ಪ್ರೈಟ್‌ಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
   --- /feedback ---
 
