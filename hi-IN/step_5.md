@@ -1,40 +1,40 @@
-## Nano switches costumes
+## Nano ने बदला कोस्टयूम
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+**कॉस्टयूम** को बदलकर आप Nano से भाव व्यक्त करवाएंगे।
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+स्प्राइट्स के पास **कॉस्टयूम** होते हैं जो उनके दिखने के तरीके को बदल देते हैं। एक स्प्राइट को एनिमेट करने के लिए, आप उसका कॉस्टयूम बदल सकते हैं।
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![Nano बोले, "थैंक्स"!](images/nano-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano बोले "Thanks"!
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+**Fantasy** श्रेणी से अपने प्रोजेक्ट में **Nano** स्प्राइट को डालें।
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+!['Choose a Sprite' आइकॉन](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+सुनिश्चित करें कि स्टेज के नीचे स्प्राइट सूची में **Nano** का चयन किया गया है।
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![स्प्राइट लिस्ट, जिसमे nano स्प्राइट के चारों ओर नीले रंग की आउटलाइन यह दर्शाती है कि Nano का चयन किया गया है।](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+**Code** टैब पर क्लिक करें और **Nano** स्प्राइट से `Thanks!` `Say`{:class="block3looks"} के लिए एक स्क्रिप्ट जोड़ें:
 
-![The Nano sprite.](images/nano-sprite.png)
+![Nano स्प्राइट।](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,70 +44,70 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**Tip:** सभी ब्लॉक कलर-कोडेड हैं, इसलिए आपको `switch costume to`{:class="block3looks"} ब्लॉक `Looks`{:class="block3looks"} ब्लॉक मेन्यू में मिलेगा।
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**Test:** **Nano** स्प्राइट पर क्लिक करें और जांचें कि स्पीच बबल दिखाई देता है और Nano का कास्ट्यूम बदल जाता है।
 
 --- /task ---
 
-### Nano uses sign language
+### Nano साइन भाषा (संकेत भाषा) का उपयोग करता है
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">लाखों लोग बातचीत करने के लिए साइन भाषा का उपयोग करते हैं। 'थैंक यू (धन्यवाद)' के लिए एक सामान्य साइन है **अपना दाहिना हाथ अपने मुंह तक लाना**। 
 </p>
 
-Nano will use sign language by switching costumes.
+Nano कास्ट्यूम बदलकर साइन भाषा का प्रयोग करेगा।
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+आप पेंट एडिटर के साथ अपने स्प्राइट्स के लिए कोस्टयूम एडिट कर सकते हैं। आप Nano का एक कोस्टयूम एडिट करके उनसे साइन भाषा में "thank you" बुलवाएंगे।
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+**Nano** स्प्राइट के कास्ट्यूम देखने के लिए **Costumes** टैब पर क्लिक करें:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Nano स्प्राइट के लिए उपलब्ध कास्ट्यूम ।](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+**nano-b** कास्ट्यूम पर क्लिक करें। बाएं हाथ की ओर की बाँह पर क्लिक करें फिर **Delete**पर क्लिक करें।
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![चुने गए हाथ के साथ nano-b कास्ट्यूम ।](images/nano-arm-selected.png)
 
-The costume should look like this:
+आपकी कास्ट्यूम (पोशाक) इस तरह दिखनी चाहिए:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![हटाई हुई बाँह के साथ nano-b कास्ट्यूम।](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Tip:** यदि आप पेंट एडिटर में कोई गलती करते हैं, तो आप **Undo**पर क्लिक कर सकते हैं।
+
+!['Undo' आइकन।](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+**nano-c** कॉस्ट्यूम पर जाएं और बाएं हाथ की ओर बांह पर क्लिक करें, फिर **Copy**पर क्लिक करें।
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![चुनी गयी बाँह के साथ nano-c कास्ट्यूम।](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+**nano-b** कास्ट्यूम पर वापस जाएं और **Paste** पर क्लिक करें। कास्ट्यूम इस तरह दिखना चाहिए:
+
+![nano-c कास्ट्यूम की बाँह के साथ nano-b कास्ट्यूम।](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Test:** स्टेज पर स्प्राइट में **Nano** पर क्लिक करें और जांचें कि स्पीच बबल दिखाई देता है और Nano का कास्ट्यूम आपके द्वारा एडिट करे गए कास्ट्यूम में बदल जाता है।
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">आपने "thank you" इशारा करना सीख लिया है। अगली बार जब आप किसी को धन्यवाद दें, तो क्यों न अपने नए कौशल का उपयोग करें?
 </p>
 
 --- save ---
