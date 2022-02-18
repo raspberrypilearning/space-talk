@@ -1,29 +1,29 @@
-## Giga changes colour
+## Giga बदले रंग
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+स्प्राइट्स अपने व्यक्तित्व को दिखाने के लिए स्पीच बबल का उपयोग कर सकते हैं और रंग बदल सकते हैं। आपको Giga से ऐसा करवाना है।
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![Giga स्प्राइट सोच रहा है, "हम्म..."।](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Add the **Giga** sprite.
+**Giga** स्प्राइट जोड़ें।
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+**Giga** स्प्राइट को स्टेज के दाहिने ओर खींचे।
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+सुनिश्चित करें कि आपके पास स्टेज के नीचे स्प्राइट लिस्ट में **Giga** चुना हुआ है। रंग बदलकर **Giga** स्प्राइट से बातचीत करवाने के लिए इस कोड को जोड़ें:
 
-![The Giga sprite.](images/giga-sprite.png)
+![Giga स्प्राइट.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -34,23 +34,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**Tip:** कोड, कास्ट्यूम या ध्वनि जोड़ने या बदलने से पहले स्टेज के नीचे स्प्राइट लिस्ट में स्प्राइट पर क्लिक करें। सुनिश्चित करें कि आपने सही स्प्राइट पर क्लिक किया है।
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+`set color effect to`{:class="block3looks"} ब्लॉक में `1` से `200` तक के अलग-अलग अंक आज़माएं, जब तक कि आपको अपनी पसंद का रंग न मिल जाए।
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+`think`{:class="block3looks"} ब्लॉक में शब्दों और सेकंडों की संख्या बदलें।
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**Test:** **Giga** स्प्राइट पर क्लिक करें और जांचें कि स्प्राइट रंग बदलता है की नहीं और एक स्पीच बबल दिखाता है।
 
 --- /task ---
 
