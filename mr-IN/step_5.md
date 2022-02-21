@@ -10,29 +10,29 @@
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![Nano स्प्राईट म्हणतो, "Thanks!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano म्हणतो "धन्यवाद!"
 
 --- task ---
 
 **Fantasy** कॅटेगरी मधून तुमच्या प्रोजेक्टला **Nano** स्प्राईट जोडा.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+!["Choose a Sprite" आयकॉन.](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Stage च्या खालील Sprite यादीमध्ये **Nano** स्प्राईट निवडला असल्याची खात्री करा.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Nano निवडला हे दाखवण्यासाठी Nano स्प्राईट भोवती निळ्या बॉर्डरसह Sprite लीस्ट.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+**Code** टॅबवर क्लिक करा आणि `say`{:class="block3looks"} `Thanksकोडकोडकोड!` ला **Nano** स्प्राईट मिळण्यासाठी स्क्रीप्ट जोडा:
 
 ![Nano स्प्राईट.](images/nano-sprite.png)
 
@@ -48,7 +48,7 @@ switch costume to [nano-a v] // Nano smiling
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**चाचणी:** Stage वरील **Nano** स्प्राईटवर क्लिक करा आणि स्पीच बबल दिसतो का आणि Nano चा कॉश्चुम बदलतो का ते तपासा.
 
 --- /task ---
 
@@ -59,7 +59,7 @@ switch costume to [nano-a v] // Nano smiling
 
 Nano कॉश्चुम बदलून सांकेतिक भाषेचा वापर करेल.
 
-You can edit costumes for your sprites with the Paint editor. तुम्ही त्यांना "धन्यवाद" संकेत देण्यासाठी Nano चा कॉश्चुम एडिट कराल.
+तुम्ही Paint एडिटरसह तुमच्या स्प्राईटसाठी कॉश्चुम एडिट करू शकता. तुम्ही त्यांना "धन्यवाद" संकेत देण्यासाठी Nano चा कॉश्चुम एडिट कराल.
 
 --- task ---
 
@@ -71,7 +71,7 @@ You can edit costumes for your sprites with the Paint editor. तुम्ही
 
 --- task ---
 
-**nano-b** कॉश्चुमवर क्लिक करा. Click on the arm on the left-hand side, and then click on **Delete**.
+**nano-b** कॉश्चुमवर क्लिक करा. डाव्या बाजूच्या हातावर क्लिक करा, आणि त्यानंतर **Delete** वर क्लिक करा.
 
 ![निवडलेल्या हातासह nano-b कॉश्चुम.](images/nano-arm-selected.png)
 
@@ -81,9 +81,9 @@ You can edit costumes for your sprites with the Paint editor. तुम्ही
 
 --- /task ---
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+**टीप:** जर तुम्ही Paint एडिटरमध्ये चूक केली, तर तुम्ही **Undo**वर क्लिक करू शकता.
 
-![The 'Undo' icon.](images/nano-undo.png)
+!['Undo' आयकॉन.](images/nano-undo.png)
 
 --- task ---
 
@@ -103,7 +103,7 @@ You can edit costumes for your sprites with the Paint editor. तुम्ही
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+**चाचणी:** Stage वरील **Nano** स्प्राईटवर क्लिक करा आणि स्पीच बबल दिसतो का आणि तुम्ही एडिट केलेल्या कॉश्चुममध्ये Nano कॉश्चुम बदलतो का ते तपासा.
 
 --- /task ---
 
