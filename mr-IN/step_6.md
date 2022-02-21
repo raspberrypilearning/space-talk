@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![Giga स्प्राईट विचार करतो, "Hmm...".](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
@@ -15,13 +15,13 @@
 
 **Giga** स्प्राईट जोडा.
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+**Giga** स्प्राईट Stage च्या उजव्या बाजूला ड्रॅग करा.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. रंग बदलून संवाद साधण्यासाठी **Giga** स्प्राईट तयार करण्यासाठी हा कोड समाविष्ट करा:
+Stage च्या खालील sprite लीस्टमधील तुमच्याकडे **Giga** स्प्राईट निवडलेला असल्याची खात्री करा. रंग बदलून संवाद साधण्यासाठी **Giga** स्प्राईट तयार करण्यासाठी हा कोड समाविष्ट करा:
 
 ![Giga स्प्राईट.](images/giga-sprite.png)
 
@@ -34,23 +34,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. तुम्ही योग्य स्प्राइटवर क्लिक केले असल्याची खात्री करा.
+**टीप:** तुम्ही कोड, कॉश्चुम किंवा साऊंड जोडण्यापूर्वी किंवा बदलण्यापूर्वी Stage च्या खाली असलेल्या Sprite लीस्टमधील स्प्राइटवर क्लिक करा. तुम्ही योग्य स्प्राइटवर क्लिक केले असल्याची खात्री करा.
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+तुमचा आवडता रंग सापडेपर्यंत `1` पासून `200` पर्यंत वेगवेगळ्या संख्यांचा `set color effect to`{:class="block3looks"} ब्लॉकमध्ये वापर करण्याचा प्रयत्न करा.
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+`think`{:class="block3looks"} ब्लॉकमधील शब्द आणि सेकंदांची संख्या बदला.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**चाचणी:** Stage वरील **Giga** स्प्राईटवर क्लिक करा आणि स्प्राईट रंग बदलतो का आणि थॉट बबल दाखवतो का ते तपासा.
 
 --- /task ---
 
