@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![Pico स्प्राईटसह Space बॅकड्रॉप.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
