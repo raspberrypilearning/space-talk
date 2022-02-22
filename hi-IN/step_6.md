@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![Giga स्प्राइट सोच रहा है, "हम्म..."।](images/giga-step2.png){:width="300px"}
+![Giga स्प्राइट सोच रहा है, "Hmm..."।](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
@@ -21,7 +21,7 @@
 
 --- task ---
 
-सुनिश्चित करें कि आपके पास स्टेज के नीचे स्प्राइट लिस्ट में **Giga** चुना हुआ है। रंग बदलकर **Giga** स्प्राइट से बातचीत करवाने के लिए इस कोड को जोड़ें:
+Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. रंग बदलकर **Giga** स्प्राइट से बातचीत करवाने के लिए इस कोड को जोड़ें:
 
 ![Giga स्प्राइट.](images/giga-sprite.png)
 
@@ -34,7 +34,7 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** कोड, कास्ट्यूम या ध्वनि जोड़ने या बदलने से पहले स्टेज के नीचे स्प्राइट लिस्ट में स्प्राइट पर क्लिक करें। सुनिश्चित करें कि आपने सही स्प्राइट पर क्लिक किया है।
+**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. सुनिश्चित करें कि आपने सही स्प्राइट पर क्लिक किया है।
 
 --- task ---
 
@@ -50,7 +50,7 @@ clear graphic effects // back to the starting colour
 
 --- task ---
 
-**Test:** **Giga** स्प्राइट पर क्लिक करें और जांचें कि स्प्राइट रंग बदलता है की नहीं और एक स्पीच बबल दिखाता है।
+**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
 
 --- /task ---
 
