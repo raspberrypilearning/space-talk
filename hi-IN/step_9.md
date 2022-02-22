@@ -16,4 +16,4 @@
 
 --- /no-print ---
 
-यदि आप Scratch के बारे में और जानने में और अधिक मज़ा लेना चाहते हैं, तो आप [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) को आज़मा सकते हैं।
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
