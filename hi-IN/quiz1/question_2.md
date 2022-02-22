@@ -42,7 +42,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-ब्लॉक मेनू `Event`{:class="block3events"} में ब्लॉक का उपयोग चीजों को करवाने के लिए किया जाता है।
+ब्लॉक मेनू `Events`{:class="block3events"} में ब्लॉक का उपयोग चीजों को करवाने के लिए किया जाता है।
 
   --- /feedback ---
 
