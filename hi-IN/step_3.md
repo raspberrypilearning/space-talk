@@ -1,10 +1,10 @@
-## Pico बोले हेलो
+## Pico says hello
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 एक स्प्राइट में कोड, कोस्टयूम और ध्वनियां हो सकती हैं जिससे की हम वह कैसा दिखता है या क्या करता है, वह बदल सकते हैं। 
   
-जब आप स्प्राइट पर क्लिक करते हैं, तो शब्दों और ध्वनि के साथ पिको को भावपूर्ण बनाने के लिए आप कोड ब्लॉक जोड़ेंगे।
+You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
 
@@ -13,7 +13,7 @@
 </div>
 </div>
 
-ब्लॉक का उपयोग करने के लिए, आप ब्लॉक मेनू में उन पर क्लिक कर सकते हैं।
+To use blocks, you can click on them in the Blocks menu.
 
 --- task ---
 
@@ -21,17 +21,17 @@
 
 `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} ब्लॉक पर क्लिक करें।
 
-!['हैलो कहो! 2 सेकेंड के लिए ब्लॉक पीले रंग की आउटलाइन के साथ चमकता हुआ।](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
 **Pico** स्प्राइट दो सेकंड के लिए स्पीच बबल दिखाएगा।
 
 ![Pico स्प्राइट "Hello!" स्पीच बबल में।](images/pico-say-hello-stage.png)
 
-**Tip:** कोड जब चल रहा होता है तो Scratch पीले रंग की आउटलाइन के साथ चमकते हैं।
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
 --- /task ---
 
-आप ब्लॉक को कोड क्षेत्र में खींच सकते हैं, और उनका उपयोग वहां से किया जा सकता है।
+You can drag blocks to the Code area, and they can be used from there.
 
 --- task ---
 
@@ -39,17 +39,17 @@
 
 !['say' ब्लॉक को कोड क्षेत्र में खींचकर इसे चलाने के लिए उस पर क्लिक करें।](images/pico-drag-say.gif)
 
-!['say' ब्लॉक को कोड क्षेत्र में खींच लिया गया है। कोड ब्लॉक पीले रंग की आउटलाइन के साथ चमकता है।](images/pico-drag-say.png)
+!['say' ब्लॉक को कोड क्षेत्र में खींच लिया गया है। The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
 
-एक समय में एक से अधिक ब्लॉक चलाने के लिए कोड क्षेत्र में ब्लॉक को एक साथ जोड़ा जा सकता है। जुड़े हुए ब्लॉक ऊपर से नीचे के क्रम में चलेंगे।
+Blocks can be connected together in the Code area to run more than one at a time. जुड़े हुए ब्लॉक ऊपर से नीचे के क्रम में चलेंगे।
 
 --- task ---
 
-`Events`{:class="block3events"} ब्लॉक मेनू से `when this sprite clicked`{:class="block3events"} ब्लॉक को खींचे और उसे अपने कोड क्षेत्र में `say`{:class="block3looks"} ब्लॉक के ऊपर जोड़ दें। ब्लॉक एक साथ चिपक जाएंगे।
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. ब्लॉक एक साथ चिपक जाएंगे।
 
-![एक साथ जुड़ते हुए ब्लॉकस का एक एनीमेशन। जब Pico पर क्लिक किया जाता है, तो दो सेकंड के लिए वह कहता है "हैलो!" ।](images/pico-snap-together.gif)
+![एक साथ जुड़ते हुए ब्लॉकस का एक एनीमेशन। जब Pico पर क्लिक किया जाता है, तो दो सेकंड के लिए वह कहता है "Hello!" ।](images/pico-snap-together.gif)
 
 ![Pico स्प्राइट।](images/pico-sprite.png)
 
@@ -67,13 +67,13 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 आप कोड उदाहरणों में कमेंट देखेंगे। जब आप अपने प्रोजेक्ट में कोड जोड़ते हैं तो आपको कमेंट को डालने की आवश्यकता नहीं होती है।
 
-यदि आपके पास अपना प्रोजेक्ट पूरा करने करने के बाद समय बचता हैं, तो अपने कोड में कमेंट डालना एक अच्छा विचार है ताकि बाद में इसे समझना आसान हो। एक कमेंट डालने के लिए, कोड क्षेत्र में एक ब्लॉक पर राइट-क्लिक करें (या टैबलेट पर, टैप और होल्ड करें) और **Add comment** चुनें।
+यदि आपके पास अपना प्रोजेक्ट पूरा करने करने के बाद समय बचता हैं, तो अपने कोड में कमेंट डालना एक अच्छा विचार है ताकि बाद में इसे समझना आसान हो। To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
 ![जब आप किसी ब्लॉक पर राइट-क्लिक करते हैं तो पॉप-अप मेनू दिखाई देता है। 'Add comment' चुना गया है।](images/add-comment.png)
 
 --- task ---
 
-**Test:** स्टेज पर स्प्राइट पर **Pico** क्लिक करें और जांचें कि स्पीच बबल दो सेकंड के लिए दिखाई देता है। अपने कोड का टेस्ट करना ज़रूरी हैं ताकि आप ये देख सकें की क्या ये वही कर रहा है जैसा आप चाहते हैं।
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. अपने कोड का टेस्ट करना ज़रूरी हैं ताकि आप ये देख सकें की क्या ये वही कर रहा है जैसा आप चाहते हैं।
 
 --- /task ---
 
