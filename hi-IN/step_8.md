@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![Tera स्प्राइट स्टेज पर।](images/tera-step.png){:width="300px"}
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
@@ -37,7 +37,7 @@ start sound [pop v]
 
 आप अपनी पसंद का कोई भी बदलाव करने के लिए प्रोजेक्ट को 'Remix' भी कर सकते हैं। आप बॅकड्रोप बदल सकते हैं, और स्प्राइट्स कैसे इमोट करते हैं इसमे परिवर्तन कर सकते हैं, और यहां तक कि अलग-अलग स्प्राइट्स भी चुन सकते हैं और उन्हें इमोट दे सकते हैं।
 
-**Tip:** कोड, कास्ट्यूम या ध्वनि जोड़ने या बदलने से पहले स्टेज के नीचे स्प्राइट लिस्ट में स्प्राइट पर क्लिक करें।
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
 --- collapse ---
 ---
