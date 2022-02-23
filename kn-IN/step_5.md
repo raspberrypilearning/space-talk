@@ -1,27 +1,27 @@
-## Nano switches costumes
+## Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-You will get Nano to emote by switching **costumes**.
+**costumes** ಬದಲಾಯಿಸುತ್ತ ಭಾವನೆಗಳನ್ನು ಅಭಿನಯಿಸುವ Nano ಪಡೆಯುತ್ತೀರಿ.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+ಸ್ಪ್ರೈಟ್‌ಗಳಿಗೆ ಅವುಗಳು ಯಾವ ರೀತಿ ಕಾಣುತ್ತವೆ ಎಂಬುವುದನ್ನು ಬದಲಾಯಿಸಲು **costumes** ಇವೆ. ಸ್ಪ್ರೈಟ್‌ನ್ನು ಅನಿಮೇಟ್‌ ಮಾಡಲು, ನೀವು ಅದರ ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದು.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![Nano ಸ್ಪ್ರೈಟ್‌, "Thanks!"ಹೇಳುತ್ತಿರುವುದು](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano says "Thanks!"
+### Nano "Thanks!" ಹೇಳುತ್ತಾನೆ
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ **Fantasy** ವರ್ಗದಿಂದ **Nano** ಸ್ಪ್ರೈಟ್‌ ಸೇರಿಸಿ.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+!['Choose a Sprite' ಐಕಾನ್.](images/choose-sprite-menu.png)
 
 --- /task ---
 
@@ -29,12 +29,12 @@ Add the **Nano** sprite to your project from the **Fantasy** category.
 
 Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Nano ಆಯ್ಕೆಯಾಗಿದೆ ಎಂದು ತೋರಿಸಲು Nano ಸ್ಪ್ರೈಟ್ ಸುತ್ತಲೂ ನೀಲಿ ಅಂಚು ಹೊಂದಿರುವ ಸ್ಪ್ರೈಟ್ ಲಿಸ್ಟ್.](images/nano-selected.png)
 
 
 Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
 
-![The Nano sprite.](images/nano-sprite.png)
+![Nano ಸ್ಪ್ರೈಟ್.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,7 +44,7 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**ಸಲಹೆ:** ಎಲ್ಲಾ ಬ್ಲಾಕ್‌ಗಳಿಗೆ ಬಣ್ಣಗಳನ್ನು ಕೊಡಲಾಗಿದೆ, ಆದುದರಿಂದ ನೀವು `switch costume to`{:class="block3looks"} ಬ್ಲಾಕ್‌ನ್ನು `Looks`{:class="block3looks"} ಬ್ಲಾಕ್‌ಗಳ ಮೆನುನಲ್ಲಿ ನೋಡುವಿರಿ.
 
 --- task ---
 
@@ -52,52 +52,52 @@ switch costume to [nano-a v] // Nano smiling
 
 --- /task ---
 
-### Nano uses sign language
+### Nano ಸಂಕೇತ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತದೆ
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">ಲಕ್ಷಾಂತರ ಜನರು ಸಂವಹನಕ್ಕಾಗಿ ಸಂಕೇತ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತಾರೆ. 'ಧನ್ಯವಾದ' ಕ್ಕೆ ಸಾಮಾನ್ಯ ಸಂಕೇತವೆಂದರೆ **ನಿಮ್ಮ ಬಲಗೈಯನ್ನು ನಿಮ್ಮ ಬಾಯಿಗೆ ತರುವುದು**. 
 </p>
 
-Nano will use sign language by switching costumes.
+Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುವ ಮೂಲಕ ಸಂಕೇತ ಭಾಷೆಯನ್ನು ಉಪಯೋಗಿಸುತ್ತದೆ.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+ನೀವು ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗಳ ಉಡುಪುಗಳನ್ನು Paint editor ನೊಂದಿಗೆ ಎಡಿಟ್‌ ಮಾಡಬಹುದು. You will edit a costume of Nano to get them to sign "thank you".
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+**Nano** ಸ್ಪ್ರೈಟ್‌ಗೆ ಉಡುಪು ನೋಡಲು **Costumes** ಟ್ಯಾಬ್‌ ಕ್ಲಿಕ್‌ ಮಾಡಿ:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Nano ಸ್ಪ್ರೈಟ್ಗೆ ದೊರೆಯುವ ಉಡುಪುಗಳು.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+**nano-b** ಉಡುಪಿನ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ಎಡಭಾಗದಲ್ಲಿರುವ ತೋಳಿನ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ಮತ್ತು ನಂತರ **Delete** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![ತೋಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿರುವ Nano-b ಉಡುಪು.](images/nano-arm-selected.png)
 
-The costume should look like this:
+ಉಡುಪು ಈ ರೀತಿ ಕಾಣಿಸಬೇಕು:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![ತೋಳನ್ನು ತೆಗೆದುಹಾಕಲಾದ nano-b ಉಡುಪು.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**ಸಲಹೆ:** ನೀವು Paint editor ನಲ್ಲಿ ತಪ್ಪು ಮಾಡಿದರೆ, ನೀವು **Undo** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಬಹುದು.
+
+!['Undo' ಐಕಾನ್.](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+**nano-c** ಉಡುಪಿಗೆ ಹೋಗಿ ಮತ್ತು ಎಡಭಾಗದಲ್ಲಿರುವ ತೋಲಿನ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ನಂತರ **Copy** ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![ತೋಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾದ nano-c ಉಡುಪು.](images/nano-c-arm-selected.png)
+
+--- /task ---
+
+--- task ---
+
+**nano-b** ಉಡುಪಿಗೆ ಮರಳಿ ಹೋಗಿ ಮತ್ತು **Paste** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ಉಡುಪು ಈ ರೀತಿ ಕಾಣಬೇಕು:
+
+![Nano-c ಉಡುಪಿನ ತೋಳಿನೊಂದಿಗೆ nano-b ಉಡುಪು.](images/nano-b-new-arm.png)
 
 --- /task ---
 
@@ -107,7 +107,7 @@ Go back to the **nano-b** costume and click on **Paste**. The costume should loo
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"ಧನ್ಯವಾದ" ಹೇಗೆ ಸಂಕೇತ ಮಾಡಬೇಕು ಎಂದು ನೀವು ತಿಳಿದುಕೊಂಡಿರಿ. ಮುಂದಿನ ಬಾರಿ ನೀವು ಯಾರಿಗಾದರೂ ಧನ್ಯವಾಧ ತಿಳಿಸುವಾಗ, ನಿಮ್ಮ ಹೊಸ ಕೌಶಲ್ಯವನ್ನು ಏಕೆ ಉಪಯೋಗಿಸಬಾರದು?
 </p>
 
 --- save ---
