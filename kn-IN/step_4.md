@@ -1,33 +1,33 @@
-## Pico plays a sound
+## Pico ಧ್ವನಿಯನ್ನು ನುಡಿಸುತ್ತಾನೆ
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+ಸಂವಹನ ಮಾಡುವ ಇನ್ನೊಂದು ವಿಧಾನವೆಂದರೆ ಧ್ವನಿಯನ್ನು ಬಳಸುವುದು.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Pico ಸ್ಪ್ರೈಟ್ "Hello!" ಹೇಳುತ್ತಿರುವುದು]‌(images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+**Pico** ಸ್ಪ್ರೈಟ್‌ಗೆ **Sounds** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ನೀವು **pop** ಧ್ವನಿಯನ್ನು ಕಾಣಬಹುದು. **pop** ಧ್ವನಿಯನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳಲು **Play** ಐಕಾನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 ![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
 
 --- /task ---
 
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
+Scratch‌ ನಲ್ಲಿ ಕೆಲವು ಅದ್ಭುತ ಏಲಿಯನ್ ಶಬ್ದಗಳಿವೆ, ಅದನ್ನು ನೀವು ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗೆ ಸೇರಿಸಬಹುದು.
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+ಹೊಸ ಶಬ್ದವನ್ನು ಆಯ್ಕೆ ಮಾಡಲು, **Choose a Sound** ಐಕಾನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು **Space** ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ ಅಥವಾ ಸರ್ಚ್‌ ಬಾಕ್ಸ್‌ನಲ್ಲಿ `space` ಟೈಪ್‌ ಮಾಡಿ.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+!['Choose a Sound' ಐಕಾನ್.](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+!['Choose a Sound' ಹೈಲೈಟ್‌ ಮಾಡಿರುವ Scratch ಎಡಿಟರ್‌.](images/pico-choose-sound.png)
 
 ![The 'Space' category in the Sound Library.](images/pico-space-category.png)
 
@@ -35,7 +35,7 @@ To choose a new sound, click on the **Choose a Sound** icon and select the **Spa
 
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+**Play** ಐಕಾನ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಬೇರೆ ಬೇರೆ ಧ್ವನಿಗಳನ್ನು ನುಡಿಸಿ. ನೀವು ಉಪಯೋಗಿಸಬೇಕೆಂದಿರುವ ಧ್ವನಿಯು ನಿಮಗೆ ಸಿಕ್ಕಾಗ, ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಅದನ್ನು ಸೇರಿಸಲು ಅದರ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 ![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
@@ -43,15 +43,15 @@ Play a few different sounds using the **Play** icons. Once you have found the so
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+**Code** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. `Sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ಗಳ ಮೆನುವಿನಲ್ಲಿ, `start sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ ಹುಡುಕಿ.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. ಒಂದು ಅಂತರ ತೆರೆಯುತ್ತದೆ ಮತ್ತು ಆ ಜಾಗದಲ್ಲಿ ಬ್ಲಾಕ್‌ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![ಎರಡು ಬ್ಲಾಕ್‌ಗಳ ನಡುವೆ 'start sound' ಬ್ಲಾಕ್‌ ಸೇರಿಸಲಾಗಿದೆ.](images/pico-insert-block.gif)
 
-Your code should look like this:
+ನಿಮ್ಮ ಕೋಡ್ ಈ ರೀತಿ ಇರಬೇಕು:
 
-![The Pico sprite.](images/pico-sprite.png)
+![Pico ಸ್ಪ್ರೈಟ್.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -63,15 +63,15 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+ನಿಮ್ಮ `start sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ ಅದರಲ್ಲಿ ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ ಧ್ವನಿಯನ್ನು ಹೊಂದಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಅದರಲ್ಲಿ ಇಲ್ಲವಾದರೆ, ನೀವು `start sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ನಲ್ಲಿ ಧ್ವನಿಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಬೇಕು, ನಂತರ ಡ್ರಾಪ್-ಡೌನ್‌ ಮೆನುನಲ್ಲಿ ನಿಮ್ಮ ಆಯ್ಕೆಯ ಧ್ವನಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಬೇಕು.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+!['start sound'‌ ಬ್ಲಾಕ್‌ ಒಳಗೆ ಡ್ರಾಪ್‌-ಡೌನ್‌ ಮೆನುನಲ್ಲಿ Alien Creak1 ಧ್ವನಿಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡುವುದು.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**ಪರೀಕ್ಷೆ:** **Pico** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಮಾತಿನ ಗುಳ್ಳೆ ಕಾಣಿಸುತ್ತದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ನೀವು ಧ್ವನಿಯನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳಬಹುದು. ನಿಮಗೆ ಧ್ವನಿ ಕೇಳದಿದ್ದರೆ, `when this sprite clicked`{:class="block3events"} ಬ್ಲಾಕ್‌ ಕೆಳಗೆ ನೀವು `start sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ ಸೇರಿಸಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್‌ನಲ್ಲಿ ಧ್ವನಿ ಕೇಳಿಸುತ್ತಿದೆಯೇ ಎಂದೂ ಸಹ ಪರಿಶೀಲಿಸಿ.
 
 --- /task ---
 
