@@ -2,9 +2,9 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+ಸ್ಪ್ರೈಟ್ ಹೇಗೆ ಕಾಣುತ್ತದೆ ಮತ್ತು ಏನು ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಲು ಅದು ಕೋಡ್, ಉಡುಪುಗಳು ಮತ್ತು ಶಬ್ದಗಳನ್ನು ಹೊಂದಬಹುದು. 
   
-You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
+ಸ್ಪ್ರೈಟ್‌ನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಪದಗಳು ಮತ್ತು ಧ್ವನಿಯೊಂದಿಗೆ Pico ಭಾವನೆಯನ್ನು ಅಭಿನಯಿಸಲು ನೀವು ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸೇರಿಸುತ್ತೀರಿ.
 </div>
 <div>
 
@@ -17,15 +17,15 @@ To use blocks, you can click on them in the Blocks menu.
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+`Looks`{:class="block3looks"} ಬ್ಲಾಕ್‌ ಮೆನು ತೆರೆಯಿರಿ.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+`say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} ಬ್ಲಾಕ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 ![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+**Pico** ಸ್ಪ್ರೈಟ್ ಎರಡು ಸೆಕೆಂಡುಗಳ ಕಾಲ ಮಾತಿನ ಗುಳ್ಳೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![ಮಾತಿನ ಗುಳ್ಳೆಯಲ್ಲಿ Pico ಸ್ಪ್ರೈಟ್‌ "Hello!" ದೊಂದಿಗೆ.](images/pico-say-hello-stage.png)
 
 **Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
@@ -35,23 +35,23 @@ You can drag blocks to the Code area, and they can be used from there.
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. ಅದರ ಮೇಲೆ ಮತ್ತೊಮ್ಮೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. ಕೋಡ್‌ ಬ್ಲಾಕ್ ಹಳದಿ ಬಾಹ್ಯರೇಖೆಯೊಂದಿಗೆ ಹೊಳೆಯುತ್ತದೆ.](images/pico-drag-say.png)
 
 --- /task ---
 
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
+Blocks can be connected together in the Code area to run more than one at a time. ಸಂಪರ್ಕಿತ ಬ್ಲಾಕ್‌ಗಳು ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ ಕ್ರಮವಾಗಿ ರನ್‌ ಆಗುತ್ತವೆ.
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. ಬ್ಲಾಕ್‌ಗಳು ಒಟ್ಟಿಗೆ ಅಂಟಿಕೊಳ್ಳುತ್ತವೆ.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![ಬ್ಲಾಕ್‌ಗಳ ಅನಿಮೇಶನ್‌ ಒಟ್ಟಿಗೆ ಅಂಟಿಕೊಳ್ಳುವುದು. Pico ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ, ಅವುಗಳು "Hello!" ಎರಡು ಸೆಕೆಂಡುಗಳ ಕಾಲ ಹೇಳುತ್ತವೆ.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![Pico ಸ್ಪ್ರೈಟ್.‌.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,20 +60,20 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-A comment is an explanation of what your code does.
+ಟಿಪ್ಪಣಿ(ಕಾಮೆಂಟ್)‌ ನಿಮ್ಮ ಕೋಡ್‌ ಏನು ಮಾಡುತ್ತದೆ ಎಂಬುವುದರ ವಿವರಣೆ.
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+ಕೋಡ್‌ ಉದಾಹರಣೆಗಳಲ್ಲಿ ನೀವು ಟಿಪ್ಪಣಿ(ಕಾಮೆಂಟ್)‌ಗಳನ್ನು ನೋಡುತ್ತೀರಿ. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ನೀವು ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಿದಾಗ ಟಿಪ್ಪಣಿಗಳನ್ನು( ಕಾಮೆಂಟ್‌ಗಳನ್ನು) ಸೇರಿಸುವ ಅಗತ್ಯವಿಲ್ಲ.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+ನೀವು ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಪೂರ್ಣಗೊಳಿಸಿದ ನಂತರ ನಿಮಗೆ ಸಮಯವಿದ್ದರೆ, ನಿಮ್ಮ ಕೋಡ್‌ಗಳಿಗೆ ಟಿಪ್ಪಣಿ(ಕಾಮೆಂಟ್)‌ ಸೇರಿಸುವುದ ಒಳ್ಳೆಯದು, ಇದರಿಂದ ನಂತರ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸುಲಭವಾಗುತ್ತದೆ. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![ನೀವು ಬ್ಲಾಕ್‌ ಮೇಲೆ ರೈಟ್‌-ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಪಾಪ್-ಅಪ್‌ ಮೆನು. 'Add Comment' ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ.](images/add-comment.png)
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. ನಿಮ್ಮ ಕೋಡ್‌ ನೀವು ನಿರೀಕ್ಷಿಸಿದುದನ್ನು ಮಾಡುತ್ತದೆಯೇ ಎಂದು ಪರೀಕ್ಷೆ ಮಾಡುವುದು ಮಹತ್ವವಾಗಿರುತ್ತದೆ.
 
 --- /task ---
 
