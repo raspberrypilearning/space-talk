@@ -32,7 +32,7 @@ Make sure that the **Nano** sprite is selected in the Sprite list below the Stag
 ![Nano ಆಯ್ಕೆಯಾಗಿದೆ ಎಂದು ತೋರಿಸಲು Nano ಸ್ಪ್ರೈಟ್ ಸುತ್ತಲೂ ನೀಲಿ ಅಂಚು ಹೊಂದಿರುವ ಸ್ಪ್ರೈಟ್ ಲಿಸ್ಟ್.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
+**Code** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು **Nano** ಸ್ಪ್ರೈಟ್‌ `say`{:class="block3looks"} `Thanks!` ಹೇಳಲು ಬರಹ ಸೇರಿಸಿ:
 
 ![Nano ಸ್ಪ್ರೈಟ್.](images/nano-sprite.png)
 
@@ -59,7 +59,7 @@ switch costume to [nano-a v] // Nano smiling
 
 Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುವ ಮೂಲಕ ಸಂಕೇತ ಭಾಷೆಯನ್ನು ಉಪಯೋಗಿಸುತ್ತದೆ.
 
-ನೀವು ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗಳ ಉಡುಪುಗಳನ್ನು Paint editor ನೊಂದಿಗೆ ಎಡಿಟ್‌ ಮಾಡಬಹುದು. You will edit a costume of Nano to get them to sign "thank you".
+ನೀವು ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗಳ ಉಡುಪುಗಳನ್ನು Paint editor ನೊಂದಿಗೆ ಎಡಿಟ್‌ ಮಾಡಬಹುದು. Nano "thank you" ಸಂಕೇತ ತೋರಿಸಲು ನೀವು ಅವುಗಳ ಉಡುಪನ್ನು ಎಡಿಟ್‌ ಮಾಡುವಿರಿ.
 
 --- task ---
 
