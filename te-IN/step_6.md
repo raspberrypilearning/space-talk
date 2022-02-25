@@ -1,29 +1,29 @@
-## Giga changes colour
+## Giga రంగులు మారుస్తుంది
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+Sprite లు థాట్ బబుల్స్ ని కూడా ఉపయోగించవచ్చు మరియు వాటి వ్యక్తిత్వాన్ని చూపించడానికి రంగులను మార్చవచ్చు. దీన్ని చేయడానికి మీరు Gigaని పొందుతారు.
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![Giga sprite ఆలోచిస్తోంది, "Hmmm...".](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Add the **Giga** sprite.
+**Giga** sprite ని జోడించండి.
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+**Giga** sprite ని Stage కుడి వైపుకు డ్రాగ్ చేయండి.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+మీరు Stage దిగువన ఉన్న Sprite లిస్ట్‌లో **Giga** ఉందని నిర్ధారించుకోండి. రంగును మార్చడం ద్వారా **Giga** sprite కమ్యూనికేట్ చేయడానికి ఈ కోడ్‌ని జోడించండి:
 
-![The Giga sprite.](images/giga-sprite.png)
+![Giga sprite.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -34,23 +34,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**చిట్కా:** మీరు కోడ్, costume లేదా ధ్వనిని జోడించడానికి లేదా మార్చడానికి ముందు Stage దిగువన ఉన్న Sprite జాబితాలోని sprite పై క్లిక్ చేయండి. మీరు సరైన sprite పై క్లిక్ చేశారని నిర్ధారించుకోండి.
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+`set color effect to`{:class="block3looks"} బ్లాక్‌ లో మీకు నచ్చిన కలర్ దొరికే వరకు `1` నుండి `200` వరకు విభిన్న సంఖ్యలను ప్రయత్నించండి.
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+`think`{:class="block3looks"} బ్లాక్‌లోని పదాలు మరియు సెకన్ల సంఖ్యను మార్చండి.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**పరీక్ష:** Stage పై గల **Giga** sprite పై క్లిక్ చేయండి మరియు sprite రంగును మారుస్తుందో లేదో తనిఖీ చేయండి మరియు థాట్ బబుల్‌ను చూపుతుంది.
 
 --- /task ---
 
