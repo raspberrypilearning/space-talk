@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legend: 3లో 3వ ప్రశ్న
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+మీ ప్రాజెక్ట్‌లో, మీరు Nano "thank you" అని సంకేతం చేసేలా చేసారు. Nano, తన నోటికి చేతిని తరలించడానికి మీరు ఏ కోడ్‌ని ఉపయోగించారు?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+ఈ కోడ్ ధ్వనిని ప్లే చేస్తుంది మరియు స్పీచ్ బబుల్‌ను చూపుతుంది.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+ఈ కోడ్ sprite రంగును మారుస్తుంది మరియు థాట్ బబుల్‌ను చూపుతుంది.
 
   --- /feedback ---
 
