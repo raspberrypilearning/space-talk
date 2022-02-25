@@ -1,55 +1,55 @@
-## Reflection
+## పునశ్చరణ
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+బాగా చేసారు, మీరు చాలా నేర్చుకున్నారు! ఇప్పుడు, విశ్లేషించే సమయం వచ్చింది — విశ్లేషించడం అనేది నేర్చుకోవడంలో ముఖ్యమైన భాగం, ఎందుకంటే ఇది మీ మెదడులో కొత్త కనెక్షన్‌లను ఏర్పరచడంలో సహాయపడుతుంది.
 
-Answer the three questions below to reflect on what you have learned.
+మీరు నేర్చుకున్న వాటిని పరిశీలించడానికి దిగువ మూడు ప్రశ్నలకు సమాధానం ఇవ్వండి.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+మీరు ప్రతి ప్రశ్నకు సమాధానమిచ్చినప్పుడు, **Submit**పై క్లిక్ చేయండి. మీరు సరైన సమాధానం వైపు మార్గనిర్దేశం చేయబడతారు. మీరు ఈ చర్యను మీకు కావలసినన్ని సార్లు చేయవచ్చు.
 
-Have fun!
+ఆస్వాదించండి!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: 3లో 1వ ప్రశ్న
 ---
 
-In your project, you added a backdrop and some sprite characters.
+మీ ప్రాజెక్ట్‌లో, మీరు బ్యాక్‌డ్రాప్ మరియు కొన్ని Sprite క్యారెక్టర్‌లను జోడించారు.
 
-Where do you go to add a sprite to your project?
+మీ ప్రాజెక్ట్‌కి Sprite ని జోడించడానికి మీరు ఎక్కడికి వెళతారు?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![1 — Costumes ట్యాబ్, 2 — Sounds ట్యాబ్, 3 — Sprite జాబితా మరియు 4 — Stage pane తో పూర్తి Scratch ఎడిటర్ యొక్క ఎనోటేటెడ్ స్క్రీన్‌షాట్ హైలైట్ చేయబడింది.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: **Costumes** ట్యాబ్
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+మీరు మీ Sprite కోసం costume ని సవరించడానికి **Costumes** టాబ్ కి వెళ్తారు.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: **Sounds** ట్యాబ్
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+మీరు మీ Sprite కోసం కొత్త ధ్వనిని ఎంచుకోవడానికి **Sounds** టాబ్ కి వెళ్తారు.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Sprite జాబితా
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+అవును. మీరు ప్రాజెక్ట్‌లోని అన్ని Sprite లను చూడగలిగే ప్రాంతం ఇది, Sprite లను జోడించడం మరియు తొలగించడం మరియు వాటిని ఎంచుకోవడానికి Sprite లపై క్లిక్ చేయడం వంటివి చేయవచ్చు.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Stage pane
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+మీరు బ్యాక్‌డ్రాప్‌ను ఎంచుకోవడానికి Stage pane కి వెళ్లారు.
 
   --- /feedback ---
 
