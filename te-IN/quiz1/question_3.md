@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+అవును. `switch costume to`{:class="block3looks"} బ్లాక్‌లు, sprite costume లను మార్చుతాయి, తద్వారా చేయి కదులుతుంది.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+ఈ కోడ్ sprite రంగును మారుస్తుంది మరియు ధ్వనిని ప్లే చేస్తుంది.
 
   --- /feedback ---
 
