@@ -1,28 +1,28 @@
 ---
-title: Space talk
+title: స్పేస్ టాక్
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+description: Sprite లకు 'emote' ఇవ్వడానికి Scratch ని ఉపయోగించండి, తద్వారా అవి క్లిక్ చేసినప్పుడు కమ్యూనికేట్ చేస్తాయి
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introduction
+    title: పరిచయం
   - 
-    title: Create your scene
+    title: మీ దృశ్యాన్ని సృష్టించండి
   - 
-    title: Pico says hello
+    title: Pico, హలో అని చెప్తూంది
     completion: engaged
   - 
-    title: Pico plays a sound
+    title: Pico ధ్వనిని ప్లే చేస్తుంది
   - 
-    title: Nano switches costumes
+    title: Nano costumes మార్చుకుంటుంది
   - 
-    title: Giga changes colour
+    title: Giga రంగులు మారుస్తుంది
     completion: internal
   - 
-    title: Reflection
+    title: విశ్లేషణ
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +30,6 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: మీ ప్రాజెక్ట్‌ను అప్‌గ్రేడ్ చేయండి
   - 
-    title: What next?
+    title: తర్వాత ఏంటి?
