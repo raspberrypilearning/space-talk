@@ -1,16 +1,16 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legend: 3లో 2వ ప్రశ్న
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+మీరు స్పీచ్ బబుల్ లో Pico తో "Hello!" అనిపించారు.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+ఈ బ్లాక్‌ని కనుగొనడానికి మీరు ఎక్కడికి వెళతారు?
 
 --- choices ---
 
@@ -18,7 +18,7 @@ Where would you go to find this block?
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+అవును. `say`{:class="block3looks"} బ్లాక్ `Looks`{:class="block3looks"} బ్లాక్‌ల మెనులో ఉంది, ఇది వాటికి సమానమైన రంగులో ఉంటుంది.
 
   --- /feedback ---
 
@@ -26,7 +26,7 @@ Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+`Sound`{:class="block3sound"} బ్లాక్‌ల మెనులోని బ్లాక్‌లు, Sprite లు శబ్దాలను ప్లే చేయడానికి ఉపయోగించబడతాయి.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make spr
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+`Motion`{:class="block3motion"} బ్లాక్స్ మెనులోని బ్లాక్‌లు sprite లను తరలించడానికి ఉపయోగించబడతాయి.
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make s
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+`Events`{:class="block3events"} బ్లాక్‌ల మెనులోని బ్లాక్‌లు పనులు జరిగేలా ఉపయోగించబడతాయి.
 
   --- /feedback ---
 
