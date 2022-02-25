@@ -1,8 +1,8 @@
-## Upgrade your project
+## మీ ప్రాజెక్ట్‌ను అప్‌గ్రేడ్ చేయండి
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+**Tera** sprite ని జోడించి, **Tera** sprite కోసం 'emote' చేయడానికి మీరు నేర్చుకున్న ఏదైనా బ్లాక్‌లను ఉపయోగించండి.
 </div>
 <div>
 
@@ -11,7 +11,7 @@ Add the **Tera** sprite and use any of the blocks that you have learned about to
 </div>
 </div>
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+**Tera** sprite వ్యక్తిత్వం మీ ఎంపిక, కాబట్టి మీ స్వంత సృజనాత్మక ఆలోచనలను ఉపయోగించి ఆనందించండి.
 
 ```blocks3
 when this sprite clicked
@@ -35,25 +35,25 @@ play sound [pop v] until done
 start sound [pop v]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+మీకు నచ్చిన ఏవైనా మార్పులు చేయడానికి మీరు ప్రాజెక్ట్‌ను 'remix' కూడా చేయవచ్చు. మీరు బ్యాక్‌డ్రాప్‌ని మరియు sprite లు ఎలా emote చేస్తాయో మార్చవచ్చు మరియు విభిన్న sprite లను ఎంచుకుని వాటికి emote లను కూడా ఇవ్వవచ్చు.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**చిట్కా:** మీరు కోడ్, costume లేదా ధ్వనిని జోడించడానికి లేదా మార్చడానికి ముందు Stage దిగువన ఉన్న sprite జాబితాలోని sprite పై క్లిక్ చేయండి.
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: Space talk సర్టిఫికేట్
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+బాగా చేసారు! మీరు Space talk ప్రాజెక్ట్‌ని పూర్తి చేసారు. మీ కొత్త నైపుణ్యాలను ప్రశంసించడానికి ఇక్కడ [certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} ఉంది. కాపీని డౌన్‌లోడ్ చేసి, మీ పేరును జోడించడానికి దాన్ని తెరవండి.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+title: పూర్తయిన ప్రాజెక్ట్
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+మీరు [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"} మీద క్లిక్ చేసి వీక్షించవచ్చు.
 
 --- /collapse ---
 
