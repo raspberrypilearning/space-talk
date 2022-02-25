@@ -1,25 +1,25 @@
-## Introduction
+## పరిచయం
 
-In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
+ఈ ప్రాజెక్ట్‌లో, మీరు వారి ఆలోచనలు లేదా భావాలను పంచుకోవడానికి 'ఎమోట్' చేసే పాత్రలతో అంతరిక్ష దృశ్యాన్ని సృష్టిస్తారు.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**ఎమోట్స్**</span> అనేది గేమ్‌లోని పాత్ర యొక్క వ్యక్తిత్వాన్ని చూపించే మార్గం. అవి Scratchలో వలె ప్రసంగం, శబ్దాలు, కదలికలు మరియు గ్రాఫిక్ ప్రభావాలను ఉపయోగించవచ్చు. మీరు emote లను ఉపయోగించే ఏదైనా గేమ్‌లు ఆడుతున్నారా?
 </p>
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+Scratch లో, పాత్రలు మరియు వస్తువులను **sprites**అని పిలుస్తారు మరియు అవి **stage** మీద కనిపిస్తాయి.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+మీరు:
++ మీ ప్రాజెక్ట్‌ని సెటప్ చేయడానికి sprite లు మరియు **backdrop** లను జోడించగలరు
++ `Looks`{:class="block3looks"} మరియు `Sound`{:class="block3sound"} కోడ్ బ్లాక్‌లను ఉపయోగించి sprite లపై క్లిక్ చేసి కమ్యూనికేట్ చేయగలరు
++ **costume**ని మార్చడానికి **Paint editor** ని ఉపయోగించ గలరు
 
 --- no-print --- --- task ---
-### Try it
+### ప్రయత్నించండి
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+అవి ఏమి చేయగలవో చూడటానికి ప్రతి sprite పై క్లిక్ చేయండి. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+మీరు ఒక sprite పై క్లిక్ చేసి, మరొక sprite పై త్వరగా క్లిక్ చేస్తే ఏమి జరుగుతుంది?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +29,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![పూర్తయిన ప్రాజెక్ట్.](images/showcase_static.png)
 
 --- /print-only ---
 
