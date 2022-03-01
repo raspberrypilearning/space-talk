@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![Tera स्प्राइट Stage पर।](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
@@ -37,11 +37,11 @@ start sound [pop v]
 
 आप अपनी पसंद का कोई भी बदलाव करने के लिए प्रोजेक्ट को 'Remix' भी कर सकते हैं। आप बॅकड्रोप बदल सकते हैं, और स्प्राइट्स कैसे इमोट करते हैं इसमे परिवर्तन कर सकते हैं, और यहां तक कि अलग-अलग स्प्राइट्स भी चुन सकते हैं और उन्हें इमोट दे सकते हैं।
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**सलाह:** कोड, कास्ट्यूम या ध्वनि जोड़ने या बदलने से पहले स्टेज के नीचे Spite लिस्ट में स्प्राइट पर क्लिक करें।
 
 --- collapse ---
 ---
-title: Space talk certificate
+title: स्पेस टॉक सर्टिफिकेट
 ---
 
 बहुत बढ़िया! आपने स्पेस टॉक प्रोजेक्ट पूरा कर लिया है। यहाँ [एक सर्टिफिकेट](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} है आपके नए कौशल का जश्न मनाने के लिए एक प्रति डाउनलोड करें और फिर अपना नाम जोड़ने के लिए इसे खोलें।
