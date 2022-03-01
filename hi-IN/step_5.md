@@ -27,9 +27,9 @@
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+सुनिश्चित करें कि Stage के नीचे Sprite सूची में **Nano** का चयन किया गया है।
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Sprite लिस्ट, जिसमे nano स्प्राइट के चारों ओर नीले रंग की आउटलाइन यह दर्शाती है कि Nano का चयन किया गया है।](images/nano-selected.png)
 
 
 **Code** टैब पर क्लिक करें और **Nano** स्प्राइट से `Thanks!` `Say`{:class="block3looks"} के लिए एक स्क्रिप्ट जोड़ें:
@@ -44,11 +44,11 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
+**टिप:** सभी ब्लॉक कलर-कोडेड हैं, इसलिए आपको `switch costume to`{:class="block3looks"} ब्लॉक `Looks`{:class="block3looks"} ब्लॉक मेन्यू में मिलेगा।
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**परीक्षण:** Stage पर **Nano** स्प्राइट पर क्लिक करें और जांचें कि स्पीच बबल दिखाई देता है और Nano का कास्ट्यूम बदल जाता है।
 
 --- /task ---
 
@@ -59,7 +59,7 @@ switch costume to [nano-a v] // Nano smiling
 
 Nano कास्ट्यूम बदलकर साइन भाषा का प्रयोग करेगा।
 
-You can edit costumes for your sprites with the Paint editor. आप Nano का एक कोस्टयूम एडिट करके उनसे साइन भाषा में "thank you" बुलवाएंगे।
+आप Paint एडिटर के साथ अपने स्प्राइट्स के लिए कोस्टयूम एडिट कर सकते हैं। आप Nano का एक कोस्टयूम एडिट करके उनसे साइन भाषा में "thank you" बुलवाएंगे।
 
 --- task ---
 
@@ -81,7 +81,7 @@ You can edit costumes for your sprites with the Paint editor. आप Nano का
 
 --- /task ---
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+**सलाह:** यदि आप Paint एडिटर में कोई गलती करते हैं, तो आप **Undo**पर क्लिक कर सकते हैं।
 
 !['Undo' आइकन।](images/nano-undo.png)
 
