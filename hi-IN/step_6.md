@@ -21,7 +21,7 @@
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. रंग बदलकर **Giga** स्प्राइट से बातचीत करवाने के लिए इस कोड को जोड़ें:
+सुनिश्चित करें कि आपके पास Stage के नीचे Sprite लिस्ट में **Giga** चुना हुआ है। रंग बदलकर **Giga** स्प्राइट से बातचीत करवाने के लिए इस कोड को जोड़ें:
 
 ![Giga स्प्राइट.](images/giga-sprite.png)
 
@@ -34,7 +34,7 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. सुनिश्चित करें कि आपने सही स्प्राइट पर क्लिक किया है।
+**सलाह:** कोड, कास्ट्यूम या ध्वनि जोड़ने या बदलने से पहले Stage के नीचे Sprite लिस्ट में स्प्राइट पर क्लिक करें। सुनिश्चित करें कि आपने सही स्प्राइट पर क्लिक किया है।
 
 --- task ---
 
@@ -50,7 +50,7 @@ clear graphic effects // back to the starting colour
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**परीक्षण:** Stage पर **Giga** स्प्राइट पर क्लिक करें और जांचें कि स्प्राइट रंग बदलता है की नहीं और एक स्पीच बबल दिखाता है।
 
 --- /task ---
 
