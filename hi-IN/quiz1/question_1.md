@@ -17,7 +17,7 @@ legend: पहला प्रश्न
 
 आप अपने प्रोजेक्ट में स्प्राइट को शामिल करने के लिए कहां जाते हैं?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![पूरे Scratch एडिटर का एक एनोटेट स्क्रीनशॉट जिसमें - 1 द Costumes टैब, 2 -द Sounds टैब, 3 - द Sprite list, और 4 - द Stage Pane हाइलाइट किया गया हो।](images/question1.png)
 
 --- choices ---
 
@@ -37,7 +37,7 @@ legend: पहला प्रश्न
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Sprite सूची
 
   --- feedback ---
 
@@ -45,11 +45,11 @@ legend: पहला प्रश्न
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Stage पेन
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+आप एक बैकड्रॉप चुनने के लिए Stage पेन पर गए थे।
 
   --- /feedback ---
 
