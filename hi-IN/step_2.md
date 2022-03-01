@@ -6,14 +6,14 @@
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![ Pico स्प्राइट के साथ Space बैकड्रॉप।](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch दूसरे ब्राउज़र टैब में खुलेगा।
+[स्पेस टॉक स्टार्टर प्रोजेक्ट](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"} को खोलें I Scratch दूसरे ब्राउज़र टैब में खुलेगा।
 
 [[[working-offline]]]
 
@@ -21,9 +21,9 @@ Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331
 
 Scratch एडिटर इस प्रकार दिखाई देता है:
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Scratch एडिटर का एक एनोटेट स्क्रीनशॉट, जिसमें Stage, Stage पेन, Sprite पेन, Sprite सूची और को Code क्षेत्र लेबल है।](images/scratch-interface.png)
 
-**Stage** वह जगह है जहाँ आपका प्रोजेक्ट चलता है। A **backdrop** changes the way that the Stage looks.
+**Stage** वह जगह है जहाँ आपका प्रोजेक्ट चलता है। **backdrop** Stage के दिखने के तरीके को बदल देता है।
 
 --- task ---
 
@@ -49,7 +49,7 @@ Scratch एडिटर इस प्रकार दिखाई देता �
 
 इसे अपने प्रोजेक्ट में इस्तेमाल करने के लिए अपने चुने हुए बैकड्रॉप पर क्लिक करें। स्टेज को आपके द्वारा चुना गया बैकड्रॉप दिखाना चाहिए:
 
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![Scratch एडिटर जिसमें Space बैकड्रॉप जोड़ा गया।](images/inserted-backdrop.png)
 
 --- /task ---
 
