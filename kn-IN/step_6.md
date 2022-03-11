@@ -15,13 +15,13 @@
 
 **Giga** ಸ್ಪ್ರೈಟ್‌ ಸೇರಿಸಿ.
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+**Giga** ಸ್ಪ್ರೈಟ್‌ನ್ನು Stage ಬಲ-ಭಾಗಕ್ಕೆ ಎಳೆಯಿರಿ.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. **Giga** ಸ್ಪ್ರೈಟ್‌ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಿ ಸಂವಹನ ನಡೆಸುವಂತೆ ಮಾಡಲು ಈ ಕೋಡ್‌ ಸೇರಿಸಿ:
+Stage ಕೆಳಗೆ Sprite ಲಿಸ್ಟ್‌ನಲ್ಲಿ **Giga** ಸ್ಪ್ರೈಟ್‌ ಆಯ್ಕೆಯಾಗಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. **Giga** ಸ್ಪ್ರೈಟ್‌ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಿ ಸಂವಹನ ನಡೆಸುವಂತೆ ಮಾಡಲು ಈ ಕೋಡ್‌ ಸೇರಿಸಿ:
 
 ![Giga ಸ್ಪ್ರೈಟ್.](images/giga-sprite.png)
 
@@ -34,7 +34,7 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. ನೀವು ಸರಿಯಾದ ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
+**ಸಲಹೆ:** ನೀವು ಕೋಡ್‌, ಉಡುಪುಗಳನ್ನು ಅಥವಾ ಧ್ವನಿಯನ್ನು ಸೇರಿಸುವ ಅಥವಾ ಬದಲಾಯಿಸುವ ಮೊದಲು Stage ಕೆಳಗಿರುವ Sprite ಲಿಸ್ಟ್‌ನಲ್ಲಿ ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ನೀವು ಸರಿಯಾದ ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
 
 --- task ---
 
@@ -50,7 +50,7 @@ clear graphic effects // back to the starting colour
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**ಪರೀಕ್ಷೆ:** Stage ಮೇಲಿನ **Giga** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಸ್ಪ್ರೈಟ್‌ ಬಣ್ಣ ಬದಲಾಯಿಸುತ್ತದೆಯೇ ಮತ್ತು ಆಲೋಚನಾ ಗುಳ್ಳೆಯನ್ನು ತೋರಿಸುತ್ತದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.
 
 --- /task ---
 
