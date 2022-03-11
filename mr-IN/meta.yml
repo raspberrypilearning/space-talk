@@ -1,0 +1,26 @@
+---
+title: स्पेस टॉक
+hero_image: images/banner.png
+description: स्प्राईट ला 'इमोट' देण्यासाठी Scratch चा वापर करा जेणेकरून क्लिक केल्यावर ते संवाद करू शकतात
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: परिचय
+  - title: तुमचा सीन तयार करा
+  - title: Pico हेलो म्हणतो
+    completion: engaged
+  - title: Pico साऊंड प्ले करतो
+  - title: Nano ने कॉश्चुम बदलला
+  - title: Giga ने रंग बदलला
+    completion: internal
+  - title: परावर्तन
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: तुमचा प्रोजेक्ट अपग्रेड करा
+  - title: पुढे काय?
