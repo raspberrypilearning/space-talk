@@ -13,7 +13,7 @@
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. ಸ್ಕ್ರಾಚ್ ಇನ್ನೊಂದು ಬ್ರೌಸರ್ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ.
+[ಬಾಹ್ಯಾಕಾಶ ಮಾತುಕತೆ ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"} ತೆರೆಯಿರಿ. ಸ್ಕ್ರಾಚ್ ಇನ್ನೊಂದು ಬ್ರೌಸರ್ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ.
 
 [[[working-offline]]]
 
@@ -21,7 +21,7 @@ Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331
 
 Scratch ಎಡಿಟರ್ ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Stage, Stage ಫಲಕ, Sprite ಫಲಕ, Sprite ಪಟ್ಟಿ ಮತ್ತು Code ಕ್ಷೇತ್ರ ಲೇಬಲ್‌ನೊಂದಿಗೆ Scratch ಎಡಿಟರ್‌ನ ಟಿಪ್ಪಣಿ ಮಾಡಿದ ಸ್ಕ್ರೀನ್‌ಶಾಟ್.](images/scratch-interface.png)
 
 **Stage** ನಲ್ಲಿ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ರನ್‌ ಆಗುತ್ತದೆ. **backdrop** ವೇದಿಕೆಯ ನೋಟವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ.
 
@@ -31,7 +31,7 @@ Scratch ಎಡಿಟರ್ ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
 !['Choose a Backdrop' ಐಕಾನ್.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![ಕೆಳಗಿನ ಬಲಭಾಗದ ಮೂಲೆಯಲ್ಲಿ ಹೈಲೈಟ್ ಮಾಡಲಾದ 'Choose a Backdrop' ಜೊತೆಗೆ Scratch ಎಡಿಟರ್.](images/choose-a-backdrop.png)
 
 --- /task ---
 
@@ -39,7 +39,7 @@ Scratch ಎಡಿಟರ್ ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
 **Space** ವರ್ಗದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಅಥವಾ ಸರ್ಚ್‌ ಬಾಕ್ಸ್‌ನಲ್ಲಿ `space` ಟೈಪ್‌ ಮಾಡಿ:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
+![''Space' ವರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ Backdrop Library.](images/space-backdrops.png)
 
 --- /task ---
 
@@ -47,9 +47,9 @@ Scratch ಎಡಿಟರ್ ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
 --- task ---
 
-ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು ನೀವು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡ ಹಿನ್ನೆಲೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. The Stage should show the backdrop that you chose:
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು ನೀವು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡ ಹಿನ್ನೆಲೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ನೀವು ಆಯ್ಕೆಮಾಡಿಕೊಂಡ ಹಿನ್ನೆಲೆಯನ್ನು Stage ತೋರಿಸಬೇಕು:
 
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![Space ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ ಸೇರಿಸಿದ Scratch ಎಡಿಟರ್.](images/inserted-backdrop.png)
 
 --- /task ---
 
@@ -65,11 +65,11 @@ Scratch ಎಡಿಟರ್ ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Sprite ಪಟ್ನಟಿಯಲ್ಲಿ **Choose a Sprite** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ:
 
 !['Choose a Sprite' ಐಕಾನ್.](images/sprite-button.png)
 
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+!['Choose a Sprite' ಹೈಲೈಟ್ ಮಾಡಲಾದ Scratch ಎಡಿಟರ್.](images/choose-a-sprite.png)
 
 --- /task ---
 
@@ -83,17 +83,17 @@ Click on **Choose a Sprite** in the Sprite list:
 
 --- task ---
 
-ಸ್ಟೇಜ್‌ನ ಎಡಭಾಗದಲ್ಲಿ ಅವುಗಳನ್ನು ಇಡಲು **Pico** ಸ್ಪ್ರೈಟ್‌ನ್ನು ಎಳೆಯಿರಿ. Your Stage should look something like this:
+ಸ್ಟೇಜ್‌ನ ಎಡಭಾಗದಲ್ಲಿ ಅವುಗಳನ್ನು ಇಡಲು **Pico** ಸ್ಪ್ರೈಟ್‌ನ್ನು ಎಳೆಯಿರಿ. ನಿಮ್ಮ Stage ಈ ರೀತಿ ಕಾಣಬೇಕು:
 
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![ಆಯ್ಕೆ ಮಾಡಿದ ಹಿನ್ನೆಲೆ ಮತ್ತು ಎಡಭಾಗದಲ್ಲಿ ಇಡಲಾದ Pico ಸ್ಪ್ರೈಟ್‌ನೊಂದಿಗೆ Stage.](images/pico-on-stage.png)
 
 --- /task ---
 
 --- task ---
 
-If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+ನಿಮ್ಮScratch ಖಾತೆಗೆ ನೀವು ಸೈನ್ ಇನ್ ಆಗಿದ್ದರೆ, ಹಸಿರು Remix ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ಇದು ಪ್ರಾಜೆಕ್ಟ್‌ನ ನಕಲನ್ನು ನಿಮ್ಮ Scratch ಖಾತೆಗೆ ಉಳಿಸುತ್ತದೆ(ಸೇವ್‌ ಮಾಡುತ್ತದೆ).
 
-![The remix button.](images/remix-button.png)
+![Remix ಬಟನ್.](images/remix-button.png)
 
 ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಪ್ರಾಜೆಕ್ಟ್ ಹೆಸರಿನ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನ ಹೆಸರನ್ನು ಟೈಪ್ ಮಾಡಿ.
 
