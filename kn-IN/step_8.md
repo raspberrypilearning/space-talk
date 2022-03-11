@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![ Tera ಸ್ಪ್ರೈಟ್‌ Stage ಮೇಲಿದೆ.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
@@ -37,7 +37,7 @@ start sound [pop v]
 
 ನಿಮಗಿಷ್ಟವಾದ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಲು ನೀವು ಪ್ರಾಜೆಕ್ಟ್‌ನ್ನು 'remix' ಮಾಡಬಹುದು. ನೀವು ಹಿನ್ನೆಲೆಯನ್ನು ಮತ್ತು ಸ್ಪ್ರೈಟ್‌ಗಳು ಹೇಗೆ ಅಭಿನಯಿಸುತ್ತವೆ ಎಂಬುವುದನ್ನು ಬದಲಾಯಿಸಬೇಕು ಮತ್ತು ಬೇರೆ ಬೇರೆ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ಸಹ ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡು ಅವುಗಳಿಗೆ ಬೇರೆ ಬೇರೆ ಭಾವನೆಗಳನ್ನು ಕೊಡಿ.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**ಸಲಹೆ:** ಸ್ಪ್ರೈಟ್‌ಗಳ ಕೋಡ್, ಉಡುಪುಗಳು, ಮತ್ತು ಧ್ವನಿಗಳನ್ನುಬದಲಾಯಿಸಲು Stage ಕೆಳಗಿರುವ Sprite ಲಿಸ್ಟ್‌ನಲ್ಲಿ ಸ್ಪ್ರೈಟ್‌ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 --- collapse ---
 ---
