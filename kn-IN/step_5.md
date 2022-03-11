@@ -27,7 +27,7 @@
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Stage ಕೆಳಗೆ Sprite ಲಿಸ್ಟ್‌ನಲ್ಲಿ **Nano** ಸ್ಪ್ರೈಟ್‌ ಆಯ್ಕೆ ಮಾಡಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
 
 ![Nano ಆಯ್ಕೆಯಾಗಿದೆ ಎಂದು ತೋರಿಸಲು Nano ಸ್ಪ್ರೈಟ್ ಸುತ್ತಲೂ ನೀಲಿ ಅಂಚು ಹೊಂದಿರುವ ಸ್ಪ್ರೈಟ್ ಲಿಸ್ಟ್.](images/nano-selected.png)
 
@@ -48,7 +48,7 @@ switch costume to [nano-a v] // Nano smiling
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes.
+**ಪರೀಕ್ಷೆ:** Stage ಮೇಲಿನ **Nano** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಮಾತಿನ ಗುಳ್ಳೆ ಕಾಣುತ್ತದೆ ಮತ್ತು Nanoನ ಉಡುಪು ಬದಲಾಗುವುದನ್ನು ಪರಿಸೀಲಿಸಿ.
 
 --- /task ---
 
@@ -103,7 +103,7 @@ Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುವ ಮೂಲಕ 
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+**ಪರೀಕ್ಷೆ:** Stage ಮೇಲಿನ **Nano** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಮಾತಿನ ಗುಳ್ಳೆ ಕಾಣುತ್ತದೆಯೆ ಮತ್ತು Nanoನ ಉಡುಪು ನೀವು ಎಡಿಟ್‌ ಮಾಡಿದ ಉಡುಪಿಗೆ ಬದಲಾಗುತ್ತದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.
 
 --- /task ---
 
