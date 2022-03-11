@@ -41,10 +41,10 @@ start sound [pop v]
 
 --- collapse ---
 ---
-title: Space talk సర్టిఫికేట్
+title: స్పేస్ టాక్ సర్టిఫికేట్
 ---
 
-బాగా చేసారు! మీరు Space talk ప్రాజెక్ట్‌ని పూర్తి చేసారు. మీ కొత్త నైపుణ్యాలను ప్రశంసించడానికి ఇక్కడ [certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} ఉంది. కాపీని డౌన్‌లోడ్ చేసి, మీ పేరును జోడించడానికి దాన్ని తెరవండి.
+బాగా చేసారు! మీరు స్పేస్ టాక్ ప్రాజెక్ట్‌ని పూర్తి చేసారు. మీ కొత్త నైపుణ్యాలను ప్రశంసించడానికి ఇక్కడ [సర్టిఫికేట్](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} ఉంది. కాపీని డౌన్‌లోడ్ చేసి, మీ పేరును జోడించడానికి దాన్ని తెరవండి.
 
 --- /collapse ---
 
@@ -53,7 +53,7 @@ title: Space talk సర్టిఫికేట్
 title: పూర్తయిన ప్రాజెక్ట్
 ---
 
-మీరు [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"} మీద క్లిక్ చేసి వీక్షించవచ్చు.
+మీరు [పూర్తయిన ప్రాజెక్ట్‌ను ఇక్కడ](https://scratch.mit.edu/projects/485673032/){:target="_blank"} వీక్షించవచ్చు.
 
 --- /collapse ---
 
