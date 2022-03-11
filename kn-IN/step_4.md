@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![Pico ಸ್ಪ್ರೈಟ್ "Hello!" ಹೇಳುತ್ತಿರುವುದು]‌(images/pico-step-2.png){:width="300px"}
+![Pico ಸ್ಪ್ರೈಟ್ "Hello!" ಹೇಳುತ್ತಿರುವುದು](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
