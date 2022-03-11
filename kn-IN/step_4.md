@@ -15,7 +15,7 @@
 
 **Pico** ಸ್ಪ್ರೈಟ್‌ಗೆ **Sounds** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ನೀವು **pop** ಧ್ವನಿಯನ್ನು ಕಾಣಬಹುದು. **pop** ಧ್ವನಿಯನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳಲು **Play** ಐಕಾನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![Sounds ಟ್ಯಾಬ್‌ನಲ್ಲಿ pop ಧ್ವನಿಯನ್ನು ನುಡಿಸುವುದು.](images/pico-sound-play.png)
 
 --- /task ---
 
@@ -29,7 +29,7 @@ Scratch‌ ನಲ್ಲಿ ಕೆಲವು ಅದ್ಭುತ ಏಲಿಯನ್
 
 !['Choose a Sound' ಹೈಲೈಟ್‌ ಮಾಡಿರುವ Scratch ಎಡಿಟರ್‌.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![Sound Library ಯಲ್ಲಿ 'Space' ವರ್ಗ.](images/pico-space-category.png)
 
 --- /task ---
 
@@ -37,7 +37,7 @@ Scratch‌ ನಲ್ಲಿ ಕೆಲವು ಅದ್ಭುತ ಏಲಿಯನ್
 
 **Play** ಐಕಾನ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಬೇರೆ ಬೇರೆ ಧ್ವನಿಗಳನ್ನು ನುಡಿಸಿ. ನೀವು ಉಪಯೋಗಿಸಬೇಕೆಂದಿರುವ ಧ್ವನಿಯು ನಿಮಗೆ ಸಿಕ್ಕಾಗ, ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಅದನ್ನು ಸೇರಿಸಲು ಅದರ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![ಉದಾಹರಣೆಗೆ Sounds ಟ್ಯಾಬ್‌ನಲ್ಲಿ pop ಧ್ವನಿಯಡಿಯಲ್ಲಿ ತೋರಿಸಿರುವ (Alien Creak1) ಧ್ವನಿ.](images/pico-inserted-sound.png)
 
 --- /task ---
 
@@ -45,7 +45,7 @@ Scratch‌ ನಲ್ಲಿ ಕೆಲವು ಅದ್ಭುತ ಏಲಿಯನ್
 
 **Code** ಟ್ಯಾಬ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. `Sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ಗಳ ಮೆನುವಿನಲ್ಲಿ, `start sound`{:class="block3sound"} ಬ್ಲಾಕ್‌ ಹುಡುಕಿ.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. ಒಂದು ಅಂತರ ತೆರೆಯುತ್ತದೆ ಮತ್ತು ಆ ಜಾಗದಲ್ಲಿ ಬ್ಲಾಕ್‌ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ.
+`when this sprite clicked`{:class="block3events"} ಬ್ಲಾಕ್‌ ಮತ್ತು `say`{:class="block3looks"} ಬ್ಲಾಕ್‌ ನಡುವೆ, ಬ್ಲಾಕ್‌ನ್ನು Code ಪ್ರದೇಶಕ್ಕೆ ಎಳೆಯಿರಿ. ಒಂದು ಅಂತರ ತೆರೆಯುತ್ತದೆ ಮತ್ತು ಆ ಜಾಗದಲ್ಲಿ ಬ್ಲಾಕ್‌ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ.
 
 ![ಎರಡು ಬ್ಲಾಕ್‌ಗಳ ನಡುವೆ 'start sound' ಬ್ಲಾಕ್‌ ಸೇರಿಸಲಾಗಿದೆ.](images/pico-insert-block.gif)
 
