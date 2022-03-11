@@ -17,7 +17,7 @@
 
 ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸ್ಪ್ರೈಟ್ ಸೇರಿಸಲು ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀರಿ?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![ಹೈಲೈಟ್ ಮಾಡಿರುವ 1 - Costumes ಟ್ಯಾಬ್, 2 - Sounds ಟ್ಯಾಬ್, 3 - Sprite ಲಿಸ್ಟ್ ಮತ್ತು 4 - Stage ಪೇನ್‌ನೊಂದಿಗೆ ಪೂರ್ಣ ಸ್ಕ್ರ್ಯಾಚ್ ಎಡಿಟರ್‌ನ ಟಿಪ್ಪಣಿಯುಳ್ಳ ಸ್ಕ್ರೀನ್‌ಶಾಟ್.](images/question1.png)
 
 --- choices ---
 
@@ -33,7 +33,7 @@
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗಾಗಿ ಹೊಸ ಧ್ವನಿಯನ್ನು ಆರಿಸಲು ನೀವು **Sounds** ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿದ್ದೀರಿ.
 
   --- /feedback ---
 
@@ -45,11 +45,11 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- () 4: Stage ಪೇನ್
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+ಹಿನ್ನೆಲೆ ಆಯ್ಕೆ ಮಾಡಲು ನೀವು Stage ಫಲಕಕ್ಕೆ ಹೋಗಿದ್ದೀರಿ.
 
   --- /feedback ---
 
