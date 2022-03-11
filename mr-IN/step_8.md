@@ -53,7 +53,7 @@ title: स्पेस टॉक प्रमाणपत्र
 title: पूर्ण झालेला प्रोजेक्ट
 ---
 
-तुम्ही [येथे पूर्ण झालेला प्रोजेक्ट](https://scratch.mit.edu/projects/485673032/){:target="_blank"} 
+तुम्ही [येथे पूर्ण झालेला प्रोजेक्ट](https://scratch.mit.edu/projects/658230195/){:target="_blank"} 
 
 --- /collapse ---
 

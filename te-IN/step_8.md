@@ -53,7 +53,7 @@ title: Space talk సర్టిఫికేట్
 title: పూర్తయిన ప్రాజెక్ట్
 ---
 
-మీరు [పూర్తయిన ప్రాజెక్ట్‌ను ఇక్కడ](https://scratch.mit.edu/projects/485673032/){:target="_blank"} వీక్షించవచ్చు.
+మీరు [పూర్తయిన ప్రాజెక్ట్‌ను ఇక్కడ](https://scratch.mit.edu/projects/658231668/){:target="_blank"} వీక్షించవచ్చు.
 
 --- /collapse ---
 

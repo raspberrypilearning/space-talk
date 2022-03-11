@@ -23,7 +23,7 @@ Scratchನಲ್ಲಿ, ಪಾತ್ರಗಳು ಮತ್ತು ವಸ್ತು
 ನೀವು ಒಂದು ಸ್ಪ್ರೈಟ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ತಕ್ಷಣ ಇನ್ನೊಂದು ಸ್ಪ್ರೈಟ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿದರೆ ಏನಾಗುತ್ತದೆ?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658229075/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task ---

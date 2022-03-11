@@ -23,7 +23,7 @@ Scratch లో, పాత్రలు మరియు వస్తువుల�
 మీరు ఒక sprite పై క్లిక్ చేసి, మరొక sprite పై త్వరగా క్లిక్ చేస్తే ఏమి జరుగుతుంది?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658231668/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task ---

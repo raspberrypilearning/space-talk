@@ -23,7 +23,7 @@ Scratch में, पात्रों और वस्तुओं को **s
 क्या होता है यदि आप एक स्प्राइट पर क्लिक करते हैं और फिर जल्दी से दूसरे स्प्राइट पर क्लिक करते हैं?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658227120/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task ---
