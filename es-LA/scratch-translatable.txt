@@ -22,14 +22,14 @@ esconde la burbuja de diálogo
 
 número hasta 200
 
-play sound, doesn't wait
+reproduce sonido sin esperar
 
-shows speech bubble
+muestra la burbuja de diálogo
 
-hand to mouth
+mano a la boca
 
-smiling
+Nano sonriendo
 
-shows a thought bubble
+muestra una burbuja de pensamiento
 
-goes back to normal colour
+de vuelta al color inicial
