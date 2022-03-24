@@ -19,7 +19,7 @@ Los objetos tienen **disfraces** para cambiar su apariencia. Para animar un obje
 
 --- task ---
 
-Agrega el objeto **Nano** a tu proyecto de la categoría **Fantasía**.
+Agrega el objeto **Nano** a tu proyecto desde la categoría **Fantasía**.
 
 ![El ícono "Elegir un objeto".](images/choose-sprite-menu.png)
 

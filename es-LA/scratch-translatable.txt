@@ -21,3 +21,15 @@ de vuelta al color inicial
 esconde la burbuja de diálogo
 
 número hasta 200
+
+reproduce sonido sin esperar
+
+muestra la burbuja de diálogo
+
+mano a la boca
+
+Nano sonriendo
+
+muestra una burbuja de pensamiento
+
+de vuelta al color inicial

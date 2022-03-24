@@ -19,7 +19,7 @@ Para usar bloques, puedes hacer clic en ellos en el menú Bloques.
 
 Abre el menu de bloques `Apariencia`{:class="block3looks"}.
 
-Haz clic en `decir`{:class="block3looks"} `¡Hola!` `durante`{:class="block3looks"} `2` `segundos`{:class="block3looks"} bloque.
+Haz clic en el bloque `decir`{:class="block3looks"} `¡Hola!` `durante`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
 
 ![El bloque 'decir ¡Hola! durante 2 segundos' brillando con un contorno amarillo.](images/pico-say-hello-blocks-menu.png)
 
@@ -47,7 +47,7 @@ Los bloques se pueden conectar entre si en el área de Código para ejecutar má
 
 --- task ---
 
-Arrastra un bloque `al hacer clic en este objeto`{:class="block3events"} del menú `Eventos`{:class="block3events"} y conéctelo a la parte superior de tu bloque `decir`{:class="block3looks"} en el área de Código. Los bloques van a encajar.
+Arrastra un bloque `al hacer clic en este objeto`{:class="block3events"} del menú `Eventos`{:class="block3events"} y conéctalo a la parte superior de tu bloque `decir`{:class="block3looks"} en el área de Código. Los bloques van a encajar.
 
 ![Una animación de los bloques que encajan juntos. Cuando se hace clic en Pico, dice "¡Hola!" durante dos segundos.](images/pico-snap-together.gif)
 
