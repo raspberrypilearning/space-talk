@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto, crearás una escena espacial con personajes que 'emocionan' para compartir sus pensamientos o sentimientos.
+En este proyecto, crearás una escena espacial con personajes que se 'emocionan' para compartir sus pensamientos o sentimientos.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Emotes**</span> son una forma de mostrar la personalidad de un personaje en un juego. Pueden usar el habla, los sonidos, el movimiento y los efectos gráficos, al igual que en Scratch. ¿Juegas a algún juego que use emotes?
