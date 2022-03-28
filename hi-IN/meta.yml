@@ -28,8 +28,8 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-    completion: बाहरी
   - 
     title: प्रोजेक्ट को अपग्रेड करें
+    completion: external
   - 
     title: आगे क्या?
