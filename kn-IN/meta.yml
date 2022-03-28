@@ -28,8 +28,8 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-    completion: external
   - 
     title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
+    completion: external
   - 
     title: ಮುಂದೆ ಏನು?
