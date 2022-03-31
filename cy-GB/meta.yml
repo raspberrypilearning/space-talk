@@ -21,6 +21,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-    completion: allanol
+    completion: external
   - title: Uwchraddio dy brosiect
   - title: Beth nesaf?
