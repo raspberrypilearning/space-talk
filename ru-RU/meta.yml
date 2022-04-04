@@ -23,6 +23,7 @@ steps:
     completion: internal
   - 
     title: Закрепление знаний
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +31,5 @@ steps:
       passing_score: 3
   - 
     title: Улучшение своего проекта
-    completion: external
   - 
     title: Что дальше?
