@@ -23,6 +23,7 @@ steps:
     completion: internal
   - 
     title: ಪುನರ್ಮನನ
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +31,5 @@ steps:
       passing_score: 3
   - 
     title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
-    completion: external
   - 
     title: ಮುಂದೆ ಏನು?
