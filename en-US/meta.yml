@@ -23,6 +23,7 @@ steps:
     completion: internal
   - 
     title: Reflection
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +31,5 @@ steps:
       passing_score: 3
   - 
     title: Upgrade your project
-    completion: external
   - 
     title: What next?
