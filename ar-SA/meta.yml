@@ -23,6 +23,7 @@ steps:
     completion: internal
   - 
     title: تفكير
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +31,5 @@ steps:
       passing_score: 3
   - 
     title: قم بترقية مشروعك
-    completion: external
   - 
     title: ما التالي؟
