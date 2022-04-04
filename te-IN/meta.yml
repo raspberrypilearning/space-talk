@@ -23,6 +23,7 @@ steps:
     completion: internal
   - 
     title: విశ్లేషణ
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +31,5 @@ steps:
       passing_score: 3
   - 
     title: మీ ప్రాజెక్ట్‌ను అప్‌గ్రేడ్ చేయండి
-    completion: external
   - 
     title: తర్వాత ఏంటి?
