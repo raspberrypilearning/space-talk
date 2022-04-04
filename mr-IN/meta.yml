@@ -23,6 +23,7 @@ steps:
     completion: internal
   - 
     title: परावर्तन
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +31,5 @@ steps:
       passing_score: 3
   - 
     title: तुमचा प्रोजेक्ट अपग्रेड करा
-    completion: external
   - 
     title: पुढे काय?
