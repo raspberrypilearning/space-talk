@@ -23,6 +23,7 @@ steps:
     completion: internal
   - 
     title: सोचिए
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -30,6 +31,5 @@ steps:
       passing_score: 3
   - 
     title: प्रोजेक्ट को अपग्रेड करें
-    completion: external
   - 
     title: आगे क्या?
