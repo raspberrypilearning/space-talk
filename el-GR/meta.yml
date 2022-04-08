@@ -16,11 +16,11 @@ steps:
   - title: Ο Giga αλλάζει χρώμα
     completion: internal
   - title: Αναστοχασμός
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-    completion: external
   - title: Αναβάθμισε το έργο σου
   - title: Τι υπάρχει στη συνέχεια;
