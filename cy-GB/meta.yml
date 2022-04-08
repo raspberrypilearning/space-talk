@@ -16,11 +16,11 @@ steps:
   - title: Giga yn newid lliw
     completion: internal
   - title: Myfyrio
+    completion: external
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
-    completion: allanol
   - title: Uwchraddio dy brosiect
   - title: Beth nesaf?
