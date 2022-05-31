@@ -1,26 +1,30 @@
 ---
 title: Conversa espacial
 hero_image: images/banner.png
-description: Use o Scratch para dar aos atores uma 'ação' para que eles se comuniquem quando clicados
+description: Use o Scratch para dar aos atores uma 'ação' para que eles se comuniquem
+  quando clicados
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-09"
+last_tested: '2021-02-09'
 steps:
-  - title: Introdução
-  - title: Crie sua cena
-  - title: Pico diz olá
-    completion: engaged
-  - title: Pico toca um som
-  - title: Nano troca de fantasias
-  - title: Giga muda de cor
-    completion: internal
-  - title: Reflexão
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: Melhore o seu projeto
-  - title: O que vem a seguir?
+- title: Introdução
+- title: Crie sua cena
+- title: Pico diz olá
+  completion:
+  - engaged
+- title: Pico toca um som
+- title: Nano troca de fantasias
+- title: Giga muda de cor
+  completion:
+  - internal
+- title: Reflexão
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: Melhore o seu projeto
+- title: O que vem a seguir?

@@ -1,26 +1,30 @@
 ---
 title: స్పేస్ టాక్
 hero_image: images/banner.png
-description: Sprite లకు 'emote' ఇవ్వడానికి Scratch ని ఉపయోగించండి, తద్వారా అవి క్లిక్ చేసినప్పుడు కమ్యూనికేట్ చేస్తాయి
+description: Sprite లకు 'emote' ఇవ్వడానికి Scratch ని ఉపయోగించండి, తద్వారా అవి క్లిక్
+  చేసినప్పుడు కమ్యూనికేట్ చేస్తాయి
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-09"
+last_tested: '2021-02-09'
 steps:
-  - title: పరిచయం
-  - title: మీ దృశ్యాన్ని సృష్టించండి
-  - title: Pico, హలో అని చెప్తూంది
-    completion: engaged
-  - title: Pico ధ్వనిని ప్లే చేస్తుంది
-  - title: Nano costumes మార్చుకుంటుంది
-  - title: Giga రంగులు మారుస్తుంది
-    completion: internal
-  - title: విశ్లేషణ
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: మీ ప్రాజెక్ట్‌ను అప్‌గ్రేడ్ చేయండి
-  - title: తర్వాత ఏంటి?
+- title: పరిచయం
+- title: మీ దృశ్యాన్ని సృష్టించండి
+- title: Pico, హలో అని చెప్తూంది
+  completion:
+  - engaged
+- title: Pico ధ్వనిని ప్లే చేస్తుంది
+- title: Nano costumes మార్చుకుంటుంది
+- title: Giga రంగులు మారుస్తుంది
+  completion:
+  - internal
+- title: విశ్లేషణ
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: మీ ప్రాజెక్ట్‌ను అప్‌గ్రేడ్ చేయండి
+- title: తర్వాత ఏంటి?

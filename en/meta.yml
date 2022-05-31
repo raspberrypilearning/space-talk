@@ -1,25 +1,30 @@
+---
 title: Space talk
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+description: Use Scratch to give sprites an 'emote' so that they communicate when
+  clicked
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-09"
+last_tested: '2021-02-09'
 steps:
-  - title: Introduction
-  - title: Create your scene
-  - title: Pico says hello
-    completion: engaged
-  - title: Pico plays a sound
-  - title: Nano switches costumes
-  - title: Giga changes colour
-    completion: internal 
-  - title: Reflection
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: Upgrade your project
-  - title: What next?
+- title: Introduction
+- title: Create your scene
+- title: Pico says hello
+  completion:
+  - engaged
+- title: Pico plays a sound
+- title: Nano switches costumes
+- title: Giga changes colour
+  completion:
+  - internal
+- title: Reflection
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: Upgrade your project
+- title: What next?

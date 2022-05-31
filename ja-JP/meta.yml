@@ -5,22 +5,25 @@ description: Scratchでスプライトに「感情を表現（エモート）」
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-09"
+last_tested: '2021-02-09'
 steps:
-  - title: はじめに
-  - title: 場面を作る
-  - title: Picoに「こんにちは」と言わせる
-    completion: engaged
-  - title: ピコが音を出す
-  - title: Nanoのコスチュームを変える
-  - title: Gigaの色を変える
-    completion: internal
-  - title: ふりかえり
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: プロジェクトをアップグレードする
-  - title: 次のステップ
+- title: はじめに
+- title: 場面を作る
+- title: Picoに「こんにちは」と言わせる
+  completion:
+  - engaged
+- title: ピコが音を出す
+- title: Nanoのコスチュームを変える
+- title: Gigaの色を変える
+  completion:
+  - internal
+- title: ふりかえり
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: プロジェクトをアップグレードする
+- title: 次のステップ
