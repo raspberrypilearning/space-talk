@@ -1,26 +1,30 @@
 ---
 title: ಬಾಹ್ಯಾಕಾಶ ಮಾತುಕತೆ
 hero_image: images/banner.png
-description: ಸ್ಪ್ರೈಟ್‌ಗೆ ʼಅಭಿನಯʼ ಕೊಡಲು Scratch ಉಪಯೋಗಿಸಿ, ಅದರಿಂದ ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ ಅವು ತಿಳಿಸುತ್ತವೆ
+description: ಸ್ಪ್ರೈಟ್‌ಗೆ ʼಅಭಿನಯʼ ಕೊಡಲು Scratch ಉಪಯೋಗಿಸಿ, ಅದರಿಂದ ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ ಅವು
+  ತಿಳಿಸುತ್ತವೆ
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-09"
+last_tested: '2021-02-09'
 steps:
-  - title: ಪರಿಚಯ
-  - title: ನಿಮ್ಮ ದೃಶ್ಯವನ್ನು ಇಲ್ಲಿ ರಚಿಸಿ
-  - title: Pico ಹಲೋ ಹೇಳುತ್ತಾನೆ
-    completion: engaged
-  - title: Pico ಧ್ವನಿಯನ್ನು ನುಡಿಸುತ್ತಾನೆ
-  - title: Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
-  - title: Giga ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
-    completion: internal
-  - title: ಪುನರ್ಮನನ
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
-  - title: ಮುಂದೆ ಏನು?
+- title: ಪರಿಚಯ
+- title: ನಿಮ್ಮ ದೃಶ್ಯವನ್ನು ಇಲ್ಲಿ ರಚಿಸಿ
+- title: Pico ಹಲೋ ಹೇಳುತ್ತಾನೆ
+  completion:
+  - engaged
+- title: Pico ಧ್ವನಿಯನ್ನು ನುಡಿಸುತ್ತಾನೆ
+- title: Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
+- title: Giga ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
+  completion:
+  - internal
+- title: ಪುನರ್ಮನನ
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
+- title: ಮುಂದೆ ಏನು?

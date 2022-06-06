@@ -5,22 +5,25 @@ description: استخدم Scratch لإعطاء الكائنات "تعبيرًا"
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-09"
+last_tested: '2021-02-09'
 steps:
-  - title: المقدمة
-  - title: اصنع مشهدك
-  - title: Pico يقول مرحبًا
-    completion: engaged
-  - title: Pico يشغل صوت
-  - title: Nano يبدل المظاهر
-  - title: Giga يغير اللون
-    completion: internal
-  - title: تفكير
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: قم بترقية مشروعك
-  - title: ما التالي؟
+- title: المقدمة
+- title: اصنع مشهدك
+- title: Pico يقول مرحبًا
+  completion:
+  - engaged
+- title: Pico يشغل صوت
+- title: Nano يبدل المظاهر
+- title: Giga يغير اللون
+  completion:
+  - internal
+- title: تفكير
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: قم بترقية مشروعك
+- title: ما التالي؟

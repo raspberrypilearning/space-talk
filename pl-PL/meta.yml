@@ -5,22 +5,25 @@ description: Użyj Scratcha, aby dać duszkom „emotkę”, tak by komunikował
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-02-09"
+last_tested: '2021-02-09'
 steps:
-  - title: Wprowadzenie
-  - title: Stwórz swoją scenę
-  - title: 'Pico mówi: "cześć"'
-    completion: engaged
-  - title: Pico odtwarza dźwięk
-  - title: Nano zmienia kostiumy
-  - title: Giga zmienia kolor
-    completion: internal
-  - title: Powtórka
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: Ulepsz swój projekt
-  - title: Co dalej?
+- title: Wprowadzenie
+- title: Stwórz swoją scenę
+- title: 'Pico mówi: "cześć"'
+  completion:
+  - engaged
+- title: Pico odtwarza dźwięk
+- title: Nano zmienia kostiumy
+- title: Giga zmienia kolor
+  completion:
+  - internal
+- title: Powtórka
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: Ulepsz swój projekt
+- title: Co dalej?
