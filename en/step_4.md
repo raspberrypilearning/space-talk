@@ -17,6 +17,8 @@ Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** 
 
 ![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
 
+**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+
 --- /task ---
 
 There are some fantastic alien sounds in Scratch that you can add to your sprite.
@@ -71,7 +73,7 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. 
 
 --- /task ---
 

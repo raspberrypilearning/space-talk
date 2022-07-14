@@ -91,7 +91,7 @@ Drag the **Pico** sprite to position them on the left-hand side of the Stage. Yo
 
 --- task ---
 
-If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
 
 ![The remix button.](images/remix-button.png)
 
