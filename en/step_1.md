@@ -2,9 +2,7 @@
 
 In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
-</p>
+
 
 In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. 
 

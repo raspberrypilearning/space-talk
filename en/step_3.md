@@ -15,6 +15,10 @@ You will add code blocks to make Pico emote with words and sound when the sprite
 
 To use blocks, you can click on them in the Blocks menu.
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
 --- task ---
 
 Open the `Looks`{:class="block3looks"} blocks menu. 
@@ -74,6 +78,14 @@ If you have time when you have finished your project, it is a good idea to add c
 --- task ---
 
 **Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+
+--- /task ---
+
+--- task ---
+
+You have already saved your project and given it a name. Scratch will now **automatically** save for you. 
+
+You can still click save if you like, just to make sure. 
 
 --- /task ---
 
