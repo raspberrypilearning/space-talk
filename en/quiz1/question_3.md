@@ -39,7 +39,7 @@ This code changes the colour of the sprite and shows a thought bubble.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 

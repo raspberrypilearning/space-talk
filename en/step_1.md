@@ -2,8 +2,6 @@
 
 In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
 
-
-
 In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. 
 
 You will:
