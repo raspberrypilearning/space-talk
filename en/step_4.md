@@ -21,8 +21,6 @@ Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** 
 
 --- /task ---
 
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
-
 --- task ---
 
 To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
