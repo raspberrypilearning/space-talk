@@ -11,6 +11,8 @@ Another way to communicate is to use sound.
 </div>
 </div>
 
+### Add a sound to the Pico Sprite
+
 --- task ---
 
 Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
@@ -41,6 +43,8 @@ Play a few different sounds using the **Play** icons. Once you have found the so
 
 --- /task ---
 
+### Make the sound play when clicked (or tapped)
+
 --- task ---
 
 Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block. 
@@ -60,6 +64,8 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
+
+### Test your code
 
 --- task ---
 

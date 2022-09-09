@@ -11,6 +11,8 @@ Set up your project with a space backdrop and the first sprite.
 </div>
 </div>
 
+### Open the starter project
+
 --- task ---
 
 Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
@@ -19,9 +21,11 @@ Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331
 
 --- /task ---
 
-The Scratch editor looks like this:
+### The Scratch editor
 
 ![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+
+### Add a backdrop
 
 The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
@@ -52,6 +56,8 @@ Click on your chosen backdrop to add it to your project. The Stage should show t
 ![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
 --- /task ---
+
+### Add a Sprite
 
 Can you see the sprite that is already included in your project? That is the Scratch Cat.
 
