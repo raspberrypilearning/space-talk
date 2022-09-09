@@ -1,6 +1,6 @@
-## Introduction
+## You will make
 
-In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
 In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. 
 
@@ -11,7 +11,7 @@ You will:
 
 --- no-print ---
 --- task ---
-### Try it
+### Play ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 Click on each sprite to see what they do. 

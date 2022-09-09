@@ -13,8 +13,6 @@ You will add code blocks to make Pico emote with words and sound when the sprite
 </div>
 </div>
 
-To use blocks, you can click on them in the Blocks menu.
-
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
 </p>
@@ -35,8 +33,6 @@ The **Pico** sprite will show a speech bubble for two seconds.
 
 --- /task ---
 
-You can drag blocks to the Code area, and they can be used from there.
-
 --- task ---
 
 Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
@@ -46,8 +42,6 @@ Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `s
 ![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
-
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
 
 --- task ---
 
