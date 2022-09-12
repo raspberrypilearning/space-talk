@@ -81,5 +81,3 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 
 --- /task ---
 
---- save ---
-
