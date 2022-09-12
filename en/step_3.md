@@ -88,5 +88,3 @@ You have already saved your project and given it a name. Scratch will now **auto
 You can still click save if you like, just to make sure. 
 
 --- /task ---
-
---- save ---
