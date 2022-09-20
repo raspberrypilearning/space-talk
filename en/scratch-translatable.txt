@@ -2,15 +2,11 @@ Hello!
 
 hide speech after 2 seconds
 
-Thanks!
-
 when Nano is clicked
 
 Nano talking
 
-try 1 instead of 2
-
-Nano smiling
+try 0.25 instead of 0.5
 
 Hm...
 
@@ -22,14 +18,12 @@ hide speech bubble
 
 number up to 200
 
-play sound, doesn't wait
+0.5 is half a second
+
+plays sound, doesn't wait
 
 shows speech bubble
 
-hand to mouth
+put hand to mouth
 
 smiling
-
-shows a thought bubble
-
-goes back to normal colour
