@@ -1,11 +1,11 @@
-## Ο Nano αλλάζει ενδυμασίες
+## Nano switches costume
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Θα κάνεις τον Nano να εκφραστεί αλλάζοντας **ενδυμασίες**.
+Get Nano to emote by switching **costumes**.
 
-Τα αντικείμενα έχουν **ενδυμασίες** για να αλλάζουν την εμφάνισή τους. Για να ζωντανέψεις ένα αντικείμενο, μπορείς να αλλάξεις τις ενδυμασίες του.
+Τα αντικείμενα έχουν **ενδυμασίες** για να αλλάζουν την εμφάνισή τους. To animate a sprite, you can change its costume.
 
 </div>
 <div>
@@ -15,7 +15,7 @@
 </div>
 </div>
 
-### Ο Nano λέει «Ευχαριστώ!»
+### Nano signs "Thanks!"
 
 --- task ---
 
@@ -32,30 +32,32 @@
 ![Η λίστα Αντικειμένων, με ένα μπλε περίγραμμα γύρω από το αντικείμενο Nano για να δείξει ότι έχει επιλεγεί το Nano.](images/nano-selected.png)
 
 
-Κάνε κλικ στην καρτέλα **Κώδικας** και πρόσθεσε script για να κάνεις το αντικείμενο **Nano** να `πει`{:class="block3looks"} `Ευχαριστώ!`:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
 
 ![Το αντικείμενο Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
-say [Thanks!] for [2] seconds // try 1 instead of 2
+wait (0.5) seconds // try 0.25 instead of 0.5
 switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Συμβουλή:** Όλα τα μπλοκ είναι χρωματικά κωδικοποιημένα, επομένως θα βρεις το μπλοκ `άλλαξε ενδυμασία σε`{:class="block3looks"} στο μενού μπλοκ `Όψεις`{:class="block3looks"}.
+**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Looks`{:class="block3control"} blocks menu.
 
 --- task ---
 
-**Δοκιμή:** Κάνε κλικ στο αντικείμενο **Nano** στην Σκηνή και έλεγξε ότι εμφανίζεται το συννεφάκι ομιλίας και ότι αλλάζει το κοστούμι του Nano.
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
 
 --- /task ---
 
 ### Ο Nano χρησιμοποιεί τη νοηματική γλώσσα
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Εκατομμύρια άνθρωποι χρησιμοποιούν τη νοηματική γλώσσα για να επικοινωνήσουν. Ένα κοινό σημάδι για το «ευχαριστώ» είναι **να φέρεις το δεξί σου χέρι στο στόμα σου**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Εκατομμύρια άνθρωποι χρησιμοποιούν τη νοηματική γλώσσα για να επικοινωνήσουν. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
 </p>
+
+<!-- Add a video of someone signing -->
 
 Ο Nano θα χρησιμοποιήσει τη νοηματική γλώσσα αλλάζοντας ενδυμασίες.
 
@@ -110,4 +112,3 @@ switch costume to [nano-a v] // Nano smiling
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Έχεις μάθει πώς να λες «ευχαριστώ». Την επόμενη φορά που θα ευχαριστήσεις κάποιον, γιατί να μην χρησιμοποιήσεις τη νέα σου ικανότητα;
 </p>
 
---- save ---
