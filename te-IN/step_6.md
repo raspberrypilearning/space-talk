@@ -11,6 +11,8 @@ Sprite లు థాట్ బబుల్స్ ని కూడా ఉపయ�
 </div>
 </div>
 
+### Make Giga change colour
+
 --- task ---
 
 **Giga** sprite ని జోడించండి.
@@ -54,4 +56,3 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
---- save ---
