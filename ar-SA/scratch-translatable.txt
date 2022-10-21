@@ -2,15 +2,11 @@
 
 إخفاء الكلام بعد ثانيتين
 
-شكرا!
-
 عندما يتم النقر فوق Nano
 
 Nano يتحدث
 
-جرب 1 بدلاً من 2
-
-Nano يبتسم
+try 0.25 instead of 0.5
 
 همم...
 
@@ -22,14 +18,12 @@ Nano يبتسم
 
 عدد يصل إلى 200
 
-play sound, doesn't wait
+0.5 is half a second
+
+plays sound, doesn't wait
 
 shows speech bubble
 
-hand to mouth
+put hand to mouth
 
 smiling
-
-shows a thought bubble
-
-goes back to normal colour
