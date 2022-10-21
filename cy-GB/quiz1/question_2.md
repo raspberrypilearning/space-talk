@@ -4,7 +4,7 @@
 legend: Cwestiwn 2 o 3
 ---
 
-Rwyt ti wedi gwneud i Pico ddweud "Helo!" mewn swigen siarad.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
 say [Hello!] for [2] seconds
