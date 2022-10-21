@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-ఈ దశలో, మీరు మీ ప్రాజెక్ట్‌ను Space బ్యాక్‌డ్రాప్ మరియు మొదటి sprite తో సెటప్ చేస్తారు. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@
 
 </div>
 </div>
+
+### Open the starter project
 
 --- task ---
 
@@ -19,93 +21,97 @@
 
 --- /task ---
 
-Scratch ఎడిటర్ ఇలా కనిపిస్తుంది:
+### The Scratch editor
 
-![Scratch ఎడిటర్ యొక్క వివరణ స్క్రీన్‌షాట్, Stage, stage pane, sprite pane, sprite లిస్ట్ మరియు Code ఏరియా లేబుల్ చేయబడింది.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-**Stage** అనేది మీ ప్రాజెక్ట్ అమలయ్యే ప్రదేశం. **backdrop** Stage కనిపించే విధానాన్ని మారుస్తుంది.
+### Add a backdrop
+
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
 --- task ---
 
-Stage పేన్‌లో </strong> Choose a Backdrop** పై క్లిక్ చేయండి (లేదా టాబ్లెట్‌లో అయితే, నొక్కండి):</p>
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-!['Choose a Backdrop' చిహ్నం.](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-!['Choose a backdrop', Scratch ఎడిటర్ దిగువ కుడివైపు మూలలో హైలైట్ చేయబడింది.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-**Space** వర్గంపై క్లిక్ చేయండి లేదా సెర్చ్ బాక్సులో`Space` టైప్ చేయండి:
+Click on the **Space** category or type `space` in the search box:
 
-!['Space' వర్గంతో బ్యాక్‌డ్రాప్ లైబ్రరీ ఎంచుకోబడింది.](images/space-backdrops.png)
-
---- /task ---
-
-మన ఈ ఉదాహరణలో, మనము **Space** బ్యాక్‌డ్రాప్‌ని ఎంచుకున్నాము, కానీ మీరు ఎక్కువగా ఇష్టపడే బ్యాక్‌డ్రాప్‌ను ఎంచుకోవచ్చు.
-
---- task ---
-
-మీ ప్రాజెక్ట్‌కి జోడించడానికి మీరు ఎంచుకున్న బ్యాక్‌డ్రాప్‌పై క్లిక్ చేయండి. మీరు ఎంచుకున్న నేపథ్యాన్ని Stage చూపాలి:
-
-![Space బ్యాక్‌డ్రాప్‌తో Scratch ఎడిటర్ జోడించబడింది.](images/inserted-backdrop.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
 --- /task ---
 
-మీ ప్రాజెక్ట్‌లో ఇప్పటికే చేర్చబడిన sprite ని మీరు చూడగలరా? అది Scratch Cat.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
 --- task ---
 
-**Sprite1** (Scratch Cat) Sprite ను తొలగించండి: Stage దిగువన ఉన్న Sprite జాబితాలో **Sprite1** ను ఎంచుకొని, **Delete** చిహ్నంపై క్లిక్ చేయండి.
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-!['Delete' చిహ్నం.](images/delete-sprite.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Add a Sprite
+
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
+
 --- task ---
 
-Sprite జాబితాలో **Choose a Sprite** పై క్లిక్ చేయండి:
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-!['Choose a Sprite' చిహ్నం.](images/sprite-button.png)
-
-!['Choose a Sprite'తో గల Scratch ఎడిటర్, హైలైట్ చేయబడింది.](images/choose-a-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Fantasy** వర్గాన్ని ఎంచుకోండి. వాటిని మీ ప్రాజెక్ట్‌కి జోడించడానికి **Pico** sprite పై క్లిక్ చేయండి.
+Click on **Choose a Sprite** in the Sprite list:
 
-![Pico sprite తో కూడిన 'Fantasy' వర్గం.](images/fantasy-pico.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-**Pico** sprite ని Stage కి ఎడమ వైపున ఉంచడానికి డ్రాగ్ చేయండి. మీ Stage ఇలా ఉండాలి:
-
-![ఎంచుకున్న బ్యాక్‌డ్రాప్‌తో Stage మరియు Pico Sprite ఎడమ వైపున ఉంచబడింది.](images/pico-on-stage.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-మీరు మీ Scratch ఖాతాకు సైన్ ఇన్ చేసి ఉంటే, ఆకుపచ్చ Remix బటన్‌పై క్లిక్ చేయండి. ఇది ప్రాజెక్ట్ కాపీని మీ Scratch ఖాతాలో సేవ్ చేస్తుంది.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![remix బటన్.](images/remix-button.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
-స్క్రీన్ పైభాగంలో ఉన్న ప్రాజెక్ట్ పేరు గల బాక్సులో మీ ప్రాజెక్ట్ పేరును టైప్ చేయండి.
+--- /task ---
 
-![ప్రాజెక్ట్ పేరు కల బాక్సు.](images/project-name.png)
+--- task ---
 
-**చిట్కా:** మీ ప్రాజెక్ట్‌లకు ఉపయోగకరమైన పేర్లను ఇవ్వండి, తద్వారా మీరు చాలా ప్రాజెక్ట్‌లను కలిగి ఉన్నప్పుడు వాటిని సులభంగా కనుగొనవచ్చు.
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-తర్వాత, మీ ప్రాజెక్ట్‌ను సేవ్ చేయడానికి **File**పై క్లిక్ చేసి, ఆపై **Save now** పై క్లిక్ చేయండి.
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
-!['File' మెను ఎంపికలు.](images/file-menu.png)
+--- /task ---
 
-మీకు ఒకవేళ ఇంటర్నెట్ లేకపోతే లేదా మీకు ఒక Scratch ఖాతా లేకపోతే, **save to your computer** మీద క్లిక్ చేసి, ప్రాజెక్ట్ యొక్క ఒక కాపీని సేవ్ చేయవచ్చు.
+--- task ---
+
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+
+![The remix button.](images/remix-button.png)
+
+Type the name of your project in the project name box at the top of the screen.
+
+![The project name box.](images/project-name.png)
+
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+
+Next, click on **File**, and then on **Save now** to save your project.
+
+![The 'File' menu options.](images/file-menu.png)
+
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 --- /task ---
 
