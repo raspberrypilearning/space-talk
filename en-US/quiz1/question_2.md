@@ -4,7 +4,7 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say "Hello!" in a speech bubble.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
 say [Hello!] for [2] seconds
