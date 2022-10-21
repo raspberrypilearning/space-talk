@@ -2,15 +2,11 @@
 
 скрыть речь через 2 секунды
 
-Спасибо!
-
 при нажатии на Nano
 
 Nano разговаривает
 
-попробуй 1 вместо 2
-
-Nano улыбается
+try 0.25 instead of 0.5
 
 Хммм...
 
@@ -22,14 +18,12 @@ Nano улыбается
 
 число до 200
 
-play sound, doesn't wait
+0.5 is half a second
+
+plays sound, doesn't wait
 
 shows speech bubble
 
-hand to mouth
+put hand to mouth
 
 smiling
-
-shows a thought bubble
-
-goes back to normal colour
