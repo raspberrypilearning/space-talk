@@ -2,15 +2,11 @@ Olá!
 
 esconder a fala após 2 segundos
 
-Obrigado!
-
 quando o Nano é clicado
 
 Nano falando
 
-tente 1 em vez de 2
-
-Nano sorrindo
+try 0.25 instead of 0.5
 
 Hm...
 
@@ -22,14 +18,12 @@ esconder balão de fala
 
 número até 200
 
-toca som, não espera
+0.5 is half a second
+
+plays sound, doesn't wait
 
 mostra balão de diálogo
 
-mão na boca
+put hand to mouth
 
 sorrindo
-
-mostra um balão de pensamento
-
-volta a cor normal
