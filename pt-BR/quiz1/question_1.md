@@ -1,24 +1,21 @@
-## Reflexão
+## Quick quiz
 
-Muito bem, você aprendeu muito! Agora, é hora de refletir - refletir é uma parte importante do aprendizado, porque isso ajuda a fazer novas conexões no seu cérebro.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Responda às três perguntas abaixo para refletir sobre o que você aprendeu.
+When you have answered each question, click on **Check my answer**.
 
-Após responder cada pergunta, clique em **Enviar**. Você será levado para a resposta correta. Você pode repetir quantas vezes quiser.
-
-Divirta-se!
+Have fun!
 
 --- question ---
 ---
 legend: Pergunta 1 de 3
 ---
 
-Em seu projeto, você adicionou um cenário e alguns personagens (atores).
+In your project, you added some sprite characters.
 
-Onde você vai para adicionar um ator ao seu projeto?
+Where do you go to **add a sprite** to your project?
 
-![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 
-3 — Lista de Atores e 4 - O painel Palco destacado.](images/question1.png)
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
@@ -26,7 +23,7 @@ Onde você vai para adicionar um ator ao seu projeto?
 
   --- feedback ---
 
-Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
+You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- /feedback ---
 
@@ -34,7 +31,7 @@ Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
 
   --- feedback ---
 
-Você foi até a aba **Sons** para escolher um novo som para seu sprite.
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
@@ -42,7 +39,7 @@ Você foi até a aba **Sons** para escolher um novo som para seu sprite.
 
   --- feedback ---
 
-Sim. Esta é a área onde você pode ver todos os atores no projeto, adicionar e deletar atores e clicar nos atores para selecioná-los.
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
@@ -50,7 +47,7 @@ Sim. Esta é a área onde você pode ver todos os atores no projeto, adicionar e
 
   --- feedback ---
 
-Você foi para o painel Palco para escolher um Cenário.
+You went to the Stage pane to choose a backdrop.
 
   --- /feedback ---
 
