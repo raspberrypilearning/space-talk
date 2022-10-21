@@ -11,6 +11,8 @@ Sprites kunnen ook denkballonnen gebruiken en van kleur veranderen om hun persoo
 </div>
 </div>
 
+### Giga verandert van kleur
+
 --- task ---
 
 Voeg de **Giga** sprite toe.
@@ -54,4 +56,3 @@ Verander de woorden en het aantal seconden in het `denk`{:class="block3looks"} b
 
 --- /task ---
 
---- save ---
