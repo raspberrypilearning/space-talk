@@ -4,7 +4,7 @@
 ವಿಷಯಸೂಚಿ: ಪ್ರಶ್ನೆ 2
 ---
 
-ನೀವು ಮಾತಿನ ಗುಳ್ಳೆಯಲ್ಲಿ Pico "Hello!" ಹೇಳುವಂತೆ ಮಾಡಿದಿರಿ.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
 say [Hello!] for [2] seconds
