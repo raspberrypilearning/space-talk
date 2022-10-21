@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-На этом этапе ты создашь свой проект с космическим фоном и первым спрайтом. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@
 
 </div>
 </div>
+
+### Open the starter project
 
 --- task ---
 
@@ -19,93 +21,97 @@
 
 --- /task ---
 
-Редактор Scratch выглядит так:
+### The Scratch editor
 
-![Снимок экрана редактора Scratch с пометкой Сцена, Панель Сцены, Панель Спрайтов, Список Спрайтов и Код.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-**Сцена** - это то место, где выполняется твой проект. **Фон** изменяет внешний вид Сцены.
+### Add a backdrop
+
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
 --- task ---
 
-Щёлкни (или нажми на планшете) на **Выбрать фон** на панели Сцены:
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-![Иконка «Выбрать фон».](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![Редактор Scratch с выделенным в правом нижнем углу «Выбрать фон».](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Щёлкни на категорию **Космос** или введи `космос` в поле поиска:
+Click on the **Space** category or type `space` in the search box:
 
-![Библиотека фоновых изображений с выбранной категорией "Космос".](images/space-backdrops.png)
-
---- /task ---
-
-В нашем примере мы выбрали **Космос**, но выбери тот фон, который тебе нравится больше всего.
-
---- task ---
-
-Щелкни на выбранный фон, чтобы добавить его в свой проект. Сцена должна показать выбранный тобою фон:
-
-![Редактор Scratch с добавленным фоном Space.](images/inserted-backdrop.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
 --- /task ---
 
-Ты видишь спрайт, который уже включён в твой проект? Это Кот Scratch.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
 --- task ---
 
-Удали **Спрайт 1** (Кота Scratch): выбери спрайт **Спрайт 1** в списке Спрайтов под Сценой и щёлкни значок **Удалить**.
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-![Значок «Удалить».](images/delete-sprite.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Add a Sprite
+
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
+
 --- task ---
 
-Нажми **Выбрать спрайт** в Списке Спрайтов:
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-![Иконка «Выбрать спрайт».](images/sprite-button.png)
-
-![Редактор Scratch с выделенным «Выбрать спрайт».](images/choose-a-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Выбери категорию **Фантастика**. Щёлкни на спрайт **Pico**, чтобы добавить его в свой проект.
+Click on **Choose a Sprite** in the Sprite list:
 
-![Категория «Фантастика» со спрайтом Pico.](images/fantasy-pico.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Перетащи спрайт **Pico**, чтобы расположить его в левой части Сцены. Твоя Сцена должна выглядеть примерно так:
-
-![Сцена с выбранным фоном и спрайтом Pico, расположенным слева.](images/pico-on-stage.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Если ты вошёл в свою учетную запись Scratch, нажми на зелёную кнопку Ремикс. Это сохранит копию проекта в твоей учётной записи Scratch.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![Кнопка Ремикс.](images/remix-button.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
-Введи название своего проекта в поле имени проекта в верхней части экрана.
+--- /task ---
 
-![Поле названия проекта.](images/project-name.png)
+--- task ---
 
-**Совет:** Придумывай своим проектам понятные названия, чтобы ты мог легко их найти, когда у тебя будет много проектов.
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-Затем нажми на **Файл**, а затем **Сохранить сейчас**, чтобы сохранить проект.
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
-![Разделы меню «Файл».](images/file-menu.png)
+--- /task ---
 
-Если ты сейчас не в сети интернет или у тебя нет учётной записи Scratch, ты можешь нажать **Сохранить на свой компьютер**, чтобы сохранить копию своего проекта.
+--- task ---
+
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+
+![The remix button.](images/remix-button.png)
+
+Type the name of your project in the project name box at the top of the screen.
+
+![The project name box.](images/project-name.png)
+
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+
+Next, click on **File**, and then on **Save now** to save your project.
+
+![The 'File' menu options.](images/file-menu.png)
+
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 --- /task ---
 
