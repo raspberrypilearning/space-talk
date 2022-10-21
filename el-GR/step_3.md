@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Ένα αντικείμενο μπορεί να έχει κώδικα, ενδυμασίες και ήχους ανάλογα πώς μοιάζει και τι κάνει. 
   
-Θα προσθέσεις μπλοκ κώδικα για να κάνεις τον Pico να εκφράζεται με λέξεις και ήχο όταν γίνεται κλικ στο αντικείμενο.
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
 
@@ -13,45 +13,47 @@
 </div>
 </div>
 
-Για να χρησιμοποιήσεις τα μπλοκ, μπορείς να κάνεις κλικ σε αυτά στο μενού Μπλοκ.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
+### Use the say block
 
 --- task ---
 
-Ανοίξτε το μενού μπλοκ `Όψεις`{:class="block3looks"}.
+Open the `Looks`{:class="block3looks"} blocks menu.
 
-Κάνε κλικ στο μπλοκ `πες`{:class="block3looks"} `Γεια!` `για`{:class="block3looks"} `2` `δευτερόλεπτα`{:class="block3looks"}.
+Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-![Το μπλοκ 'πες Γεια! για 2 δευτερόλεπτα' λάμπει με κίτρινο περίγραμμα.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-Το αντικείμενο **Pico** θα εμφανίσει ένα συννεφάκι ομιλίας για δύο δευτερόλεπτα.
+The **Pico** sprite will show a speech bubble for two seconds.
 
-![Το αντικείμενο Pico με το "Γεια!" σε συννεφάκι ομιλίας.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
-**Συμβουλή:** Τα μπλοκ κώδικα στο Scratch λάμπουν με κίτρινο περίγραμμα όταν εκτελούνται.
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
 --- /task ---
 
-Μπορείς να σύρεις μπλοκ στην περιοχή Κώδικας και από εκεί μπορούν να χρησιμοποιηθούν.
-
 --- task ---
 
-Σύρε το μπλοκ `πες`{:class="block3looks"} `Γεια!` `για`{:class="block3looks"} `2` `δευτερόλεπτα`{:class="block3looks"} στην περιοχή Κώδικας. Κάνε κλικ σε αυτό ξανά.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
 
-![Σύροντας το μπλοκ 'πες' στην περιοχή Κώδικα και κάνοντας κλικ σε αυτό για να εκτελεστεί.](images/pico-drag-say.gif)
+![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-![Το μπλοκ 'πες' έχει συρθεί στην περιοχή Κώδικα. Το μπλοκ κώδικα λάμπει με ένα κίτρινο περίγραμμα.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
 
-Τα μπλοκ μπορούν να συνδεθούν μαζί στην περιοχή Κώδικας για να εκτελούνται περισσότερα από ένα κάθε φορά. Τα συνδεδεμένα μπλοκ θα εκτελούνται με τη σειρά από πάνω προς τα κάτω.
+### Make Pico talk when clicked (or tapped)
 
 --- task ---
 
-Σύρε ένα μπλοκ `όταν γίνει κλικ σε αυτό το αντικείμενο`{:class="block3events"} από το μενού `Συμβάντα`{:class="block3events"} και σύνδεσέ το στην κορυφή των μπλοκ `πες`{:class="block3looks"} στην περιοχή Κώδικα. Τα μπλοκ θα κουμπώσουν μεταξύ τους.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![Μια κινούμενη εικόνα των μπλοκ που κουμπώνουν μεταξύ τους. Όταν γίνει κλικ στον Pico, λέει "Γεια!" για δύο δευτερόλεπτα.](images/pico-snap-together.gif)
+![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
 
-![Το αντικείμενο Pico.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,21 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-Ένα σχόλιο είναι μια εξήγηση του τι κάνει ο κώδικάς σου.
+### Code comments
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-Θα δεις σχόλια σε παραδείγματα κώδικα. Δεν χρειάζεται να προσθέσεις τα σχόλια όταν προσθέτεις κώδικα στο έργο σου.
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
-Εάν έχεις χρόνο όταν ολοκληρώσεις το έργο σου, είναι καλή ιδέα να προσθέσεις σχόλια στον κώδικά σου, ώστε να είναι πιο κατανοητός αργότερα. Για να προσθέσεις ένα σχόλιο, κάντε δεξί κλικ (ή σε tablet, πατήστε παρατεταμένα) σε ένα μπλοκ στην περιοχή Κώδικα και επίλεξε **Προσθήκη σχολίου**.
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-![Το αναδυόμενο μενού που εμφανίζεται όταν κάνεις δεξί κλικ σε ένα μπλοκ. Επιλέγεται η 'Προσθήκη σχολίου'.](images/add-comment.png)
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+
+### Test
 
 --- task ---
 
-**Δοκιμή:** Κάνε κλικ στο αντικείμενο **Pico** στη Σκηνή και έλεγξε ότι το συννεφάκι ομιλίας εμφανίζεται για δύο δευτερόλεπτα. Είναι σημαντικό να δοκιμάσεις τον κώδικά σου για να βεβαιωθείς ότι κάνει αυτό που περιμένεις.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
 
---- save ---
+--- task ---
+
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+
+You can still click save if you like, just to make sure.
+
+--- /task ---
