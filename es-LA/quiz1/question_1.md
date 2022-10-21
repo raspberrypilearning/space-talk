@@ -1,23 +1,21 @@
-## Reflexión
+## Quick quiz
 
-¡Bien hecho, has aprendido mucho! Ahora es el momento de reflexionar — reflexionar es una parte importante del aprendizaje, porque ayuda a establecer nuevas conexiones en tu cerebro.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Responde las tres preguntas siguientes para reflexionar sobre lo que has aprendido.
+When you have answered each question, click on **Check my answer**.
 
-Cuando hayas respondido a cada pregunta, haz clic en **Enviar**. Vamos a guiarte hacia la respuesta correcta. Puedes realizar esta actividad tantas veces como quieras.
-
-¡Qué te diviertas!
+Have fun!
 
 --- question ---
 ---
 legend: Pregunta 1 de 3
 ---
 
-En tu proyecto, agregaste un fondo y algunos objetos de personajes.
+In your project, you added some sprite characters.
 
-¿A dónde vas para agregar un objeto a tu proyecto?
+Where do you go to **add a sprite** to your project?
 
-![Captura de pantalla anotada del editor Scratch completo con 1 — La pestaña Disfraces, 2 — La pestaña Sonidos, 3 — La lista de objetos y 4 — El panel Escenario resaltados.](images/question1.png)
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@ En tu proyecto, agregaste un fondo y algunos objetos de personajes.
 
   --- feedback ---
 
-Fuiste a la pestaña **Disfraces** para editar un disfraz para tu objeto.
+You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@ Fuiste a la pestaña **Disfraces** para editar un disfraz para tu objeto.
 
   --- feedback ---
 
-Fuiste a la pestaña **Sonidos** para elegir un nuevo sonido para tu objeto.
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
@@ -41,7 +39,7 @@ Fuiste a la pestaña **Sonidos** para elegir un nuevo sonido para tu objeto.
 
   --- feedback ---
 
-Sí. Esta es el área donde puedes ver todos los objetos del proyecto, agregar y eliminar objetos y hacer clic en objetos para seleccionarlos.
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
@@ -49,7 +47,7 @@ Sí. Esta es el área donde puedes ver todos los objetos del proyecto, agregar y
 
   --- feedback ---
 
-Fuiste al panel Escenario para elegir un fondo.
+You went to the Stage pane to choose a backdrop.
 
   --- /feedback ---
 
