@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-En este paso, configurarás tu proyecto con un fondo espacial y el primer objeto. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@ En este paso, configurarás tu proyecto con un fondo espacial y el primer objeto
 
 </div>
 </div>
+
+### Open the starter project
 
 --- task ---
 
@@ -19,93 +21,97 @@ Abre el [proyecto de inicio de Conversación espacial](https://scratch.mit.edu/p
 
 --- /task ---
 
-El editor de Scratch se ve así:
+### The Scratch editor
 
-![Una captura de pantalla anotada del editor de Scratch, con el escenario, el panel del escenario, el panel de objetos, la lista de objetos y el área de código etiquetados.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-El **Escenario** es donde se ejecuta tu proyecto. Un **fondo** cambia la apariencia del escenario.
+### Add a backdrop
+
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
 --- task ---
 
-Haz clic (o toca, en una tableta) en **Elije un fondo** en el panel del Escenario:
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-![El ícono 'Elige un fondo'.](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![El editor de Scratch con 'Elige un fondo' resaltado en la esquina inferior derecha.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Haz clic en la categoría **Espacio** o escribe `space` en el cuadro de búsqueda:
+Click on the **Space** category or type `space` in the search box:
 
-![La biblioteca de fondos con la categoría 'Espacio' seleccionada.](images/space-backdrops.png)
-
---- /task ---
-
-En nuestro ejemplo, hemos elegido el fondo **Space**, pero elije el fondo que más te guste.
-
---- task ---
-
-Haz clic en el fondo que elegiste para agregarlo a tu proyecto. El escenario debe mostrar el fondo que elegiste:
-
-![El editor de Scratch con el fondo 'Space'.](images/inserted-backdrop.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
 --- /task ---
 
-¿Puedes ver el objeto que ya está incluido en tu proyecto? Ese es el gato Scratch.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
 --- task ---
 
-Elimina el **Objeto1** (el gato Scratch): selecciona el objeto **Objeto1** en la lista de objetos debajo del escenario y haz clic en el ícono **Eliminar**.
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-![El ícono 'Eliminar'.](images/delete-sprite.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Add a Sprite
+
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
+
 --- task ---
 
-Haz clic en **Elegir un objeto** en la lista de objetos:
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-![El ícono 'Elegir un objeto'.](images/sprite-button.png)
-
-![El editor de Scratch con 'Elegir un objeto' resaltado.](images/choose-a-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Selecciona la categoría **Fantasía**. Haz clic en el objeto **Pico** para agregarlo a tu proyecto.
+Click on **Choose a Sprite** in the Sprite list:
 
-![La categoría 'Fantasía' con el objeto Pico.](images/fantasy-pico.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Arrastra el objeto **Pico** para colocarlo en el lado izquierdo del escenario. Tu escenario debería verse más o menos así:
-
-![El escenario con el fondo elegido y el objeto Pico colocado en el lado izquierdo.](images/pico-on-stage.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Si has iniciado sesión en tu cuenta de Scratch, haz clic en el botón verde Reinventar. Esto guardará una copia del proyecto en tu cuenta de Scratch.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![Botón Remix.](images/remix-button.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
-Escribe el nombre de tu proyecto en el cuadro del nombre del proyecto en la parte superior de la pantalla.
+--- /task ---
 
-![El cuadro de nombre del proyecto.](images/project-name.png)
+--- task ---
 
-**Consejo:** Dale a tus proyectos nombres útiles para que puedas encontrarlos fácilmente cuando tengas muchos proyectos.
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-A continuación, haz clic en **Archivo** y luego en **Guardar ahora** para guardar tu proyecto.
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
-![Las opciones del menú 'Archivo'.](images/file-menu.png)
+--- /task ---
 
-Si no estás en línea o no tienes una cuenta Scratch, puedes hacer clic en **Guardar en tu computador** para guardar una copia de tu proyecto.
+--- task ---
+
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+
+![The remix button.](images/remix-button.png)
+
+Type the name of your project in the project name box at the top of the screen.
+
+![The project name box.](images/project-name.png)
+
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+
+Next, click on **File**, and then on **Save now** to save your project.
+
+![The 'File' menu options.](images/file-menu.png)
+
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 --- /task ---
 
