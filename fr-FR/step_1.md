@@ -1,10 +1,6 @@
-## Introduction
+## Ce que tu feras
 
-Dans ce projet, tu vas créer une scène spatiale avec des personnages qui « s'émeuvent » pour partager leurs pensées ou leurs sentiments.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Les émotions**</span> sont un moyen de montrer la personnalité d'un personnage dans un jeu. Ils peuvent utiliser la parole, les sons, les mouvements et les effets graphiques, tout comme dans Scratch. Joues-tu à des jeux qui utilisent des émotions ?
-</p>
+Crée une scène spatiale avec des personnages 👾 qui " émettent " pour partager leurs pensées ou leurs sentiments.
 
 Dans Scratch, les personnages et les objets sont appelés **sprites**, et ils apparaissent sur la **Scène**.
 
@@ -14,7 +10,7 @@ Tu vas devoir :
 + Utiliser l'**éditeur peinture** pour changer un **costume**
 
 --- no-print --- --- task ---
-### Essaie-le
+### Joue ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 Clique sur chaque sprite pour voir ce qu'ils font. 
