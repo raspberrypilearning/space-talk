@@ -15,7 +15,7 @@ Sprites hebben **uiterlijken** om hun uiterlijk te veranderen. Om een sprite te 
 </div>
 </div>
 
-### Nano zegt "Dank je!"
+### Nano gebaart "Bedankt!"
 
 --- task ---
 
@@ -32,30 +32,32 @@ Zorg ervoor dat de **Nano** sprite geselecteerd is in de Sprite lijst onder het 
 ![De Sprite-lijst, met een blauwe rand rond de Nano sprite om aan te geven dat Nano is geselecteerd.](images/nano-selected.png)
 
 
-Klik op de **Code** tab en voeg een script toe om de **Nano** sprite{:class="block3looks"} `Dank je!` te laten `zeggen`:
+Klik op het tabblad **Code** en voeg een script toe om de **Nano**-sprite een 'Bedankt' gebaar te laten maken met `verander uiterlijk naar`{:class="block3looks"} en `wacht`{:class="block3control"}:
 
 ![De Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
-say [Thanks!] for [2] seconds // try 1 instead of 2
+wait (0.5) seconds // try 0.25 instead of 0.5
 switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** Alle blokken zijn kleurgecodeerd, dus je vindt het `verander uiterlijk naar`{:class="block3looks"} blok in het `Uiterlijken`{:class="block3looks"} blokkenmenu.
+**Tip:** Alle blokken hebben een kleurcode, dus je vindt het `verander uiterlijk naar`{:class="block3looks"} blok in het `Uiterlijken`{:class="block3looks"} blokken menu en de `wacht`{:class="block3control"} blok in het `Uiterlijken`{:class="block3control"} blokken menu.
 
 --- task ---
 
-**Test:** Klik op de **Nano** sprite in het Speelveld en controleer of de tekstballon verschijnt en Nano's uiterlijk verandert.
+**Test:** Klik op de **Nano** sprite in het speelveld en controleer of Nano's uiterlijk verandert.
 
 --- /task ---
 
 ### Nano gebruikt gebarentaal
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miljoenen mensen gebruiken gebarentaal om te communiceren. Een veelgebruikt teken voor 'dank je' is **je rechterhand naar je mond brengen**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miljoenen mensen gebruiken gebarentaal om te communiceren. Een veel voorkomend 'Dankjewel' gebaar, maak je door je vingers op je kin te leggen met je hand zo plat mogelijk. Dan beweeg je je hand naar voren, weg van je kin en iets naar beneden. 
 </p>
+
+<!-- Add a video of someone signing -->
 
 Nano gebruikt gebarentaal door van uiterlijk te wisselen.
 
@@ -110,4 +112,3 @@ Ga terug naar het **nano-b** uiterlijk en klik op **Plakken**. Het uiterlijk zou
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Je hebt het gebaar voor "dank je" geleerd. Waarom zou je de volgende keer dat je iemand bedankt, je nieuwe vaardigheid niet gebruiken?
 </p>
 
---- save ---
