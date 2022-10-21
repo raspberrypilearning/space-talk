@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: పరిచయం
+    title: You will make
   - 
     title: మీ దృశ్యాన్ని సృష్టించండి
   - 
     title: Pico, హలో అని చెప్తూంది
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico ధ్వనిని ప్లే చేస్తుంది
   - 
     title: Nano costumes మార్చుకుంటుంది
   - 
     title: Giga రంగులు మారుస్తుంది
-    completion: internal
+    completion:
+      - internal
   - 
-    title: విశ్లేషణ
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: మీ ప్రాజెక్ట్‌ను అప్‌గ్రేడ్ చేయండి
   - 
