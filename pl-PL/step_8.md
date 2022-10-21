@@ -11,7 +11,11 @@ Dodaj duszka **Tera** i użyj dowolnych bloków, o których się nauczyłeś, ab
 </div>
 </div>
 
-Osobowość duszka **Tera** to Twój wybór, więc baw się dobrze korzystając z własnych kreatywnych pomysłów.
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
 ```blocks3
 kiedy ten duszek kliknięty
@@ -20,31 +24,35 @@ powiedz [Witaj!] przez [2] sekundę
 
 powiedz [Witaj!]
 
-powiedz [] // ukryj dymek
+say [] // hide speech bubble
 
-pomyśl [Hmm...] przez [2] sekundy
+think [Hmm...] for [2] seconds
 
-przełącz kostium na [tera-d v]
+switch costume to [tera-d v]
 
-ustaw efekt [kolor v] na [0] // liczbę do 200
+wait (1) seconds // 0.5 is half a second
 
-wyczyść efekty graficzne
+set [color v] effect to [0] // number up to 200
 
-odtwórz dźwięk [pop v] 
+clear graphic effects
 
-uruchom dźwięk [pop v]
+play sound [pop v] until done
+
+start sound [pop v]
+
+speak [hello]
 ```
 
-Możesz także „zremiksować” projekt, aby wprowadzić dowolne zmiany. Możesz zmienić tło i sposób emotowania duszków, a nawet wybrać inne duszki i dać im emoty.
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Wskazówka:** Kliknij duszka na liście duszków pod sceną, aby zmienić kod, kostiumy i dźwięk tego duszka.
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
 --- collapse ---
 ---
 tytuł: Certyfikat Kosmicznej rozmowy
 ---
 
-Dobra robota! Ukończyłeś projekt Kosmiczna rozmowa. Oto [certyfikatu](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, aby uczcić Twoje nowe umiejętności. Pobierz kopię, a następnie otwórz ją, aby dodać swoje imię.
+Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
 
 --- /collapse ---
 
@@ -53,7 +61,7 @@ Dobra robota! Ukończyłeś projekt Kosmiczna rozmowa. Oto [certyfikatu](https:/
 title: Ukończony projekt
 ---
 
-Tutaj możesz zobaczyć [ukończony projekt](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
