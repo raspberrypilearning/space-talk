@@ -12,7 +12,7 @@ legend: Питання 3 з 3
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Hello!] for [2] seconds 
+say [Привіт!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ say [Hello!] for [2] seconds
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Hmm...] for [2] seconds 
+think [Хмм...] for [2] seconds 
 clear graphic effects 
 ```
 
