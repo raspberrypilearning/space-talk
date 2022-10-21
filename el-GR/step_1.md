@@ -1,25 +1,21 @@
-## Εισαγωγή
+## You will make
 
-Σε αυτό το έργο, θα δημιουργήσεις μια διαστημική σκηνή με χαρακτήρες που «εκφράζονται» για να μοιραστούν τις σκέψεις ή τα συναισθήματά τους.
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">** Εκφράσεις **</span> είναι ένας τρόπος εμφάνισης της προσωπικότητας ενός χαρακτήρα σε ένα παιχνίδι. Μπορούν να χρησιμοποιήσουν ομιλία, ήχους, κίνηση και γραφικά εφέ, όπως ακριβώς και στο Scratch. Παίζεις παιχνίδια που χρησιμοποιούν εκφράσεις;
-</p>
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-Στο Scratch, οι χαρακτήρες και τα πράγματα ονομάζονται **αντικείμενα** (sprites) και εμφανίζονται στην **Σκηνή**.
-
-Θα χρειαστεί να:
+You will:
 + Προσθέσεις αντικείμενα και ένα **υπόβαθρο** για να ρυθμίσεις το έργο σου
 + Κάνεις κλικ στα αντικείμενα για να τα κάνεις να επικοινωνούν χρησιμοποιώντας μπλοκ κώδικα `Όψεων`{:class="block3looks"} και `Ήχου`{:class="block3sound"}
 + Χρησιμοποιήσεις τον **Επεξεργαστή Ζωγραφική** για να αλλάξεις μια **ενδυμασία**
 
 --- no-print --- --- task ---
-### Δοκίμασέ το
+### Play ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Κάνε κλικ σε κάθε αντικείμενο για να δεις τι κάνει. 
+Click on each sprite to see what they do. 
 
-Τι συμβαίνει εάν κάνεις κλικ σε ένα αντικείμενο και μετά κάνεις γρήγορα κλικ σε ένα άλλο αντικείμενο;
+What happens if you click on one sprite and then quickly click on another sprite?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +25,7 @@
 
 --- print-only ---
 
-![Το ολοκληρωμένο έργο.](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
 --- /print-only ---
 
