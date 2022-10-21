@@ -1,23 +1,21 @@
-## ಪುನರ್ಮನನ
+## Quick quiz
 
-ಭೇಷ್, ನೀವು ಬಹಳಷ್ಟು ಕಲಿತಿದ್ದೀರಿ! ಈಗ ಪುನರ್ಮನನ ಮಾಡುವ ಸಮಯ — ಪುನರ್ಮನನ ಕಲಿಕೆಯ ಒಂದು ಮಹತ್ವದ ಭಾಗ, ಏಕೆಂದರೆ ಅದು ನಿಮ್ಮ ಮೆದುಳಿನಲ್ಲಿ ಹೊಸ ಸಂಪರ್ಕಗಳನ್ನು ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-ನೀವು ಕಲಿತಿದ್ದನ್ನು ಪುನರ್ಮನನ ಮಾಡಲು ಈ ಕೆಳಗಿನ ಮೂರು ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+When you have answered each question, click on **Check my answer**.
 
-ನೀವು ಪ್ರತಿ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿದಾಗ, **ಸಬ್ಮಿಟ್**ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ಸರಿಯಾದ ಉತ್ತರದೆಡೆಗೆ ನಿಮಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಲಾಗುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಯನ್ನು ನೀವು ಎಷ್ಟು ಸಲ ಬೇಕಾದರೂ ಮಾಡಬಹುದು.
-
-ಆನಂದಿಸಿ!
+Have fun!
 
 --- question ---
 ---
 ವಿಷಯಸೂಚಿ: ಪ್ರಶ್ನೆ 1
 ---
 
-ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟನಲ್ಲಿ, ನೀವು ಹಿನ್ನೆಲೆ ಮತ್ತು ಕೆಲವು ಸ್ಪ್ರೈಟ್ ಪಾತ್ರಗಳನ್ನು ಸೇರಿಸಿದ್ದೀರಿ.
+In your project, you added some sprite characters.
 
-ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸ್ಪ್ರೈಟ್ ಸೇರಿಸಲು ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀರಿ?
+Where do you go to **add a sprite** to your project?
 
-![ಹೈಲೈಟ್ ಮಾಡಿರುವ 1 - Costumes ಟ್ಯಾಬ್, 2 - Sounds ಟ್ಯಾಬ್, 3 - Sprite ಲಿಸ್ಟ್ ಮತ್ತು 4 - Stage ಪೇನ್‌ನೊಂದಿಗೆ ಪೂರ್ಣ ಸ್ಕ್ರ್ಯಾಚ್ ಎಡಿಟರ್‌ನ ಟಿಪ್ಪಣಿಯುಳ್ಳ ಸ್ಕ್ರೀನ್‌ಶಾಟ್.](images/question1.png)
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@
 
   --- feedback ---
 
-ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ನ ಉಡುಪನ್ನು ಎಡಿಟ್‌ ಮಾಡಲು ನೀವು **Costumes** ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿದ್ದೀರಿ.
+You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@
 
   --- feedback ---
 
-ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗಾಗಿ ಹೊಸ ಧ್ವನಿಯನ್ನು ಆರಿಸಲು ನೀವು **Sounds** ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿದ್ದೀರಿ.
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
@@ -41,7 +39,7 @@
 
   --- feedback ---
 
-ಹೌದು. ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನೀವು ಎಲ್ಲಾ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ನೋಡಬಹುದಾದ ಪ್ರದೇಶವಾಗಿದೆ ಇದು, ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಅಳಿಸಿ, ಮತ್ತು ಅವುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಸ್ಪ್ರೈಟ್‌ಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
@@ -49,7 +47,7 @@
 
   --- feedback ---
 
-ಹಿನ್ನೆಲೆ ಆಯ್ಕೆ ಮಾಡಲು ನೀವು Stage ಫಲಕಕ್ಕೆ ಹೋಗಿದ್ದೀರಿ.
+You went to the Stage pane to choose a backdrop.
 
   --- /feedback ---
 
