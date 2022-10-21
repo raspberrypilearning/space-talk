@@ -2,15 +2,11 @@ Helo!
 
 cuddio'r llais ar ôl 2 eiliad
 
-Diolch!
-
 pan fydd Nano yn cael ei glicio
 
 Nano yn siarad
 
-rho gynnig ar 1 yn lle 2
-
-Nano yn gwenu
+try 0.25 instead of 0.5
 
 Hm...
 
@@ -22,14 +18,12 @@ cuddio'r swigen siarad
 
 rhif hyd at 200
 
-chwarae sain, ddim yn aros
+0.5 is half a second
+
+plays sound, doesn't wait
 
 dangos y swigen siarad
 
-llaw i'r geg
+put hand to mouth
 
 gwenu
-
-dangos swigen meddwl
-
-mynd yn ôl i'r lliw arferol
