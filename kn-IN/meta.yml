@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: ಪರಿಚಯ
+    title: You will make
   - 
     title: ನಿಮ್ಮ ದೃಶ್ಯವನ್ನು ಇಲ್ಲಿ ರಚಿಸಿ
   - 
     title: Pico ಹಲೋ ಹೇಳುತ್ತಾನೆ
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico ಧ್ವನಿಯನ್ನು ನುಡಿಸುತ್ತಾನೆ
   - 
     title: Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
   - 
     title: Giga ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
-    completion: internal
+    completion:
+      - internal
   - 
-    title: ಪುನರ್ಮನನ
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
   - 
