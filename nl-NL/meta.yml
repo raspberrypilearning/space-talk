@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Inleiding
+    title: Je gaat maken
   - 
     title: Creëer je scène
   - 
     title: Pico zegt hallo
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico maakt een geluid
   - 
     title: Nano wisselt van uiterlijk
   - 
     title: Giga verandert van kleur
-    completion: internal
+    completion:
+      - internal
   - 
-    title: Reflectie
-    completion: external
+    title: Snelle quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: Verbeter je project
   - 
