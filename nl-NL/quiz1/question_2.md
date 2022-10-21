@@ -4,7 +4,7 @@
 legend: Vraag 2 van 3
 ---
 
-Je liet Pico in een tekstballon "Hallo!" zeggen.
+Je hebt Pico "Hallo!" in een tektsballon laten zeggen door een `zeg`{:class="block3looks"} blok te gebruiken.
 
 ```blocks3
 say [Hello!] for [2] seconds
