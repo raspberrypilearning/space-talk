@@ -11,6 +11,10 @@ Add the **Tera** sprite and use any of the blocks that you have learned about to
 </div>
 </div>
 
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
 The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
 ```blocks3
@@ -26,6 +30,8 @@ think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
+wait (1) seconds // 0.5 is half a second
+
 set [color v] effect to [0] // number up to 200
 
 clear graphic effects
@@ -33,6 +39,8 @@ clear graphic effects
 play sound [pop v] until done
 
 start sound [pop v]
+
+speak [hello]
 ```
 
 You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
