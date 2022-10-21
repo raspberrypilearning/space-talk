@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
   
-You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
 
@@ -13,7 +13,11 @@ You will add code blocks to make Pico emote with words and sound when the sprite
 </div>
 </div>
 
-To use blocks, you can click on them in the Blocks menu.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
+### Use the say block
 
 --- task ---
 
@@ -31,8 +35,6 @@ The **Pico** sprite will show a speech bubble for two seconds.
 
 --- /task ---
 
-You can drag blocks to the Code area, and they can be used from there.
-
 --- task ---
 
 Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
@@ -43,7 +45,7 @@ Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `s
 
 --- /task ---
 
-Blocks can be connected together in the Code area to run more than one at a time. Connected blocks will run in order from top to bottom.
+### Make Pico talk when clicked (or tapped)
 
 --- task ---
 
@@ -60,7 +62,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-A comment is an explanation of what your code does.
+### Code comments
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
@@ -71,10 +73,18 @@ If you have time when you have finished your project, it is a good idea to add c
 
 ![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
 
+### Test
+
 --- task ---
 
 **Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
 
---- save ---
+--- task ---
+
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+
+You can still click save if you like, just to make sure.
+
+--- /task ---
