@@ -39,7 +39,7 @@ Ten kod zmienia kolor duszka i pokazuje bańkę myśli.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
