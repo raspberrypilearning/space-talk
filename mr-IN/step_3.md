@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Sprite ला कोड, कॉश्चुम, आणि साऊंड ते कसे दिसतात आणि ते काय करतात हे बदलण्यासाठी ते असू शकतात. 
   
-sprite क्लिक केल्यावर शब्द आणि साऊंड यांसह Pico emote तयार करण्यासाठी तुम्ही कोड ठोकळे समाविष्ट कराल.
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
 
@@ -13,45 +13,47 @@ sprite क्लिक केल्यावर शब्द आणि साऊ
 </div>
 </div>
 
-ब्लॉक्सचा वापर करण्यासाठी, तुम्ही Blocks मेनूमधील त्यांच्यावर क्लिक करू शकता.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
+### Use the say block
 
 --- task ---
 
-`Looks`{:class="block3looks"} ब्लॉक्स मेनू उघडा.
+Open the `Looks`{:class="block3looks"} blocks menu.
 
-`say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} ब्लॉकवर क्लिक करा.
+Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-!['say Hello! for 2 seconds ब्लॉक पिवळ्या आऊटलाईनसह ग्लो होत आहे.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-**Pico** sprite दोन सेकंदांसाठी स्पीच बबल दाखवेल.
+The **Pico** sprite will show a speech bubble for two seconds.
 
-!["हॅलो सह Pico sprite!" स्पीच बबल मध्ये.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
-**टीप:** Scratch मधील कोड ब्लॉक्स ते रन होत असतांना पिवळ्या आऊटलाईनसह ग्लो होतात.
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
 --- /task ---
 
-तुम्ही Code एरियामध्ये ब्लॉक्स ड्रॅग करू शकता, आणि त्यांचा तेथून वापर केला जाऊ शकतो.
-
 --- task ---
 
-`say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} हा ब्लॉक कोड एरियाला ड्रॅग करा. त्यावर पुन्हा क्लिक करा.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
 
-![Code एरियामध्ये 'say' ब्लॉक ड्रॅग करा आणि तो रन करण्यासाठी त्यावर क्लिक करा.](images/pico-drag-say.gif)
+![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-!['say' ब्लॉक कोड एरियामध्ये ड्रॅग झाला. कोड पिवळ्या आऊटलाईनसह ग्लो होतो.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
 
-एका वेळी एकापेक्षा जास्तवेळा रन होण्यासाठी ब्लॉक्स एकत्रितपणे Code मध्ये कनेक्ट केले जाऊ शकतात. कनेक्ट केलेले ब्लॉक्स वरतून खालपर्यंतच्या क्रमात रन होतील.
+### Make Pico talk when clicked (or tapped)
 
 --- task ---
 
-`Events`{:class="block3events"} ब्लॉक्स मेनूमधून `when this sprite clicked`{:class="block3events"} हा ब्लॉक ड्रॅग करा आणि तो तुमच्या Code एरियामधील `say`{:class="block3looks"} ब्लॉकला कनेक्ट करा. ब्लॉक्स एकत्र स्नॅप होतील.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![ब्लॉक्सचे ऍनिमेशन एकत्रितपणे स्नॅप होत आहे. जेव्हा Pico वर क्लिक केले जाते, ते दोन सेकंदांसाठी " Hello! " म्हणतात.](images/pico-snap-together.gif)
+![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
 
-![Pico sprite.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,21 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-कमेंट म्हणजे तुमचा कोड काय करतो याबद्दलचे स्पष्टीकरण.
+### Code comments
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-तुम्हाला कोड उदाहरणांमध्ये टिप्पण्या दिसतील. तुम्ही तुमच्या प्रोजेक्टमध्ये कोड जोडता तेव्हा तुम्हाला टिप्पण्या जोडण्याची गरज नाही.
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
-तुम्ही तुमचा प्रोजेक्ट पूर्ण केल्यावर तुमच्याकडे वेळ असल्यास, तुमच्या कोडमध्ये कमेंट जोडणे चांगली कल्पना आहे जेणेकरून नंतर समजणे सोपे होईल. कमेंट जोडण्यासाठी, Code एरियातील ब्लॉकवर राईट-क्लिक करा (किंवा टॅबलेटवर, टॅप करा आणि धरून ठेवा) आणि **Add comment**निवडा.
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-![तुम्ही ब्लॉकवर राईट-क्लिक केल्यावर दिसणारा पॉप-अप मेनू. 'Add Comment' निवडले आहे.](images/add-comment.png)
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+
+### Test
 
 --- task ---
 
-**चाचणी:**Stage वरील **Pico** स्प्राइटवर क्लिक करा आणि दोन सेकंदांसाठी स्पीच बबल दिसत आहे का ते तपासा. तुमचा कोड तुमच्या अपेक्षेप्रमाणे कार्य करतो का याची खात्री करण्यासाठी तुमच्या कोडची चाचणी घेणे महत्त्वाचे आहे.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
 
---- save ---
+--- task ---
+
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+
+You can still click save if you like, just to make sure.
+
+--- /task ---
