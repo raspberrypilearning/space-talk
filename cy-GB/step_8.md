@@ -11,7 +11,11 @@ Ychwanega'r corlun **Tera** a defnyddio unrhyw un o'r blociau rwyt ti wedi dysgu
 </div>
 </div>
 
-Dy ddewis di yw personoliaeth y corlun **Tera**, felly beth am gael hwyl wrth ddefnyddio dy syniadau creadigol dy hun.
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
 ```blocks3
 when this sprite clicked
@@ -26,6 +30,8 @@ think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
+wait (1) seconds // 0.5 is half a second
+
 set [color v] effect to [0] // number up to 200
 
 clear graphic effects
@@ -33,18 +39,20 @@ clear graphic effects
 play sound [pop v] until done
 
 start sound [pop v]
+
+speak [hello]
 ```
 
-Galli di hefyd 'ailgymysgu' y prosiect i wneud unrhyw newidiadau hoffet ti. Gelli di newid y gefnlen, emoshluniau'r corluniau, a hyd yn oed dewis corluniau gwahanol a rhoi emoshluniau iddyn nhw.
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Awgrym:** Clicia gorlun yn rhestr y Corluniau sydd o dan y Llwyfan i newid cod, gwisgoedd a sain y corlun hwnnw.
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
 --- collapse ---
 ---
 title: Tystysgrif Sgwrs yn y Sêr
 ---
 
-Da iawn! Rwyt ti wedi cwblhau'r prosiect Sgwrs yn y Sêr. Dyma [dystysgrif](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} i ddathlu dy sgiliau newydd. Llwytha gopi i lawr a'i agor i ychwanegu dy enw.
+Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
 
 --- /collapse ---
 
@@ -53,7 +61,7 @@ Da iawn! Rwyt ti wedi cwblhau'r prosiect Sgwrs yn y Sêr. Dyma [dystysgrif](http
 teitl: Prosiect gorffenedig
 ---
 
-Galli di weld y [prosiect wedi'i gwblhau yma](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
