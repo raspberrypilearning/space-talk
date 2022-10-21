@@ -1,21 +1,19 @@
-## Que faire ensuite?
+## Questionnaire rapide
 
-Bravo, tu as beaucoup appris ! Maintenant, il est temps de réfléchir — la réflexion est une partie importante de l'apprentissage, car elle aide à établir de nouvelles connexions dans votre cerveau.
+Réponds aux trois questions. Il y a des indices pour te guider vers la bonne réponse.
 
-Réponds aux trois questions ci-dessous pour réfléchir à ce que tu as appris.
+Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
-Lorsque tu as répondu à chaque question, tapes sur **Soumettre**. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
-
-Amuse-toi bien!
+Amuse-toi bien !
 
 --- question ---
 ---
 legend : Question 1 sur 3
 ---
 
-Dans ton projet, tu as ajouté un arrière-plan et des personnages de sprite.
+Dans ton projet, tu as ajouté des sprite personnages.
 
-Où vas-tu pour ajouter un sprite à ton projet ?
+Où vas-tu pour **ajouter un sprite** à ton projet ?
 
 ![Une capture d'écran annotée de l'éditeur Scratch complet avec 1 — L'onglet Costumes, 2 – L'onglet Sons, 3 – La liste Sprite et 4 – Le volet Scène en surbrillance.](images/question1.png)
 
