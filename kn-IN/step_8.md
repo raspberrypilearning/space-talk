@@ -11,7 +11,11 @@
 </div>
 </div>
 
-**Tera** ಸ್ಪ್ರೈಟ್‌ನ ವ್ಯಕ್ತಿತ್ವ ನಿಮ್ಮ ಆಯ್ಕೆ, ಆದುದರಿಂದ ನಿಮ್ಮದೇ ರಚನಾತ್ಮಕ ಆಲೋಚನೆಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಆನಂದಿಸಿ.
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
 ```blocks3
 when this sprite clicked
@@ -26,6 +30,8 @@ think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
+wait (1) seconds // 0.5 is half a second
+
 set [color v] effect to [0] // number up to 200
 
 clear graphic effects
@@ -33,18 +39,20 @@ clear graphic effects
 play sound [pop v] until done
 
 start sound [pop v]
+
+speak [hello]
 ```
 
-ನಿಮಗಿಷ್ಟವಾದ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಲು ನೀವು ಪ್ರಾಜೆಕ್ಟ್‌ನ್ನು 'remix' ಮಾಡಬಹುದು. ನೀವು ಹಿನ್ನೆಲೆಯನ್ನು ಮತ್ತು ಸ್ಪ್ರೈಟ್‌ಗಳು ಹೇಗೆ ಅಭಿನಯಿಸುತ್ತವೆ ಎಂಬುವುದನ್ನು ಬದಲಾಯಿಸಬೇಕು ಮತ್ತು ಬೇರೆ ಬೇರೆ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ಸಹ ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡು ಅವುಗಳಿಗೆ ಬೇರೆ ಬೇರೆ ಭಾವನೆಗಳನ್ನು ಕೊಡಿ.
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**ಸಲಹೆ:** ಸ್ಪ್ರೈಟ್‌ಗಳ ಕೋಡ್, ಉಡುಪುಗಳು, ಮತ್ತು ಧ್ವನಿಗಳನ್ನುಬದಲಾಯಿಸಲು Stage ಕೆಳಗಿರುವ Sprite ಲಿಸ್ಟ್‌ನಲ್ಲಿ ಸ್ಪ್ರೈಟ್‌ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
 --- collapse ---
 ---
 ಶೀರ್ಷಿಕೆ: ಬಾಹ್ಯಾಕಾಶ ಮಾತುಕತೆ ಪ್ರಮಾಣಪತ್ರ
 ---
 
-ಭೇಷ್! ನೀವು ಬಾಹ್ಯಾಕಾಶ ಮಾತುಕತೆ ಪ್ರಾಜೆಕ್ಟ್‌ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ. ನಿಮ್ಮ ಹೊಸ ಕೌಶಲ್ಯವನ್ನು ಆಚರಿಸಲು [ಪ್ರಮಾಣಪತ್ರ](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} ಇಲ್ಲಿದೆ. ಪ್ರತಿಯನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಳ್ಳಿ ನಂತರ ನಿಮ್ಮ ಹೆಸರನ್ನು ಸೇರಿಸಲು ತೆರೆಯಿರಿ.
+Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
 
 --- /collapse ---
 
@@ -53,7 +61,7 @@ start sound [pop v]
 title: ಪೂರ್ಣಗೊಂಡ ಪ್ರಾಜೆಕ್ಟ್
 ---
 
-ನೀವು [ಇಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಪ್ರಾಜೆಕ್ಟ್ ನೋಡಬಹುದು](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
