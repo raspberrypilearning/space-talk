@@ -2,15 +2,11 @@ Hallo!
 
 spraak verbergen na 2 seconden
 
-Dank je!
-
 wanneer op Nano wordt geklikt
 
 Nano praat
 
-probeer 1 in plaats van 2
-
-Nano lacht
+probeer 0.25 in plaats van 0.5
 
 Hmm...
 
@@ -22,14 +18,12 @@ tekstballon verbergen
 
 aantal tot 200
 
-geluid afspelen, wacht niet
+0.5 is een halve seconde
+
+speelt geluid af, wacht niet
 
 toont tekstballon
 
-hand naar mond
+hand naar mond brengen
 
 lachend
-
-laat een gedachtenballon zien
-
-terug naar de startkleur
