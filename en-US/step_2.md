@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will set up your project with a space backdrop and the first sprite. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@ In this step, you will set up your project with a space backdrop and the first s
 
 </div>
 </div>
+
+### Open the starter project
 
 --- task ---
 
@@ -19,9 +21,11 @@ Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331
 
 --- /task ---
 
-The Scratch editor looks like this:
+### The Scratch editor
 
 ![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+
+### Add a backdrop
 
 The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
@@ -52,6 +56,8 @@ Click on your chosen backdrop to add it to your project. The Stage should show t
 ![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
 --- /task ---
+
+### Add a Sprite
 
 Can you see the sprite that is already included in your project? That is the Scratch Cat.
 
@@ -91,7 +97,7 @@ Drag the **Pico** sprite to position them on the left-hand side of the Stage. Yo
 
 --- task ---
 
-If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
 
 ![The remix button.](images/remix-button.png)
 
