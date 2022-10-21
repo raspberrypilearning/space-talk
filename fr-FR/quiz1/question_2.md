@@ -4,7 +4,7 @@
 legend : Question 2 sur 3
 ---
 
-Tu as fait dire à Pico "Bonjour !" dans une bulle de dialogue.
+Tu as fait dire à Pico ``{:class="block3looks"} "Bonjour !" dans une bulle.
 
 ```blocks3
 say [Hello!] for [2] seconds
