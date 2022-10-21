@@ -11,47 +11,51 @@
 </div>
 </div>
 
+### Add a sound to the Pico Sprite
+
 --- task ---
 
 **Pico** sprite కోసం **Sounds** ట్యాబ్‌పై క్లిక్ చేయండి మరియు మీరు **pop** సౌండ్‌ను కనుగొంటారు. **pop** సౌండ్ వినడానికి **Play** చిహ్నంపై క్లిక్ చేయండి.
 
 ![Sounds ట్యాబ్‌లో pop sound ప్లే అవుతోంది.](images/pico-sound-play.png)
 
---- /task ---
-
-Scratch లో కొన్ని అద్భుతమైన అన్య ధ్వనులు ఉన్నాయి, వీటిని మీరు మీ sprite కి జోడించవచ్చు.
-
---- task ---
-
-కొత్త ధ్వనిని ఎంచుకోవడానికి, **Choose a Sound** చిహ్నంపై క్లిక్ చేసి, **Space** వర్గాన్ని ఎంచుకోండి లేదా సెర్చ్ బాక్సులో `space` అని టైప్ చేయండి.
-
-!['Choose a Sound' చిహ్నం.](images/sound-button.png)
-
-!['Choose a Sound'తో గల Scratch ఎడిటర్, హైలైట్ చేయబడింది.](images/pico-choose-sound.png)
-
-![Sound లైబ్రరీలో కల 'Space' వర్గం.](images/pico-space-category.png)
+**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
 
 --- /task ---
 
 --- task ---
 
-**Play** చిహ్నాలను ఉపయోగించి కొన్ని విభిన్న ధ్వనులను ప్లే చేయండి. మీరు ఉపయోగించాలనుకుంటున్న ధ్వనిని మీరు కనుగొన్న తర్వాత, దాన్ని మీ ప్రాజెక్ట్‌కి జోడించడానికి దానిపై క్లిక్ చేయండి.
+To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
 
-![Sounds ట్యాబ్‌లోని pop sound క్రింద కల ధ్వని, (Alien Creak1) ఉదాహరణగా చూపబడినది.](images/pico-inserted-sound.png)
+![The 'Choose a Sound' icon.](images/sound-button.png)
+
+![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+
+![The 'Space' category in the Sound Library.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-**Code** ట్యాబ్‌పై క్లిక్ చేయండి. `Sound`{:class="block3sound"} బ్లాక్స్ మెనులో, `start sound`{:class="block3sound"} బ్లాక్‌ని కనుగొనండి.
+Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-కోడ్ ప్రాంతంలో బ్లాక్ ను `when this sprite clicked`{: class = "block3events"} బ్లాక్ మరియు `say`{: class = "block3looks"} బ్లాక్ మధ్యకు డ్రాగ్ చేయండి. గ్యాప్ తెరవబడుతుంది మరియు బ్లాక్ సరైన స్థానంలోనికి స్నాప్ అవుతుంది.
+![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
-![రెండు బ్లాక్‌ల మధ్య 'start sound' బ్లాక్ జోడించబడుతోంది.](images/pico-insert-block.gif)
+--- /task ---
 
-మీ ప్రాజెక్ట్ ఇలా కనిపించాలి:
+### Make the sound play when clicked (or tapped)
 
-![Pico sprite.](images/pico-sprite.png)
+--- task ---
+
+Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+
+Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+
+![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+
+Your code should look like this:
+
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -61,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
+### Test your code
+
 --- task ---
 
-మీ `start sound`{:class="block3sound"} బ్లాక్‌లో మీరు ఎంచుకున్న ధ్వని ఉందో లేదో తనిఖీ చేయండి. అలా లేకపోతే, మీరు `start sound`{:class="block3sound"} బ్లాక్‌లోని sound పై క్లిక్ చేయాలి, ఆపై డ్రాప్-డౌన్ మెనులో మీరు కోరుకున్న ధ్వనిని ఎంచుకోండి.
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-!['start sound' బ్లాక్‌లోని డ్రాప్-డౌన్ మెనులో Alien Creak1 ధ్వని పై క్లిక్ చేయడం.](images/pico-sound-menu.png)
+![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**పరీక్ష:** **Pico** sprite పై క్లిక్ చేసి, స్పీచ్ బబుల్ రెండు సెకన్ల పాటు కనిపిస్తుందో లేదో తనిఖీ చేయండి. మీకు ధ్వని వినిపించకపోతే, `start sound`{:class="block3sound"} బ్లాక్‌ని `when this sprite clicked`{:class="block3events"} బ్లాక్‌ కింద జోడించారని నిర్ధారించుకోండి. అలాగే, మీ కంప్యూటర్ లేదా టాబ్లెట్‌లో ధ్వని పని చేస్తుందో లేదో తనిఖీ చేయండి.
+**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
 
 --- /task ---
-
---- save ---
 
