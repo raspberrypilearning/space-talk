@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-ಈ ಹಂತದಲ್ಲಿ, ನೀವು ಬಾಹ್ಯಾಕಾಶ ಹಿನ್ನೆಲೆ ಮತ್ತು ಮೊದಲನೆಯ ಸ್ಪ್ರೈಟ್‌ನೊಂದಿಗೆ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಣಿಮಾಡುವಿರಿ. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@
 
 </div>
 </div>
+
+### Open the starter project
 
 --- task ---
 
@@ -19,93 +21,97 @@
 
 --- /task ---
 
-Scratch ಎಡಿಟರ್ ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
+### The Scratch editor
 
-![Stage, Stage ಫಲಕ, Sprite ಫಲಕ, Sprite ಪಟ್ಟಿ ಮತ್ತು Code ಕ್ಷೇತ್ರ ಲೇಬಲ್‌ನೊಂದಿಗೆ Scratch ಎಡಿಟರ್‌ನ ಟಿಪ್ಪಣಿ ಮಾಡಿದ ಸ್ಕ್ರೀನ್‌ಶಾಟ್.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-**Stage** ನಲ್ಲಿ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ರನ್‌ ಆಗುತ್ತದೆ. **backdrop** ವೇದಿಕೆಯ ನೋಟವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ.
+### Add a backdrop
+
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
 --- task ---
 
-ಸ್ಟೇಜ್‌ ಫಲಕದಲ್ಲಿ **Choose a Backdrop** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ(ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್‌ನಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ):
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-!['Choose a Backdrop' ಐಕಾನ್.](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![ಕೆಳಗಿನ ಬಲಭಾಗದ ಮೂಲೆಯಲ್ಲಿ ಹೈಲೈಟ್ ಮಾಡಲಾದ 'Choose a Backdrop' ಜೊತೆಗೆ Scratch ಎಡಿಟರ್.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-**Space** ವರ್ಗದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಅಥವಾ ಸರ್ಚ್‌ ಬಾಕ್ಸ್‌ನಲ್ಲಿ `space` ಟೈಪ್‌ ಮಾಡಿ:
+Click on the **Space** category or type `space` in the search box:
 
-![''Space' ವರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ Backdrop Library.](images/space-backdrops.png)
-
---- /task ---
-
-ನಮ್ಮ ಉದಾಹರಣೆಯಲ್ಲಿ, ನಾವು **Space** ಹಿನ್ನೆಲೆ ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದ್ದೇವೆ, ಆದರೆ ನಿಮಗೆ ಯಾವ ಹಿನ್ನೆಲೆ ಅತ್ಯಂತ ಇಷ್ಟವಾಗಿದೆಯೋ ಅದನ್ನು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ.
-
---- task ---
-
-ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು ನೀವು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡ ಹಿನ್ನೆಲೆಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ. ನೀವು ಆಯ್ಕೆಮಾಡಿಕೊಂಡ ಹಿನ್ನೆಲೆಯನ್ನು Stage ತೋರಿಸಬೇಕು:
-
-![Space ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ ಸೇರಿಸಿದ Scratch ಎಡಿಟರ್.](images/inserted-backdrop.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
 --- /task ---
 
-ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ಈಗಾಗಲೇ ಸೇರಿಸಿದ ಸ್ಪ್ರೈಟ್‌ನ್ನು ನೀವು ನೋಡಬಹುದೇ? ಅದು Scratch Cat.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
 --- task ---
 
-**Sprite1** (Scratch Cat) ಸ್ಪ್ರೈಟ್‌ ತೆಗೆದುಹಾಕಿ: Stage ಕೆಳಗಿನ Sprite list ನಲ್ಲಿ **Sprite1** ಸ್ಪ್ರೈಟ್‌ ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು **Delete** ಐಕಾನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-!['Delete' ಐಕಾನ್.](images/delete-sprite.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Add a Sprite
+
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
+
 --- task ---
 
-Sprite ಪಟ್ನಟಿಯಲ್ಲಿ **Choose a Sprite** ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ:
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-!['Choose a Sprite' ಐಕಾನ್.](images/sprite-button.png)
-
-!['Choose a Sprite' ಹೈಲೈಟ್ ಮಾಡಲಾದ Scratch ಎಡಿಟರ್.](images/choose-a-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Fantasy** ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ. ಅವುಗಳನ್ನು ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು **Pico** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
+Click on **Choose a Sprite** in the Sprite list:
 
-![Pico ಸ್ಪ್ರೈಟ್‌ನೊಂದಿಗೆ 'Fantasy'‌ ವರ್ಗ.](images/fantasy-pico.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-ಸ್ಟೇಜ್‌ನ ಎಡಭಾಗದಲ್ಲಿ ಅವುಗಳನ್ನು ಇಡಲು **Pico** ಸ್ಪ್ರೈಟ್‌ನ್ನು ಎಳೆಯಿರಿ. ನಿಮ್ಮ Stage ಈ ರೀತಿ ಕಾಣಬೇಕು:
-
-![ಆಯ್ಕೆ ಮಾಡಿದ ಹಿನ್ನೆಲೆ ಮತ್ತು ಎಡಭಾಗದಲ್ಲಿ ಇಡಲಾದ Pico ಸ್ಪ್ರೈಟ್‌ನೊಂದಿಗೆ Stage.](images/pico-on-stage.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-ನಿಮ್ಮScratch ಖಾತೆಗೆ ನೀವು ಸೈನ್ ಇನ್ ಆಗಿದ್ದರೆ, ಹಸಿರು Remix ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ಇದು ಪ್ರಾಜೆಕ್ಟ್‌ನ ನಕಲನ್ನು ನಿಮ್ಮ Scratch ಖಾತೆಗೆ ಉಳಿಸುತ್ತದೆ(ಸೇವ್‌ ಮಾಡುತ್ತದೆ).
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![Remix ಬಟನ್.](images/remix-button.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
-ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಪ್ರಾಜೆಕ್ಟ್ ಹೆಸರಿನ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನ ಹೆಸರನ್ನು ಟೈಪ್ ಮಾಡಿ.
+--- /task ---
 
-![ಪ್ರಾಜೆಕ್ಟ್‌ ಹೆಸರಿನ ಬಾಕ್ಸ್.](images/project-name.png)
+--- task ---
 
-**ಸಲಹೆ:** ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳಿಗೆ ಸಹಾಯಕವಾಗುವ ಹೆಸರುಗಳನ್ನು ನೀಡಿ ಇದರಿಂದ ನೀವು ಸಾಕಷ್ಟು ಯೋಜನೆಗಳನ್ನು ಹೊಂದಿರುವಾಗ ಅವುಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಬಹುದು.
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-ನಂತರ, ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಸೇವ್ ಮಾಡಲು ನೀವು **File** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ತದನಂತರ **Save now** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
-!['File' ಮೆನು ಆಯ್ಕೆಗಳು.](images/file-menu.png)
+--- /task ---
 
-ನೀವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿಲ್ಲದಿದ್ದರೆ ಅಥವಾ ನಿಮ್ಮಲ್ಲಿ ಸ್ಕ್ರಾಚ್ ಖಾತೆಯಿಲ್ಲದಿದ್ದರೆ, ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಪ್ರತಿಯನ್ನು ಉಳಿಸಲು(ಸೇವ್ ಮಾಡಲು) **Save to your computer** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಬಹುದು.
+--- task ---
+
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+
+![The remix button.](images/remix-button.png)
+
+Type the name of your project in the project name box at the top of the screen.
+
+![The project name box.](images/project-name.png)
+
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+
+Next, click on **File**, and then on **Save now** to save your project.
+
+![The 'File' menu options.](images/file-menu.png)
+
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 --- /task ---
 
