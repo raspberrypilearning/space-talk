@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introdução
+    title: You will make
   - 
     title: Crie sua cena
   - 
     title: Pico diz olá
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico toca um som
   - 
     title: Nano troca de fantasias
   - 
     title: Giga muda de cor
-    completion: internal
+    completion:
+      - internal
   - 
-    title: Reflexão
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: Melhore o seu projeto
   - 
