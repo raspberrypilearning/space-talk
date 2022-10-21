@@ -39,7 +39,7 @@ Este código cambia el color del objeto y muestra una burbuja de pensamiento.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
