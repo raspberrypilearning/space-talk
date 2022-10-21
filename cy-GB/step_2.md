@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Yn y cam hwn, byddi di'n gosod dy brosiect gyda chefnlen gofod a'r corlun cyntaf. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@ Yn y cam hwn, byddi di'n gosod dy brosiect gyda chefnlen gofod a'r corlun cyntaf
 
 </div>
 </div>
+
+### Open the starter project
 
 --- task ---
 
@@ -19,93 +21,97 @@ Agora'r [prosiect Sgwrs yn y Sêr](https://scratch.mit.edu/projects/582213331/ed
 
 --- /task ---
 
-Mae golygydd Scratch yn edrych fel hyn:
+### The Scratch editor
 
-![Sgrinlun o'r golygydd Scratch gyda nodiadau a labeli yn dangos y Llwyfan, Cwarel y Llwyfan, Cwarel y Corlun, Rhestr y Corluniau, ac Ardal y Cod.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-Mae dy brosiect yn rhedeg ar y **Llwyfan**. Mae **Cefnlen** yn newid y ffordd mae'r Llwyfan yn edrych.
+### Add a backdrop
+
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
 --- task ---
 
-Clicia (neu daro ar dabled) **Dewiswch Gefnlen** yn y cwarel Llwyfan:
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-![Eicon 'Dewiswch Gefnlen'.](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![Golygydd Scratch gyda 'Dewiswch Gefnlen' wedi'i amlygu ar gornel dde waelod y sgrin.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Clicia ar y categori **Space** neu deipio `space` yn y blwch chwilio:
+Click on the **Space** category or type `space` in the search box:
 
-![Y Llyfrgell Cefnlenni gyda'r categori "Gofod" wedi'i ddewis.](images/space-backdrops.png)
-
---- /task ---
-
-Yn ein henghraifft ni, rydyn ni wedi dewis y gefnlen **Space**, ond dewisa di'r gefnlen sydd orau gen ti.
-
---- task ---
-
-Clicia ar y gefnlen rwyt ti am ei hychwanegu at dy brosiect. Dylai'r gefnlen y gwnes ti ei dewis ymddangos ar y Llwyfan:
-
-![Y golygydd Scratch gyda'r gefnlen Gofod wedi'i hychwanegu.](images/inserted-backdrop.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
 --- /task ---
 
-Wyt ti'n gallu gweld y corlun sydd eisoes wedi'i gynnwys yn dy brosiect? Scratch Cat ydy hon.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
 --- task ---
 
-Dylet ti ddileu'r corlun **Corlun1** (sef Scratch Cat): dewis y corlun **Corlun1** yn y rhestr o gorluniau sydd o dan y Llwyfan a chlicio ar yr eicon **Dileu**.
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-![Eicon 'Dileu'.](images/delete-sprite.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Add a Sprite
+
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
+
 --- task ---
 
-Clicia ar **Dewiswch Gorlun** yn y rhestr Corluniau:
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-![Eicon "Dewiswch Gorlun".](images/sprite-button.png)
-
-![Y golygydd Scratch gyda 'Dewiswch Gorlun' wedi'i amlygu.](images/choose-a-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Dewisa'r categori **Ffantasi**. Clicia'r corlun **Pico** i'w ychwanegu at dy brosiect.
+Click on **Choose a Sprite** in the Sprite list:
 
-![Y categori 'Ffantasi' gyda'r corlun Pico.](images/fantasy-pico.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Llusga'r corlun **Pico** i'w leoli ar ochr chwith y Llwyfan. Dylai dy Lwyfan edrych yn debyg i hyn:
-
-![Y Llwyfan gyda'r gefnlen a ddewiswyd a'r corlun Pico wedi'i leoli ar yr ochr chwith.](images/pico-on-stage.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Os wyt ti wedi mewngofnodi i dy gyfrif Scratch, clicia'r botwm Ailgymysgu gwyrdd. Bydd hyn yn cadw copi o'r prosiect i dy gyfrif Scratch.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![Y botwm ailgymysgu.](images/remix-button.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
-Teipia enw dy brosiect yn y blwch enw prosiect ar frig y sgrin.
+--- /task ---
 
-![Y blwch enw prosiect.](images/project-name.png)
+--- task ---
 
-**Awgrym:** Rho enwau defnyddiol i dy brosiectau fel bod modd dod o hyd iddyn nhw'n hawdd pan fydd gen ti lawer o brosiectau.
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-Nesaf, clicia **Ffeil**, ac wedyn **Cadw nawr** i gadw dy brosiect.
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
-![Dewisiadau'r ddewislen 'Ffeil'.](images/file-menu.png)
+--- /task ---
 
-Os nad wyt ti ar-lein neu os nad oes gen ti gyfrif Scratch, gelli di glicio **Cadw i'ch cyfrifiadur** i gadw copi o dy brosiect.
+--- task ---
+
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+
+![The remix button.](images/remix-button.png)
+
+Type the name of your project in the project name box at the top of the screen.
+
+![The project name box.](images/project-name.png)
+
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+
+Next, click on **File**, and then on **Save now** to save your project.
+
+![The 'File' menu options.](images/file-menu.png)
+
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 --- /task ---
 
