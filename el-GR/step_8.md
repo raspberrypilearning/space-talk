@@ -11,7 +11,11 @@
 </div>
 </div>
 
-Η προσωπικότητα του αντικειμένου **Tera** είναι δική σου επιλογή, οπότε διασκέδασε χρησιμοποιώντας τις δικές σου δημιουργικές ιδέες.
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
 ```blocks3
 when this sprite clicked
@@ -26,6 +30,8 @@ think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
+wait (1) seconds // 0.5 is half a second
+
 set [color v] effect to [0] // number up to 200
 
 clear graphic effects
@@ -33,18 +39,20 @@ clear graphic effects
 play sound [pop v] until done
 
 start sound [pop v]
+
+speak [hello]
 ```
 
-Μπορείς επίσης να «αναμίξεις» το έργο για να κάνεις όποιες αλλαγές σου αρέσουν. Θα μπορούσες να αλλάξεις το υπόβαθρο και το πώς εκφράζονται τα αντικείμενα, ακόμη και να επιλέξεις διαφορετικά αντικείμενα και να τους δώσεις εκφράσεις.
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Συμβουλή:** Κάνε κλικ σε ένα αντικείμενο στη λίστα των Αντικειμένων κάτω από το Σκηνή για να αλλάξεις τον κώδικα, τις ενδυμασίες και τον ήχο για αυτό το αντικείμενο.
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
 --- collapse ---
 ---
 title: Πιστοποιητικό ομιλίας στο διάστημα
 ---
 
-Πολύ καλά! Ολοκλήρωσες το έργο Ομιλία στο διάστημα. Εδώ είναι [ένα πιστοποιητικό](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} για να γιορτάσεις τις νέες σου δεξιότητες. Κατέβασε ένα αντίγραφο και άνοιξέ το για να προσθέσεις το όνομά σου.
+Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
 
 --- /collapse ---
 
@@ -53,7 +61,7 @@ title: Πιστοποιητικό ομιλίας στο διάστημα
 title: Ολοκληρωμένο έργο
 ---
 
-Μπορείς να δεις [ολοκληρωμένο το έργο εδώ](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
