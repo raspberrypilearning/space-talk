@@ -1,25 +1,21 @@
-## Introducción
+## You will make
 
-En este proyecto, crearás una escena espacial con personajes que se 'emocionan' para compartir sus pensamientos o sentimientos.
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> son una forma de mostrar la personalidad de un personaje en un juego. Pueden usar el habla, los sonidos, el movimiento y los efectos gráficos, al igual que en Scratch. ¿Juegas a algún juego que use emotes?
-</p>
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-En Scratch, los personajes y cosas se llaman **objetos** y aparecen en el **Escenario**.
-
-Vas a:
+You will:
 + Agregar objetos y un ** fondo** para configurar tu proyecto
 + Haz clic en los objetos para que se comuniquen usando `Apariencia`{:class="block3looks"} y `Sonido`{:class="block3sound"}
 + Usa el **editor de dibujo** para cambiar un **disfraz**
 
 --- no-print --- --- task ---
-### Pruébalo
+### Play ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Haz clic en cada objeto para ver qué hacen. 
+Click on each sprite to see what they do. 
 
-¿Qué sucede si haces clic en un objeto y luego rápidamente haces clic en otro objeto?
+What happens if you click on one sprite and then quickly click on another sprite?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +25,7 @@ Haz clic en cada objeto para ver qué hacen.
 
 --- print-only ---
 
-![El proyecto terminado.](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
 --- /print-only ---
 
