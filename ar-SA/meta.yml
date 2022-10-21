@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: المقدمة
+    title: You will make
   - 
     title: اصنع مشهدك
   - 
     title: Pico يقول مرحبًا
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico يشغل صوت
   - 
     title: Nano يبدل المظاهر
   - 
     title: Giga يغير اللون
-    completion: internal
+    completion:
+      - internal
   - 
-    title: تفكير
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: قم بترقية مشروعك
   - 
