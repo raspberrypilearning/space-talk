@@ -11,6 +11,8 @@ Atores também podem usar balões de pensamento e mudar as cores para mostrar su
 </div>
 </div>
 
+### Make Giga change colour
+
 --- task ---
 
 Adicione o ator **Giga**.
@@ -54,4 +56,3 @@ Altere as palavras e o número de segundos no bloco `pense`{:class="block3looks"
 
 --- /task ---
 
---- save ---
