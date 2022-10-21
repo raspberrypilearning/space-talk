@@ -11,6 +11,8 @@
 </div>
 </div>
 
+### Make Giga change colour
+
 --- task ---
 
 **Giga** ಸ್ಪ್ರೈಟ್‌ ಸೇರಿಸಿ.
@@ -54,4 +56,3 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
---- save ---
