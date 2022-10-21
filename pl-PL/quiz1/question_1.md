@@ -1,23 +1,21 @@
-## Powtórka
+## Quick quiz
 
-Dobra robota, dużo materiału już za Tobą! Teraz nadszedł czas na sprawdzenie swojej wiedzy — powtarzanie jest ważną częścią uczenia się, ponieważ pomaga tworzyć nowe połączenia w mózgu.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Odpowiedz na trzy poniższe pytania, aby przypomnieć sobie to, czego się nauczyłeś.
+When you have answered each question, click on **Check my answer**.
 
-Po udzieleniu odpowiedzi na każde pytanie kliknij **Prześlij**. Zostaniesz poprowadzony w kierunku prawidłowej odpowiedzi. Możesz powtarzać to ćwiczenie wielokrotnie.
-
-Miłej zabawy!
+Have fun!
 
 --- question ---
 ---
 legend: Pytanie 1 z 3
 ---
 
-W swoim projekcie dodałeś tło i kilka postaci duszków.
+In your project, you added some sprite characters.
 
-Gdzie się skierujesz, aby dodać duszka do projektu?
+Where do you go to **add a sprite** to your project?
 
-![Zrzut ekranu pełnego edytora Scratch z adnotacjami: 1 — zakładka Kostiumy, 2 — zakładka Dźwięki, 3 — lista duszków i 4 — podświetlony panel Scena.](images/question1.png)
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@ Gdzie się skierujesz, aby dodać duszka do projektu?
 
   --- feedback ---
 
-Przeszedłeś do zakładki **Kostiumy**, aby edytować kostium dla swojego duszka.
+You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@ Przeszedłeś do zakładki **Kostiumy**, aby edytować kostium dla swojego duszk
 
   --- feedback ---
 
-Przeszedłeś do zakładki **Dźwięki**, aby wybrać nowy dźwięk dla swojego duszka.
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
@@ -41,7 +39,7 @@ Przeszedłeś do zakładki **Dźwięki**, aby wybrać nowy dźwięk dla swojego 
 
   --- feedback ---
 
-Tak. To jest obszar, w którym możesz zobaczyć wszystkie duszki w projekcie, dodawać i usuwać duszki oraz klikać na duszki, aby je zaznaczyć.
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
@@ -49,7 +47,7 @@ Tak. To jest obszar, w którym możesz zobaczyć wszystkie duszki w projekcie, d
 
   --- feedback ---
 
-Przeszedłeś do okna Scena, aby wybrać tło.
+You went to the Stage pane to choose a backdrop.
 
   --- /feedback ---
 
