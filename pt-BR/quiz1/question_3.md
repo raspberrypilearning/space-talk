@@ -39,7 +39,7 @@ Este código muda a cor do sprite e mostra um balão de pensamento.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
