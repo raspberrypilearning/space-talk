@@ -1,23 +1,21 @@
-## Закрепление знаний
+## Quick quiz
 
-Молодец, ты многому научился! А теперь пора закрепить знания: закрепление знаний - важная часть обучения, потому что оно помогает установить новые связи в твоём мозге.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Ответь на три вопроса ниже, чтобы закрепить те знания, которые ты узнал.
+When you have answered each question, click on **Check my answer**.
 
-Когда ты ответишь на каждый вопрос, нажми **Отправить**. Тебя перенаправят к правильному ответу. Ты можешь выполнять это задание столько раз, сколько захочешь.
-
-Повеселись!
+Have fun!
 
 --- question ---
 ---
 legend: Вопрос 1 из 3
 ---
 
-В свой проект ты добавил фон и несколько персонажей-спрайтов.
+In your project, you added some sprite characters.
 
-Куда надо нажать, чтобы добавить спрайт в свой проект?
+Where do you go to **add a sprite** to your project?
 
-![Аннотированный снимок экрана редактора Scratch с 1 - вкладкой «Костюмы», 2 - вкладкой «Звуки», 3 - списком спрайтов и 4 - выделенной областью «Сцена».](images/question1.png)
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@ legend: Вопрос 1 из 3
 
   --- feedback ---
 
-Ты перешёл на вкладку **Костюмы**, чтобы отредактировать костюм для своего спрайта.
+You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@ legend: Вопрос 1 из 3
 
   --- feedback ---
 
-Ты перешёл на вкладку **Звуки**, чтобы выбрать новый звук для своего спрайта.
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
@@ -41,7 +39,7 @@ legend: Вопрос 1 из 3
 
   --- feedback ---
 
-Да. Это область, где ты можешь видеть все спрайты в проекте, добавлять и удалять спрайты, а также щёлкать на спрайты, чтобы выбрать их.
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
@@ -49,7 +47,7 @@ legend: Вопрос 1 из 3
 
   --- feedback ---
 
-Ты перешёл на панель «Сцена», чтобы выбрать фон.
+You went to the Stage pane to choose a backdrop.
 
   --- /feedback ---
 
