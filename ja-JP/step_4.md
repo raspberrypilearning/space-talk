@@ -11,47 +11,51 @@
 </div>
 </div>
 
+### Add a sound to the Pico Sprite
+
 --- task ---
 
 **Pico**スプライトで**音**タブをクリックすると、**pop**音声が見つかります。 **再生**アイコンをクリックして**pop**音声を聞きます。
 
 ![「音」タブでpop音声を再生します。](images/pico-sound-play.png)
 
---- /task ---
-
-Scratchでは、スプライトに素晴らしいエイリアンサウンドを追加できます。
-
---- task ---
-
-新しい音を選択するには、**音を選ぶ**アイコンをクリックし、**宇宙**カテゴリを選択するか、検索ボックスに`space`と入力します。
-
-![「音を選ぶ」アイコン。](images/sound-button.png)
-
-![「音を選択」がハイライトされたScratchエディタ。](images/pico-choose-sound.png)
-
-![サウンドライブラリの「宇宙」カテゴリ。](images/pico-space-category.png)
+**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
 
 --- /task ---
 
 --- task ---
 
-**再生**アイコンを使用して、いくつかの音声を聞いてみましょう。 使いたい音声が見つかったら、それをクリックしてプロジェクトに追加します。
+To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
 
-![「音」タブでpop音声の下にサンプル音 (Alien Creak1) が表示されている。](images/pico-inserted-sound.png)
+![The 'Choose a Sound' icon.](images/sound-button.png)
+
+![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+
+![The 'Space' category in the Sound Library.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-**コード**タブをクリックします。 `音`{:class="block3sound"} ブロックメニューで、`... の音を鳴らす`{:class="block3sound"} ブロックを見つけます。
+Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-ブロックを、`このスプライトが押されたとき`{:class="block3events"}ブロックと`言う`{:class="block3looks"}ブロックの間にドラッグします。 すき間が開き、ブロックが中にはまります。
+![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
-![「音を鳴らす」ブロックが2つのブロックの間に追加される様子。](images/pico-insert-block.gif)
+--- /task ---
 
-コードは次のようになります。
+### Make the sound play when clicked (or tapped)
 
-![Pico スプライト。](images/pico-sprite.png)
+--- task ---
+
+Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+
+Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+
+![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+
+Your code should look like this:
+
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -61,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
+### Test your code
+
 --- task ---
 
-`音を鳴らす`{:class="block3sound"}ブロックに、指定した音が含まれていることを確認します。 含まれていない場合、`音を鳴らす`{:class="block3sound"}ブロックで音をクリックし、ドロップダウンメニューから、選択した音を選択する必要があります。
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-![「音を鳴らす」ブロック内で、ドロップダウンメニューからAlien Creak1音声をクリックする。](images/pico-sound-menu.png)
+![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**テスト:** **Pico**スプライトをクリックし、ふきだしが表示され、音が聞こえることを確認します。 音が聞こえない場合、`このスプライトが押されたとき`{:class="block3events"}ブロックの下に`音を鳴らす`{:class="block3sound"}ブロックが追加されていることを確認します。 また、使用しているコンピューターまたはタブレットで音声が有効になっていることを確認します。
+**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
 
 --- /task ---
-
---- save ---
 
