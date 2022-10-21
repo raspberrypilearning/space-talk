@@ -1,23 +1,21 @@
-## सोचिए
+## Quick quiz
 
-बहुत बढ़िया, आपने बहुत कुछ सीखा! अब, अब विचार करने का समय है - विचार करना सीखने का एक महत्वपूर्ण हिस्सा है, क्योंकि यह आपके दिमाग को तेज़ करता है।
+Answer the three questions. There are hints to guide you to the correct answer.
 
-आपने जो सीखा है उस पर चिंतन करने के लिए नीचे दिए गए तीन प्रश्नों के उत्तर दें।
+When you have answered each question, click on **Check my answer**.
 
-जब आपने प्रत्येक प्रश्न का उत्तर दे दिया है, तो **Submit** पर क्लिक करें। यह आपको सही उत्तर की तरफ लेकर जाएगा। आप इस गतिविधि को जितनी बार चाहें उतनी बार कर सकते हैं।
-
-मजे करें!
+Have fun!
 
 --- question ---
 ---
 legend: पहला प्रश्न
 ---
 
-अपने प्रोजेक्ट में, आपने एक बैकड्रॉप और कुछ स्प्राइट के चित्र डालें हैं।
+In your project, you added some sprite characters.
 
-आप अपने प्रोजेक्ट में स्प्राइट को शामिल करने के लिए कहां जाते हैं?
+Where do you go to **add a sprite** to your project?
 
-![पूरे Scratch एडिटर का एक एनोटेट स्क्रीनशॉट जिसमें - 1 द Costumes टैब, 2 -द Sounds टैब, 3 - द Sprite list, और 4 - द Stage Pane हाइलाइट किया गया हो।](images/question1.png)
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@ legend: पहला प्रश्न
 
   --- feedback ---
 
-अपने स्प्राइट का कास्ट्यूम बदलने के लिए आप **Costumes** टैब पर गए।
+You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@ legend: पहला प्रश्न
 
   --- feedback ---
 
-आप अपने स्प्राइट के लिए एक नई आवाज़ चुनने के लिए **Sounds** टैब पर गए।
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
@@ -41,7 +39,7 @@ legend: पहला प्रश्न
 
   --- feedback ---
 
-हाँ! यह वह जगह है जहां आप प्रोजेक्ट के सभी स्प्राइट्स देख सकते हैं, स्प्राइट्स डाल और हटा सकते हैं, और उन्हें चुनने के लिए स्प्राइट्स पर क्लिक कर सकते हैं।
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
@@ -49,7 +47,7 @@ legend: पहला प्रश्न
 
   --- feedback ---
 
-आप एक बैकड्रॉप चुनने के लिए Stage पेन पर गए थे।
+You went to the Stage pane to choose a backdrop.
 
   --- /feedback ---
 
