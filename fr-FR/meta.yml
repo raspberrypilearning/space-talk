@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introduction
+    title: Ce que tu feras
   - 
     title: Créer ta scène
   - 
     title: Pico dit bonjour
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico joue un son
   - 
     title: Nano change de costume
   - 
     title: Giga change de couleur
-    completion: internal
+    completion:
+      - internal
   - 
-    title: Réaction
-    completion: external
+    title: Questionnaire rapide
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: Améliorer ton projet
   - 
