@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Спрайт может иметь код, костюмы и звуки, которые изменяют его внешний вид и действия. 
   
-Ты добавишь блоки кода, чтобы Pico выражал эмоцию словами и звуком при нажатии на спрайт.
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
 
@@ -13,45 +13,47 @@
 </div>
 </div>
 
-Чтобы использовать блоки, ты можешь щёлкнуть по ним в меню «Блоки».
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
+### Use the say block
 
 --- task ---
 
-Открой меню блоков `Внешний вид`{:class="block3looks"}.
+Open the `Looks`{:class="block3looks"} blocks menu.
 
-Нажми блок `говорить`{:class="block3looks"} `Привет!` `2` `секунд`{:class="block3looks"}.
+Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-![Блок "говорить Привет! в течение 2 секунд" светится жёлтым контуром.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-**Pico** покажет диалоговое окно в течение двух секунд.
+The **Pico** sprite will show a speech bubble for two seconds.
 
-![Спрайт Pico с "Привет!" в диалоговом окне.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
-**Совет:** Блоки кода в Scratch светятся жёлтым контуром, когда они работают.
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
 --- /task ---
 
-Ты можешь перетаскивать блоки в Область кода, и их можно использовать оттуда.
-
 --- task ---
 
-Перетащи блок `говорить`{:class="block3looks"} `Привет!` `2` `секунд`{:class="block3looks"} в Область кода. Щёлкни по нему ещё раз.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
 
-![Перетащи блок «говорить» в Область кода и щёлкни его, чтобы запустить.](images/pico-drag-say.gif)
+![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-![Блок «говорить» был перетащен в Область кода. Блок кода светится жёлтым контуром.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
 
-Блоки могут быть соединены вместе в Области кода для одновременного запуска более чем один раз. Соединённые блоки будут работать в порядке сверху вниз.
+### Make Pico talk when clicked (or tapped)
 
 --- task ---
 
-Перетащи блок `когда спрайт нажат`{:class="block3events"} из меню блоков `События`{:class="block3events"} и соедини его к верхней части твоего блока `говорить`{:class="block3looks"} в Области кода. Блоки соединятся.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![Анимация соединения блоков. При нажатии на Pico он говорят: "Привет!" в течение двух секунд.](images/pico-snap-together.gif)
+![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
 
-![Спрайт Pico.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,21 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-Комментарий - это объяснение того, что делает твой код.
+### Code comments
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-Ты увидишь комментарии в примерах кода. Тебе не нужно добавлять комментарии при добавлении кода в свой проект.
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
-Если у тебя есть время, когда ты закончил свой проект, рекомендуется добавить комментарии к своему коду, чтобы его было легче понять позже. Чтобы добавить комментарий, щелкни правой кнопкой мыши (или на планшете нажми и удерживай) блок в Области кода и выбери **Добавить комментарий**.
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-![Всплывающее меню, которое появляется при щелчке правой кнопкой мыши по блоку. Выбрано «Добавить комментарий».](images/add-comment.png)
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+
+### Test
 
 --- task ---
 
-**Тест:** Нажми на **Pico** на Сцене и убедись, что диалоговое окно появляется на две секунды. Важно протестировать свой код, чтобы убедиться, что он делает то, что ты ожидаешь.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
 
---- save ---
+--- task ---
+
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+
+You can still click save if you like, just to make sure.
+
+--- /task ---
