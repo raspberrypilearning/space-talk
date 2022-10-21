@@ -1,23 +1,21 @@
-## تفكير
+## Quick quiz
 
-أحسنت ، لقد تعلمت الكثير! الآن ، حان وقت التفكير - التفكير جزء مهم من التعلم ، لأنه يساعد في إنشاء روابط جديدة في عقلك.
+Answer the three questions. There are hints to guide you to the correct answer.
 
-أجب عن الأسئلة الثلاثة أدناه لتفكر فيما تعلمته.
+When you have answered each question, click on **Check my answer**.
 
-عندما تجيب على كل سؤال ، انقر فوق **إرسال**. سيتم توجيهك نحو الإجابة الصحيحة. يمكنك القيام بهذا النشاط عدة مرات كما تريد.
-
-إستمتع!
+Have fun!
 
 --- question ---
 ---
 legend: السؤال ١ الى ٣
 ---
 
-لقد أضفت في مشروعك خلفية وبعض الكائنات.
+In your project, you added some sprite characters.
 
-إلى أين تذهب لإضافة كائن إلى مشروعك؟
+Where do you go to **add a sprite** to your project?
 
-![لقطة شاشة مشروحة لمحرر Scratch الكامل مع 1 - علامة تبويب المظاهر ، 2 - علامة تبويب الأصوات ، 3 - قائمة الكائنات ، و 4 - تم تمييز جزء المنصة.](images/question1.png)
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@ legend: السؤال ١ الى ٣
 
   --- feedback ---
 
-لقد ذهبت إلى **المظاهر** لتعديل زي الكائن الخاص بك.
+You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@ legend: السؤال ١ الى ٣
 
   --- feedback ---
 
-لقد ذهبت إلى علامة التبويب **الصوت** لاختيار صوت جديد للكائن الخاص بك.
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- /feedback ---
 
@@ -41,7 +39,7 @@ legend: السؤال ١ الى ٣
 
   --- feedback ---
 
-نعم. هذه هي المنطقة التي يمكنك من خلالها مشاهدة جميع الكائنات في المشروع وإضافة وحذف الكائنات والنقر على الكائنات لتحديدها.
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
@@ -49,7 +47,7 @@ legend: السؤال ١ الى ٣
 
   --- feedback ---
 
-لقد ذهبت إلى جزء المنصة لاختيار خلفية.
+You went to the Stage pane to choose a backdrop.
 
   --- /feedback ---
 
