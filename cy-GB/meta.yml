@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Cyflwyniad
+    title: You will make
   - 
     title: Creu eich golygfa
   - 
     title: Pico yn dweud helo
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico yn chwarae sain
   - 
     title: Nano yn newid gwisgoedd
   - 
     title: Giga yn newid lliw
-    completion: internal
+    completion:
+      - internal
   - 
-    title: Myfyrio
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: Uwchraddio dy brosiect
   - 
