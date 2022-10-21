@@ -2,15 +2,11 @@
 
 2秒後にセリフを隠す
 
-ありがとう！
-
 Nanoがクリックされたとき
 
 Nanoが話す
 
-2の代わりに1を試してみましょう
-
-Nanoが笑う
+try 0.25 instead of 0.5
 
 うーん...
 
@@ -22,14 +18,12 @@ Nanoが笑う
 
 200までの数
 
-play sound, doesn't wait
+0.5 is half a second
+
+plays sound, doesn't wait
 
 shows speech bubble
 
-hand to mouth
+put hand to mouth
 
 smiling
-
-shows a thought bubble
-
-goes back to normal colour
