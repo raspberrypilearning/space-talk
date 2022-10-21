@@ -1,11 +1,11 @@
-## Nano ने बदला कोस्टयूम
+## Nano switches costume
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-**कॉस्टयूम** को बदलकर आप Nano से भाव व्यक्त करवाएंगे।
+Get Nano to emote by switching **costumes**.
 
-स्प्राइट्स के पास **कॉस्टयूम** होते हैं जो उनके दिखने के तरीके को बदल देते हैं। एक स्प्राइट को एनिमेट करने के लिए, आप उसका कॉस्टयूम बदल सकते हैं।
+स्प्राइट्स के पास **कॉस्टयूम** होते हैं जो उनके दिखने के तरीके को बदल देते हैं। To animate a sprite, you can change its costume.
 
 </div>
 <div>
@@ -15,7 +15,7 @@
 </div>
 </div>
 
-### Nano बोले "Thanks"!
+### Nano signs "Thanks!"
 
 --- task ---
 
@@ -32,30 +32,32 @@
 ![Sprite लिस्ट, जिसमे nano स्प्राइट के चारों ओर नीले रंग की आउटलाइन यह दर्शाती है कि Nano का चयन किया गया है।](images/nano-selected.png)
 
 
-**Code** टैब पर क्लिक करें और **Nano** स्प्राइट से `Thanks!` `Say`{:class="block3looks"} के लिए एक स्क्रिप्ट जोड़ें:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
 
 ![Nano स्प्राइट।](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
-say [Thanks!] for [2] seconds // try 1 instead of 2
+wait (0.5) seconds // try 0.25 instead of 0.5
 switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**टिप:** सभी ब्लॉक कलर-कोडेड हैं, इसलिए आपको `switch costume to`{:class="block3looks"} ब्लॉक `Looks`{:class="block3looks"} ब्लॉक मेन्यू में मिलेगा।
+**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Looks`{:class="block3control"} blocks menu.
 
 --- task ---
 
-**परीक्षण:** Stage पर **Nano** स्प्राइट पर क्लिक करें और जांचें कि स्पीच बबल दिखाई देता है और Nano का कास्ट्यूम बदल जाता है।
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
 
 --- /task ---
 
 ### Nano साइन भाषा (संकेत भाषा) का उपयोग करता है
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">लाखों लोग बातचीत करने के लिए साइन भाषा का उपयोग करते हैं। 'थैंक यू (धन्यवाद)' के लिए एक सामान्य साइन है **अपना दाहिना हाथ अपने मुंह तक लाना**। 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">लाखों लोग बातचीत करने के लिए साइन भाषा का उपयोग करते हैं। A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
 </p>
+
+<!-- Add a video of someone signing -->
 
 Nano कास्ट्यूम बदलकर साइन भाषा का प्रयोग करेगा।
 
@@ -110,4 +112,3 @@ Nano कास्ट्यूम बदलकर साइन भाषा क�
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">आपने "thank you" इशारा करना सीख लिया है। अगली बार जब आप किसी को धन्यवाद दें, तो क्यों न अपने नए कौशल का उपयोग करें?
 </p>
 
---- save ---
