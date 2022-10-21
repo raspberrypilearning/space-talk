@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 ఒక sprite, అది కనిపించే విధానాన్ని మరియు అది చేసే విధానాన్ని మార్చగలిగేలా, కోడ్, costumes, ధ్వనులను కలిగి ఉంటుంది,. 
   
-Sprite ని క్లిక్ చేసినప్పుడు పదాలు మరియు ధ్వనిని ఉపయోగించి, Picoను ఎమోట్ చేయడానికి మీరు కోడ్ బ్లాక్‌లను జోడిస్తారు.
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
 
@@ -13,45 +13,47 @@ Sprite ని క్లిక్ చేసినప్పుడు పదాల�
 </div>
 </div>
 
-బ్లాక్‌లను ఉపయోగించడానికి, మీరు బ్లాక్‌ల మెనులో ఆయా వాటిపై క్లిక్ చేయవచ్చు.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
+### Use the say block
 
 --- task ---
 
-`Looks`{:class="block3looks"} బ్లాక్స్ మెనుని తెరవండి.
+Open the `Looks`{:class="block3looks"} blocks menu.
 
-`say`{:class="block3looks"} `hello!``for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} బ్లాక్ పై క్లిక్ చేయండి.
+Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-!['హలో చెప్పండి! పసుపు రంగు ఔట్ లైన్ తో 2 సెకన్ల పాటు బ్లాక్ మెరుస్తూ ఉంటుంది.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-**Pico** sprite రెండు సెకన్ల పాటు స్పీచ్ బబుల్‌ను చూపుతుంది.
+The **Pico** sprite will show a speech bubble for two seconds.
 
-![స్పీచ్ బబుల్ లో "Hello!" తో Pico sprite.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
-**చిట్కా:** Scratch లోని కోడ్ బ్లాక్‌లు రన్ అవుతున్నప్పుడు పసుపు రంగు అవుట్‌లైన్‌తో మెరుస్తాయి.
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
 --- /task ---
 
-మీరు బ్లాక్‌లను కోడ్ ప్రాంతానికి డ్రాగ్ చేయవచ్చు మరియు వాటిని అక్కడ నుండి ఉపయోగించవచ్చు.
-
 --- task ---
 
-`say`{:class="block3looks"} `hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} బ్లాక్ పై క్లిక్ చేయండి. దానిపై మళ్లీ క్లిక్ చేయండి.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
 
-!['say' బ్లాక్‌ని Code ప్రాంతానికి డ్రాగ్ చేసి, దాన్ని అమలు చేయడానికి దానిపై క్లిక్ చేయండి.](images/pico-drag-say.gif)
+![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-!['say' బ్లాక్ Code ప్రాంతానికి లాగబడింది. పసుపు రంగు ఔట్ లైన్ తో సెకన్ల పాటు బ్లాక్ మెరుస్తూ ఉంటుంది.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
 
-ఒకే సమయంలో ఒకటి కంటే ఎక్కువ అమలు చేయడానికి బ్లాక్‌లను కోడ్ ప్రాంతంలో కలిపి కనెక్ట్ చేయవచ్చు. కనెక్ట్ చేయబడిన బ్లాక్‌లు పై నుండి క్రిందికి క్రమంలో అమలవుతాయి.
+### Make Pico talk when clicked (or tapped)
 
 --- task ---
 
-`Events`{:class="block3events"} బ్లాక్‌ల మెను నుండి `when this sprite clicked`{:class="block3events"} బ్లాక్‌ని డ్రాగ్ చేయండి మరియు కోడ్ ప్రాంతంలో `say`{:class="block3looks"} కి పై భాగంలో కనెక్ట్ చేయండి. బ్లాక్‌లు కలిసి స్నాప్ అవుతాయి.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![బ్లాక్‌ల యానిమేషన్ కలిసి స్నాప్ అవుతోంది. Pico పై క్లిక్ చేసినప్పుడు, అది రెండు సెకన్లకు, "హలో!" చెప్తుంది.](images/pico-snap-together.gif)
+![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
 
-![Pico sprite.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,21 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-వ్యాఖ్య లేదా కామెంట్ అనేది మీ కోడ్ ఏమి చేస్తుందో తెలియజెప్పే వివరణ.
+### Code comments
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-మీరు కోడ్ ఉదాహరణలలో వ్యాఖ్యలను చూస్తారు. మీరు మీ ప్రాజెక్ట్‌కి కోడ్‌ను జోడించినప్పుడు మీరు వ్యాఖ్యలను జోడించాల్సిన అవసరం లేదు.
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
-మీరు మీ ప్రాజెక్ట్‌ను పూర్తి చేసినప్పుడు మీకు సమయం ఉంటే, మీ కోడ్‌కి వ్యాఖ్యలను జోడించడం మంచిది, తద్వారా తర్వాత సులభంగా అర్థం చేసుకోవచ్చు. వ్యాఖ్యను జోడించడానికి, Code ప్రాంతంలోని బ్లాక్‌పై రైట్-క్లిక్ (లేదా టాబ్లెట్‌పై, నొక్కి పట్టుకోండి) మరియు **Add comment** ను ఎన్నుకోండి.
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-![మీరు బ్లాక్‌పై రైట్-క్లిక్ చేసినప్పుడు కనిపించే పాప్-అప్ మెను. 'Add Comment' ఎంపిక చేయబడింది.](images/add-comment.png)
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+
+### Test
 
 --- task ---
 
-**పరీక్ష:** **Pico** sprite పై క్లిక్ చేసి, స్పీచ్ బబుల్ రెండు సెకన్ల పాటు కనిపిస్తుందో లేదో తనిఖీ చేయండి. మీ కోడ్ మీరు ఆశించిన విధంగా చేస్తుందో లేదో నిర్ధారించుకోవడానికి పరీక్షించడం చాలా ముఖ్యం.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
 
---- save ---
+--- task ---
+
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+
+You can still click save if you like, just to make sure.
+
+--- /task ---
