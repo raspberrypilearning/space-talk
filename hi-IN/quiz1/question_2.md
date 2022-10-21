@@ -4,7 +4,7 @@
 legend: दूसरा प्रश्न
 ---
 
-आपने Pico से एक स्पीच बबल में "Hello!" बुलवाया।
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
 say [Hello!] for [2] seconds
