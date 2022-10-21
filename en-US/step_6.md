@@ -11,6 +11,8 @@ Sprites can also use thought bubbles and change colours to show their personalit
 </div>
 </div>
 
+### Make Giga change colour
+
 --- task ---
 
 Add the **Giga** sprite.
@@ -54,4 +56,3 @@ Change the words and number of seconds in the `think`{:class="block3looks"} bloc
 
 --- /task ---
 
---- save ---
