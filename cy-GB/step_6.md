@@ -11,6 +11,8 @@ Gall corluniau hefyd ddefnyddio swigod meddwl a newid eu lliw i gyfleu eu person
 </div>
 </div>
 
+### Make Giga change colour
+
 --- task ---
 
 Ychwanega'r corlun **Giga**.
@@ -54,4 +56,3 @@ Newidia'r geiriau a nifer yr eiliadau yn y bloc `meddwl`{:class="block3looks"}.
 
 --- /task ---
 
---- save ---
