@@ -11,15 +11,17 @@ Another way to communicate is to use sound.
 </div>
 </div>
 
+### Add a sound to the Pico Sprite
+
 --- task ---
 
 Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
 
 ![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
 
---- /task ---
+**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
 
-There are some fantastic alien sounds in Scratch that you can add to your sprite.
+--- /task ---
 
 --- task ---
 
@@ -41,6 +43,8 @@ Play a few different sounds using the **Play** icons. Once you have found the so
 
 --- /task ---
 
+### Make the sound play when clicked (or tapped)
+
 --- task ---
 
 Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
@@ -61,6 +65,8 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
+### Test your code
+
 --- task ---
 
 Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
@@ -71,9 +77,7 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
+**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
 
 --- /task ---
-
---- save ---
 
