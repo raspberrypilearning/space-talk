@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: はじめに
+    title: You will make
   - 
     title: 場面を作る
   - 
     title: Picoに「こんにちは」と言わせる
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: ピコが音を出す
   - 
     title: Nanoのコスチュームを変える
   - 
     title: Gigaの色を変える
-    completion: internal
+    completion:
+      - internal
   - 
-    title: ふりかえり
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: プロジェクトをアップグレードする
   - 
