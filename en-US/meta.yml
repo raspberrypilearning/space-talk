@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Introduction
+    title: You will make
   - 
     title: Create your scene
   - 
     title: Pico says hello
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico plays a sound
   - 
     title: Nano switches costumes
   - 
     title: Giga changes colour
-    completion: internal
+    completion:
+      - internal
   - 
-    title: Reflection
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: Upgrade your project
   - 
