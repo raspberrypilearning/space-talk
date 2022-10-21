@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Mae modd rhoi cod, gwisgoedd a seiniau i gorlun er mwyn newid y ffordd mae'n edrych a'r hyn mae'n ei wneud. 
   
-Drwy ychwanegu blociau o god, bydd Pico yn ymateb gyda geiriau a seiniau wrth glicio ar y corlun.
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
 
@@ -13,45 +13,47 @@ Drwy ychwanegu blociau o god, bydd Pico yn ymateb gyda geiriau a seiniau wrth gl
 </div>
 </div>
 
-I ddefnyddio blociau, galli di glicio arnyn nhw yn y ddewislen Blociau.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
+### Use the say block
 
 --- task ---
 
-Agora'r ddewislen blociau `Edrychiad`{:class="block3looks"}.
+Open the `Looks`{:class="block3looks"} blocks menu.
 
-Clicia ar y bloc `dweud`{:class="block3looks"} `Helo!` `am`{:class="block3looks"} `2` `eiliad`{:class="block3looks"}.
+Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-![Y bloc 'dweud Helo! am 2 eiliad' yn goleuo gydag amlinell melyn.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-Bydd y corlun **Pico** yn agor swigen siarad am ddwy eiliad.
+The **Pico** sprite will show a speech bubble for two seconds.
 
-![Y corlun Pico gyda "Helo!" mewn swigen siarad.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
-**Awgrym:** Mae blociau cod yn Scratch yn goleuo gydag amlinell melyn pan fyddan nhw ar waith.
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
 --- /task ---
 
-Galli di lusgo blociau i Ardal y Cod a'u defnyddio nhw o'r fan honno.
-
 --- task ---
 
-Llusgau'r bloc `dweud`{:class="block3looks"} `Helo!` `am`{:class="block3looks"} `2` `eiliad`{:class="block3looks"} i Ardal y Cod. Clicia arno eto.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
 
-![Llusga'r blwch 'dweud' i Ardal y Cod a'i glicio arno i'w roi ar waith.](images/pico-drag-say.gif)
+![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-![Mae'r bloc 'dweud' wedi cael ei lusgo i Ardal y Cod. Mae'r bloc cod yn goleuo gydag amlinell melyn.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
 --- /task ---
 
-Mae modd cysylltu blociau yn Ardal y Cod i redeg mwy nag un ar y tro. Bydd y blociau cysylltiedig yn rhedeg yn eu trefn o'r brig i'r gwaelod.
+### Make Pico talk when clicked (or tapped)
 
 --- task ---
 
-Llusga'r bloc `pan gaiff y corlun yma ei glicio`{:class="block3events"} o'r ddewislen blociau `Digwyddiadau`{:class="block3events"} a'i gysylltu i frig dy floc `dweud`{:class="block3looks"} yn Ardal y Cod. Bydd y blociau'n snapio ynghyd.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![Animeiddiad o'r blociau'n snapio ynghyd. Wrth glicio ar Pico, bydd yn dweud "Helo!" am ddwy eiliad.](images/pico-snap-together.gif)
+![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
 
-![Corlun Pico.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -60,21 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-Mae Sylw yn esbonio beth mae dy god yn ei wneud.
+### Code comments
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-Bydd sylwadau'n ymddangos yn enghreifftiau o'r cod. Does dim rhaid i ti ychwanegu'r sylwadau pan fyddi di'n ychwanegu cod at dy brosiect.
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
-Os bydd gen ti rywfaint o amser ar ôl gorffen y prosiect, mae'n syniad da i ychwanegu sylwadau at dy god fel ei fod yn haws i'w ddeall yn nes ymlaen. I ychwanegu sylw, de-glicia (neu daro a dal ar dabled) ar floc yn Ardal y Cod a dewis **Ychwanegu Sylw**.
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-![Y ddewislen naid sy'n ymddangos pan fyddi di'n de-glicio ar floc. Wedi dewis 'Ychwanegu Sylw'.](images/add-comment.png)
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+
+### Test
 
 --- task ---
 
-**Prawf:** Clicia ar y corlun **Pico** ar y Llwyfan a gwneud yn siŵr bod y swigen siarad yn ymddangos am ddwy eiliad. Mae'n bwysig profi dy god i wneud yn siŵr ei fod yn gwneud beth ti'n ei ddisgwyl.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
 
---- save ---
+--- task ---
+
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+
+You can still click save if you like, just to make sure.
+
+--- /task ---
