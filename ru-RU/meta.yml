@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Введение
+    title: You will make
   - 
     title: Создай свою сцену
   - 
     title: Pico здоровается
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico воспроизводит звук
   - 
     title: Nano меняет костюмы
   - 
     title: Giga меняет цвет
-    completion: internal
+    completion:
+      - internal
   - 
-    title: Закрепление знаний
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: Улучшение своего проекта
   - 
