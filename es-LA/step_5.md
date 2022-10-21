@@ -1,11 +1,11 @@
-## Nano cambia de disfraz
+## Nano switches costume
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Conseguirás que Nano se exprese cambiando de **disfraces**.
+Get Nano to emote by switching **costumes**.
 
-Los objetos tienen **disfraces** para cambiar su apariencia. Para animar un objeto, puedes cambiar sus disfraces.
+Los objetos tienen **disfraces** para cambiar su apariencia. To animate a sprite, you can change its costume.
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Los objetos tienen **disfraces** para cambiar su apariencia. Para animar un obje
 </div>
 </div>
 
-### Nano dice "¡Gracias!"
+### Nano signs "Thanks!"
 
 --- task ---
 
@@ -32,30 +32,32 @@ Asegúrate de que el objeto **Nano** esté seleccionado en la lista de objetos d
 ![La lista de objetos, con un borde azul alrededor del objeto Nano para mostrar que Nano está seleccionado.](images/nano-selected.png)
 
 
-Haz clic en la pestaña **Código** y agrega código para hacer que el objeto **Nano** `diga`{:class="block3looks"} `¡Gracias!`:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
 
 ![El objeto Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
-say [Thanks!] for [2] seconds // try 1 instead of 2
+wait (0.5) seconds // try 0.25 instead of 0.5
 switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Consejo:** Todos los bloques están codificados por colores, así que encontrarás el bloque `cambiar disfraz a`{:class="block3looks"} en el menú de bloques `Apariencia`{:class="block3looks"}.
+**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Looks`{:class="block3control"} blocks menu.
 
 --- task ---
 
-**Prueba:** Haz clic en el objeto **Nano** en el escenario y verifica que aparezca la burbuja de diálogo y que Nano cambie su disfraz.
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
 
 --- /task ---
 
 ### Nano usa lenguaje de señas
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millones de personas utilizan el lenguaje de señas para comunicarse. Un signo común para decir 'gracias' es **llevar la mano derecha a la boca**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millones de personas utilizan el lenguaje de señas para comunicarse. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
 </p>
+
+<!-- Add a video of someone signing -->
 
 Nano usará el lenguaje de señas cambiando de disfraz.
 
@@ -110,4 +112,3 @@ Vuelve al disfraz **nano-b** y haz clic en **Pegar**. El disfraz debería verse 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Has aprendido a decir "gracias" con signos. La próxima vez que agradezcas a alguien, ¿por qué no utilizas tu nueva habilidad?
 </p>
 
---- save ---
