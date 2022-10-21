@@ -1,25 +1,21 @@
-## Wprowadzenie
+## You will make
 
-W tym projekcie stworzysz scenę w kosmosie z postaciami, które „emotują”, aby podzielić się swoimi przemyśleniami lub uczuciami.
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emoty**</span> to sposób na pokazanie osobowości postaci w grze. Mogą używać mowy, dźwięków, ruchu i efektów graficznych, tak jak w Scratchu. Czy grasz w jakieś gry wykorzystujące emoty?
-</p>
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-W Scratchu postacie i obiekty są nazywane **duszkami** i pojawiają się na **scenie**.
-
-Co zrobisz:
+You will:
 + Dodaj duszki i **tło** aby skonfigurować swój projekt
 + Klikniesz duszki, aby komunikowały się za pomocą `Wyglądu`{:class="block3looks"} i `Dźwięku`{:class="block3sound"}
 + Użyjesz **Edytora graficznego** aby zmienić **kostium**
 
 --- no-print --- --- task ---
-### Spróbuj
+### Play ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Kliknij każdego duszka, aby zobaczyć, co robi. 
+Click on each sprite to see what they do. 
 
-Co się stanie, jeśli klikniesz jednego duszka, a potem szybko innego?
+What happens if you click on one sprite and then quickly click on another sprite?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -29,7 +25,7 @@ Co się stanie, jeśli klikniesz jednego duszka, a potem szybko innego?
 
 --- print-only ---
 
-![Ukończony projekt.](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
 --- /print-only ---
 
