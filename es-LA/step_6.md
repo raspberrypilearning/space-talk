@@ -11,6 +11,8 @@ Los objetos también pueden usar burbujas de pensamiento y cambiar sus colores p
 </div>
 </div>
 
+### Make Giga change colour
+
 --- task ---
 
 Agrega el objeto **Giga**.
@@ -54,4 +56,3 @@ Cambia las palabras y la cantidad de segundos en el bloque `pensar`{:class="bloc
 
 --- /task ---
 
---- save ---
