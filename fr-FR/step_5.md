@@ -3,14 +3,14 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Tu donneras une émotion à Nano en changeant de **costumes**.
+Donne une émotion à Nano en changeant de **costumes**.
 
 Les sprites ont des **costumes** pour changer leur apparence. Pour animer un sprite, tu peux changer ses costumes.
 
 </div>
 <div>
 
-![Le lutin Nano disant : "Merci !"](images/nano-step-2.png){:width="300px"}
+![Le sprite Nano disant : "Merci !"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
@@ -27,7 +27,7 @@ Ajoute le **Nano** à ton projet de la catégorie **Fantaisie**.
 
 --- task ---
 
-Assure-toi que le **Nano** est sélectionné dans la liste Sprite sous la scène.
+Assure-toi que le sprite **Nano** est sélectionné dans la liste Sprite sous la scène.
 
 ![La liste Sprite, avec une bordure bleue autour du sprite Nano pour montrer que Nano est sélectionné.](images/nano-selected.png)
 
@@ -39,23 +39,25 @@ Clique sur l'onglet **Code** et ajoute un script pour faire `dire`{:class="block
 ```blocks3
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
-say [Thanks!] for [2] seconds // try 1 instead of 2
+wait (0.5) seconds // try 0.25 instead of 0.5
 switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Astuce :** Tous les blocs sont codés par couleur, tu trouveras donc le bloc ` basculer sur le costume ` {:class="block3looks"} dans le menu `apparence`.
+**Astuce :** Tous les blocs sont codés par couleur, tu trouveras donc le bloc `basculer sur le costume`{:class="block3looks"} dans le menu des blocs `Apparences`{:class="block3looks"} et le bloc `attendre`{:class="block3control"} dans le menu `Contrôles`{:class="block3control"}.
 
 --- task ---
 
-**Tester :** Clique sur le **Nano** sur la Scène et vérifie que la bulle de dialogue apparaît et que le costume de Nano change.
+**Tester :** Clique sur le sprite **Nano** sur la Scène et vérifie que la bulle de dialogue apparaît et que le costume de Nano change.
 
 --- /task ---
 
 ### Nano utilise la langue des signes
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Des millions de personnes utilisent la langue des signes pour communiquer. Un signe courant pour « merci » est de ** porter sa main droite à sa bouche**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Des millions de personnes utilisent la langue des signes pour communiquer. Une façon courante de signer "Merci" consiste à placer ses doigts sur le menton avec la main aussi à plat que possible. Tu déplaces ensuite ta main vers l'avant, loin de ton menton et légèrement vers le bas. 
 </p>
+
+<!-- Add a video of someone signing -->
 
 Nano utilisera la langue des signes en changeant de costume.
 
@@ -110,4 +112,3 @@ Reviens au **nano-b** et clique sur **Coller**. Le costume devrait ressembler à
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Tu as appris à signer « merci ». La prochaine fois que tu remercieras quelqu'un, pourquoi ne pas utiliser ta nouvelle compétence ?
 </p>
 
---- save ---
