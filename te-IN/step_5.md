@@ -1,11 +1,11 @@
-## Nano costumes ని మార్చుకుంటుంది
+## Nano switches costume
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-**costumes** ని మార్చడం ద్వారా మీరు Nanoని emote గా పొందుతారు.
+Get Nano to emote by switching **costumes**.
 
-Sprite లు కనిపించే విధానాన్ని మార్చడానికి **costumes**ని కలిగి ఉంటాయి. sprite ను యానిమేట్ చేయడానికి, మీరు దాని costume లను మార్చవచ్చు.
+Sprite లు కనిపించే విధానాన్ని మార్చడానికి **costumes**ని కలిగి ఉంటాయి. To animate a sprite, you can change its costume.
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Sprite లు కనిపించే విధానాన్ని మార�
 </div>
 </div>
 
-### Nano చెప్తోంది "Thanks!"
+### Nano signs "Thanks!"
 
 --- task ---
 
@@ -32,30 +32,32 @@ Stage దిగువన ఉన్న Sprite జాబితాలో **Nano** s
 ![Sprite జాబితాలో, Nano ఎంపిక చేయబడిందని చూపించడానికి Nano sprite చుట్టూ నీలిరంగు అంచుతో ఉంటుంది.](images/nano-selected.png)
 
 
-**Code** ట్యాబ్‌పై క్లిక్ చేసి, **Nano** sprite నుండి `say`{:class="block3looks"} `Thanks!`ని పొందడానికి స్క్రిప్ట్‌ను జోడించండి:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
 
 ![Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
 switch costume to [nano-b v] // Nano talking
-say [Thanks!] for [2] seconds // try 1 instead of 2
+wait (0.5) seconds // try 0.25 instead of 0.5
 switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**చిట్కా:** అన్ని బ్లాక్స్, విభిన్న రంగులను కలిగి ఉంటాయి కాబట్టి మీరు, `switch costume to`{: class = "block3looks"} బ్లాక్ ను `Looks`{: clas = "block3looks"} బ్లాక్స్ మెనులో కనుగొంటారు.
+**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Looks`{:class="block3control"} blocks menu.
 
 --- task ---
 
-**పరీక్ష:** **Nano** sprite పై క్లిక్ చేసి, స్పీచ్ బబుల్ రెండు సెకన్ల పాటు కనిపిస్తుందో లేదో తనిఖీ చేయండి.
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
 
 --- /task ---
 
 ### Nano సంకేత భాషను ఉపయోగిస్తుంది
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">కమ్యూనికేట్ చేయడానికి మిలియన్ల మంది ప్రజలు సంకేత భాషను ఉపయోగిస్తున్నారు. 'ధన్యవాదాలు' కోసం ఒక సాధారణ సంకేతం **మీ కుడి చేతిని మీ నోటిపైకి తీసుకురావడం**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">కమ్యూనికేట్ చేయడానికి మిలియన్ల మంది ప్రజలు సంకేత భాషను ఉపయోగిస్తున్నారు. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
 </p>
+
+<!-- Add a video of someone signing -->
 
 Nano costumes మార్చడం ద్వారా సంకేత భాషను ఉపయోగిస్తుంది.
 
@@ -110,4 +112,3 @@ costume ఇలా కనిపించాలి:
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">"ధన్యవాదాలు" అని ఎలా సంకేతం చేయాలో మీరు నేర్చుకున్నారు. తదుపరిసారి మీరు ఎవరికైనా ధన్యవాదాలు చెప్పడానికి, మీ కొత్త నైపుణ్యాన్ని ఎందుకు ఉపయోగించకూడదు?
 </p>
 
---- save ---
