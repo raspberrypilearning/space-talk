@@ -2,15 +2,11 @@ Bonjour !
 
 masquer la parole après 2 secondes
 
-Merci!
-
 quand on clique sur Nano
 
 Nano parle
 
-essaye 1 au lieu de 2
-
-Nano souriant
+essayez 0.25 au lieu de 0.5
 
 Hum...
 
@@ -22,14 +18,12 @@ masquer la bulle de dialogue
 
 nombre jusqu'à 200
 
-play sound, doesn't wait
+0,5 correspond à une demi-seconde
 
-shows speech bubble
+joue du son, n'attends pas
 
-hand to mouth
+afficher une bulle de dialogue
 
-smiling
+mettre la main à la bouche
 
-shows a thought bubble
-
-goes back to normal colour
+souriant
