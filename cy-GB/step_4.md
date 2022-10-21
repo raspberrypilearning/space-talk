@@ -11,47 +11,51 @@ Ffordd arall o gyfathrebu yw defnyddio sain.
 </div>
 </div>
 
+### Add a sound to the Pico Sprite
+
 --- task ---
 
 Clicia'r tab **Seiniau** ar gyfer y corlun **Pico** ac fe weli di sain **pop**. Clicia'r eicon **Chwarae** i glywed y sain **pop**.
 
 ![Chwarae'r sain pop yn y tab Seiniau.](images/pico-sound-play.png)
 
---- /task ---
-
-Mae yna synau arallfydol gwych yn Scratch y gelli di eu hychwanegu at dy gorlun.
-
---- task ---
-
-I ddewis sain newydd, clicia'r eicon **Dewis Sain** a dewis y categori **Gofod** neu deipio `space` yn y blwch chwilio.
-
-![Eicon 'Dewis Sain'.](images/sound-button.png)
-
-![Y golygydd Scratch gyda 'Dewis Sain' wedi'i amlygu.](images/pico-choose-sound.png)
-
-![Categori 'Gofod' yn y Llyfrgell Seiniau.](images/pico-space-category.png)
+**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
 
 --- /task ---
 
 --- task ---
 
-Chwaraea ychydig o seiniau gwahanol drwy ddefnyddio'r eiconau **Chwarae**. Ar ôl i ti ddod o hyd i'r sain rwyt ti am ei defnyddio, clicia arni i'w hychwanegu at dy brosiect.
+To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
 
-![Sain enghreifftiol (sain Alien Creak1) yn ymddangos o dan y sain pop yn y tab Seiniau.](images/pico-inserted-sound.png)
+![The 'Choose a Sound' icon.](images/sound-button.png)
+
+![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+
+![The 'Space' category in the Sound Library.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Clicia'r tab **Cod**. Yn y ddewislen blociau `Sain`{:class="block3sound"}, chwilia am y bloc `cychwyn sain`{:class="block3sound"}.
+Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-Llusga'r bloc i Ardal y Cod, rhwng y bloc `pan gaiff y corlun yma ei glicio`{:class="block3events"} a'r bloc `dweud`{:class="block3looks"}. Bydd bwlch yn agor a bydd y bloc yn snapio i'w le.
+![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
-![Ychwanegu'r bloc 'cychwyn sain' rhwng y ddau floc.](images/pico-insert-block.gif)
+--- /task ---
 
-Dylai dy god edrych fel hyn:
+### Make the sound play when clicked (or tapped)
 
-![Corlun Pico.](images/pico-sprite.png)
+--- task ---
+
+Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+
+Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+
+![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+
+Your code should look like this:
+
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -61,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
+### Test your code
+
 --- task ---
 
-Gwna'n siŵr bod dy floc `cychwyn sain`{:class="block3sound"} yn cynnwys y sain y gwnes di ei dewis. Os nad ydy dy sain yno, mae angen i ti glicio'r sain yn y bloc `cychwyn sain`{:class="block3sound"}, ac wedyn dewis y sain rwyt ti am ei gael o'r gwymplen.
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-![Clicio ar y sain 'Alien Creak1' yn y gwymplen o fewn y bloc 'cychwyn sain'.](images/pico-sound-menu.png)
+![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Prawf:** Clicia'r corlun **Pico** a gwneud yn siŵr bod y swigen siarad yn ymddangos a dy fod yn gallu clywed y sain. Os nad wyt ti'n clywed y sain, gwna'n siŵr dy fod wedi ychwanegu'r bloc `cychwyn sain`{:class="block3sound"} o dan y bloc `pan gaiff y corlun yma ei glicio`{:class="block3events"}. Hefyd, gwiria fod y sain yn gweithio ar dy gyfrifiadur neu dabled.
+**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
 
 --- /task ---
-
---- save ---
 
