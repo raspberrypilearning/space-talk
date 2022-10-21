@@ -1,0 +1,29 @@
+---
+title: Космічна розмова
+hero_image: images/banner.png
+description: Використовуй Scratch, щоб надати спрайтам 'емоції', щоб вони могли спілкуватися при натисканні на них
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Ти зробиш
+  - title: Створення своєї сцени
+  - title: Pico вітається
+    completion:
+      - engaged
+  - title: Pico відтворює звук
+  - title: Nano міняє образи
+  - title: Giga змінює колір
+    completion:
+      - internal
+  - title: Швидкий тест
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Вдосконалення твого проєкту
+  - title: Що далі?
