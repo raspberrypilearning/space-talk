@@ -8,27 +8,30 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: परिचय
+    title: You will make
   - 
     title: अपना दृश्य बनाएं
   - 
     title: Pico हेलो (hello) कहता है
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Pico ने बजायी एक ध्वनि
   - 
     title: Nano ने कास्ट्यूम (costume) बदल लिया
   - 
     title: Giga ने रंग बदला
-    completion: internal
+    completion:
+      - internal
   - 
-    title: सोचिए
-    completion: external
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion:
+      - external
   - 
     title: प्रोजेक्ट को अपग्रेड करें
   - 
