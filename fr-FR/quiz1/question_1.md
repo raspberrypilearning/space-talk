@@ -1,6 +1,6 @@
 ## Questionnaire rapide
 
-Réponds aux trois questions. Il y a des indices pour te guider vers la bonne réponse.
+Answer the three questions to get your Space talk badge. Il y a des indices pour te guider vers la bonne réponse.
 
 Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
