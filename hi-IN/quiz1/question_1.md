@@ -1,6 +1,6 @@
 ## Quick quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
 When you have answered each question, click on **Check my answer**.
 
