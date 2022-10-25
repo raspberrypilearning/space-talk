@@ -1,8 +1,28 @@
+## Project checklist
+
+--- task ---
+
+The project has a backdrop and sprites.
+
+--- /task ---
+
+--- task ---
+
+The sprites communicate when clicked using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks.  
+
+--- /task ---
+
+--- task ---
+
+A costume has been edited in the **Paint editor**.
+
+--- /task ---
+
 ## Quick quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-When you have answered each question, click on **Check my answer**.
+When you have answered each question, click on **Check my answer**. 
 
 Have fun!
 
