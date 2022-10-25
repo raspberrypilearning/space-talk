@@ -1,6 +1,6 @@
 ## Snelle quiz
 
-Beantwoord de drie vragen. Er zijn tips om je naar het juiste antwoord te leiden.
+Answer the three questions to get your Space talk badge. Er zijn tips om je naar het juiste antwoord te leiden.
 
 Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**.
 
