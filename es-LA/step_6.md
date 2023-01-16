@@ -11,7 +11,7 @@ Los objetos también pueden usar burbujas de pensamiento y cambiar sus colores p
 </div>
 </div>
 
-### Make Giga change colour
+### Haz que Giga cambie de color
 
 --- task ---
 
@@ -36,7 +36,7 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Sugerencia:** Haz clic en el objeto en la lista de objetos debajo del escenario antes de agregar o cambiar el código, el vestuario o el sonido. Asegúrate de haber hecho clic en el objeto correcto.
+**Consejo:** Haz clic en el objeto en la lista de objetos debajo del escenario antes de agregar o cambiar el código, el vestuario o el sonido. Asegúrate de haber hecho clic en el objeto correcto.
 
 --- task ---
 
