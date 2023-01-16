@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Un objeto puede tener código, disfraces y sonidos para cambiar su apariencia y lo que hace. 
   
-Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Agrega bloques de código para hacer que Pico reaccione con palabras y sonido cuando se haga clic en él.
 </div>
 <div>
 
@@ -14,46 +14,46 @@ Add code blocks to make Pico emote with words and sound when the sprite is click
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**Emociones**</span> son una forma de mostrar la personalidad de un personaje en un juego. Pueden usar el habla, sonidos, movimiento y los efectos gráficos, como en Scratch. ¿Juegas a algún juego que use 'emociones'?
 </p>
 
-### Use the say block
+### Usa el bloque de decir
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Abre el menú de bloques `Apariencia`{:class="block3looks"}.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Haz clic en el bloque `decir`{:class="block3looks"} `¡Hola!` `durante`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![El bloque 'decir ¡Hola! El bloque 'decir ¡Hola! durante 2 segundos' brillando con un contorno amarillo.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+El objeto **Pico** mostrará una burbuja de diálogo durante dos segundos.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![El objeto Pico con "¡Hola!" en una burbuja de diálogo.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Consejo:** Los bloques de código en Scratch se iluminan con un contorno amarillo cuando se están ejecutando.
 
 --- /task ---
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Arrastra el bloque `decir`{:class="block3looks"} `¡Hola!` `durante`{:class="block3looks"} `2` `segundos`{:class="block3looks"} al área de Código. Vuelve a hacer clic en él.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![Arrastrando el bloque 'decir' al área de Código y haciendo clic en él para ejecutarlo.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![El bloque 'decir' ha sido arrastrado al área de Código. El bloque de código se ilumina con un contorno amarillo.](images/pico-drag-say.png)
 
 --- /task ---
 
-### Make Pico talk when clicked (or tapped)
+### Haz que Pico hable cuando hagas clic en él (o tocar)
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Arrastra un bloque `al hacer clic en este objeto`{:class="block3events"} del menú `Eventos`{:class="block3events"} y conéctalo a la parte superior de tu bloque `decir`{:class="block3looks"} en el área de Código. Los bloques se unirán.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![Una animación de los bloques que encajan juntos. Cuando se hace clic en Pico, dice "¡Hola!" durante dos segundos.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![El objeto Pico.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -62,29 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Code comments
+### Comentarios de código
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+Verás comentarios en los ejemplos de código. No necesitas agregar los comentarios cuando agregas código a su proyecto.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Si tienes tiempo cuando hayas terminado tu proyecto, es una buena idea agregar comentarios a tu código para que sea más fácil de entender más adelante. Para agregar un comentario, haz clic con el botón derecho (o en una tableta, mantén presionado) en un bloque en el área de Código y elije **Agregar comentario**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![El menú emergente que aparece al hacer clic con el botón derecho en un bloque. 'Agregar comentario' está seleccionado.](images/add-comment.png)
 
-### Test
+### Prueba
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**Prueba:** Haz clic en el objeto **Pico** en el escenario y verifica que la burbuja de diálogo aparezca durante dos segundos. Es importante probar tu código para asegurarte de que hace lo que esperas.
 
 --- /task ---
 
 --- task ---
 
-You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+Ya has guardado tu proyecto y le has dado un nombre. Scratch ahora **automáticamente** lo guardará.
 
-You can still click save if you like, just to make sure.
+Todavía puedes hacer clic en Guardar si lo deseas, solo para asegurarte.
 
 --- /task ---
