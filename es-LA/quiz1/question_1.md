@@ -1,10 +1,8 @@
-## Reflexión
+## Examen rápido
 
-¡Bien hecho, has aprendido mucho! Ahora es el momento de reflexionar — reflexionar es una parte importante del aprendizaje, porque ayuda a establecer nuevas conexiones en tu cerebro.
+Responda las tres preguntas para obtener su insignia de Conversación espacial. Hay pistas para guiarte hacia la repuesta correcta.
 
-Responde las tres preguntas siguientes para reflexionar sobre lo que has aprendido.
-
-Cuando hayas respondido a cada pregunta, haz clic en **Enviar**. Vamos a guiarte hacia la respuesta correcta. Puedes realizar esta actividad tantas veces como quieras.
+Cuando hayas respondido a cada pregunta, haz clic en **Revisar mi respuesta**.
 
 ¡Qué te diviertas!
 
@@ -13,9 +11,9 @@ Cuando hayas respondido a cada pregunta, haz clic en **Enviar**. Vamos a guiarte
 legend: Pregunta 1 de 3
 ---
 
-En tu proyecto, agregaste un fondo y algunos objetos de personajes.
+En tu proyecto, agregaste algunos personajes.
 
-¿A dónde vas para agregar un objeto a tu proyecto?
+¿A dónde vas para **agregar un objecto** a tu proyecto?
 
 ![Captura de pantalla anotada del editor Scratch completo con 1 — La pestaña Disfraces, 2 — La pestaña Sonidos, 3 — La lista de objetos y 4 — El panel Escenario resaltados.](images/question1.png)
 

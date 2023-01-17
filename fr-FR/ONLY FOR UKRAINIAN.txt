@@ -1,0 +1,19 @@
+Onglet Code
+
+Menu des blocs
+
+Sac à dos
+
+Zoom
+
+Liste des sprites
+
+Volet Sprites
+
+Volet de scène
+
+Volet de scène
+
+Plein écran
+
+Zone de code

@@ -4,7 +4,7 @@
 legend: Pregunta 2 de 3
 ---
 
-Hiciste que Pico dijera "¡Hola!" en una burbuja de diálogo.
+Hiciste que Pico `diga`{:class="block3looks"} "¡Hola!" en una burbuja de diálogo.
 
 ```blocks3
 say [¡Hola!] for [2] seconds

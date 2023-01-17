@@ -39,7 +39,7 @@ Ce code change la couleur du sprite et affiche une bulle de pensée.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Merci !] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 

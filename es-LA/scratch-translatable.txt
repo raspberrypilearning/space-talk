@@ -2,15 +2,11 @@
 
 esconde lo que dice después de 2 segundos
 
-¡Gracias!
-
 cuando se hace clic en Nano
 
 Nano hablando
 
-prueba 1 en vez de 2
-
-Nano sonriendo
+intenta 0.25 en lugar de 0.5
 
 Umm...
 
@@ -22,14 +18,12 @@ esconde la burbuja de diálogo
 
 número hasta 200
 
-reproduce sonido sin esperar
+0.5 es medio segundo
+
+reproduce sonido, no espera
 
 muestra la burbuja de diálogo
 
-mano a la boca
+pon la mano en la boca
 
 Nano sonriendo
-
-muestra una burbuja de pensamiento
-
-de vuelta al color inicial

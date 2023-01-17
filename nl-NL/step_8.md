@@ -11,6 +11,10 @@ Voeg de **Tera** sprite toe en gebruik een van de blokken waar je over hebt gele
 </div>
 </div>
 
+Je kunt ook de tekst-naar-spraakextensie gebruiken om **Tera** echt te laten praten:
+
+[[[scratch3-text-to-speech]]]
+
 De persoonlijkheid van de **Tera** sprite is jouw keuze, dus veel plezier met het gebruiken van je eigen creatieve ideeën.
 
 ```blocks3
@@ -26,6 +30,8 @@ think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
+wait (1) seconds // 0.5 is een halve seconde
+
 set [color v] effect to [0] // aantal tot 200
 
 clear graphic effects
@@ -33,6 +39,8 @@ clear graphic effects
 play sound [pop v] until done
 
 start sound [pop v]
+
+speak [hallo]
 ```
 
 Je kunt het project ook 'remixen' om allerlei wijzigingen aan te brengen. Je zou de achtergrond kunnen veranderen, en hoe de sprites emoties laten zien, en zelfs verschillende sprites kiezen en ze emoties geven.

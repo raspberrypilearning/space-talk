@@ -11,21 +11,23 @@ Otra forma de comunicarse es utilizar el sonido.
 </div>
 </div>
 
+### Añade un sonido al objeto Pico
+
 --- task ---
 
-Haz clic en la pestaña **Sonidos** para el objeto **Pico** y encontrarás un sonido **pop**. Haz clic en el triangulo **Reproducir** para escuchar el sonido **pop**.
+Haz clic en la pestaña **Sonidos** para el objeto **Pico** y encontrarás el sonido **pop**. Haz clic en el triangulo **Reproducir** para escuchar el sonido **pop**.
 
 ![Reproduciendo el sonido pop en la pestaña Sonidos.](images/pico-sound-play.png)
 
---- /task ---
+**Debug**: Si no puedes escuchar un sonido, verifica que el sonido funciona en tu computadora o tableta.
 
-Hay algunos sonidos extraterrestres fantásticos en Scratch que puedes agregar a tu objeto.
+--- /task ---
 
 --- task ---
 
 Para elegir un nuevo sonido, haz clic en el ícono **Elige un sonido** y selecciona la categoría **Espacio** o escribe `space` en el cuadro de búsqueda.
 
-![El ícono 'Elige un sonido'.](images/sound-button.png)
+![El icono 'Elige un sonido'.](images/sound-button.png)
 
 ![El editor de Scratch con 'Elige un sonido' resaltado.](images/pico-choose-sound.png)
 
@@ -40,6 +42,8 @@ Reproduce algunos sonidos diferentes usando los íconos **Reproducir**. Una vez 
 ![Un ejemplo de sonido (el sonido Alien Creak1) que se muestra debajo del sonido pop en la pestaña Sonidos.](images/pico-inserted-sound.png)
 
 --- /task ---
+
+### Haz que el sonido se reproduzca al hacer clic (o tocar)
 
 --- task ---
 
@@ -61,6 +65,8 @@ say [¡Hola!] for [2] seconds // esconde lo que dice después de 2 segundos
 
 --- /task ---
 
+### Prueba tu código
+
 --- task ---
 
 Comprueba que tu bloque `iniciar sonido`{:class="block3sound"} tiene el sonido que elegiste. Si no es así, debes hacer clic en el sonido en el bloque `iniciar sonido`{:class="block3sound"}, y después selecciona el sonido elegido en el menú desplegable.
@@ -71,9 +77,7 @@ Comprueba que tu bloque `iniciar sonido`{:class="block3sound"} tiene el sonido q
 
 --- task ---
 
-**Prueba:** Haz clic en el objeto **Pico** en el escenario y verifica que la burbuja de dialogo aparezca y que puedes escuchar el sonido. Si no escuchas el sonido, asegúrate de haber agregado el bloque `iniciar sonido`{:class="block3sound"} debajo del bloque `al hacer clic en este objeto`{:class="block3events"}. Además, verifica que el sonido esté funcionando en tu computadora o tableta.
+**Prueba:** Haz clic en el objeto **Pico** y verifica que la burbuja de dialogo aparece y que puedes escuchar el sonido. Si no escuchas el sonido, asegúrate de haber agregado el bloque `iniciar sonido`{:class="block3sound"} debajo del bloque `al hacer clic en este objeto`{:class="block3events"}.
 
 --- /task ---
-
---- save ---
 

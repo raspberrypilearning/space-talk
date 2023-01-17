@@ -1,0 +1,19 @@
+Code tab
+
+Blocks menu
+
+Backpack
+
+Zoom
+
+Sprite list
+
+Sprite pane
+
+Stage pane
+
+Stage pane
+
+Full screen
+
+Code area

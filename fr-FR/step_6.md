@@ -11,11 +11,13 @@ Les sprites peuvent également utiliser des bulles de pensée et changer de coul
 </div>
 </div>
 
+### Faire changer Giga de couleur
+
 --- task ---
 
 Ajoute le sprite **Giga**.
 
-Fais glisser le **Giga** sur le côté droit de la scène.
+Fais glisser le sprite **Giga** sur le côté droit de la scène.
 
 --- /task ---
 
@@ -28,7 +30,7 @@ Assure-toi que tu as le sprite **Giga** sélectionné dans la liste Sprite sous 
 ```blocks3
 when this sprite clicked
 set [color v] effect to [0] // 0 est la couleur de départ
-think [Hmm...] for [2] seconds 
+think [Hum...] for [2] seconds 
 clear graphic effects // retour à la couleur de départ
 ```
 
@@ -54,4 +56,3 @@ Modifie les mots et le nombre de secondes dans le bloc `penser`{:class="block3lo
 
 --- /task ---
 
---- save ---
