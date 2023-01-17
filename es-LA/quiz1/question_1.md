@@ -1,6 +1,6 @@
 ## Examen rápido
 
-Answer the three questions to get your Space talk badge. Hay pistas para guiarte hacia la repuesta correcta.
+Responda las tres preguntas para obtener su insignia de Conversación espacial. Hay pistas para guiarte hacia la repuesta correcta.
 
 Cuando hayas respondido a cada pregunta, haz clic en **Revisar mi respuesta**.
 
