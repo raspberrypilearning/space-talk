@@ -1,0 +1,19 @@
+Code tabblad
+
+Blokkenmenu
+
+Rugzak
+
+Zoom
+
+Sprite-lijst
+
+Sprite-venster
+
+Speelveld venster
+
+Speelveld venster
+
+Volledig scherm
+
+Codegebied

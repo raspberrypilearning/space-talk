@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In deze stap stel je jouw project in met een ruimte achtergrond en de eerste sprite. 
+Stel je project in met een ruimteachtergrond en de eerste sprite. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@ In deze stap stel je jouw project in met een ruimte achtergrond en de eerste spr
 
 </div>
 </div>
+
+### Open het startproject
 
 --- task ---
 
@@ -19,9 +21,11 @@ Open het [Ruimte praat start-project](https://scratch.mit.edu/projects/582213331
 
 --- /task ---
 
-De Scratch-editor ziet er als volgt uit:
+### De Scratch-editor
 
-![Een geannoteerde schermafbeelding van de Scratch-editor, met de labels Speelveld, Speelveld-venster, Sprite-venster, Sprite-lijst en Code-gebied.](images/scratch-interface.png)
+![Een schermafbeelding met commentaar van de Scratch-editor, met de labels Speelveld, Speelveld-paneel, Sprite-paneel, Sprite-lijst en Codegebied.](images/scratch-interface.png)
+
+### Een achtergrond toevoegen
 
 Het **Speelveld** is waar jouw project wordt uitgevoerd. Een **achtergrond** verandert de manier waarop het Speelveld eruit ziet.
 
@@ -53,11 +57,13 @@ Klik op de door jouw gekozen achtergrond om deze aan je project toe te voegen. H
 
 --- /task ---
 
+### Voeg een sprite toe
+
 Zie je de sprite die al in je project is opgenomen? Dat is de Scratch kat.
 
 --- task ---
 
-Verwijder de **Sprite1** (Scratch kat): selecteer de sprite **Sprite1** in de sprite lijst onder het speelveld en klik op het pictogram **Verwijder**.
+Verwijder de **Sprite1** (Scratch kat): selecteer de sprite **Sprite1** in de sprite lijst onder het speelveld en klik op het pictogram **Verwijderen**.
 
 ![Het pictogram 'Verwijderen'.](images/delete-sprite.png)
 
@@ -91,7 +97,7 @@ Sleep de **Pico** sprite naar de linkerkant van het Speelveld. Je Speelveld zou 
 
 --- task ---
 
-Als je bent ingelogd op je Scratch-account, klik je op de groene Remix-knop. Hiermee wordt een kopie van het project opgeslagen in je Scratch-account.
+**Opslaan**: Als je bent aangemeld bij je Scratch-account, klik je op de groene Remix-knop. Hiermee wordt een kopie van het project opgeslagen in je Scratch-account.
 
 ![De Remix knop.](images/remix-button.png)
 
@@ -101,7 +107,7 @@ Typ de naam van jouw project in het vak projectnaam bovenaan het scherm.
 
 **Tip:** Geef je projecten nuttige namen zodat je ze gemakkelijk terug kunt vinden als je veel projecten hebt.
 
-Klik vervolgens op **Bestand**en dan op **Opslaan** om je project op te slaan.
+Klik vervolgens op **Bestand** en dan op **Opslaan** om je project op te slaan.
 
 ![De menuopties 'Bestand'.](images/file-menu.png)
 

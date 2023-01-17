@@ -1,10 +1,8 @@
-## Reflectie
+## Snelle quiz
 
-Goed gedaan, je hebt veel geleerd! Nu is het tijd om te reflecteren - reflecteren is een belangrijk onderdeel van leren, omdat het helpt om nieuwe verbindingen in je hersenen te maken.
+Beantwoord de drie vragen om je Ruimte praat-badge te krijgen. Er zijn tips om je naar het juiste antwoord te leiden.
 
-Beantwoord de drie onderstaande vragen om na te denken over wat je hebt geleerd.
-
-Wanneer je de vraag hebt beantwoord, klik je op **Verzenden**. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
+Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**.
 
 Veel plezier!
 
@@ -15,9 +13,9 @@ legend: Vraag 1 van 3
 
 In je project heb je een achtergrond en enkele sprite-personages toegevoegd.
 
-Waar ga je heen om een sprite aan je project toe te voegen?
+Waar ga je naar toe om **een sprite toe te voegen** aan je project?
 
-![Een verhelderend screenshot van de volledige Scratch-editor met 1 — Het tabblad Uiterlijken, 2 — Het tabblad Geluiden, 3 — De Sprite-lijst en 4 — Het deelvenster Speelveld gemarkeerd.](images/question1.png)
+![Een schermafbeelding met commentaar van de volledige Scratch editor met 1 - de uiterlijken tab, 2 - de geluiden tab, 3 - de sprite lijst, en 4 - het speelveld venster gemarkeerd.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@ Waar ga je heen om een sprite aan je project toe te voegen?
 
   --- feedback ---
 
-Je ging naar het **Uiterlijkens** tabblad om een uiterlijk voor je sprite te bewerken.
+Je ging naar het tabblad **Uiterlijken** om een uiterlijk voor je sprite te bewerken.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@ Je ging naar het **Uiterlijkens** tabblad om een uiterlijk voor je sprite te bew
 
   --- feedback ---
 
-Je ging naar het **Geluiden** tabblad om een nieuw geluid voor je sprite te kiezen.
+Je ging naar het tabblad **Geluiden** om een nieuw geluid voor je sprite te kiezen.
 
   --- /feedback ---
 
@@ -49,7 +47,7 @@ Ja. Dit is het gebied waar je alle sprites in het project kunt zien, sprites kun
 
   --- feedback ---
 
-Je ging naar het deelvenster Speelveld om een achtergrond te kiezen.
+Je ging naar het Speelveld-paneel om een achtergrond te kiezen.
 
   --- /feedback ---
 

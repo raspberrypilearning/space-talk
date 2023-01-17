@@ -1,12 +1,8 @@
-## Inleiding
+## Je gaat maken
 
-In dit project creëer je een ruimte scène met personages die 'emoties' gebruiken om hun gedachten of gevoelens te delen.
+Creëer een ruimtescène met personages 👾 die emoties gebruiken om hun gedachten of gevoelens te delen.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emoties**</span> zijn een manier om de persoonlijkheid van een personage in een game te laten zien. Ze kunnen spraak, geluiden, beweging en grafische effecten gebruiken, net als in Scratch. Speel je games die emoties gebruiken?
-</p>
-
-In Scratch worden karakters en objecten **sprites** en verschijnen ze op het **Speelveld**.
+In Scratch worden karakters en objecten **sprites** genoemd en verschijnen ze op het **speelveld**.
 
 Je gaat:
 + Sprites en een **achtergrond** toevoegen om je project op te zetten
@@ -15,7 +11,7 @@ Je gaat:
 
 --- no-print ---
 --- task ---
-### Probeer het uit
+### Afspelen ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 Klik op elke sprite om te zien wat ze doen. 

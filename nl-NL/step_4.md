@@ -11,15 +11,17 @@ Een andere manier om te communiceren is het gebruik van geluid.
 </div>
 </div>
 
+### Voeg een geluid toe aan de Pico sprite
+
 --- task ---
 
 Klik op de **Geluiden** tab voor de **Pico** sprite en je zult een **pop** geluid vinden. Klik op het **Spelen** pictogram om het **pop** geluid te horen.
 
 ![Het popgeluid afspelen op het tabblad Geluiden.](images/pico-sound-play.png)
 
---- /task ---
+**Fouten oplossen**: Als je geen geluid kunt horen, controleer dan of het geluid werkt op je computer of tablet.
 
-Er zijn een aantal fantastische buitenaardse geluiden in Scratch die je aan je sprite kunt toevoegen.
+--- /task ---
 
 --- task ---
 
@@ -35,11 +37,13 @@ Om een nieuw geluid te kiezen, klik je op het **Kies een geluid** pictogram en s
 
 --- task ---
 
-Speel een paar verschillende geluiden met behulp van het **Play** pictogram. Zodra je een geluid hebt gevonden klik je erop om het aan jouw project toe te voegen.
+Speel een paar verschillende geluiden met behulp van het **Afspeel** pictogram. Zodra je een geluid hebt gevonden dat je wil gebruiken klik je erop om het aan jouw project toe te voegen.
 
 ![Een voorbeeldgeluid (het Alien Creak1-geluid) dat wordt weergegeven onder het popgeluid op het tabblad Geluiden.](images/pico-inserted-sound.png)
 
 --- /task ---
+
+### Laat het geluid afspelen wanneer erop wordt geklikt (of getikt)
 
 --- task ---
 
@@ -61,6 +65,8 @@ say [Hallo!] for [2] seconds // spraak verbergen na 2 seconden
 
 --- /task ---
 
+### Test je code
+
 --- task ---
 
 Controleer of jouw `start geluid`{:class="block3sound"} blok het door jou gekozen geluid bevat. Als dit niet het geval is, moet je op het geluid in het `start geluid`{:class="block3sound"} blok klikken en vervolgens het door jou gekozen geluid in het keuzemenu selecteren.
@@ -71,9 +77,7 @@ Controleer of jouw `start geluid`{:class="block3sound"} blok het door jou gekoze
 
 --- task ---
 
-**Test:** Klik op de **Pico** sprite en controleer of de tekstballon verschijnt en je het geluid kunt horen. Als je het geluid niet hoort, zorg er dan voor dat je het `start geluid`{:class="block3sound"} blok hebt toegevoegd onder het `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok. Controleer ook of het geluid werkt op jouw computer of tablet.
+**Test:** Klik op de **Pico** sprite en controleer of de tekstballon verschijnt en je het geluid kunt horen. Als je het geluid niet hoort, zorg er dan voor dat je het `start geluid`{:class="block3sound"} blok hebt toegevoegd onder het `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok.
 
 --- /task ---
-
---- save ---
 
