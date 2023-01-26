@@ -25,7 +25,7 @@ Clique sur l'onglet **Son** pour le sprite **Pico** et tu trouveras un son **pop
 
 --- task ---
 
-Pour choisir un nouveau son, clique sur **Choisir un son** et sélectionne **Espace** ou tape `espace` dans la zone de recherche.
+Pour choisir un nouveau son, clique sur **Choisir un son** et sélectionne **Space** ou tape `space` dans la zone de recherche.
 
 ![L'icône « Choisir un son ».](images/sound-button.png)
 
