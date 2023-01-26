@@ -41,13 +41,13 @@ Clique (ou sur une tablette, appuie) sur **Choisir un arrière-plan** dans le vo
 
 --- task ---
 
-Clique sur l'**Espace** ou tape `espace` dans le champ de recherche :
+Clique sur **Space** ou tape `space` dans le champ de recherche :
 
 ![La bibliothèque d'arrière-plan avec la catégorie « Espace » sélectionnée.](images/space-backdrops.png)
 
 --- /task ---
 
-Dans notre exemple, nous avons choisi l'**Espace**, mais choisis l'arrière-plan que tu aimes le plus.
+Dans notre exemple, nous avons choisi **Space**, mais choisis l'arrière-plan que tu aimes le plus.
 
 --- task ---
 
