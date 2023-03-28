@@ -1,21 +1,21 @@
-## Quick quiz
+## Γρήγορο κουίζ
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Απάντησε στις τρεις ερωτήσεις για να αποκτήσεις το σήμα Space talk. Υπάρχουν συμβουλές που θα σε καθοδηγήσουν στη σωστή απάντηση.
 
-When you have answered each question, click on **Check my answer**.
+Όταν έχεις απαντήσει σε κάθε ερώτηση, κάνε κλικ στο **Έλεγξε την απάντησή μου**.
 
-Have fun!
+Διασκέδασέ το!
 
 --- question ---
 ---
 legend: Ερώτηση 1 από 3
 ---
 
-In your project, you added some sprite characters.
+Στο έργο σου, πρόσθεσες μερικούς χαρακτήρες αντικειμένων.
 
-Where do you go to **add a sprite** to your project?
+Πού πηγαίνεις για να **προσθέσεις ένα αντικείμενο** στο έργο σου;
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Ένα σχολιασμένο στιγμιότυπο οθόνης του πλήρους προγράμματος επεξεργασίας Scratch με 1 — Την καρτέλα Ενδυμασίες, 2 — Την καρτέλα Ήχοι, 3 — Την λίστα Αντικειμένων και 4 — Την καρτέλα Σκηνή επισημαίνεται.](images/question1.png)
 
 --- choices ---
 
@@ -23,7 +23,7 @@ Where do you go to **add a sprite** to your project?
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Πήγες στην καρτέλα **Ενδυμασίες** για να επεξεργαστείς μια ενδυμασία για το αντικείμενό σου.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Πήγες στην καρτέλα **Ήχοι** για να επιλέξεις έναν νέο ήχο για το αντικείμενό σου.
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Ναι. Αυτή είναι η περιοχή όπου μπορείς να δεις όλα τα αντικείμενα στο έργο, να προσθέσεις και να διαγράψεις αντικείμενα και να κάνεις κλικ στα αντικείμενα για να τα επιλέξεις.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ Yes. This is the area where you can see all of the sprites in the project, add a
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Πήγες στον πίνακα Σκηνή για να επιλέξεις ένα υπόβαθρο.
 
   --- /feedback ---
 
