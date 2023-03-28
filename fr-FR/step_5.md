@@ -48,7 +48,7 @@ switch costume to [nano-a v] // Nano smiling
 
 --- task ---
 
-**Tester :** Clique sur le sprite **Nano** sur la Scène et vérifie que la bulle de dialogue apparaît et que le costume de Nano change.
+**Test :** Clique sur le sprite **Nano** sur la Scène et vérifie que la bulle de dialogue apparaît et que le costume de Nano change.
 
 --- /task ---
 
