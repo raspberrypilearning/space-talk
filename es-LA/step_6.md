@@ -52,7 +52,7 @@ Cambia las palabras y la cantidad de segundos en el bloque `pensar`{:class="bloc
 
 --- task ---
 
-**Prueba:** Haz clic en el objeto **Giga** en el Escenario y verifica que el objeto cambie de color y que muestre una burbuja de pensamiento.
+**Prueba:** Haz clic en el objeto **Giga** en el escenario y verifica que el objeto cambie de color y que muestre una burbuja de pensamiento.
 
 --- /task ---
 
