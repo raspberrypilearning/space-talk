@@ -1,1 +1,1 @@
-## Test rápido
+## Examen rápido
