@@ -2,11 +2,11 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Agrega el objeto **Tera** y usa cualquiera de los bloques que has aprendido para crear un 'emote' para el objeto **Tera**.
+Agrega el objeto **Tera** y usa cualquiera de los bloques que has aprendido para crear una 'emoción' para el objeto **Tera**.
 </div>
 <div>
 
-![El objeto Tera en el Escenario.](images/tera-step.png){:width="300px"}
+![El objeto Tera en el escenario.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
@@ -43,7 +43,7 @@ start sound [pop v]
 speak [hello]
 ```
 
-También puedes 'reinventar' el proyecto para realizar los cambios que desees. Podrías cambiar el fondo y las cosas que hacen los objetos, e incluso elegir diferentes objetos y darles emoticones.
+También puedes 'remezclar' el proyecto para realizar los cambios que desees. Podrías cambiar el fondo y las cosas que hacen los objetos, e incluso elegir diferentes objetos y darles emoticones.
 
 **Consejo:** Haz clic en un objeto en la lista de objetos debajo del escenario para cambiar el código, el disfraz y el sonido de ese objeto.
 
@@ -58,7 +58,7 @@ title: Certificado de conversación espacial
 
 --- collapse ---
 ---
-título: Proyecto terminado
+title: Proyecto terminado
 ---
 
 Puedes ver el [proyecto terminado aquí](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
