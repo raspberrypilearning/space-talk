@@ -1,6 +1,6 @@
 ## ¿Qué sigue?
 
-Si estás siguiendo la ruta [Introducción a Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro), puedes pasar al proyecto [Toma el autobus](https://projects.raspberrypi.org/en/projects/catch-the-bus). En este proyecto, programarás una animación con objetos que deben llegar a un autobús antes de que se vaya.
+Si estás siguiendo la ruta [Introducción a Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro), puedes pasar al proyecto [Toma el autobús](https://projects.raspberrypi.org/en/projects/catch-the-bus). En este proyecto, programarás una animación con objetos que deben llegar a un autobús antes de que se vaya.
 
 --- print-only ---
 
