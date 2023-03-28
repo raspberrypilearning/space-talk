@@ -107,7 +107,7 @@ Skriv namnet på ditt projekt i projektnamnsrutan högst upp på skärmen.
 
 **Tips:** Ge dina projekt tydliga namn så att du enkelt kan hitta dem när du har många projekt.
 
-Klicka sedan på **Fil**och på **Spara nu** för att spara ditt projekt.
+Klicka sedan på **Arkiv** och på **Spara nu** för att spara ditt projekt.
 
 ![Menyalternativen 'Arkiv'.](images/file-menu.png)
 
