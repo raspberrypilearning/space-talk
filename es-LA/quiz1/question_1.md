@@ -1,6 +1,6 @@
 ## Examen rápido
 
-Responda las tres preguntas para obtener su insignia de Conversación espacial. Hay pistas para guiarte hacia la respuesta correcta.
+Responde las tres preguntas para obtener tu insignia de conversación espacial. Hay pistas para guiarte hacia la respuesta correcta.
 
 Cuando hayas respondido a cada pregunta, haz clic en **Revisar mi respuesta**.
 
@@ -15,23 +15,23 @@ En tu proyecto, agregaste algunos personajes.
 
 ¿A dónde vas para **agregar un objecto** a tu proyecto?
 
-![Captura de pantalla anotada del editor Scratch completo con 1 — La pestaña Disfraces, 2 — La pestaña Sonidos, 3 — La lista de objetos y 4 — El panel Escenario resaltados.](images/question1.png)
+![Captura de pantalla anotada del editor Scratch completo con 1 — La pestaña disfraces, 2 — La pestaña sonidos, 3 — La lista de objetos y 4 — El panel de escenario resaltado.](images/question1.png)
 
 --- choices ---
 
-- () 1: La pestaña **Disfraces**
+- () 1: La pestaña **disfraces**
 
   --- feedback ---
 
-Fuiste a la pestaña **Disfraces** para editar un disfraz para tu objeto.
+Fuiste a la pestaña **disfraces** para editar un disfraz para tu objeto.
 
   --- /feedback ---
 
-- () 2: La pestaña **Sonidos**
+- () 2: La pestaña **Sounds**
 
   --- feedback ---
 
-Fuiste a la pestaña **Sonidos** para elegir un nuevo sonido para tu objeto.
+Fuiste a la pestaña **sonidos** para elegir un nuevo sonido para tu objeto.
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ Fuiste a la pestaña **Sonidos** para elegir un nuevo sonido para tu objeto.
 
   --- feedback ---
 
-Sí. Esta es el área donde puedes ver todos los objetos del proyecto, agregar y eliminar objetos y hacer clic en objetos para seleccionarlos.
+Sí. Esta es el área donde puedes ver todos los objetos del proyecto, agregar y eliminar otros, y hacer clic en ellos para seleccionarlos.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ Sí. Esta es el área donde puedes ver todos los objetos del proyecto, agregar y
 
   --- feedback ---
 
-Fuiste al panel Escenario para elegir un fondo.
+Fuiste al panel de escenario para elegir un fondo.
 
   --- /feedback ---
 
