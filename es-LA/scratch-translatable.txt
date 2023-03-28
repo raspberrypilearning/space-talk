@@ -6,7 +6,7 @@ cuando se hace clic en Nano
 
 Nano hablando
 
-intenta 0.25 en lugar de 0.5
+intenta 0,25 en lugar de 0,5
 
 Umm...
 
@@ -18,7 +18,7 @@ esconde la burbuja de diálogo
 
 número hasta 200
 
-0.5 es medio segundo
+0,5 es medio segundo
 
 reproduce sonido, no espera
 
@@ -26,4 +26,4 @@ muestra la burbuja de diálogo
 
 pon la mano en la boca
 
-Nano sonriendo
+sonriendo
