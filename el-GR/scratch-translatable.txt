@@ -6,7 +6,7 @@
 
 Ο Νανο μιλάει
 
-try 0.25 instead of 0.5
+δοκίμασε 0.25 αντί για 0.5
 
 Χμ...
 
@@ -18,12 +18,12 @@ try 0.25 instead of 0.5
 
 αριθμός έως 200
 
-0.5 is half a second
+Το 0.5 είναι μισό δευτερόλεπτο
 
-plays sound, doesn't wait
+παίζει ήχο, δεν περιμένει
 
-shows speech bubble
+εμφάνιση του σύννεφου ομιλίας
 
-put hand to mouth
+τοποθετεί το χέρι στο στόμα
 
-smiling
+χαμογελάει
