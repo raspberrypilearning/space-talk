@@ -15,9 +15,9 @@ Otra forma de comunicarse es utilizar el sonido.
 
 --- task ---
 
-Haz clic en la pestaña **Sonidos** para el objeto **Pico** y encontrarás el sonido **pop**. Haz clic en el triangulo **Reproducir** para escuchar el sonido **pop**.
+Haz clic en la pestaña **Sounds** para el objeto **Pico** y encontrarás el sonido **pop**. Haz clic en el ícono **Play** para escuchar el sonido **pop**.
 
-![Reproduciendo el sonido pop en la pestaña Sonidos.](images/pico-sound-play.png)
+![Reproduciendo el sonido pop en la pestaña Sounds.](images/pico-sound-play.png)
 
 **Debug**: Si no puedes escuchar un sonido, verifica que el sonido funciona en tu computadora o tableta.
 
@@ -37,7 +37,7 @@ Para elegir un nuevo sonido, haz clic en el ícono **Elige un sonido** y selecci
 
 --- task ---
 
-Reproduce algunos sonidos diferentes usando los íconos **Reproducir**. Una vez que hayas encontrado el sonido que deseas utilizar, haz clic en él para agregarlo a tu proyecto.
+Reproduce algunos sonidos diferentes usando los íconos **Play**. Una vez que hayas encontrado el sonido que deseas utilizar, haz clic en él para agregarlo a tu proyecto.
 
 ![Un ejemplo de sonido (el sonido Alien Creak1) que se muestra debajo del sonido pop en la pestaña Sonidos.](images/pico-inserted-sound.png)
 
@@ -53,7 +53,7 @@ Arrastra el bloque al área de Código, entre el bloque `al hacer clic en este o
 
 ![El bloque de 'iniciar sonido' se agrega entre los dos bloques.](images/pico-insert-block.gif)
 
-Tu código debe parecerse a esto:
+Tu código debería ver así:
 
 ![El objeto Pico.](images/pico-sprite.png)
 
@@ -69,7 +69,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- task ---
 
-Comprueba que tu bloque `iniciar sonido`{:class="block3sound"} tiene el sonido que elegiste. Si no es así, debes hacer clic en el sonido en el bloque `iniciar sonido`{:class="block3sound"}, y después selecciona el sonido elegido en el menú desplegable.
+Comprueba que tu bloque `iniciar sonido`{:class="block3sound"} tiene el sonido que elegiste. Si no es así, debes hacer clic en el sonido en el bloque `iniciar sonido`{:class="block3sound"}, y después selecciona lo que elegiste en el menú desplegable.
 
 ![Haciendo clic en el sonido Alien Creak1 en el menú desplegable dentro del bloque 'iniciar sonido'.](images/pico-sound-menu.png)
 
@@ -77,7 +77,7 @@ Comprueba que tu bloque `iniciar sonido`{:class="block3sound"} tiene el sonido q
 
 --- task ---
 
-**Prueba:** Haz clic en el objeto **Pico** y verifica que la burbuja de dialogo aparece y que puedes escuchar el sonido. Si no escuchas el sonido, asegúrate de haber agregado el bloque `iniciar sonido`{:class="block3sound"} debajo del bloque `al hacer clic en este objeto`{:class="block3events"}.
+**Prueba:** Haz clic en el objeto **Pico** y verifica que la burbuja de diálogo aparece y que puedes escuchar el sonido. Si no escuchas el sonido, asegúrate de haber agregado el bloque `iniciar sonido`{:class="block3sound"} debajo del bloque `al hacer clic en este objeto`{:class="block3events"}.
 
 --- /task ---
 
