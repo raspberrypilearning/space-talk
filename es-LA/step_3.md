@@ -14,18 +14,18 @@ Agrega bloques de código para hacer que Pico reaccione con palabras y sonido cu
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emociones**</span> son una forma de mostrar la personalidad de un personaje en un juego. Pueden usar el habla, sonidos, movimiento y los efectos gráficos, como en Scratch. ¿Juegas a algún juego que use 'emociones'?
+<span style="color: #0faeb0">**Emociones**</span> son una forma de mostrar la personalidad de un personaje en un juego. Pueden usar el habla, sonidos, movimiento y los efectos gráficos, como en Scratch. ¿Juegas a algún juego que use emociones?
 </p>
 
 ### Usa el bloque de decir
 
 --- task ---
 
-Abre el menú de bloques `Apariencia`{:class="block3looks"}.
+Abre el menú de bloques `apariencia`{:class="block3looks"}.
 
 Haz clic en el bloque `decir`{:class="block3looks"} `¡Hola!` `durante`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
 
-![El bloque 'decir ¡Hola! El bloque 'decir ¡Hola! durante 2 segundos' brillando con un contorno amarillo.](images/pico-say-hello-blocks-menu.png)
+![El bloque 'decir ¡Hola! durante 2 segundos' brillando con un contorno amarillo.](images/pico-say-hello-blocks-menu.png)
 
 El objeto **Pico** mostrará una burbuja de diálogo durante dos segundos.
 
@@ -45,7 +45,7 @@ Arrastra el bloque `decir`{:class="block3looks"} `¡Hola!` `durante`{:class="blo
 
 --- /task ---
 
-### Haz que Pico hable cuando hagas clic en él (o tocar)
+### Haz que Pico hable cuando hagas clic en él (o lo toques)
 
 --- task ---
 
@@ -67,9 +67,9 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-Verás comentarios en los ejemplos de código. No necesitas agregar los comentarios cuando agregas código a su proyecto.
+Verás los comentarios en los ejemplos de código. No necesitas agregarlos cuando agregas código a tu proyecto.
 
-Si tienes tiempo cuando hayas terminado tu proyecto, es una buena idea agregar comentarios a tu código para que sea más fácil de entender más adelante. Para agregar un comentario, haz clic con el botón derecho (o en una tableta, mantén presionado) en un bloque en el área de Código y elije **Agregar comentario**.
+Si tienes tiempo cuando hayas terminado tu proyecto, es una buena idea agregar comentarios a tu código para que sea más fácil de entender más adelante. Para agregar un comentario, haz clic con el botón derecho (o en una tableta, mantén presionado) en un bloque en el área de Código y elige **Agregar comentario**.
 
 ![El menú emergente que aparece al hacer clic con el botón derecho en un bloque. 'Agregar comentario' está seleccionado.](images/add-comment.png)
 
@@ -85,6 +85,6 @@ Si tienes tiempo cuando hayas terminado tu proyecto, es una buena idea agregar c
 
 Ya has guardado tu proyecto y le has dado un nombre. Scratch ahora **automáticamente** lo guardará.
 
-Todavía puedes hacer clic en Guardar si lo deseas, solo para asegurarte.
+Todavía puedes hacer clic en guardar si lo deseas, solo para asegurarte.
 
 --- /task ---
