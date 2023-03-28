@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+Σε αυτό το βήμα, θα ρυθμίσεις το έργο σου με ένα υπόβαθρο και το πρώτο αντικείμενο. 
 </div>
 <div>
 
@@ -11,107 +11,107 @@ Set up your project with a space backdrop and the first sprite.
 </div>
 </div>
 
-### Open the starter project
+### Άνοιξε το αρχικό έργο
 
 --- task ---
 
-Ανοίξτε [το αρχικό έργο Ομιλία στο διάστημα](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα του φυλλομετρητή.
+Άνοιξε [το αρχικό έργο Ομιλία στο διάστημα](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα του φυλλομετρητή.
 
 [[[working-offline]]]
 
 --- /task ---
 
-### The Scratch editor
+### Ο Επεξεργαστής του Scratch
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Ένα σχολιασμένο στιγμιότυπο οθόνης του επεξεργαστή Scratch, με τη Σκηνή, το παράθυρο Σκηνή, το παράθυρο Αντικείμενα, τη λίστα Αντικειμένων και την περιοχή Κώδικα, όλα με ετικέτες.](images/scratch-interface.png)
 
-### Add a backdrop
+### Πρόσθεσε ένα υπόβαθρο
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+Η **Σκηνή** είναι εκεί όπου εκτελείται το έργο σου. Το **υπόβαθρο** αλλάζει τον τρόπο με τον οποίο φαίνεται η Σκηνή.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+Κάνε κλικ (ή σε tablet, πάτησε) στο **Επιλέξτε Υπόβαθρο** στο παράθυρο Σκηνή:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![Το εικονίδιο 'Επιλέξτε Υπόβαθρο'.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![Ο επεξεργαστής Scratch με επιλεγμένο το «Επιλέξτε Υπόβαθρο» στην κάτω δεξιά γωνία.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+Κάνε κλικ στην κατηγορία **Διάστημα** ή πληκτρολόγησε την λέξη `space` στο πλαίσιο αναζήτησης:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![Η βιβλιοθήκη υποβάθρων με επιλεγμένη την κατηγορία «Διάστημα».](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+Στο παράδειγμά μας, έχουμε επιλέξει το υπόβαθρο **Space**, αλλά εσύ επίλεξε το υπόβαθρο που σου αρέσει περισσότερο.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Κάνε κλικ στο επιλεγμένο υπόβαθρο για να το προσθέσεις στο έργο σου. Η σκηνή πρέπει να δείχνει το υπόβαθρο που επέλεξες:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![Το πρόγραμμα επεξεργασίας Scratch με το φόντο του Space να έχει προστεθεί.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Πρόσθεσε ένα Αντικείμενο
+
+Μπορείς να δεις το αντικείμενο που περιλαμβάνεται ήδη στο έργο σου; Αυτό είναι η Γάτα του Scratch.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Διάγραψε το αντικείμενο **Αντικείμενο1** (Γάτα του Scratch): επίλεξε το αντικείμενο **Αντικείμενο1** στη λίστα Αντικειμένων κάτω από την Σκηνή και κάνε κλικ στο εικονίδιο **Διαγραφή**.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![Το εικονίδιο «Διαγραφή».](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+Κάνε κλικ στο **Επιλέξτε ένα Αντικείμενο** για να ανοίξεις τη Λίστα Αντικειμένων:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![Το εικονίδιο «Επιλέξτε ένα Αντικείμενο».](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![Ο επεξεργαστής Scratch με επιλεγμένο το «Επιλέξτε ένα Αντικείμενο».](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+Επίλεξε την κατηγορία **Φαντασία**. Κάνε κλικ στο αντικείμενο **Pico** για να το προσθέσεις στο έργο σου.
 
-![The remix button.](images/remix-button.png)
+![Η κατηγορία «Φαντασία» με το αντικείμενο Pico.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+Σύρε το αντικείμενο **Pico** για να το τοποθετήσεις στην αριστερή πλευρά της Σκηνής. Η Σκηνή σου θα πρέπει να μοιάζει κάπως έτσι:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![Η Σκηνή με το επιλεγμένο υπόβαθρο και το αντικείμενο Pico τοποθετημένα στην αριστερή πλευρά.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**Αποθήκευση**: Εάν είσαι συνδεδεμένος στον λογαριασμό σου στο Scratch, κάνε κλικ στο πράσινο κουμπί Ανάμειξη. Αυτή η ενέργεια θα αποθηκεύσει ένα αντίγραφο του έργου στον λογαριασμό σου στο Scratch.
+
+![Το κουμπί ανάμειξη.](images/remix-button.png)
+
+Πληκτρολόγησε το όνομα του έργου σου στο πλαίσιο ονόματος έργου στο επάνω μέρος της οθόνης.
+
+![Το πλαίσιο ονόματος έργου.](images/project-name.png)
+
+**Συμβουλή:** Δώσε στα έργα σου κατανοητά ονόματα, ώστε να μπορείς εύκολα να τα βρεις όταν έχεις πολλά έργα.
+
+Στη συνέχεια, κάνε κλικ στο **Αρχείο**, και στη συνέχεια στο **Αποθήκευση τώρα** για να αποθηκεύσεις το έργο σου.
+
+![Οι επιλογές του μενού «Αρχείο».](images/file-menu.png)
+
+Εάν δεν είσαι συνδεδεμένος ή δεν έχεις λογαριασμό στο Scratch, μπορείς να κάνεις κλικ στο **Αποθήκευση στον υπολογιστή σου** για να αποθηκεύσεις ένα αντίγραφο του έργου σου.
 
 --- /task ---
 
