@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Πρόσθεσε το αντικείμενο **Tera** και χρησιμοποίησε οποιοδήποτε από τα μπλοκ που έχεις μάθει για να δημιουργήσεις μια «έκφραση» για το αντικείμενο ** Tera **.
+Πρόσθεσε το αντικείμενο **Tera** και χρησιμοποίησε οποιοδήποτε από τα μπλοκ που έχεις μάθει για να δημιουργήσεις μια «έκφραση συναισθήματος» για το αντικείμενο ** Tera **.
 </div>
 <div>
 
@@ -11,11 +11,11 @@
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+Θα μπορούσες επίσης να χρησιμοποιήσεις την επέκταση Κείμενο σε Ομιλία για να κάνεις το **Tera** να μιλάει δυνατά:
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+Η προσωπικότητα του αντικειμένου **Tera** είναι δική σου επιλογή, γι' αυτό διασκέδασε χρησιμοποιώντας τις δικές σου δημιουργικές ιδέες.
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Μπορείς επίσης να «αναμίξεις» το έργο για να κάνεις όποιες αλλαγές σου αρέσουν. Θα μπορούσες να αλλάξεις το υπόβαθρο και το πώς εκφράζουν συναισθήματα τα αντικείμενα, ακόμη και να επιλέξεις διαφορετικά αντικείμενα και να τους δώσεις εκφράσεις συναισθημάτων.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Συμβουλή:** Κάνε κλικ σε ένα αντικείμενο στη λίστα των Αντικειμένων κάτω από την Σκηνή για να αλλάξεις τον κώδικα, τις ενδυμασίες και τον ήχο για αυτό το αντικείμενο.
 
 --- collapse ---
 ---
-title: Πιστοποιητικό ομιλίας στο διάστημα
+title: Πιστοποιητικό Ομιλίας στο Διάστημα
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Μπράβο! Ολοκλήρωσες το έργο Ομιλία στο διάστημα. Εδώ είναι [ένα πιστοποιητικό](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} για να γιορτάσεις τις νέες σου δεξιότητες. Κατέβασε ένα αντίγραφο και άνοιξέ το για να προσθέσεις το όνομά σου.
 
 --- /collapse ---
 
@@ -61,7 +61,7 @@ Well done! You have completed the Space talk project. Here is [a certificate](ht
 title: Ολοκληρωμένο έργο
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Μπορείς να δεις [ολοκληρωμένο το έργο εδώ](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
