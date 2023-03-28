@@ -18,7 +18,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-Sí. El bloque `decir`{:class="block3looks"} está en `Apariencia`{:class="block3looks"} en el menú de bloques, que es del mismo color que el bloque.
+Sí. El bloque `decir`{:class="block3looks"} está en `apariencia`{:class="block3looks"} en el menú de bloques, que es del mismo color que el bloque.
 
   --- /feedback ---
 
@@ -26,7 +26,7 @@ Sí. El bloque `decir`{:class="block3looks"} está en `Apariencia`{:class="block
 
   --- feedback ---
 
-Los bloques en el menú `Sonido`{:class="block3sound"} se usan para hacer que los objetos reproduzcan sonidos.
+Los bloques en el menú `Sound`{:class="block3sound"} se usan para hacer que los objetos reproduzcan sonidos.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ Los bloques en el menú `Sonido`{:class="block3sound"} se usan para hacer que lo
 
   --- feedback ---
 
-Los bloques en el menú `Movimiento`{:class="block3sound"} se usan para hacer que los objetos se muevan.
+Los bloques en el menú `movimiento`{:class="block3sound"} se usan para hacer que los objetos se muevan.
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ Los bloques en el menú `Movimiento`{:class="block3sound"} se usan para hacer qu
 
   --- feedback ---
 
-Los bloques en el menu `Eventos`{:class="block3sound"} se usan para hacer que pasen cosas.
+Los bloques en el menu `eventos`{:class="block3sound"} se usan para hacer que pasen cosas.
 
   --- /feedback ---
 
