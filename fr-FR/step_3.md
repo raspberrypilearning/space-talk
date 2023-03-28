@@ -77,7 +77,7 @@ Si tu as le temps lorsque tu as terminé ton projet, c'est une bonne idée d'ajo
 
 --- task ---
 
-**Tester :** Clique sur le sprite **Pico** sur la Scène et vérifie que la bulle de dialogue apparaît pendant deux secondes. Il est important de tester ton code pour t'assurer qu'il fait ce que tu attends.
+**Test :** Clique sur le sprite **Pico** sur la Scène et vérifie que la bulle de dialogue apparaît pendant deux secondes. Il est important de tester ton code pour t'assurer qu'il fait ce que tu attends.
 
 --- /task ---
 
