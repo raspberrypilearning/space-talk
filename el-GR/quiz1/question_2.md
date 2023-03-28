@@ -4,7 +4,7 @@
 legend: Ερώτηση 2 από 3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+Έκανες τον Pico `να πει`{:class="block3looks"} "Γεια!" σε ένα συννεφάκι ομιλίας.
 
 ```blocks3
 say [Hello!] for [2] seconds
