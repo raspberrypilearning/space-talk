@@ -1,0 +1,29 @@
+Hej!
+
+dölj tal efter 2 sekunder
+
+när Nano blir klickad
+
+Nano pratar
+
+prova 0,25 istället för 0,5
+
+Hm...
+
+0 är startfärgen
+
+tillbaka till startfärgen
+
+dölj pratbubblan
+
+tal upp till 200
+
+0,5 är en halv sekund
+
+spelar ljud, väntar inte
+
+visar pratbubbla
+
+lägga handen på munnen
+
+ler
