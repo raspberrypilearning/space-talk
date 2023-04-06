@@ -1,6 +1,6 @@
 ## Je gaat maken
 
-Creëer een ruimtescène met personages 👾 die emoties gebruiken om hun gedachten of gevoelens te delen.
+Creëer een ruimtescène met personages ? die emoties gebruiken om hun gedachten of gevoelens te delen.
 
 In Scratch worden karakters en objecten **sprites** genoemd en verschijnen ze op het **speelveld**.
 
