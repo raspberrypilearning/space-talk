@@ -11,7 +11,7 @@
 </div>
 </div>
 
-### Make Giga change colour
+### गीगा का रंग बदलें
 
 --- task ---
 
