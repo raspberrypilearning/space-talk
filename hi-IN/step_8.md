@@ -11,11 +11,11 @@
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+आप **तेरा** को ज़ोर से बोलने के लिए टेक्स्ट टू स्पीच एक्सटेंशन का भी उपयोग कर सकते हैं:
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+**तेरा** स्प्राइट का व्यक्तित्व आपकी पसंद है, इसलिए अपने स्वयं के रचनात्मक विचारों का उपयोग करके मज़े करें।
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+आप अपनी पसंद का कोई भी बदलाव करने के लिए प्रोजेक्ट को 'रीमिक्स' भी कर सकते हैं। आप पृष्ठभूमि को बदल सकते हैं, और स्प्राइट्स कैसे इमोशन करते हैं, और यहां तक कि अलग-अलग स्प्राइट्स भी चुन सकते हैं और उन्हें इमोशंस दे सकते हैं।
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**सलाह:** कोड, कास्ट्यूम या ध्वनि जोड़ने या बदलने से पहले स्टेज के नीचे Spite लिस्ट में स्प्राइट पर क्लिक करें।
 
 --- collapse ---
 ---
 title: स्पेस टॉक सर्टिफिकेट
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+बहुत बढ़िया! आपने स्पेस टॉक प्रोजेक्ट पूरा कर लिया है। आपके नए कौशल का जश्न मनाने के लिए [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} है। एक प्रति डाउनलोड करें फिर अपना नाम जोड़ने के लिए इसे खोलें।
 
 --- /collapse ---
 
@@ -61,7 +61,7 @@ Well done! You have completed the Space talk project. Here is [a certificate](ht
 title: पूरा किया हुआ प्रोजेक्ट।
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+आप [पूर्ण की गई परियोजना को यहां](https://scratch.mit.edu/projects/485673032/){:target="_blank"} देख सकते हैं।
 
 --- /collapse ---
 
