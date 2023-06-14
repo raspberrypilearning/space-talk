@@ -2,116 +2,116 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+इस चरण में, आप अपने प्रोजेक्ट को एक अंतरिक्ष बैकड्रॉप और पहले स्प्राइट के साथ सेट करेंगे। 
 </div>
 <div>
 
-![ Pico स्प्राइट के साथ Space बैकड्रॉप।](images/backdrop-step.png){:width="300px"}
+![पिको स्प्राइट के साथ स्पेस बैकड्रॉप।](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Open the starter project
+### स्टार्टर प्रोजेक्ट खोलें
 
 --- task ---
 
-[स्पेस टॉक स्टार्टर प्रोजेक्ट](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"} को खोलें I Scratch दूसरे ब्राउज़र टैब में खुलेगा।
+[स्पेस टॉक स्टार्टर प्रोजेक्ट](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"} को खोलें I स्क्रैच दूसरे ब्राउज़र टैब में खुलेगा।
 
 [[[working-offline]]]
 
 --- /task ---
 
-### The Scratch editor
+### स्क्रैच संपादक
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![स्क्रैच एडिटर का एक एनोटेट स्क्रीनशॉट, जिसमें स्टेज, स्टेज पेन, स्प्राइट पेन, स्प्राइट लिस्ट और कोड एरिया लेबल किया गया है।](images/scratch-interface.png)
 
-### Add a backdrop
+### एक पृष्ठभूमि जोड़ें
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+**स्टेज** वह जगह है जहाँ आपका प्रोजेक्ट चलता है। **बैकड्रॉप** स्टेज के दिखने के तरीके को बदल देता है।
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+स्टेज पेन में **बैकड्रॉप चुनें:** पर क्लिक करें (या टैबलेट पर, टैप करें):
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+!['एक पृष्ठभूमि चुनें' आइकन।](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+!['बैकड्रॉप चुनें' वाला स्क्रैच संपादक निचले दाएं कोने में हाइलाइट किया गया है।](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+सर्च बॉक्स में **स्पेस** कैटेगरी पर क्लिक करें या `स्पेस` टाइप करें:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+!['स्पेस' श्रेणी वाली बैकड्रॉप लाइब्रेरी चयनित।](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+हमारे उदाहरण में, हमने **स्पेस** पृष्ठभूमि को चुना है, लेकिन वह पृष्ठभूमि चुनें जो आपको सबसे अधिक पसंद हो।
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+इसे अपने प्रोजेक्ट में जोड़ने के लिए अपनी चुनी हुई पृष्ठभूमि पर क्लिक करें। स्टेज को आपके द्वारा चुना गया बैकड्रॉप दिखाना चाहिए:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![स्पेस बैकड्रॉप के साथ स्क्रैच संपादक जोड़ा गया।](images/inserted-backdrop.png)
 
 --- /task ---
 
+### एक स्प्राइट जोड़ें
+
+क्या आप उस स्प्राइट को देख सकते हैं जो पहले से ही आपके प्रोजेक्ट में शामिल है? वह स्क्रैच कैट है।
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+**स्प्राइट1** (स्क्रैच कैट) स्प्राइट हटाएं: स्टेज के नीचे स्प्राइट सूची में **स्प्राइट1** स्प्राइट चुनें और **डिलीट** आइकन पर क्लिक करें।
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+!['हटाएं' आइकन।](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+स्प्राइट सूची में **चुनें एक स्प्राइट** पर क्लिक करें:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+!['एक स्प्राइट चुनें' आइकन।](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+!['एक स्प्राइट चुनें' के साथ स्क्रैच संपादक पर प्रकाश डाला गया।](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+**Fantasy** श्रेणी को चुनें। उन्हें अपने प्रोजेक्ट में जोड़ने के लिए **पिको** स्प्राइट पर क्लिक करें।
 
-![The remix button.](images/remix-button.png)
+![पिको स्प्राइट के साथ 'काल्पनिक' श्रेणी।](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+स्टेज के बाईं ओर स्थित करने के लिए **पिको** स्प्राइट को खींचें। आपका स्टेज कुछ इस तरह दिखना चाहिए:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![चुनी हुई पृष्ठभूमि वाला मंच और बाईं ओर स्थित पिको स्प्राइट।](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**सहेजें**: यदि आप अपने स्क्रैच खाते में साइन इन हैं, तो हरे रंग के रीमिक्स बटन पर क्लिक करें। इससे प्रोजेक्ट की एक कॉपी आपके स्क्रैच खाते में सेव हो जाएगी।
+
+![रीमिक्स बटन।](images/remix-button.png)
+
+स्क्रीन के शीर्ष पर प्रोजेक्ट नाम बॉक्स में अपने प्रोजेक्ट का नाम टाइप करें।
+
+![परियोजना का नाम बॉक्स।](images/project-name.png)
+
+**सलाह:** अपने प्रोजेक्टस को आसान नाम दें ताकि जब आपके पास बहुत सारे प्रोजेक्टस हो, तो आप उन्हें आसानी से ढूंढ सकें।
+
+**Tip:** अपने प्रोजेक्टस को आसान नाम दें ताकि जब आपके पास बहुत सारे प्रोजेक्टस हो, तो आप उन्हें आसानी से ढूंढ सकें।
+
+!['फ़ाइल' मेनू विकल्प।](images/file-menu.png)
+
+यदि आप ऑनलाइन नहीं हैं या आपके पास स्क्रैच खाता नहीं है, तो आप अपने प्रोजेक्ट की एक प्रति सहेजने के लिए **अपने कंप्यूटर में सहेजें** पर क्लिक कर सकते हैं।
 
 --- /task ---
 
