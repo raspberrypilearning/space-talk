@@ -1,11 +1,11 @@
-## Nano switches costume
+## नैनो ने बदला कोस्टयूम
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+**वेशभूषा** बदलकर नैनो को भावपूर्ण बनाएं।
 
-स्प्राइट्स के पास **कॉस्टयूम** होते हैं जो उनके दिखने के तरीके को बदल देते हैं। To animate a sprite, you can change its costume.
+स्प्राइट्स के पास **कॉस्टयूम** होते हैं जो उनके दिखने के तरीके को बदल देते हैं। एक स्प्राइट को चेतन करने के लिए, आप उसकी पोशाक बदल सकते हैं।
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Get Nano to emote by switching **costumes**.
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### नैनो संकेत "धन्यवाद!"
 
 --- task ---
 
@@ -32,7 +32,7 @@ Get Nano to emote by switching **costumes**.
 ![Sprite लिस्ट, जिसमे nano स्प्राइट के चारों ओर नीले रंग की आउटलाइन यह दर्शाती है कि Nano का चयन किया गया है।](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+**Code** टैब पर क्लिक करें और **नैनो ** स्प्राइट से `धन्यवाद!` `Say`{:class="block3looks"} के लिए एक स्क्रिप्ट जोड़ें:
 
 ![Nano स्प्राइट।](images/nano-sprite.png)
 
@@ -44,17 +44,17 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**युक्ति:** सभी ब्लॉक रंग-कोडित हैं, इसलिए आप `स्विच कॉस्ट्यूम को`{:class="block3looks"} ब्लॉक में `लुक्स`{:class="block3looks"} ब्लॉक मेनू और `प्रतीक्षा में पाएंगे`{:class="block3control"} `Control`{:class="block3control"} ब्लॉक मेन्यू में ब्लॉक करें।
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**परीक्षण:** स्टेज पर **नैनो** स्प्राइट पर क्लिक करें और जांचें कि नैनो की पोशाक बदल रही है या नहीं।
 
 --- /task ---
 
 ### Nano साइन भाषा (संकेत भाषा) का उपयोग करता है
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">लाखों लोग बातचीत करने के लिए साइन भाषा का उपयोग करते हैं। A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">लाखों लोग बातचीत करने के लिए साइन भाषा का उपयोग करते हैं। 'धन्यवाद' का संकेत करने का एक सामान्य तरीका यह है कि अपनी उंगलियों को अपनी ठुड्डी पर अपने हाथ से जितना संभव हो उतना सपाट रखें। फिर आप अपना हाथ आगे की ओर, अपनी ठुड्डी से दूर और थोड़ा नीचे ले जाएं। 
 </p>
 
 <!-- Add a video of someone signing -->
