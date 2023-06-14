@@ -1,21 +1,21 @@
-## Quick quiz
+## जल्दी सोचिए
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+अपना स्पेस टॉक बैज प्राप्त करने के लिए तीन प्रश्नों के उत्तर दें। आपको सही उत्तर के मार्गदर्शन करने के लिए संकेत हैं।
 
-When you have answered each question, click on **Check my answer**.
+जब आप प्रत्येक प्रश्न का उत्तर दे दें, तो **मेरा उत्तर जांचें**पर क्लिक करें।
 
-Have fun!
+मस्ती करो!
 
 --- question ---
 ---
 legend: पहला प्रश्न
 ---
 
-In your project, you added some sprite characters.
+अपने प्रोजेक्ट में, आपने कुछ स्प्राइट के चित्र डालें हैं।
 
-Where do you go to **add a sprite** to your project?
+आप अपने प्रोजेक्ट में **स्प्राइट जोड़ने** के लिए कहां जाते हैं?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![1—द कॉस्टयूम टैब, 2—द साउंड्स टैब, 3—द स्प्राइट लिस्ट, और 4—स्टेज पेन हाईलाइट किए हुए पूर्ण स्क्रैच एडिटर का एनोटेट स्क्रीनशॉट।](images/question1.png)
 
 --- choices ---
 
@@ -23,7 +23,7 @@ Where do you go to **add a sprite** to your project?
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+आप अपने स्प्राइट के लिए एक पोशाक चुनने करने के लिए **पोशाक** टैब पर गए।
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+आप अपने स्प्राइट के लिए एक नई ध्वनि चुनने के लिए **ध्वनि** टैब पर गए।
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+हाँ। यह वह क्षेत्र है जहां आप प्रोजेक्ट में सभी स्प्राइट्स देख सकते हैं, स्प्राइट्स जोड़ और हटा सकते हैं, और उन्हें चुनने के लिए स्प्राइट्स पर क्लिक कर सकते हैं।
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ Yes. This is the area where you can see all of the sprites in the project, add a
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+आप एक बैकड्रॉप चुनने के लिए स्टेज फलक पर गए थे।
 
   --- /feedback ---
 
