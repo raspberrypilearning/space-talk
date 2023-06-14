@@ -11,7 +11,7 @@
 </div>
 </div>
 
-### Add a sound to the Pico Sprite
+### पिको स्प्राइट में ध्वनि जोड़ें
 
 --- task ---
 
@@ -19,43 +19,43 @@
 
 ![Sounds टैब में pop ध्वनि बजाना।](images/pico-sound-play.png)
 
-**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+**डीबग**: यदि आप कोई ध्वनि नहीं सुन सकते हैं तो जांचें कि ध्वनि आपके कंप्यूटर या टैबलेट पर काम कर रही है।
 
 --- /task ---
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+एक नई ध्वनि चुनने के लिए, **ध्वनि चुनें** आइकन पर क्लिक करें और **अंतरिक्ष** श्रेणी चुनें या खोज बॉक्स में `अंतरिक्ष` टाइप करें।
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+!['एक ध्वनि चुनें' आइकन।](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+!['एक ध्वनि चुनें' के साथ स्क्रैच संपादक पर प्रकाश डाला गया।](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![ध्वनि पुस्तकालय में 'अंतरिक्ष' श्रेणी।](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+**प्ले** आइकन का उपयोग करके कुछ भिन्न ध्वनियां बजाएं। एक बार जब आपको वह ध्वनि मिल जाए जिसका आप उपयोग करना चाहते हैं, तो उसे अपने प्रोजेक्ट में जोड़ने के लिए उस पर क्लिक करें।
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![ध्वनि टैब में पॉप ध्वनि के नीचे दिखाया गया एक उदाहरण ध्वनि (एलियन क्रेक1 ध्वनि)।](images/pico-inserted-sound.png)
 
 --- /task ---
 
-### Make the sound play when clicked (or tapped)
+### क्लिक करने पर (या टैप किए जाने पर) ध्वनि बजाएं
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+**कोड** टैब पर क्लिक करें। `ध्वनि`{:class="block3sound"} ब्लॉक मेनू में, `प्रारंभ ध्वनि`{:class="block3sound"} ब्लॉक ढूंढें।
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+`जब यह स्प्राइट क्लिक किया गया`{:class="block3events"} ब्लॉक और `कहना`{:class="block3looks"} ब्लॉक के बीच, ब्लॉक को कोड क्षेत्र में खींचें। एक गैप खुल जाएगा और ब्लॉक अपनी जगह पर आ जाएगा।
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![दो ब्लॉक के बीच 'स्टार्ट साउंड' ब्लॉक जोड़ा जा रहा है।](images/pico-insert-block.gif)
 
-Your code should look like this:
+आपका कोड इस प्रकार दिखना चाहिए:
 
-![The Pico sprite.](images/pico-sprite.png)
+![पिको स्प्राइट।](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Test your code
+### अपने कोड का परीक्षण करें
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+जांचें कि आपके `प्रारंभ ध्वनि`{:class="block3sound"} ब्लॉक में आपकी चुनी हुई ध्वनि है। यदि ऐसा नहीं होता है, तो आपको `प्रारंभ ध्वनि`{:class="block3sound"} ब्लॉक में ध्वनि पर क्लिक करना होगा, फिर ड्रॉप-डाउन मेनू में अपनी चुनी हुई ध्वनि का चयन करें।
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+!['स्टार्ट साउंड (start sound)' ब्लॉक के भीतर ड्रॉप-डाउन मेनू में Alien Creak 1 ध्वनि पर क्लिक करना।](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
+**परीक्षण:** **पिको** स्प्राइट पर क्लिक करें और जांचें कि स्पीच बबल प्रकट होता है और आप ध्वनि सुन सकते हैं। यदि आप ध्वनि नहीं सुनते हैं, तो सुनिश्चित करें कि आपने `जब यह स्प्राइट क्लिक किया`{:class="block3events"} ब्लॉक के तहत `स्टार्ट साउंड`{:class="block3sound"} ब्लॉक जोड़ा है।
 
 --- /task ---
 
