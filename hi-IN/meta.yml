@@ -2,13 +2,14 @@
 title: अंतरिक्ष वार्ता
 hero_image: images/banner.png
 description: स्प्राइट्स को 'इमोट' देने के लिए Scratch का उपयोग करें ताकि क्लिक करने पर वे बातें कर सकें
-version: 4
+meta_title: बच्चों और किशोरों के लिए स्क्रैच कोडिंग प्रोजेक्ट | स्क्रैच का परिचय
+meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: परिचय
   - 
     title: अपना दृश्य बनाएं
   - 
@@ -24,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: सोचिए
     knowledge_quiz:
       path: quiz1
       version: 1
