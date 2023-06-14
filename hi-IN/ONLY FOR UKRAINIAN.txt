@@ -1,19 +1,19 @@
-Code tab
+कोड टैब
 
-Blocks menu
+ब्लॉक मेनू
 
-Backpack
+बैग
 
-Zoom
+ज़ूम
 
-Sprite list
+स्प्राइट सूची
 
-Sprite pane
+स्प्राइट फलक
 
-Stage pane
+चरण फलक
 
-Stage pane
+मंच फलक
 
-Full screen
+पूर्ण स्क्रीन
 
-Code area
+कोड क्षेत्र
