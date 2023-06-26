@@ -10,7 +10,7 @@
 </div>
 <div>
 
-![Nano बोले, "Thanks"!](images/nano-step2.png){:width="300px"}
+![Nano बोले, "Thanks"!](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
