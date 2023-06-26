@@ -4,7 +4,7 @@
 legend: दूसरा प्रश्न
 ---
 
-आपने Pico से एक स्पीच बबल में "Hello!" बुलवाया।
+एक भाषण बुलबुले मेंआपने पिको को "नमस्ते!" `कहा`{:class="block3looks"}।
 
 ```blocks3
 say [Hello!] for [2] seconds

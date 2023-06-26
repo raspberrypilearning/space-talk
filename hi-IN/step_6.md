@@ -1,4 +1,4 @@
-## Giga बदले रंग
+## Giga ने रंग बदला
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -10,6 +10,8 @@
 
 </div>
 </div>
+
+### गीगा का रंग बदलें
 
 --- task ---
 
@@ -54,4 +56,3 @@ clear graphic effects // शुरुआती रंग में वापस
 
 --- /task ---
 
---- save ---
