@@ -9,7 +9,7 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: はじめに
   - 
     title: 場面を作る
   - 
@@ -17,7 +17,7 @@ steps:
     completion:
       - engaged
   - 
-    title: Pico plays a sound
+    title: Picoが音を出す
   - 
     title: Nanoのコスチュームを変える
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: ふりかえり
     knowledge_quiz:
       path: quiz1
       version: 1
