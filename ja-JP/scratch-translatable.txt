@@ -6,7 +6,7 @@ Nanoがクリックされたとき
 
 Nanoが話す
 
-try 0.25 instead of 0.5
+0.5の代わりに0.25を試してみましょう
 
 うーん...
 
@@ -18,12 +18,12 @@ try 0.25 instead of 0.5
 
 200までの数
 
-0.5 is half a second
+0.5は1秒の半分
 
-plays sound, doesn't wait
+音を鳴らす、待たない
 
-shows speech bubble
+ふきだしを表示
 
-put hand to mouth
+手を口へ持っていく
 
-smiling
+笑顔
