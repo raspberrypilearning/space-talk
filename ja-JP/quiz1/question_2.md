@@ -4,7 +4,7 @@
 legend: 質問2/3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+Picoに吹き出しで「こんにちは！」と`言わせ`{:class="block3looks"}ました。
 
 ```blocks3
 say [Hello!] for [2] seconds
