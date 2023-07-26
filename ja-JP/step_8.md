@@ -11,11 +11,11 @@
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+音声合成の拡張機能を使用したら、**Tera**に大声でしゃべらせることもできます。
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+**Tera**スプライトの個性はあなたが決められます。あなた自身の創造的なアイデアを使って楽しんでください。
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+プロジェクトを「リミックス」して、好きな変更を加えることもできます。 背景やスプライトのエモート方法を変更したり、別のスプライトを選択してエモートを与えたりすることもできます。
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**ヒント:** ステージの下にあるスプライトリストでスプライトをクリックして、そのスプライトのコード、コスチューム、音を変更します。
 
 --- collapse ---
 ---
 title: スペーストーク修了証
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+よくできました！ スペーストークのプロジェクトが完了しました。 この[修了証](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}であなたの新しいスキルをお祝いしよう。 ダウンロードして開いて自分の名前を記入してください。
 
 --- /collapse ---
 
@@ -61,7 +61,7 @@ Well done! You have completed the Space talk project. Here is [a certificate](ht
 title: 完成したプロジェクト
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+[完成したプロジェクトはこちら](https://scratch.mit.edu/projects/606912139/){:target="_blank"}で確認できます。
 
 --- /collapse ---
 
