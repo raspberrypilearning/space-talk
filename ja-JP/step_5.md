@@ -1,11 +1,11 @@
-## Nano switches costume
+## Nanoのコスチュームを変える
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+**コスチューム**を切り替えることで、Nanoにエモートさせます。
 
-スプライトには、見た目を変えるための**コスチューム**があります。 To animate a sprite, you can change its costume.
+スプライトには、見た目を変えるための**コスチューム**があります。 コスチュームを変更してスプライトを動かすことができます。
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Get Nano to emote by switching **costumes**.
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nanoが「ありがとう！ 」と合図する
 
 --- task ---
 
@@ -32,7 +32,7 @@ Get Nano to emote by switching **costumes**.
 ![Nanoが選択されていることを示すためにNanoスプライトの周りが青く囲まれたスプライトリスト。](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+**コード**タブをクリックして、 **Nano**スプライトが`コスチュームを...にする`{:class="block3looks"}と`待つ`{:class="block3control"}を使用して「ありがとう」と合図するスクリプトを追加します。
 
 ![Nanoスプライト。](images/nano-sprite.png)
 
@@ -44,17 +44,17 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**ヒント:** すべてのブロックは色で分類されているため、`コスチュームを...にする`{:class="block3looks"}ブロックは`見た目`{:class="block3looks"}ブロックメニューにあります。
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**テスト:** ステージの**Nano**スプライトをクリックし、ふきだしが表示され、Nanoのコスチュームが変わることを確認します。
 
 --- /task ---
 
 ### Nanoが手話で話す
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">何百万人もの人々が手話を使ってコミュニケーションをとっています。 A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">何百万人もの人々が手話を使ってコミュニケーションをとっています。 世界で一般的に「ありがとう」を表すには、手をできるだけ平らにして指をあごにあてます。 次に手を前方に動かし、あごから離すように少し下げます。 
 </p>
 
 <!-- Add a video of someone signing -->
