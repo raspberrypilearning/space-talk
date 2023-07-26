@@ -1,21 +1,21 @@
-## You will make
+## はじめに
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+キャラクター👾が「感情を表現（エモート）」して考えや感情をやりとりする宇宙の場面をつくります。
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+Scratchでは、キャラクターとオブジェクトは**スプライト**と呼ばれ**ステージ**上に表示されます。
 
-You will:
+次のことを行います。
 + スプライトと**背景**を追加して、プロジェクトをセットアップします
 + `見た目`{:class="block3looks"}および`音`{:class="block3sound"}コードブロックを使い、スプライトをクリックするとコミュニケーションが行われるようにします
 + **ペイントエディタ**を使って**コスチューム**を変更します
 
 --- no-print --- --- task ---
-### Play ▶️
+### プレイ ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+各スプライトをクリックして何が起きるか確認します。 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+あるスプライトをクリックしてから別のスプライトをすばやくクリックするとどうなりますか？
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![完成したプロジェクト。](images/showcase_static.png)
 
 --- /print-only ---
 
