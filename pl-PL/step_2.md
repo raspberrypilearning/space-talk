@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+Skonfiguruj swój projekt z kosmicznym tłem i pierwszym duszkiem. 
 </div>
 <div>
 
@@ -11,7 +11,7 @@ Set up your project with a space backdrop and the first sprite.
 </div>
 </div>
 
-### Open the starter project
+### Otwórz projekt startowy
 
 --- task ---
 
@@ -21,97 +21,97 @@ Otwórz [projekt startowy Kosmicznej rozmowy ](https://scratch.mit.edu/projects/
 
 --- /task ---
 
-### The Scratch editor
+### Edytor Scratch
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Zrzut ekranu edytora Scratch z adnotacjami dla: Sceny, Okienka sceny, Okienka duszka, Listy duszków i obszaru Skryptu.](images/scratch-interface.png)
 
-### Add a backdrop
+### Dodaj tło
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+**Scena** to miejsce, gdzie uruchamiany jest Twój projekt. **Tło** zmienia wygląd sceny.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+Kliknij (lub stuknij na tablecie) opcję **Wybierz tło** w okienku Scena:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![Ikona „Wybierz tło”.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![Edytor Scratch z podświetloną opcją „Wybierz tło” w prawym dolnym rogu.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+Kliknij kategorię **Kosmos** lub wpisz `kosmos` w polu wyszukiwania:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![Biblioteka teł z wybraną kategorią „Kosmos”.](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+W naszym przykładzie wybraliśmy tło **Space**(kosmos), ale wybierz tło, które najbardziej Ci się podoba.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Kliknij wybrane tło, aby dodać je do swojego projektu. Scena powinna pokazywać wybrane przez Ciebie tło:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![Edytor Scratch z dodanym kosmicznym tłem.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Dodaj duszka
+
+Czy widzisz duszka, który już istnieje w Twoim projekcie? To jest Scratch Cat.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Usuń **Duszek1** (Scratch Cat): wybierz element **Duszek1** z listy duszków poniżej sceny i kliknij ikonę **Usuń**.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![Ikona „Usuń”.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+Kliknij **Wybierz duszka** na liście duszków:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![Ikona „Wybierz duszka”.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![Edytor Scratch z podświetloną opcją „Wybierz duszka”.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+Wybierz kategorię **Fikcja**. Kliknij duszka **Pico** aby dodać go do swojego projektu.
 
-![The remix button.](images/remix-button.png)
+![Kategoria „Fikcja” z duszkiem Pico.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+Przeciągnij duszka **Pico** tak, aby umieścić go po lewej stronie Sceny. Twoja Scena powinna wyglądać mniej więcej w ten sposób:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![Scena z wybranym tłem i duszkiem Pico umieszczonym po lewej stronie.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**Zapisz**: Jeśli jesteś zalogowany na swoje konto Scratch, kliknij zielony przycisk Remix. Spowoduje to zapisanie kopii projektu na Twoim koncie Scratch.
+
+![Przycisk Remix.](images/remix-button.png)
+
+Wpisz nazwę swojego projektu w polu nazwy projektu u góry ekranu.
+
+![Pole nazwy projektu.](images/project-name.png)
+
+**Wskazówka:** Nadaj swoim projektom pomocne nazwy, aby łatwo je znaleźć, gdy będziesz mieć wiele projektów.
+
+Następnie kliknij **Plik**, a potem **Zapisz teraz**, aby zapisać swój projekt.
+
+![Opcje menu „Plik”.](images/file-menu.png)
+
+Jeśli nie jesteś online lub nie masz konta Scratch, możesz kliknąć **Zapisz na swoim komputerze** aby zapisać kopię swojego projektu.
 
 --- /task ---
 
