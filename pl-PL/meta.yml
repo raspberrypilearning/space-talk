@@ -2,14 +2,14 @@
 title: Kosmiczna rozmowa
 hero_image: images/banner.png
 description: Użyj Scratcha, aby dać duszkom „emotkę”, tak by komunikowały się po kliknięciu
-meta_title: Scratch coding projects for kids and teens | Intro to Scratch
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+meta_title: Projekty programistyczne Scratch dla dzieci i młodzieży | Wprowadzenie do Scratcha
+meta_description: Naucz się programować w języku Scratch dzięki projektom programistycznym Fundacji Raspberry Pi dla dzieci i nastolatków. Twórz animacje Scratch, gry, aplikacje i nie tylko.
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: Co będziesz robić
   - 
     title: Stwórz swoją scenę
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Szybki quiz
     knowledge_quiz:
       path: quiz1
       version: 1
