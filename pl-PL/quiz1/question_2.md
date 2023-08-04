@@ -4,7 +4,7 @@
 legend: Pytanie 2 z 3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+Sprawiłeś, że Pico `powiedział`{:class="block3looks"} „Cześć!” w dymku z tekstem.
 
 ```blocks3
 say [Hello!] for [2] seconds
