@@ -6,7 +6,7 @@ po kliknięciu Nano
 
 Nano mówi
 
-try 0.25 instead of 0.5
+spróbuj 0.25 zamiast 0.5
 
 Hm...
 
@@ -18,12 +18,12 @@ ukryj dymek z tekstem
 
 liczba mniejsza lub równa 200
 
-0.5 is half a second
+0.5 to pół sekundy
 
-plays sound, doesn't wait
+odtwórz dźwięk bez czekania
 
 pokaż dynek rozmowy
 
-put hand to mouth
+połóż rękę przy ustach
 
 Nano się uśmiecha
