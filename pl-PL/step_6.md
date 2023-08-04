@@ -11,7 +11,7 @@ Duszki mogą również używać baniek myśli i zmieniać kolory, aby pokazać s
 </div>
 </div>
 
-### Make Giga change colour
+### Giga zmienia kolor
 
 --- task ---
 
