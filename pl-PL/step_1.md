@@ -1,21 +1,21 @@
-## You will make
+## Co będziesz robić
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+W tym projekcie stworzysz scenę w kosmosie z postaciami, które „emotują”, aby podzielić się swoimi przemyśleniami lub uczuciami.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+W Scratchu postacie i obiekty są nazywane **duszkami** i pojawiają się na **scenie**.
 
-You will:
+Co zrobisz:
 + Dodaj duszki i **tło** aby skonfigurować swój projekt
 + Klikniesz duszki, aby komunikowały się za pomocą `Wyglądu`{:class="block3looks"} i `Dźwięku`{:class="block3sound"}
 + Użyjesz **Edytora graficznego** aby zmienić **kostium**
 
 --- no-print --- --- task ---
-### Play ▶️
+### Zagraj ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Kliknij każdego duszka, aby zobaczyć, co robi. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+Co się stanie, jeśli klikniesz jednego duszka, a potem szybko innego?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![Ukończony projekt.](images/showcase_static.png)
 
 --- /print-only ---
 
