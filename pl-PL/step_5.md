@@ -1,11 +1,11 @@
-## Nano switches costume
+## Nano zmienia kostiumy
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+Sprawisz, że Nano będzie emotował poprzez zmianę **kostiumów**.
 
-Duszki mają **kostiumy**, które pozwalają im zmienić wygląd. To animate a sprite, you can change its costume.
+Duszki mają **kostiumy**, które pozwalają im zmienić wygląd. Aby animować duszka, możesz zmienić jego kostiumy.
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Duszki mają **kostiumy**, które pozwalają im zmienić wygląd. To animate a s
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nano mówi „Dzięki!”
 
 --- task ---
 
@@ -32,7 +32,7 @@ Upewnij się, że duszek **Nano** jest zaznaczony na Liście duszków pod Sceną
 ![Lista duszków z niebieską obwódką wokół duszka Nano wskazującą, że Nano został wybrany.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+Kliknij zakładkę **Skrypt** i dodaj kod, aby duszek **Nano** powiedział {:class="block3looks"} "Dzięki!" używając `zmień kostium na`{:class="block3looks"} i`oczekiwanie`{:class="block3control"}:
 
 ![Duszek Nano.](images/nano-sprite.png)
 
@@ -44,17 +44,17 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**Wskazówka:** Wszystkie bloki są oznaczone kolorami, więc znajdziesz blok `zmień kostium na`{:class="block3looks"} w menu bloków `Wygląd`{:class="block3looks"}i blok `oczekiwania`{:class="block3control"}w menu bloków `Kontroli`{:class="block3control"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**Test:** Kliknij duszka **Nano** na Scenie i sprawdź, czy kostium Nano się zmienia.
 
 --- /task ---
 
 ### Nano używa języka migowego
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miliony ludzi porozumiewają się w języku migowym. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miliony ludzi porozumiewają się w języku migowym. Powszechnym sposobem wyrażenia „Dziękuję” jest ułożenie palców na podbródku tak płasko, jak to możliwe. Następnie rękę przesuwa się do przodu, z dala od podbródka i lekko w dół. 
 </p>
 
 <!-- Add a video of someone signing -->
