@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+قم بإعداد مشروعك بخلفية فضاء و الكائن الأول. 
 </div>
 <div>
 
@@ -12,7 +12,7 @@ Set up your project with a space backdrop and the first sprite.
 </div>
 </div>
 
-### Open the starter project
+### افتح مشروع البداية
 
 --- task ---
 
@@ -22,17 +22,17 @@ Set up your project with a space backdrop and the first sprite.
 
 --- /task ---
 
-### The Scratch editor
+### محرر Scratch
 
 ![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-### Add a backdrop
+### أضف خلفية جديدة
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+**المنصة** هي المكان الذي يعمل فيه مشروعك. **الخلفية** تغير الطريقة التي تظهر بها المنصة.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+انقر (أو اضغط في الجهاز اللوحي) على **اختر خلفية** في جزء المنصة:
 
 ![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
@@ -42,7 +42,7 @@ Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+انقر فوق فئة **space** أو اكتب `space` في مربع البحث:
 
 ![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
