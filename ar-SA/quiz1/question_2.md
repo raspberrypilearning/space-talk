@@ -4,7 +4,7 @@
 legend: سؤال ٢ من ٣
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+لقد جعلت بيكو `يقول`{: class = "block3looks"} "مرحبًا!" في فقاعة كلام.
 
 ```blocks3
 say [Hello!] for [2] seconds
