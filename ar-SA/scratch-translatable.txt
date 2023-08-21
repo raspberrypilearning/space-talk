@@ -6,7 +6,7 @@
 
 Nano يتحدث
 
-try 0.25 instead of 0.5
+جرب 0.25 بدلاً من 0.5
 
 همم...
 
@@ -18,12 +18,12 @@ try 0.25 instead of 0.5
 
 عدد يصل إلى 200
 
-0.5 is half a second
+ 0.5  هو نصف ثانية.
 
-plays sound, doesn't wait
+شغل الصوت ، لا تنتظر
 
-shows speech bubble
+يظهر فقاعة الكلام
 
-put hand to mouth
+ضع اليد على الفم
 
-smiling
+يبتسم
