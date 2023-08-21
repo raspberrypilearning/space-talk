@@ -1,11 +1,11 @@
-## Nano switches costume
+## Nano يبدل المظاهر
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+ستجعل Nano يعبر عن مشاعره عن طريق تبديل مظهره **الهيئة**.
 
-الكائنات تمتلك **المظاهر** لتغيير الطريقة التي تظهر بها. To animate a sprite, you can change its costume.
+الكائنات تمتلك **المظاهر** لتغيير الطريقة التي تظهر بها. لتحريك كائن ما، يمكنك تغيير مظهره.
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Get Nano to emote by switching **costumes**.
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nano يقول "شكرًا!" بلغة الاشارة
 
 --- task ---
 
@@ -32,7 +32,7 @@ Get Nano to emote by switching **costumes**.
 ![قائمة الكائن، مع أطار أزرق حول الكائن Nano لإظهار أنه تم أختيار Nano.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+أنقر على تبويب **المقاطع البرمجية** وأضف نص للحصول على الكائن **Nano** `لقول`{:class="block3looks"}`شكراً!`:
 
 ![الكائن Nano.](images/nano-sprite.png)
 
@@ -44,11 +44,11 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**نصيحة:** جميع الكتل البرمجية مميزة بالألوان، لذلك ستجد كتلة`غير المظهر الى `في قائمة الكتل`الهيئة`{:class="block3looks"} وستجد كتلة `انتظر` في قائمة الكتل`التحكم`{:class="block3control"} blocks menu.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**اختبار:** انقر فوق **Nano** sprite على المنصة وتأكد من أن مظهر Nano قد تغير.
 
 --- /task ---
 
