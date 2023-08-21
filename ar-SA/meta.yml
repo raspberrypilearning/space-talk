@@ -2,14 +2,14 @@
 title: حديث الفضاء
 hero_image: images/banner.png
 description: استخدم Scratch لإعطاء الكائنات "تعبيرًا" بحيث يتواصلون عند النقر عليهم
-meta_title: Scratch coding projects for kids and teens | Intro to Scratch
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+meta_title: مشاريع الترميز Scratch للأطفال والمراهقين | مقدمة إلى سكراتش
+meta_description: تعلم البرمجة في سكراتش باستخدام مشاريع الترميز الخاصة بمؤسسة Raspberry Pi Foundation للأطفال والمراهقين. أنشئ رسومًا متحركة وألعابًا وتطبيقات من سكراتش والمزيد.
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: سوف تصنع
   - 
     title: اصنع مشهدك
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: اختبار سريع
     knowledge_quiz:
       path: quiz1
       version: 1
