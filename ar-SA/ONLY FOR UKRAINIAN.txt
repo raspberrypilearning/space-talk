@@ -1,19 +1,19 @@
-Code tab
+علامة التبويب التعليمات البرمجية
 
-Blocks menu
+قائمة الكتل
 
-Backpack
+الجزء الخلفي
 
-Zoom
+تكبير
 
-Sprite list
+قائمة الكائنات
 
-Sprite pane
+جزء الكائن
 
-Stage pane
+جزء المنصة
 
-Stage pane
+جزء المنصة
 
-Full screen
+ملئ الشاشة
 
-Code area
+منطقة كتابة التعليمات البرمجية
