@@ -4,7 +4,7 @@
 legend: 質問2/3
 ---
 
-Picoにふきだしで「こんにちは!」と言わせました。
+Picoに吹き出しで「こんにちは！」と`言わせ`{:class="block3looks"}ました。
 
 ```blocks3
 say [こんにちは！] for [2] seconds

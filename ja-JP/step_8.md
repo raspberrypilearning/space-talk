@@ -11,6 +11,10 @@
 </div>
 </div>
 
+音声合成の拡張機能を使用したら、**Tera**に大声でしゃべらせることもできます。
+
+[[[scratch3-text-to-speech]]]
+
 **Tera**スプライトの個性はあなたが決められます。あなた自身の創造的なアイデアを使って楽しんでください。
 
 ```blocks3
@@ -26,6 +30,8 @@ think [うーん...] for [2] seconds
 
 switch costume to [tera-d v]
 
+wait (1) seconds // 0.5は1秒の半分
+
 set [color v] effect to [0] // 200までの数
 
 clear graphic effects
@@ -33,18 +39,20 @@ clear graphic effects
 play sound [pop v] until done
 
 start sound [pop v]
+
+speak [こんにちは]
 ```
 
 プロジェクトを「リミックス」して、好きな変更を加えることもできます。 背景やスプライトのエモート方法を変更したり、別のスプライトを選択してエモートを与えたりすることもできます。
 
-**ヒント:** ステージの下にあるスプライトリストでスプライトをクリックして、そのスプライトのコード、コスチューム、サウンドを変更します。
+**ヒント:** ステージの下にあるスプライトリストでスプライトをクリックして、そのスプライトのコード、コスチューム、音を変更します。
 
 --- collapse ---
 ---
 title: スペーストーク修了証
 ---
 
-よくできました！ スペーストークのプロジェクトが完了しました。 この[修了証](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}で新しいスキルをお祝いしよう。 ダウンロードして開いて自分の名前を記入してください。
+よくできました！ スペーストークのプロジェクトが完了しました。 この[修了証](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}であなたの新しいスキルをお祝いしよう。 ダウンロードして開いて自分の名前を記入してください。
 
 --- /collapse ---
 

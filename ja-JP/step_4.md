@@ -1,4 +1,4 @@
-## ピコが音を出す
+## Picoが音を出す
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -11,15 +11,17 @@
 </div>
 </div>
 
+### Picoスプライトに音を追加する
+
 --- task ---
 
 **Pico**スプライトで**音**タブをクリックすると、**pop**音声が見つかります。 **再生**アイコンをクリックして**pop**音声を聞きます。
 
 ![「音」タブでpop音声を再生します。](images/pico-sound-play.png)
 
---- /task ---
+**デバッグ**: 音が聞こえない場合は、コンピューターまたはタブレットで音が機能しているかどうかを確認してください。
 
-Scratchでは、スプライトに素晴らしいエイリアンサウンドを追加できます。
+--- /task ---
 
 --- task ---
 
@@ -27,7 +29,7 @@ Scratchでは、スプライトに素晴らしいエイリアンサウンドを�
 
 ![「音を選ぶ」アイコン。](images/sound-button.png)
 
-![「音を選択」がハイライトされたScratchエディタ。](images/pico-choose-sound.png)
+![「音を選ぶ」がハイライトされたScratchエディター。](images/pico-choose-sound.png)
 
 ![サウンドライブラリの「宇宙」カテゴリ。](images/pico-space-category.png)
 
@@ -37,13 +39,15 @@ Scratchでは、スプライトに素晴らしいエイリアンサウンドを�
 
 **再生**アイコンを使用して、いくつかの音声を聞いてみましょう。 使いたい音声が見つかったら、それをクリックしてプロジェクトに追加します。
 
-![「音」タブでpop音声の下にサンプル音 (Alien Creak1) が表示されている。](images/pico-inserted-sound.png)
+![「音」タブでpop音声の下に表示されているサンプル音(Alien Creak1)。](images/pico-inserted-sound.png)
 
 --- /task ---
 
+### クリック（またはタップ）時に音を鳴らす
+
 --- task ---
 
-**コード**タブをクリックします。 `音`{:class="block3sound"} ブロックメニューで、`... の音を鳴らす`{:class="block3sound"} ブロックを見つけます。
+**コード**タブをクリックします。 `音`{:class="block3sound"}ブロックメニューで、`音を鳴らす`{:class="block3sound"}ブロックを見つけます。
 
 ブロックを、`このスプライトが押されたとき`{:class="block3events"}ブロックと`言う`{:class="block3looks"}ブロックの間にドラッグします。 すき間が開き、ブロックが中にはまります。
 
@@ -51,7 +55,7 @@ Scratchでは、スプライトに素晴らしいエイリアンサウンドを�
 
 コードは次のようになります。
 
-![Pico スプライト。](images/pico-sprite.png)
+![Picoスプライト。](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -61,9 +65,11 @@ say [こんにちは！] for [2] seconds // 2秒後にセリフを隠す
 
 --- /task ---
 
+### コードをテストする
+
 --- task ---
 
-`音を鳴らす`{:class="block3sound"}ブロックに、指定した音が含まれていることを確認します。 含まれていない場合、`音を鳴らす`{:class="block3sound"}ブロックで音をクリックし、ドロップダウンメニューから、選択した音を選択する必要があります。
+`音を鳴らす`{:class="block3sound"}ブロックにあなたが選択した音が含まれていることを確認します。 含まれていない場合、`音を鳴らす`{:class="block3sound"}ブロックで音をクリックし、ドロップダウンメニューから、選択した音を選ぶ必要があります。
 
 ![「音を鳴らす」ブロック内で、ドロップダウンメニューからAlien Creak1音声をクリックする。](images/pico-sound-menu.png)
 
@@ -71,9 +77,7 @@ say [こんにちは！] for [2] seconds // 2秒後にセリフを隠す
 
 --- task ---
 
-**テスト:** **Pico**スプライトをクリックし、ふきだしが表示され、音が聞こえることを確認します。 音が聞こえない場合、`このスプライトが押されたとき`{:class="block3events"}ブロックの下に`音を鳴らす`{:class="block3sound"}ブロックが追加されていることを確認します。 また、使用しているコンピューターまたはタブレットで音声が有効になっていることを確認します。
+**テスト:** **Pico**スプライトをクリックし、ふきだしが表示され、音が聞こえることを確認します。 音が聞こえない場合、`このスプライトが押されたとき`{:class="block3events"}ブロックの下に`音を鳴らす`{:class="block3sound"}ブロックが追加されていることを確認します。
 
 --- /task ---
-
---- save ---
 
