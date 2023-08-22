@@ -32,3 +32,4 @@ Scratchでは、キャラクターとオブジェクトは**スプライト**と
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
 
+
