@@ -24,5 +24,7 @@ Scratchのさまざまな機能を触ってみたい場合は[これらのプロ
 Ai Hirama
 Fumihiko Higashi
 平山誠
+横川 裕隆
+Shu Hayakawa 
 
 ボランティアのおかげで、世界中の人々に母国語で学ぶ機会を与えることができます。翻訳を引き受けていただくことで、より多くの人々に手を差し伸べることができます。詳しくは [rpf.io/translate](https://rpf.io/translate) をご覧ください。

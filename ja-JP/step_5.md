@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-**コスチューム**を切り替えることで、Nanoにエモートさせることができます。
+**コスチューム**を切り替えることで、Nanoにエモートさせます。
 
 スプライトには、見た目を変えるための**コスチューム**があります。 コスチュームを変更してスプライトを動かすことができます。
 
@@ -15,7 +15,7 @@
 </div>
 </div>
 
-### Nanoが「ありがとう！」と言う
+### Nanoが「ありがとう！ 」と合図する
 
 --- task ---
 
@@ -32,7 +32,7 @@
 ![Nanoが選択されていることを示すためにNanoスプライトの周りが青く囲まれたスプライトリスト。](images/nano-selected.png)
 
 
-「**コード**」タブをクリックし、**Nano**スプライトが`ありがとう！``と言う`{:class="block3looks"}ためのスクリプトを追加します。
+**コード**タブをクリックして、 **Nano**スプライトが`コスチュームを...にする`{:class="block3looks"}と`待つ`{:class="block3control"}を使用して「ありがとう」と合図するスクリプトを追加します。
 
 ![Nanoスプライト。](images/nano-sprite.png)
 
@@ -54,8 +54,10 @@ switch costume to [nano-a v] // Nanoが笑う
 
 ### Nanoが手話で話す
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">何百万人もの人々が手話を使ってコミュニケーションをとっています。 世界でよく使われている「ありがとう」の手話は、**右手を口に近づける**ことです。 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">何百万人もの人々が手話を使ってコミュニケーションをとっています。 世界で一般的に「ありがとう」を表すには、手をできるだけ平らにして指をあごにあてます。 次に手を前方に動かし、あごから離すように少し下げます。 
 </p>
+
+<!-- Add a video of someone signing -->
 
 Nanoがコスチュームを変えることで手話を使います。
 
@@ -110,4 +112,3 @@ Nanoがコスチュームを変えることで手話を使います。
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">これで、「ありがとう」の手話を学びました。 次に誰かに感謝するときに、ぜひ使ってみてください。
 </p>
 
---- save ---
