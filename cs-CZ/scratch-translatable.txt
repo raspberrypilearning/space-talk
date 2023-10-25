@@ -1,29 +1,29 @@
-Hello!
+Ahoj!
 
-hide speech after 2 seconds
+skrýt řeč po 2 sekundách
 
-when Nano is clicked
+po kliknutí na Nano
 
-Nano talking
+Nano mluví
 
-try 0.25 instead of 0.5
+zkus 0.25 místo 0.5
 
 Hm...
 
-0 is the starting colour
+0 je počáteční barva
 
-back to the starting colour
+zpět na počáteční barvu
 
-hide speech bubble
+skrýt bublinu
 
-number up to 200
+číslo do 200
 
-0.5 is half a second
+0.5 je půl sekundy
 
 plays sound, doesn't wait
 
-shows speech bubble
+zobrazit bublinu
 
-put hand to mouth
+přiložit ruku k ústům
 
-smiling
+s úsměvem
