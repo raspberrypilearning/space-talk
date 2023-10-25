@@ -11,11 +11,11 @@
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+**Tera** sprite వ్యక్తిత్వం మీ ఎంపిక, కాబట్టి మీ స్వంత సృజనాత్మక ఆలోచనలను ఉపయోగించి ఆనందించండి.
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+**చిట్కా:** మీరు కోడ్, costume లేదా ధ్వనిని జోడించడానికి లేదా మార్చడానికి ముందు Stage దిగువన ఉన్న sprite జాబితాలోని sprite పై క్లిక్ చేయండి.
 
 ```blocks3
 when this sprite clicked
