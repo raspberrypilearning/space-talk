@@ -11,11 +11,11 @@ Ychwanega'r corlun **Tera** a defnyddio unrhyw un o'r blociau rwyt ti wedi dysgu
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+Dy ddewis di yw personoliaeth y corlun **Tera**, felly beth am gael hwyl wrth ddefnyddio dy syniadau creadigol dy hun.
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+**Awgrym:** Clicia gorlun yn rhestr y Corluniau sydd o dan y Llwyfan i newid cod, gwisgoedd a sain y corlun hwnnw.
 
 ```blocks3
 when this sprite clicked
@@ -45,7 +45,7 @@ speak [hello]
 
 You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+Da iawn! Rwyt ti wedi cwblhau'r prosiect Sgwrs yn y Sêr. Dyma [dystysgrif](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} i ddathlu dy sgiliau newydd. Llwytha gopi i lawr a'i agor i ychwanegu dy enw.
 
 --- collapse ---
 ---
