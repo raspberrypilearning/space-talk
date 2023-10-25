@@ -9,7 +9,7 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: పరిచయం
   - 
     title: మీ దృశ్యాన్ని సృష్టించండి
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: విశ్లేషణ
     knowledge_quiz:
       path: quiz1
       version: 1
