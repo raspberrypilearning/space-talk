@@ -1,29 +1,29 @@
-Hello!
+Molo!
 
-hide speech after 2 seconds
+fihla intetho emva kwemizuzwana emi-2
 
-when Nano is clicked
+xa kucofa uNano
 
-Nano talking
+Nano ethetha
 
-try 0.25 instead of 0.5
+zama 0.25 endaweni ka 0.5
 
 Hm...
 
-0 is the starting colour
+U-0 ngumbala wokuqala
 
-back to the starting colour
+buyela kumbala wokuqala
 
-hide speech bubble
+fihla iqamza lentetho
 
-number up to 200
+inani ukuya ku-200
 
-0.5 is half a second
+0.5 sisiqingatha sesibini
 
-plays sound, doesn't wait
+idlala isandi, ayilindi
 
-shows speech bubble
+ubonisa iqamza lentetho
 
-put hand to mouth
+abeke isandla emlonyeni
 
-smiling
+encumile
