@@ -1,21 +1,21 @@
-## You will make
+## Uya kwenza
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+Yenza indawo yendawo enabalinganiswa 👾 'emote' ukwabelana ngeengcinga okanye iimvakalelo zabo.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+Kwi-Scratch, iimpawu kunye nezinto zibizwa ngokuba yi **sprites**, kwaye zivela kwi- **Stage**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Uza ku:
++ Yongeza i-sprites kunye ne- **yangasemva** ukuseta iprojekthi yakho
++ Cofa kwi-sprites ukubenza banxibelelane usebenzisa i `Looks`{:class="block3looks"} kunye no `Isandi`{:class="block3sound"} iibhloko zekhowudi
++ Sebenzisa i **Peyinta umhleli** ukutshintsha isinxibo esi ****
 
 --- no-print --- --- task ---
-### Play ▶️
+### Dlala ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Cofa kwi-sprite nganye ukuze ubone into abayenzayo. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+Kwenzeka ntoni ukuba ucofa kwi-sprite esinye kwaye ucofe ngokukhawuleza kwesinye i-sprite?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![Iprojekthi egqityiweyo.](images/showcase_static.png)
 
 --- /print-only ---
 
