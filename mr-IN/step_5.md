@@ -1,4 +1,4 @@
-## Nano switches costume
+## Nano ने कॉश्चुम बदलला
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -15,7 +15,7 @@ Get Nano to emote by switching **costumes**.
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nano म्हणतो "धन्यवाद!"
 
 --- task ---
 
@@ -32,7 +32,7 @@ Stage च्या खालील Sprite यादीमध्ये **Nano** �
 ![Nano निवडला हे दाखवण्यासाठी Nano स्प्राईट भोवती निळ्या बॉर्डरसह Sprite लीस्ट.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+**Code** टॅबवर क्लिक करा आणि `say`{:class="block3looks"} `Thanksकोडकोडकोड!` ला **Nano** स्प्राईट मिळण्यासाठी स्क्रीप्ट जोडा:
 
 ![Nano स्प्राईट.](images/nano-sprite.png)
 
@@ -44,11 +44,11 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**टीप:** सर्व ब्लॉक्स कलर-कोडेड आहेत, त्यामुळे तुम्हाला `switch costume to`{:class="block3looks"} हा ब्लॉक `Looks`{:class="block3looks"} ब्लॉक मेनूमध्ये आढळेल.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**चाचणी:** Stage वरील **Nano** स्प्राईटवर क्लिक करा आणि स्पीच बबल दिसतो का आणि Nano चा कॉश्चुम बदलतो का ते तपासा.
 
 --- /task ---
 
