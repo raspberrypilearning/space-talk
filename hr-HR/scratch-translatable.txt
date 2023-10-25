@@ -1,4 +1,4 @@
-Hello!
+Pozdrav!
 
 hide speech after 2 seconds
 
