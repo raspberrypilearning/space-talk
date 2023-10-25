@@ -11,7 +11,7 @@ Set up your project with a space backdrop and the first sprite.
 </div>
 </div>
 
-### Open the starter project
+### Otvori početni projekt
 
 --- task ---
 
