@@ -1,11 +1,11 @@
-## Nano switches costume
+## Nano troca de fantasias
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+Você fará Nano se animar trocando de **fantasias**.
 
-Atores têm **fantasias** para mudar sua aparência. To animate a sprite, you can change its costume.
+Atores têm **fantasias** para mudar sua aparência. Para animar um sprite, você pode alterar suas fantasias.
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Atores têm **fantasias** para mudar sua aparência. To animate a sprite, you ca
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nano diz "Obrigado!"
 
 --- task ---
 
@@ -32,7 +32,7 @@ Verifique se o ator **Nano** esteja selecionado na lista de Atores abaixo do Pal
 ![A lista de Atores, com uma borda azul ao redor do ator Nano para mostrar que o Nano está selecionado.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+Clique na aba **Código** e adicione um script para fazer com que o ator **Nano** `diga`{:class="block3looks"} `Obrigado!`:
 
 ![O ator Nano.](images/nano-sprite.png)
 
@@ -44,17 +44,17 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**Dica:** Todos os blocos são codificados por cores, assim você vai encontrar o bloco `mude para a fantasia`{:class="block3looks"} no menu de blocos `Aparência`{:class="block3looks"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**Teste:** Clique no **Nano** no Palco e verifique se o balão de fala aparece e se a fantasia de Nano muda.
 
 --- /task ---
 
 ### Nano usa linguagem de sinais
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Milhões de pessoas usam a linguagem de sinais para se comunicar. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Milhões de pessoas usam a linguagem de sinais para se comunicar. Um sinal comum para 'obrigado' é **levar a mão direita à boca**. You then move your hand forwards, away from your chin and slightly down. 
 </p>
 
 <!-- Add a video of someone signing -->
