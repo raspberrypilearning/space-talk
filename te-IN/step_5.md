@@ -1,4 +1,4 @@
-## Nano switches costume
+## Nano costumes ని మార్చుకుంటుంది
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -15,7 +15,7 @@ Sprite లు కనిపించే విధానాన్ని మార�
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nano చెప్తోంది "Thanks!"
 
 --- task ---
 
@@ -32,7 +32,7 @@ Stage దిగువన ఉన్న Sprite జాబితాలో **Nano** s
 ![Sprite జాబితాలో, Nano ఎంపిక చేయబడిందని చూపించడానికి Nano sprite చుట్టూ నీలిరంగు అంచుతో ఉంటుంది.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+**Code** ట్యాబ్‌పై క్లిక్ చేసి, **Nano** sprite నుండి `say`{:class="block3looks"} `Thanks!`ని పొందడానికి స్క్రిప్ట్‌ను జోడించండి:
 
 ![Nano sprite.](images/nano-sprite.png)
 
@@ -44,11 +44,11 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**చిట్కా:** అన్ని బ్లాక్స్, విభిన్న రంగులను కలిగి ఉంటాయి కాబట్టి మీరు, `switch costume to`{:class="block3looks"} బ్లాక్ ను `Looks`{:clas="block3looks"} బ్లాక్స్ మెనులో కనుగొంటారు.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**పరీక్ష:** **Nano** sprite పై క్లిక్ చేసి, స్పీచ్ బబుల్ రెండు సెకన్ల పాటు కనిపిస్తుందో లేదో తనిఖీ చేయండి.
 
 --- /task ---
 
