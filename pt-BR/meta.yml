@@ -9,7 +9,7 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: Introdução
   - 
     title: Crie sua cena
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Reflexão
     knowledge_quiz:
       path: quiz1
       version: 1
