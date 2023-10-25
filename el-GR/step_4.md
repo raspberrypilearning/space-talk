@@ -58,9 +58,9 @@
 ![Το αντικείμενο Pico.](images/pico-sprite.png)
 
 ```blocks3
-when this sprite clicked
-+start sound [Alien Creak1 v] 
-say [Hello!] for [2] seconds // hide speech after 2 seconds
+όταν γίνει κλικ σε αυτό το αντικείμενο
++παίξε τον ήχο [Alien Creak1 v] 
+πες [Γεια!] για [2] δευτερόλεπτα // απόκρυψη της ομιλίας μετά από 2 δευτερόλεπτα
 ```
 
 --- /task ---
