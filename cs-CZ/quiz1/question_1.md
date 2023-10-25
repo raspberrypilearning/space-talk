@@ -1,53 +1,53 @@
-## Quick quiz
+## Rychlý kvíz
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Odpověz na tři otázky a získejte svůj odznak Space Talk. Máš tu tipy co tě dovedou ke správné odpovědi.
 
-When you have answered each question, click on **Check my answer**.
+Po zodpovězení každé otázky klikni na **Zkontrolovat mou odpověď**.
 
-Have fun!
+Bav se!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legenda: Otázka 1 ze 3
 ---
 
-In your project, you added some sprite characters.
+V projektu sis přidal několik postaviček.
 
-Where do you go to **add a sprite** to your project?
+Kde si **přidáš postavičku** do svého projektu?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Komentovaný snímek obrazovky celého editoru Scratch s 1 — záložkou Kostýmy, 2 — záložkou Zvuky, 3 — seznamem Postaviček a 4 — zvýrazněný panel Fáze.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Záložka **Kostýmy**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Přepnul ses na záložku **Kostýmy** pro úpravu kostýmu postavičky.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Záložka **Zvuky**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Přepnul ses na záložku **Zvuky** pro volbu zvuků postavičky.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Seznam postaviček
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Ano. Toto je místo, kde můžeš vidět, přidávat a odstraňovat všechny postavičky z projektu. Výběr provedeš kliknutím na postavu.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Panel Fáze
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Pro výběr pozadí si přešel do panelu Fáze.
 
   --- /feedback ---
 
