@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+या टप्प्यात, तुम्ही स्पेस बॅकड्रॉप आणि पहिला sprite वापरून तुमचा प्रोजेक्ट सेट कराल. 
 </div>
 <div>
 
@@ -35,7 +35,7 @@ Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
 ![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+!['Choose a Backdrop' आयकॉन.](images/choose-a-backdrop.png)
 
 --- /task ---
 
@@ -75,7 +75,7 @@ Click on **Choose a Sprite** in the Sprite list:
 
 ![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+!['Choose a Sprite' आयकॉन.](images/choose-a-sprite.png)
 
 --- /task ---
 
@@ -107,7 +107,7 @@ Type the name of your project in the project name box at the top of the screen.
 
 **Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
 
-Next, click on **File**, and then on **Save now** to save your project.
+**टीप:** तुमच्या प्रोजेक्टला उपयोग होणारे नाव द्या जेणेकरून तुमच्याकडे बरेच प्रोजेक्ट असतांना तुम्ही तो सहजतेने शोधू शकता.
 
 ![The 'File' menu options.](images/file-menu.png)
 
