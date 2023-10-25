@@ -1,11 +1,11 @@
-## Nano switches costume
+## Nano меняет костюмы
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+Ты отредактируешь костюм Nano, чтобы он сделал знак «спасибо».
 
-У спрайтов есть **костюмы**, чтобы изменить их внешний вид. To animate a sprite, you can change its costume.
+У спрайтов есть **костюмы**, чтобы изменить их внешний вид. Ты можешь редактировать костюмы для своих спрайтов с помощью графического редактора.
 
 </div>
 <div>
@@ -15,7 +15,7 @@ Get Nano to emote by switching **costumes**.
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nano говорит: «Спасибо!»
 
 --- task ---
 
@@ -32,7 +32,7 @@ Get Nano to emote by switching **costumes**.
 ![Список спрайтов с синей рамкой вокруг спрайта Nano, чтобы показать, что Nano выбран.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+Перейди на вкладку **Код** и добавь скрипт, чтобы спрайт **Nano** мог `говорить`{:class="block3looks"} `Спасибо!`:
 
 ![Спрайт Nano.](images/nano-sprite.png)
 
@@ -44,11 +44,11 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**Совет:** Все блоки имеют цветовую кодировку, поэтому ты найдёшь блок `изменить костюм на`{:class="block3looks"} в меню блоков `Внешний вид`.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**Тест:** Нажми на спрайт **Nano** на Сцене и убедись, что диалоговое окно появляется и костюм Nano изменяется.
 
 --- /task ---
 
