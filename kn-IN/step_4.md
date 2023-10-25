@@ -25,13 +25,13 @@
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+ಹೊಸ ಶಬ್ದವನ್ನು ಆಯ್ಕೆ ಮಾಡಲು, **Choose a Sound** ಐಕಾನ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು **Space** ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ ಅಥವಾ ಸರ್ಚ್‌ ಬಾಕ್ಸ್‌ನಲ್ಲಿ `space` ಟೈಪ್‌ ಮಾಡಿ.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+!['Choose a Sound' ಐಕಾನ್.](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+!['Choose a Sound' ಹೈಲೈಟ್‌ ಮಾಡಿರುವ Scratch ಎಡಿಟರ್‌.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![Sound Library ಯಲ್ಲಿ 'Space' ವರ್ಗ.](images/pico-space-category.png)
 
 --- /task ---
 
@@ -39,7 +39,7 @@ To choose a new sound, click on the **Choose a Sound** icon and select the **Spa
 
 Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![ಉದಾಹರಣೆಗೆ Sounds ಟ್ಯಾಬ್‌ನಲ್ಲಿ pop ಧ್ವನಿಯಡಿಯಲ್ಲಿ ತೋರಿಸಿರುವ (Alien Creak1) ಧ್ವನಿ.](images/pico-inserted-sound.png)
 
 --- /task ---
 
@@ -51,11 +51,11 @@ Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, fin
 
 Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![ಎರಡು ಬ್ಲಾಕ್‌ಗಳ ನಡುವೆ 'start sound' ಬ್ಲಾಕ್‌ ಸೇರಿಸಲಾಗಿದೆ.](images/pico-insert-block.gif)
 
-Your code should look like this:
+ನಿಮ್ಮ ಕೋಡ್ ಈ ರೀತಿ ಇರಬೇಕು:
 
-![The Pico sprite.](images/pico-sprite.png)
+![Pico ಸ್ಪ್ರೈಟ್.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -71,7 +71,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+!['start sound'‌ ಬ್ಲಾಕ್‌ ಒಳಗೆ ಡ್ರಾಪ್‌-ಡೌನ್‌ ಮೆನುನಲ್ಲಿ Alien Creak1 ಧ್ವನಿಯ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡುವುದು.](images/pico-sound-menu.png)
 
 --- /task ---
 
