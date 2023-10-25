@@ -1,19 +1,19 @@
-Code tab
+Ikhowudi tab
 
-Blocks menu
+Iibhloko yemenyu
 
-Backpack
+Ubhaka
 
-Zoom
+Sondeza
 
-Sprite list
+Uluhlu lwe-Sprite
 
-Sprite pane
+Ipaneli ye-Sprite
 
-Stage pane
+Ifestile yeqonga
 
-Stage pane
+Ifestile yeqonga
 
-Full screen
+Isikrini esiphelele
 
-Code area
+Indawo yekhowudi
