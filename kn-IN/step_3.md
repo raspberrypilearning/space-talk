@@ -4,7 +4,9 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 ಸ್ಪ್ರೈಟ್ ಹೇಗೆ ಕಾಣುತ್ತದೆ ಮತ್ತು ಏನು ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಲು ಅದು ಕೋಡ್, ಉಡುಪುಗಳು ಮತ್ತು ಶಬ್ದಗಳನ್ನು ಹೊಂದಬಹುದು. 
   
-Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+ಸ್ಪ್ರೈಟ್ ಹೇಗೆ ಕಾಣುತ್ತದೆ ಮತ್ತು ಏನು ಮಾಡುತ್ತದೆ ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಲು ಅದು ಕೋಡ್, ಉಡುಪುಗಳು ಮತ್ತು ಶಬ್ದಗಳನ್ನು ಹೊಂದಬಹುದು. 
+  
+ಸ್ಪ್ರೈಟ್‌ನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಪದಗಳು ಮತ್ತು ಧ್ವನಿಯೊಂದಿಗೆ Pico ಭಾವನೆಯನ್ನು ಅಭಿನಯಿಸಲು ನೀವು ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸೇರಿಸುತ್ತೀರಿ.
 </div>
 <div>
 
@@ -21,17 +23,17 @@ Add code blocks to make Pico emote with words and sound when the sprite is click
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+`Looks`{:class="block3looks"} ಬ್ಲಾಕ್‌ ಮೆನು ತೆರೆಯಿರಿ.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+`say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} ಬ್ಲಾಕ್‌ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
 ![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+**Pico** ಸ್ಪ್ರೈಟ್ ಎರಡು ಸೆಕೆಂಡುಗಳ ಕಾಲ ಮಾತಿನ ಗುಳ್ಳೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![ಮಾತಿನ ಗುಳ್ಳೆಯಲ್ಲಿ Pico ಸ್ಪ್ರೈಟ್‌ "Hello!" ದೊಂದಿಗೆ.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**ಸಲಹೆ:** Scratchನಲ್ಲಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ರನ್‌ ಆಗುತ್ತಿರುವಾಗ ಹಳದಿ ಬಾಹ್ಯರೇಖೆಗಳೊಂದಿಗೆ ಹೊಳೆಯುತ್ತವೆ.
 
 --- /task ---
 
