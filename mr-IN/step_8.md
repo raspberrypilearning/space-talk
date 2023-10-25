@@ -11,11 +11,11 @@
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+**Tera** स्प्राईटचे व्यक्तीमत्व ही तुमची निवड आहे, त्यामुळे तुमच्या स्वतःच्या क्रिएटीव कल्पना वापरून मजा करा.
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+**टीप:**कोड, कॉश्चुम किंवा साऊंड बदलण्यासाठी Stage च्या खाली असलेल्या Sprite लीस्टमधील स्प्राइटवर क्लिक करा.
 
 ```blocks3
 when this sprite clicked
@@ -45,7 +45,7 @@ speak [hello]
 
 You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+छान! तुम्ही स्पेस टॉक प्रोजेक्ट पूर्ण केला आहे. तुमचे नवीन कौशल्य साजरे करण्यासाठी येथे [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} आहे. एक प्रत डाउनलोड करा नंतर तुमचे नाव जोडण्यासाठी ती उघडा.
 
 --- collapse ---
 ---
