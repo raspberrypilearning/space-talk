@@ -24,7 +24,7 @@
 
 ### محرر Scratch
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![لقطة شاشة مشروحة لمحرر Scratch، مع تسمية لكل من المنصة، جزء المنصة، جزء الكائن، قائمة الكائن، ومنطقة الشفرة البرمجية.](images/scratch-interface.png)
 
 ### أضف خلفية جديدة
 
@@ -34,9 +34,9 @@
 
 انقر (أو اضغط في الجهاز اللوحي) على **اختر خلفية** في جزء المنصة:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![أيقونة "اختيار الخلفية".](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![محرر Scratch مع تظليل "اختيار خلفية" في الركن الأيمن السفلي.](images/choose-a-backdrop.png)
 
 --- /task ---
 
@@ -44,75 +44,75 @@
 
 انقر فوق فئة **space** أو اكتب `space` في مربع البحث:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
+![مكتبة الخلفية مع تحديد فئة "الفضاء".](images/space-backdrops.png)
 
 --- /task ---
 
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
+في مثالنا، اخترنا خلفية **Space**، لكن اختر الخلفية التي تعجبك أكثر.
 
 --- task ---
 
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
+انقر فوق الخلفية التي اخترتها لإضافتها إلى مشروعك. يجب أن تُظهر المنصة الخلفية التي اخترتها:
 
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![محرر Scratch مع خلفية الفضاء المضافة.](images/inserted-backdrop.png)
 
 --- /task ---
 
-### Add a Sprite
+### إضافة كائن
 
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
-
---- task ---
-
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
-
-![The 'Delete' icon.](images/delete-sprite.png)
-
---- /task ---
+هل يمكنك رؤية الكائن الذي تم تضمينه بالفعل في مشروعك؟ هذا هو Scratch Cat.
 
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+مسح **الكائن1** (Scratch Cat): حدد **الكائن1** في قائمة الكائن أسفل المنصة وانقر على أيقونة **المسح**.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![أيقونة المسح.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+انقر فوق **أختيار كائن** في قائمة الكائن:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![أيقونة "اختيار كائن".](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![محرر Scratch مع تظليل "أختيار كائن".](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+حدد فئة **عالم الخيال**. انقر فوق الكائن **Pico** لإضافته إلى مشروعك.
 
-![The remix button.](images/remix-button.png)
+![فئة "عالم الخيال" مع الكائن Pico.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+اسحب الكائن **Pico** لوضعه على الجانب الأيسر من المنصة. يجب أن تكون المنصة الخاصة بك مشابهة لهذا الشكل:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![المنصة مع الخلفية المختارة والكائن Pico موضوع على الجانب الأيسر.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+إذا قمت بتسجيل الدخول إلى حساب Scratch الخاص بك ، فانقر على زر Remix الأخضر. سيؤدي هذا إلى حفظ نسخة من المشروع في حساب Scratch الخاص بك.
+
+![زر Remix.](images/remix-button.png)
+
+اكتب اسم مشروعك في مربع اسم المشروع أعلى الشاشة.
+
+![مربع اسم المشروع.](images/project-name.png)
+
+**نصيحة:** أعطي أسماء مفيدة لمشاريعك بحيث يمكنك العثور عليها بسهولة عندما يكون لديك الكثير من المشاريع.
+
+بعد ذلك ، انقر فوق **ملف**، ثم على **حفظ الآن** لحفظ مشروعك.
+
+![خيارات قائمة "ملف".](images/file-menu.png)
+
+إذا لم تكن متصلاً بالإنترنت أو لم يكن لديك حساب Scratch ، فيمكنك النقر فوق **الحفظ الى حاسوبك** لحفظ نسخة من مشروعك.
 
 --- /task ---
 
