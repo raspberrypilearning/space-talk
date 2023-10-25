@@ -1,4 +1,4 @@
-## Nano switches costume
+## Nano yn newid gwisgoedd
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -15,7 +15,7 @@ Mae gan gorluniau **wisgoedd** sy'n newid y ffordd maen nhw'n edrych. To animate
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### Nano'n dweud "Diolch!"
 
 --- task ---
 
@@ -32,7 +32,7 @@ Gwna'n siŵr dy fod wedi dewis corlun **Nano** yn rhestr y Corluniau o dan y Llw
 ![Y rhestr Corluniau, gydag amlinell las o gwmpas corlun Nano i ddangos mai Nano sydd wedi'i ddewis.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+Clicia'r tab **Cod** ac ychwanegu sgript i wneud i gorlun **Nano** `ddweud`{:class="block3looks"} `Diolch!`:
 
 ![Corlun Nano.](images/nano-sprite.png)
 
@@ -44,11 +44,11 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**Awgrym:** Mae'r holl flociau wedi'u trefnu yn ôl eu lliw, felly bydd y bloc `newid gwisg i`{:class="block3looks"} yn y ddewislen blociau `Edrychiad`{:class="block3looks"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**Prawf:** Clicia'r corlun **Nano** ar y Llwyfan a gwneud yn siŵr bod swigen siarad yn ymddangos a bod gwisg Nano yn newid.
 
 --- /task ---
 
