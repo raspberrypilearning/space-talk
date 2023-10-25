@@ -21,17 +21,17 @@ Add code blocks to make Pico emote with words and sound when the sprite is click
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+`Looks`{:class="block3looks"} బ్లాక్స్ మెనుని తెరవండి.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+`say`{:class="block3looks"} `hello!``for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} బ్లాక్ పై క్లిక్ చేయండి.
 
 ![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+**Pico** sprite రెండు సెకన్ల పాటు స్పీచ్ బబుల్‌ను చూపుతుంది.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![స్పీచ్ బబుల్ లో "Hello!" తో Pico sprite.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**చిట్కా:** Scratch లోని కోడ్ బ్లాక్‌లు రన్ అవుతున్నప్పుడు పసుపు రంగు అవుట్‌లైన్‌తో మెరుస్తాయి.
 
 --- /task ---
 
