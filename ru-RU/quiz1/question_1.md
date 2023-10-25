@@ -1,8 +1,8 @@
 ## Quick quiz
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Answer the three questions to get your Space talk badge. Тебя перенаправят к правильному ответу.
 
-When you have answered each question, click on **Check my answer**.
+Когда ты ответишь на каждый вопрос, нажми **Отправить**.
 
 Have fun!
 
@@ -11,11 +11,11 @@ Have fun!
 legend: Вопрос 1 из 3
 ---
 
-In your project, you added some sprite characters.
+В свой проект ты добавил фон и несколько персонажей-спрайтов.
 
 Where do you go to **add a sprite** to your project?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Аннотированный снимок экрана редактора Scratch с 1 - вкладкой «Костюмы», 2 - вкладкой «Звуки», 3 - списком спрайтов и 4 - выделенной областью «Сцена».](images/question1.png)
 
 --- choices ---
 
@@ -23,7 +23,7 @@ Where do you go to **add a sprite** to your project?
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Ты перешёл на вкладку **Костюмы**, чтобы отредактировать костюм для своего спрайта.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Ты перешёл на вкладку **Звуки**, чтобы выбрать новый звук для своего спрайта.
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Да. Это область, где ты можешь видеть все спрайты в проекте, добавлять и удалять спрайты, а также щёлкать на спрайты, чтобы выбрать их.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ Yes. This is the area where you can see all of the sprites in the project, add a
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Ты перешёл на панель «Сцена», чтобы выбрать фон.
 
   --- /feedback ---
 
