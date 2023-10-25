@@ -37,10 +37,10 @@
 ![Το αντικείμενο Nano.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // when Nano is clicked
-switch costume to [nano-b v] // Nano talking
-wait (0.5) seconds // try 0.25 instead of 0.5
-switch costume to [nano-a v] // Nano smiling
+όταν γίνει κλικ σε αυτό το αντικείμενο // όταν γίνει κλικ στον Nano
+άλλαξε ενδυμασία σε [nano-b v] // ο Nano μιλάει
+περίμενε (0.5) δευτερόλεπτα // δοκίμασε 0.25 αντί για 0.5
+άλλαξε ενδυμασία σε [nano-a v] // ο Nano χαμογελάει
 ```
 --- /task ---
 
