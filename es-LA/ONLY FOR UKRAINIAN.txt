@@ -1,19 +1,19 @@
-Code tab
+Pestaña de código
 
-Blocks menu
+Menú de bloques
 
-Backpack
+Mochila
 
 Zoom
 
-Sprite list
+Lista de objetos
 
-Sprite pane
+Panel de objetos
 
-Stage pane
+Panel de escenario
 
-Stage pane
+Panel de escenario
 
-Full screen
+Pantalla completa
 
-Code area
+Área del código
