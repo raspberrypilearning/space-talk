@@ -25,13 +25,13 @@ Clicia'r tab **Seiniau** ar gyfer y corlun **Pico** ac fe weli di sain **pop**. 
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+I ddewis sain newydd, clicia'r eicon **Dewis Sain** a dewis y categori **Gofod** neu deipio `space` yn y blwch chwilio.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+![Eicon 'Dewis Sain'.](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+![Y golygydd Scratch gyda 'Dewis Sain' wedi'i amlygu.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![Categori 'Gofod' yn y Llyfrgell Seiniau.](images/pico-space-category.png)
 
 --- /task ---
 
@@ -39,7 +39,7 @@ To choose a new sound, click on the **Choose a Sound** icon and select the **Spa
 
 Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![Sain enghreifftiol (sain Alien Creak1) yn ymddangos o dan y sain pop yn y tab Seiniau.](images/pico-inserted-sound.png)
 
 --- /task ---
 
@@ -51,11 +51,11 @@ Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, fin
 
 Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![Ychwanegu'r bloc 'cychwyn sain' rhwng y ddau floc.](images/pico-insert-block.gif)
 
-Your code should look like this:
+Dylai dy god edrych fel hyn:
 
-![The Pico sprite.](images/pico-sprite.png)
+![Corlun Pico.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -71,7 +71,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![Clicio ar y sain 'Alien Creak1' yn y gwymplen o fewn y bloc 'cychwyn sain'.](images/pico-sound-menu.png)
 
 --- /task ---
 
