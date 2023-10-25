@@ -1,31 +1,31 @@
-## Giga changes colour
+## Ugiga utshintsha umbala
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+I-Sprites inokusebenzisa amaqamza eengcinga kwaye itshintshe imibala ukubonisa ubuntu babo. Uya kufumana uGiga ukuba enze oku.
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![I-Giga sprite icinga, "Hmm...".](imifanekiso/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Make Giga change colour
+### Yenza uGiga atshintshe umbala
 
 --- task ---
 
-Add the **Giga** sprite.
+Yongeza i **Giga** sprite.
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+Tsala i **Giga** sprite ukuya kwicala lasekunene le-qonga.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+Qinisekisa ukuba unayo i **Giga** sprite ekhethiweyo kuluhlu lwe-Sprite ngaphantsi kweSigaba. Yongeza le khowudi ukwenza i **Giga** sprite inxibelelane ngokutshintsha umbala:
 
-![The Giga sprite.](images/giga-sprite.png)
+![I-Giga sprite.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -36,23 +36,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+Icebiso **:** Cofa kwi-sprite kuluhlu lwe-Sprite ngezantsi kweNqanaba ngaphambi kokuba wongeze okanye utshintshe ikhowudi, iimpahla, okanye isandi. Qinisekisa ukuba ucofe kwi-sprite esichanekileyo.
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+Zama amanani ahlukeneyo ukusuka ku `1` ukuya ku `200` kwi `cwangcisa isiphumo sombala ukuya ku`{:class="block3looks"} vimba ude ufumane umbala owuthandayo.
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+Guqula amagama kunye nenani lemizuzwana kwi `cinga`{:class="block3looks"} bloko.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**Uvavanyo:** Cofa kwi- **Giga** sprite kwi-Stage kwaye ukhangele ukuba i-sprite itshintsha umbala kwaye ibonisa iqamza lokucinga.
 
 --- /task ---
 
