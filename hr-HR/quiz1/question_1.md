@@ -4,7 +4,7 @@ Answer the three questions to get your Space talk badge. There are hints to guid
 
 When you have answered each question, click on **Check my answer**.
 
-Have fun!
+Zabavi se!
 
 --- question ---
 ---
@@ -39,7 +39,7 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Da. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
   --- /feedback ---
 
