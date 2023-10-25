@@ -53,7 +53,7 @@ Drag the block into the Code area, between the `when this sprite clicked`{:class
 
 ![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
 
-Your code should look like this:
+Tvoj kôd bi trebao izgledati ovako:
 
 ![The Pico sprite.](images/pico-sprite.png)
 
@@ -65,7 +65,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Test your code
+### Testiraj svoj kôd
 
 --- task ---
 
