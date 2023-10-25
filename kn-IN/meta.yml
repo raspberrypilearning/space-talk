@@ -9,7 +9,7 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: ಪರಿಚಯ
   - 
     title: ನಿಮ್ಮ ದೃಶ್ಯವನ್ನು ಇಲ್ಲಿ ರಚಿಸಿ
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: ಪುನರ್ಮನನ
     knowledge_quiz:
       path: quiz1
       version: 1
