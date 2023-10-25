@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Da. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
 
   --- /feedback ---
 
