@@ -4,7 +4,9 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Mae modd rhoi cod, gwisgoedd a seiniau i gorlun er mwyn newid y ffordd mae'n edrych a'r hyn mae'n ei wneud. 
   
-Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Mae modd rhoi cod, gwisgoedd a seiniau i gorlun er mwyn newid y ffordd mae'n edrych a'r hyn mae'n ei wneud. 
+  
+Drwy ychwanegu blociau o god, bydd Pico yn ymateb gyda geiriau a seiniau wrth glicio ar y corlun.
 </div>
 <div>
 
@@ -21,17 +23,17 @@ Add code blocks to make Pico emote with words and sound when the sprite is click
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Agora'r ddewislen blociau `Edrychiad`{:class="block3looks"}.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Clicia ar y bloc `dweud`{:class="block3looks"} `Helo!` `am`{:class="block3looks"} `2` `eiliad`{:class="block3looks"}.
 
 ![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+Bydd y corlun **Pico** yn agor swigen siarad am ddwy eiliad.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![Y corlun Pico gyda "Helo!" mewn swigen siarad.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Awgrym:** Mae blociau cod yn Scratch yn goleuo gydag amlinell melyn pan fyddan nhw ar waith.
 
 --- /task ---
 
