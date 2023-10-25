@@ -1,59 +1,59 @@
-## Pico says hello
+## Pico uthi molo
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+I-sprite inokuba nekhowudi, isinxibo, kunye nezandi zokutshintsha indlela ekhangeleka ngayo kunye nento eyenzayo. 
   
-Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Yongeza iibhloko zekhowudi ukwenza i-Pico ivakale ngamagama kunye nesandi xa i-sprite icofa.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![I-Pico sprite ithi, "Molo!"](imifanekiso/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**Iimvakalelo**</span> yindlela yokubonisa ubuntu bomlinganiswa kumdlalo. Bangasebenzisa intetho, izandi, intshukumo, kunye neziphumo zemizobo, njengakwiScratch. Ngaba uyayidlala nayiphi na imidlalo esebenzisa iimvakalelo?
 </p>
 
-### Use the say block
+### Sebenzisa ibhloko kayithi
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Vula i `imbonakalo`{:class="block3looks"} iibhloko zemenyu.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Cofa ku- `kuyithi`{:class="block3looks"} `Molo!` `for`{:class="block3looks"} `2` `imizuzwana`{:class="block3looks"} block.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![Bathi Molo! ibhloko yemizuzwana emi-2 ekhazimla ngolwandlalo olutyheli.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+I **Pico** sprite iya kubonisa iqamza lentetho imizuzwana emibini.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![I-Pico sprite eno- "Molo!" kwiqamza lentetho.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Ingcebiso: Iibhloko zekhowudi** kwiScratch zikhazimla ngolwandlalo olutyheli xa zibaleka.
 
 --- /task ---
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Tsala u `yithi`{:class="block3looks"} `Molo!` `for`{:class="block3looks"} `2` `imizuzwana`{:class="block3looks"} ibhloko kwindawo yeKhowudi. Cofa kuyo kwakhona.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![Ukutsala ibhloko ethi 'yithi' kwindawo yeKhowudi kwaye ucofe kuyo ukuyiqhuba.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![Ibhloko ethi 'yithi' iye yarhuqelwa kwindawo yeKhowudi. Ibhloko yekhowudi ikhazimla ngolwandlalo olutyheli.](images/pico-drag-say.png)
 
 --- /task ---
 
-### Make Pico talk when clicked (or tapped)
+### Yenza uPico athethe xa ucofa (okanye ucofa)
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Tsala i- `xa le sprite icofa i`{:class="block3events"} ibhlokhi esuka kwi `Iziganeko`{:class="block3events"} iibhloko zemenyu kwaye uyidibanise phezulu kwe `yakho ithi`{:class="block3looks"} bhloka kwindawo yeKhowudi. Iibhloko ziya kuqhawuka kunye.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![Upopayi weebhloko eziqhawuka kunye. Xa uPico ecofa, bathi "Molo!" imizuzwana emibini.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![I-Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -62,29 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Code comments
+### Izimvo zekhowudi
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+Uya kubona izimvo kwimizekelo yekhowudi. Awudingi ukongeza izimvo xa usongeza ikhowudi kwiprojekthi yakho.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Ukuba unexesha xa ugqibile iprojekthi yakho, luluvo oluhle ukongeza izimvo kwikhowudi yakho ukuze kube lula ukuyiqonda kamva. Ukongeza inkcazo, cofa ekunene (okanye kwithebhulethi, cinezela kwaye ubambe) kwibhloko kwindawo yeKhowudi kwaye ukhethe **Yongeza i-zimvo**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![Imenyu ephumayo evelayo xa ucofa ekunene kwibhloko. 'Yongeza uluvo' ikhethiwe.](images/add-comment.png)
 
-### Test
+### Uvavanyo
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**Uvavanyo:** Cofa kwi- **Pico** sprite kwi-qonga kwaye ukhangele ukuba iqamza lentetho livela kwimizuzwana emibini. Kubalulekile ukuvavanya ikhowudi yakho ukuze uqiniseke ukuba iyayenza le nto uyilindeleyo.
 
 --- /task ---
 
 --- task ---
 
-You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+Sele uyigcinile iprojekthi yakho kwaye uyinike igama. I-Scratch ngoku iya **ngokuzenzekelayo** ikugcinele.
 
-You can still click save if you like, just to make sure.
+Usenako ukucofa ugcine ukuba uyathanda, ukuze uqinisekise.
 
 --- /task ---
