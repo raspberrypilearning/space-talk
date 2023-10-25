@@ -1,6 +1,6 @@
 ## Yintoni elandelayo?
 
-Ukuba ulandela i [ntshayelelo yokuQala uScratch](https://projects.raspberrypi.org/xh-ZA/pathways/scratch-intro) indlela, ungadlulela kweye [Bamba ibhasi](https://projects.raspberrypi.org/xh-ZA/projects/catch-the-bus)projekthi. Kule projekthi, uya khowudi yopopayi kunye ne-sprites ekufuneka befikile ebhasini ngaphambi kokuba ihambe.
+Ukuba ulandela i [ntshayelelo yokuQala uScratch](https://projects.raspberrypi.org/xh-ZA/pathways/scratch-intro) indlela, ungadlulela kweye [Bamba ibhasi](https://projects.raspberrypi.org/xh-ZA/projects/catch-the-bus) projekthi. Kule projekthi, uya khowudi yopopayi kunye ne-sprites ekufuneka befikile ebhasini ngaphambi kokuba ihambe.
 
 --- print-only ---
 

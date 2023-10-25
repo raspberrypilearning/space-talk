@@ -5,7 +5,7 @@
 
 Fumana uNano imvakalelo ngokutshintsha **isinxibo**.
 
-I-Sprites ine-*impahla** yokutshintsha indlela ekhangeleka ngayo. Ukuvuselela i-sprite, ungatshintsha isinxibo sayo.
+I-Sprites ine-**impahla** yokutshintsha indlela ekhangeleka ngayo. Ukuvuselela i-sprite, ungatshintsha isinxibo sayo.
 
 </div>
 <div>

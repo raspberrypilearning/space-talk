@@ -8,7 +8,7 @@ Yongeza iibhloko zekhowudi ukwenza i-Pico ivakale ngamagama kunye nesandi xa i-s
 </div>
 <div>
 
-![I-Pico sprite ithi, "Molo!"](imifanekiso/pico-step2.png){:width="300px"}
+![I-Pico sprite ithi, "Molo!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>

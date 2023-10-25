@@ -7,7 +7,7 @@ Kwi-Scratch, iimpawu kunye nezinto zibizwa ngokuba yi **sprites**, kwaye zivela 
 Uza ku:
 + Yongeza i-sprites kunye ne- **yangasemva** ukuseta iprojekthi yakho
 + Cofa kwi-sprites ukubenza banxibelelane usebenzisa i `Looks`{:class="block3looks"} kunye no `Isandi`{:class="block3sound"} iibhloko zekhowudi
-+ Sebenzisa i **Peyinta umhleli** ukutshintsha isinxibo esi ****
++ Sebenzisa i **Peyinta umhleli** ukutshintsha **isinxibo** esi
 
 --- no-print ---
 --- task ---

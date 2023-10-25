@@ -6,7 +6,7 @@ Enye indlela yokunxibelelana kukusebenzisa isandi.
 </div>
 <div>
 
-![I-Pico sprite ithi, "Molo!"](imifanekiso/pico-step2.png){:width="300px"}
+![I-Pico sprite ithi, "Molo!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
