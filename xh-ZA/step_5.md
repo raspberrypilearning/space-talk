@@ -1,40 +1,40 @@
-## Nano switches costume
+## Unano utshintsha isinxibo
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+Fumana uNano imvakalelo ngokutshintsha **isinxibo**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costume.
+I-Sprites ine-*impahla** yokutshintsha indlela ekhangeleka ngayo. Ukuvuselela i-sprite, ungatshintsha isinxibo sayo.
 
 </div>
 <div>
 
-![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
+![I-Nano sprite ithi, "Thanks!"](imifanekiso/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano signs "Thanks!"
+### U-Nano uphawula "Enkosi!"
 
 --- task ---
 
-Add the **Nano** sprite to your project from the **Fantasy** category.
+Yongeza i **Nano** sprite kwiprojekthi yakho ukusuka kwinqanaba le **Fantasy**uluhlu.
 
-![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
+![The 'Choose a Sprite'icon.](images/choose-sprite-menu.png)
 
 --- /task ---
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
+Qinisekisa ukuba i **Nano** sprite ikhethiwe kuluhlu lwe-Sprite ngaphantsi kwe-Stage.
 
-![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
+![Uluhlu lweSprite, olunomda ozuba ojikeleze iNano sprite ukubonisa ukuba uNano ukhethiwe.](images/nano-selected.png)
 
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+Cofa kwi **Code** ithebhu kwaye wongeze iskripthi ukufumana i **Nano** sprite ukusayina 'Enkosi' usebenzisa `tshintsha isinxibo ukuya kwi`{: class="block3looks"} kunye `linda`{: class="block3control"}:
 
-![The Nano sprite.](images/nano-sprite.png)
+![I-Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
@@ -44,71 +44,71 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**Ingcebiso:** Zonke iibhloko zinekhowudi yombala, ngoko ke uya kufumana i `yokutshintshela isinxibo ukuya ku`{:class="block3looks"} ibhloko kwi `Looks`{:class="block3looks"} iibhloko zemenyu kunye nokulinda ka `.`{:iklasi="block3control"} ibhloko kwi- `Control`{:class="block3control"} iibhloko zemenyu.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**Uvavanyo:** Cofa kwi **Nano** sprite kwi-Stage kwaye ukhangele ukuba iimpahla zikaNano ziyatshintsha.
 
 --- /task ---
 
-### Nano uses sign language
+### Unano usebenzisa intetho yezandla
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Izigidi zabantu zisebenzisa intetho yezandla ukuze zinxibelelane. Indlela eqhelekileyo yokusayina 'Enkosi' kukubeka iminwe yakho esilevini ngesandla sakho sicaba kangangoko. Emva koko uhambise isandla sakho phambili, kude nesilevu sakho kwaye uhle kancinci. 
 </p>
 
 <!-- Add a video of someone signing -->
 
-Nano will use sign language by switching costumes.
+Unano uza kusebenzisa intetho yezandla ngokutshintsha iimpahla.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Ungahlela iimpahla zesprites zakho ngomhleli wePaint. Uya kuhlela isinxibo sikaNano ukuze ubenze basayine "enkosi".
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Cofa kwi **Isinxibo se** ithebhu ukubona iimpahla ze **Nano** sprite:
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Iimpahla ezikhoyo zeNano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Cofa kwi **nano-b** impahla. Cofa kwingalo kwicala lasekhohlo, kwaye emva koko ucofe ku **Cima i**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![I-nano-b costume enengalo ekhethiweyo.](images/nano-arm-selected.png)
 
-The costume should look like this:
+Isinxibo kufuneka sijonge ngolu hlobo:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![I-nano-b costume enengalo isusiwe.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Ingcebiso:** Ukuba wenza impazamo kumhleli wePeyinti, ungacofa ku **Hlehlisa isi**.
+
+![I icon ethi 'Hlehlisa'.](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Yiya kwi-costume ye **nano-c** kwaye nqakraza kwingalo kwicala lasekhohlo, uze ucofe kwi **ikopi**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![I-nano-c costume enengalo ekhethiweyo.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+Buyela kwi **nano-b** costume kwaye nqakraza kwi **Namathisela**. Isinxibo kufuneka sijonge ngolu hlobo:
+
+![I-costume ye-nano-b enengalo evela kwi-costume ye-nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Vavanya:** Cofa kwi **Nano** sprite kwi-qonga kwaye ukhangele ukuba iqamza lentetho livela kwaye i-costume kaNano iyatshintsha kwisinxibo osihlelileyo.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Ufundile indlela yokusayina "enkosi". Kwixesha elizayo xa ubulela umntu, kutheni ungasebenzisi ubuchule obutsha?
 </p>
 
