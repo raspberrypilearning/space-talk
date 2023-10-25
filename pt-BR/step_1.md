@@ -1,10 +1,10 @@
-## You will make
+## Experimente
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+Neste projeto, você criará uma cena espacial com personagens com 'emote' para compartilhar seus pensamentos ou sentimentos.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+No Scratch, os personagens e objetos são chamados de **atores** e aparecem no **Palco**.
 
-You will:
+Você irá:
 + Adicione atores e um **cenário** para configurar seu projeto
 + Clique nos atores para fazê-los se comunicar usando blocos `Aparência`{:class="block3looks"} e `Som`{:class="block3sound"}
 + Use o **editor de imagens** para mudar uma **fantasia**
@@ -13,9 +13,9 @@ You will:
 ### Play ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Clique em cada ator para ver o que eles fazem. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+O que acontece se você clicar em um ator e depois clicar rapidamente em outro?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![O projeto concluído.](images/showcase_static.png)
 
 --- /print-only ---
 
