@@ -1,61 +1,61 @@
-## Pico plays a sound
+## Upico udlala isandi
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+Enye indlela yokunxibelelana kukusebenzisa isandi.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![I-Pico sprite ithi, "Molo!"](imifanekiso/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Add a sound to the Pico Sprite
+### Yongeza isandi kwiPico Sprite
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Cofa ku **Izandi** ithebhu ye- **Pico** sprite kwaye uya kufumana i **pop** isandi. Cofa ku **Play** icon ukuva isandi se **pop**.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![Ukudlala iSound ye pop kwi Sound thebhu.](images/pico-sound-play.png)
 
-**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+**Debug**: Ukuba awusiva isandi jonga ukuba isandi siyasebenza kwikhompyuter yakho okanye kwithebhulethi.
 
 --- /task ---
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+Ukukhetha isandi esitsha, cofa kwindawo ethi **Khetha i-icon yesandi** kwaye ukhethe i- **Space** udidi okanye uchwetheze isithuba sesi</code> `yokukhangela.</p>
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+<p spaces-before="0"><img src="images/sound-button.png" alt="'Khetha iSound'icon." /></p>
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+<p spaces-before="0"><img src="images/pico-choose-sound.png" alt="Umhleli we-Scratch 'Khetha iSound' ephawulweyo." /></p>
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+<p spaces-before="0"><img src="images/pico-space-category.png" alt="Udidi 'lweSithuba' kwiThala leencwadi leSandi." /></p>
 
---- /task ---
+<p spaces-before="0">--- /task ---</p>
 
---- task ---
+<p spaces-before="0">--- task ---</p>
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+<p spaces-before="0">Dlala izandi ezimbalwa ezahlukeneyo usebenzisa i <strong x-id="1">Play</strong>icons. Nje ukuba ufumene isandi ofuna ukusisebenzisa, cofa kuso ukuze uyongeze kwiprojekthi yakho.</p>
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+<p spaces-before="0"><img src="images/pico-inserted-sound.png" alt="Umzekelo wesandi (isandi se-Alien Creak1) esiboniswe ngezantsi kwesandi sepop kwithebhu yeZandi." /></p>
 
---- /task ---
+<p spaces-before="0">--- /task ---</p>
 
-### Make the sound play when clicked (or tapped)
+<h3 spaces-before="0">Yenza isandi sidlale xa ucofa (okanye ucofa)</h3>
 
---- task ---
+<p spaces-before="0">--- task ---</p>
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+<p spaces-before="0">Cofa kwi <strong x-id="1">Code</strong> thebhu. Kwi <code>Sound`{:class="block3sound"} iibhloko zemenyu, fumana i `isiqalo sesandi`{:class="block3sound"} bhloko.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+Tsala ibhloko kwindawo yeKhowudi, phakathi kwe- `xa esi-sprite sicofwa`{:class="block3events"} ibhloko kunye no `athi`{:class="block3looks"} ibhloko. Isikhewu siya kuvuleka kwaye ibhloko iya kungena endaweni yayo.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![Ibhloko 'yesandi sokuqala' esongezwa phakathi kweebhloko ezimbini.](images/pico-insert-block.gif)
 
-Your code should look like this:
+Ikhowudi yakho kufuneka ijongeke ngolu hlobo:
 
-![The Pico sprite.](images/pico-sprite.png)
+![I-Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Test your code
+### Vavanya ikhowudi yakho
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+Jonga ukuba `yakho yokuqala isandi`{:class="block3sound"} ibhloko inesandi osikhethileyo kuyo. Ukuba ayenzi njalo, kufuneka ucofe isandi kwi `yokuqalisa isandi`{:class="block3sound"} bhloko, emva koko ukhethe isandi osikhethileyo kwimenyu eyehlayo.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![Ukucofa kwisandi seAlien Creak1 kwimenyu eyehlayo ngaphakathi kwebhloko 'yokuqala isandi'.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
+**Uvavanyo:** Cofa kwi- **Pico** sprite kwaye ujonge ukuba iqamza lentetho liyavela kwaye unokuva isandi. Ukuba awusiva isandi, qiniseka ukuba wongeze i `isandi sokuqala`{:class="block3sound"} ibhloko phantsi ko- `xa Isprite sicofwa `{:class="block3events"} bhloko.
 
 --- /task ---
 
