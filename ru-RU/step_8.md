@@ -15,7 +15,7 @@ You could also use the Text to Speech extension to make **Tera** speak out loud:
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+Личные качества спрайта **Tera** - это твой выбор, так что получай удовольствие, используя свои собственные творческие идеи.
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Ты также можешь «переделать» проект, чтобы внести любые изменения, которые тебе нравятся. Ты можешь изменить фон и то, как спрайты проявляют эмоции, и даже выбрать разные спрайты и дать им эмоции.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Совет:** Щёлкни спрайт в Списке Спрайтов под Сценой, чтобы изменить код, костюмы и звук для этого спрайта.
 
 --- collapse ---
 ---
 title: Сертификат Космический разговор
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Отличная работа! Ты завершил проект Космический разговор. Вот [сертификат](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, чтобы отметить твои новые навыки. Загрузи копию, затем открой её, чтобы добавить свое имя.
 
 --- /collapse ---
 
@@ -61,7 +61,7 @@ Well done! You have completed the Space talk project. Here is [a certificate](ht
 title: Завершённый проект
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Ты можешь увидеть [завершённый проект здесь](https://scratch.mit.edu/projects/599532263/){:target="_blank"}.
 
 --- /collapse ---
 
