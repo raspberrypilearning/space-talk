@@ -28,10 +28,10 @@
 ![Το αντικείμενο Giga.](images/giga-sprite.png)
 
 ```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
+όταν γίνει κλικ σε αυτό το αντικέιμενο
+όρισε εφέ [χρώματος v] σε [0] // 0 είναι το αρχικό χρώμα
+σκέψου [Χμμ...] για [2] δευτερόλεπτα
+επανάφερε εφέ γραφικών // επιστροφή στο αρχικό χρώμα
 ```
 
 --- /task ---
