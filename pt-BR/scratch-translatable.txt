@@ -20,10 +20,10 @@ número até 200
 
 0.5 is half a second
 
-plays sound, doesn't wait
+toca som, não espera
 
 mostra balão de diálogo
 
-put hand to mouth
+mão na boca
 
 sorrindo
