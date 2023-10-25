@@ -1,10 +1,10 @@
-## Quick quiz
+## ಪುನರ್ಮನನ
 
 Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-When you have answered each question, click on **Check my answer**.
+ನೀವು ಕಲಿತಿದ್ದನ್ನು ಪುನರ್ಮನನ ಮಾಡಲು ಈ ಕೆಳಗಿನ ಮೂರು ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
 
-Have fun!
+ನೀವು ಪ್ರತಿ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿದಾಗ, **ಸಬ್ಮಿಟ್**ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ಸರಿಯಾದ ಉತ್ತರದೆಡೆಗೆ ನಿಮಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಲಾಗುತ್ತದೆ. ಈ ಚಟುವಟಿಕೆಯನ್ನು ನೀವು ಎಷ್ಟು ಸಲ ಬೇಕಾದರೂ ಮಾಡಬಹುದು.
 
 --- question ---
 ---
@@ -13,7 +13,7 @@ Have fun!
 
 In your project, you added some sprite characters.
 
-Where do you go to **add a sprite** to your project?
+ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟನಲ್ಲಿ, ನೀವು ಹಿನ್ನೆಲೆ ಮತ್ತು ಕೆಲವು ಸ್ಪ್ರೈಟ್ ಪಾತ್ರಗಳನ್ನು ಸೇರಿಸಿದ್ದೀರಿ.
 
 ![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
