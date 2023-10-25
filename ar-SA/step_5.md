@@ -54,7 +54,7 @@ switch costume to [nano-a v] // Nano smiling
 
 ### Nano يستخدم لغة الإشارة
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">يستخدم الملايين من الناس لغة الإشارة للتواصل. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">يستخدم الملايين من الناس لغة الإشارة للتواصل. الطريقة الشائعة لتوقيع "شكرًا لك" هي وضع أصابعك على ذقنك مع وضع يدك بشكل مسطح قدر الإمكان. ثم تحرك يدك للأمام بعيدًا عن ذقنك ولأسفل قليلاً. 
 </p>
 
 <!-- Add a video of someone signing -->
