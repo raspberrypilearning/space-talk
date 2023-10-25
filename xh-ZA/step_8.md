@@ -1,21 +1,21 @@
-## Upgrade your project
+## Phucula iprojekthi yakho
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Yongeza i-**Tera** sprite kwaye usebenzise naziphi na iibhloko ozifundileyo malunga nokwenza 'i-emote' ye-**Tera** sprite.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![I-Tera sprite kwi-Stage.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+Ungasebenzisa kwakhona iSibhalo kwiNtetho ukongezwa ukwenza **uTera** athethe ngokuvakalayo:
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+Ubuntu be **Tera** sprite lukhetho lwakho, ke yonwaba usebenzisa ezakho izimvo zokuyila.
 
 ```blocks3
 when this sprite clicked
@@ -43,25 +43,25 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Unako kwakhona 'ukuxuba' iprojekthi ukwenza naluphi na utshintsho oluthandayo. Unokutshintsha i-backdrop, kunye nendlela i-sprites emote ngayo, kwaye ukhethe i-sprites eyahlukeneyo kwaye ubanike i-emotes.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Ingcebiso:** Cofa kwi-sprite kuluhlu lweSprite ngezantsi kweQonga ukutshintsha ikhowudi, iimpahla, kunye nesandi saloo sprite.
 
 --- collapse ---
 ---
-title: Space talk certificate
+isihloko: Isatifikethi se-spacetalk
 ---
 
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
+Wenze kakuhle! Uyigqibile iprojekthi yokuthetha ngeSithuba. Nasi u- [isatifikethi](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:ithagethi="_blank"} ukubhiyozela izakhono zakho ezitsha. Khuphela ikopi uze uyivule uze wongeze igama lakho.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Completed project
+isihloko: Iprojekthi egqityiweyo
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Ungajonga i [projkthi engqityweyo apha](https://scratch.mit.edu/projects/485673032/){:thaget="_blank"}.
 
 --- /collapse ---
 
