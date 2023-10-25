@@ -9,7 +9,7 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: परिचय
   - 
     title: तुमचा सीन तयार करा
   - 
@@ -25,7 +25,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: परावर्तन
     knowledge_quiz:
       path: quiz1
       version: 1
