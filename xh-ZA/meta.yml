@@ -1,0 +1,30 @@
+---
+title: Intetho yesikhala
+hero_image: images/banner.png
+description: Sebenzisa iScratch ukunika i-sprites 'emote' ukuze zinxibelelane xa zicofa
+meta_title: Iiprojekthi zokubhala iikhowudi zabantwana kunye nabaselula | Intshayelelo ku Scratch
+meta_description: Funda ukwenza ikhowudi kwiScratch kunye neeprojekthi zeekhowudi zeRaspberry Pi Foundation zabantwana kunye nolutsha. Yenza oopopayi be-Scratch, imidlalo, ii-apps, kunye nokunye.
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Uya kwenza
+  - title: Yenza umboniso wakho
+  - title: Pico uthi molo
+    completion:
+      - engaged
+  - title: Pico udlala isandi
+  - title: Nano utshintsha isinxibo
+  - title: Giga utshintsha umbala
+    completion:
+      - internal
+  - title: Imibuzo ekhawulezayo
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Phucula iprojekthi yakho
+  - title: Yintoni elandelayo?
