@@ -44,7 +44,7 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
+**Порада:** Всі блоки мають кольорове позначення, тому ти знайдеш блок `змінити образ на`{:class="block3looks"} у меню блоків `Вигляд`{:class="block3looks"} та блок `чекати`{:class="block3control"} у меню блоків `Вигляд`{:class="block3control"}.
 
 --- task ---
 
