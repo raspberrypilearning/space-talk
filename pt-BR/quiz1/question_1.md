@@ -2,7 +2,7 @@
 
 Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-When you have answered each question, click on **Check my answer**.
+Após responder cada pergunta, clique em **Enviar**. Você será levado para a resposta correta.
 
 Have fun!
 
@@ -11,11 +11,11 @@ Have fun!
 legend: Pergunta 1 de 3
 ---
 
-In your project, you added some sprite characters.
+Em seu projeto, você adicionou um cenário e alguns personagens (atores).
 
 Where do you go to **add a sprite** to your project?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 3 — Lista de Atores e 4 - O painel Palco destacado.](images/question1.png)
 
 --- choices ---
 
@@ -23,7 +23,7 @@ Where do you go to **add a sprite** to your project?
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ You went to the **Costumes** tab to edit a costume for your sprite.
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Você foi até a aba **Sons** para escolher um novo som para seu sprite.
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ You went to the **Sounds** tab to choose a new sound for your sprite.
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Sim. Esta é a área onde você pode ver todos os atores no projeto, adicionar e deletar atores e clicar nos atores para selecioná-los.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ Yes. This is the area where you can see all of the sprites in the project, add a
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Você foi para o painel Palco para escolher um Cenário.
 
   --- /feedback ---
 
