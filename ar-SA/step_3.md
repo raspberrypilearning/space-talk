@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 يمكن أن يكون للكائن تعليمة برمجية، مظاهر، وأصوات لتغيير الطريقة التي يظهر بها وما يفعله. 
   
-Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+ستضيف كتل برمجية لجعل Pico يعبر بالكلمات والصوت عند النقر فوق الكائن.
 </div>
 <div>
 
@@ -14,46 +14,46 @@ Add code blocks to make Pico emote with words and sound when the sprite is click
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**التعابير**</span> هي طريقة لإظهار الصفات الشخصية للشخصية في اللعبة. يمكنهم استخدام الكلام، الأصوات، الحركة والمؤثرات الرسومية ، تمامًا كما هو الحال في Scratch. هل تلعب أي ألعاب تستخدم التعابير؟
 </p>
 
-### Use the say block
+### استخدم الكتلة قُل
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+افتح قائمة الكتل البرمجية `الهيئة`{:class="block3looks"}.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+انقر على كتلة `قل`{:class="block3looks"} `السلام عليكم!` `لـمدة`{:class="block3looks"} `2` `ثانية`{:class="block3looks"}.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![قَول مرحبا! تتوهج مجموعة لمدة ثانيتين بخط عريض أصفر.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+الكائن **Pico** سيُظهر فقاعة كلامية لمدة ثانيتين.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![الكائن Pico مع "السلام عليكم!" في فقاعة كلام.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**نصيحة:** الكتل البرمجية في Scratch تتوهج بخط عريض أصفر عند تشغيلها.
 
 --- /task ---
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+اسحب كتلة `قل`{:class="block3looks"} `السلام عليكم!` `لمدة`{:class="block3looks"} `2` `ثانية`{:class="block3looks"} إلى منطقة التعليمة البرمجية. اضغط عليها مرة أخرى.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![سحب كتلة "قل" إلى منطقة التعليمة البرمجية والنقر عليها لتشغيلها.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![تم سحب كتلة "قل" إلى منطقة التعليمة البرمجية. تتوهج مجموعة التعليمة البرمجية بخط عريض أصفر.](images/pico-drag-say.png)
 
 --- /task ---
 
-### Make Pico talk when clicked (or tapped)
+### أجعل الكائن بيكو يتحدث عند النقر عليه (أو القرع عليه)
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+اسحب كتلة `عند نقر هذا الكائن`{:class="block3events"} من `الأحداث`{:class="block3events"} في قائمة الكتل وقم بتوصيله إلى أعلى كتلة `قل`{:class="block3looks"}في منطقة التعليمة البرمجية. الكتل سوف تلتصق ببعضها البعض.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![رسم متحرك للكتل تلتصق ببعضها البعض. عندما يتم النقر فوق Pico ، يقولون "السلام عليكم!" لمدة ثانيتين.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![الكائن Pico.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -62,29 +62,29 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Code comments
+### تعليقات على التعليمات البرمجية
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+سترى التعليقات في أمثلة التعليمة البرمجية. لست بحاجة إلى إضافة التعليقات عند إضافة التعليمة البرمجية إلى مشروعك.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+إذا كان لديك وقت عند الانتهاء من مشروعك، فأنها فكرة جيدة لإضافة تعليقات إلى التعليمة البرمجية الخاصة بك حتى يسهل فهمها لاحقًا. لإضافة تعليق ، انقر بزر الماوس الأيمن (أو على الجهاز اللوحي، انقر مع الاستمرار) على كتلة في منطقة التعليمة البرمجية واختر **إضافة تعليق**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![القائمة المنبثقة التي تظهر عند النقر بزر الماوس الأيمن فوق كتلة. تم تحديد "إضافة تعليق".](images/add-comment.png)
 
-### Test
+### أختبار
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**اختبار:** انقر فوق الكائن **Pico** على المنصة وتحقق من ظهور فقاعة الكلام لمدة ثانيتين. من المهم اختبار التعليمة البرمجية الخاص بك للتأكد من أنها تفعل ما تتوقعه.
 
 --- /task ---
 
 --- task ---
 
-You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+لقد قمت بالفعل بحفظ مشروعك ومنحته اسمًا. سوف Scratch الآن **تلقائيًا** حفظ لك.
 
-You can still click save if you like, just to make sure.
+لا يزال بإمكانك النقر فوق "حفظ" إذا أردت ، فقط للتأكد.
 
 --- /task ---
