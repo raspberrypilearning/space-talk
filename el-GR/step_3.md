@@ -56,8 +56,8 @@
 ![Το αντικείμενο Pico.](images/pico-sprite.png)
 
 ```blocks3
-+when this sprite clicked
-say [Hello!] for [2] seconds // hide speech after 2 seconds
++όταν γίνει κλικ σε αυτό το αντικείμενο
+πες [Γεια!] για [2] δευτερόλεπτα // απόκρυψη της ομιλίας μετά από 2 δευτερόλεπτα
 ```
 
 --- /task ---
@@ -65,7 +65,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ### Σχόλια κώδικα
 
 ```blocks3
-say [Hello!] for [2] seconds // hide speech after 2 seconds
+πες [Γεια!] για [2] δευτερόλεπτα // απόκρυψη ομιλίας μετά από 2 δευτερόλεπτα
 ```
 Θα δεις σχόλια στα παραδείγματα κώδικα. Δεν χρειάζεται να προσθέσεις τα σχόλια όταν προσθέτεις τον κώδικα στο έργο σου.
 
