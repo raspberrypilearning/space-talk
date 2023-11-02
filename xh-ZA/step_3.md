@@ -4,6 +4,8 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 I-sprite inokuba nekhowudi, isinxibo, kunye nezandi zokutshintsha indlela ekhangeleka ngayo kunye nento eyenzayo. 
   
+I-sprite inokuba nekhowudi, isinxibo, kunye nezandi zokutshintsha indlela ekhangeleka ngayo kunye nento eyenzayo. 
+  
 Yongeza iibhloko zekhowudi ukwenza i-Pico ivakale ngamagama kunye nesandi xa i-sprite icofa.
 </div>
 <div>
