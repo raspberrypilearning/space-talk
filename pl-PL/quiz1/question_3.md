@@ -24,7 +24,7 @@ Ten kod odtwarza dźwięk i wyświetla dymek z tekstem.
 - ( )
 ```blocks3
 when this sprite clicked
-set [color v] effect to [50] 
+set [kolor v] effect to [50] 
 think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
@@ -39,7 +39,7 @@ Ten kod zmienia kolor duszka i pokazuje bańkę myśli.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Dzięki!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
@@ -52,7 +52,7 @@ Tak. Bloki `zmień kostium na`{:class="block3looks"} zmieniają kostium duszka t
 - ( )
 ```blocks3
 when this sprite clicked
-set [color v] effect to [50]
+set [kolor v] effect to [50]
 start sound [Alien Creak1 v] 
 clear graphic effects 
 ```

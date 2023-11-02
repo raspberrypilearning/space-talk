@@ -2,15 +2,11 @@ Cześć!
 
 ukryj dymek po 2 sekundach
 
-Dzięki!
-
 po kliknięciu Nano
 
 Nano mówi
 
-spróbuj 1 zamiast 2
-
-Nano się uśmiecha
+spróbuj 0.25 zamiast 0.5
 
 Hm...
 
@@ -21,3 +17,13 @@ powrót do koloru początkowego
 ukryj dymek z tekstem
 
 liczba mniejsza lub równa 200
+
+0.5 to pół sekundy
+
+odtwórz dźwięk bez czekania
+
+pokaż dynek rozmowy
+
+połóż rękę przy ustach
+
+Nano się uśmiecha

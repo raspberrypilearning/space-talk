@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-W tym kroku skonfigurujesz swój projekt, dodając do niego kosmiczne tło i pierwszego duszka. 
+Skonfiguruj swój projekt z kosmicznym tłem i pierwszym duszkiem. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@ W tym kroku skonfigurujesz swój projekt, dodając do niego kosmiczne tło i pie
 
 </div>
 </div>
+
+### Otwórz projekt startowy
 
 --- task ---
 
@@ -19,17 +21,19 @@ Otwórz [projekt startowy Kosmicznej rozmowy ](https://scratch.mit.edu/projects/
 
 --- /task ---
 
-Edytor Scratch wygląda następująco:
+### Edytor Scratch
 
 ![Zrzut ekranu edytora Scratch z adnotacjami dla: Sceny, Okienka sceny, Okienka duszka, Listy duszków i obszaru Skryptu.](images/scratch-interface.png)
+
+### Dodaj tło
 
 **Scena** to miejsce, gdzie uruchamiany jest Twój projekt. **Tło** zmienia wygląd sceny.
 
 --- task ---
 
-Naciśnij **Wybierz tło** w okienku Scena:
+Kliknij (lub stuknij na tablecie) opcję **Wybierz tło** w okienku Scena:
 
-![Ikona "Wybierz tło".](images/backdrop-button.png)
+![Ikona „Wybierz tło”.](images/backdrop-button.png)
 
 ![Edytor Scratch z podświetloną opcją „Wybierz tło” w prawym dolnym rogu.](images/choose-a-backdrop.png)
 
@@ -37,7 +41,7 @@ Naciśnij **Wybierz tło** w okienku Scena:
 
 --- task ---
 
-Kliknij kategorię **Kosmos** lub wpisz `space` w polu wyszukiwania:
+Kliknij kategorię **Kosmos** lub wpisz `kosmos` w polu wyszukiwania:
 
 ![Biblioteka teł z wybraną kategorią „Kosmos”.](images/space-backdrops.png)
 
@@ -53,11 +57,13 @@ Kliknij wybrane tło, aby dodać je do swojego projektu. Scena powinna pokazywa�
 
 --- /task ---
 
+### Dodaj duszka
+
 Czy widzisz duszka, który już istnieje w Twoim projekcie? To jest Scratch Cat.
 
 --- task ---
 
-Usuń **Duszka1** (Scratch Cat): wybierz element **Duszek1** z listy duszków poniżej sceny i kliknij ikonę **Usuń**.
+Usuń **Duszek1** (Scratch Cat): wybierz element **Duszek1** z listy duszków poniżej sceny i kliknij ikonę **Usuń**.
 
 ![Ikona „Usuń”.](images/delete-sprite.png)
 
@@ -83,7 +89,7 @@ Wybierz kategorię **Fikcja**. Kliknij duszka **Pico** aby dodać go do swojego 
 
 --- task ---
 
-Przeciągnij **Pico** tak, aby umieścić go po lewej stronie Sceny. Twoja Scena powinna wyglądać mniej więcej w ten sposób:
+Przeciągnij duszka **Pico** tak, aby umieścić go po lewej stronie Sceny. Twoja Scena powinna wyglądać mniej więcej w ten sposób:
 
 ![Scena z wybranym tłem i duszkiem Pico umieszczonym po lewej stronie.](images/pico-on-stage.png)
 
@@ -91,9 +97,9 @@ Przeciągnij **Pico** tak, aby umieścić go po lewej stronie Sceny. Twoja Scena
 
 --- task ---
 
-Jeśli jesteś zalogowany na swoje konto Scratch, kliknij zielony przycisk Remix. Spowoduje to zapisanie kopii projektu na Twoim koncie Scratch.
+**Zapisz**: Jeśli jesteś zalogowany na swoje konto Scratch, kliknij zielony przycisk Remix. Spowoduje to zapisanie kopii projektu na Twoim koncie Scratch.
 
-![Przycisk remiksu.](images/remix-button.png)
+![Przycisk Remix.](images/remix-button.png)
 
 Wpisz nazwę swojego projektu w polu nazwy projektu u góry ekranu.
 
