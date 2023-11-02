@@ -32,7 +32,7 @@ switch costume to [tera-d v]
 
 wait (1) seconds // 0.5 to pół sekundy
 
-set [color v] effect to [0] // liczba mniejsza lub równa 200
+set [kolor v] effect to [0] // liczba mniejsza lub równa 200
 
 clear graphic effects
 
