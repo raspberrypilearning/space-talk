@@ -11,6 +11,10 @@ Dodaj duszka **Tera** i użyj dowolnych bloków, o których się nauczyłeś, ab
 </div>
 </div>
 
+Możesz także użyć rozszerzenia do zamiany tekstu na mowę, aby **Tera** zaczął mówić:
+
+[[[scratch3-text-to-speech]]]
+
 Osobowość duszka **Tera** to Twój wybór, więc baw się dobrze korzystając z własnych kreatywnych pomysłów.
 
 ```blocks3
@@ -26,6 +30,8 @@ think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
+wait (1) seconds // 0.5 to pół sekundy
+
 set [color v] effect to [0] // liczba mniejsza lub równa 200
 
 clear graphic effects
@@ -33,6 +39,8 @@ clear graphic effects
 play sound [pop v] until done
 
 start sound [pop v]
+
+speak [cześć]
 ```
 
 Możesz także „zremiksować” projekt, aby wprowadzić dowolne zmiany. Możesz zmienić tło i sposób emotowania duszków, a nawet wybrać inne duszki i dać im emoty.
@@ -53,7 +61,7 @@ Dobra robota! Ukończyłeś projekt Kosmiczna rozmowa. Oto [certyfikatu](https:/
 title: Ukończony projekt
 ---
 
-Tutaj możesz zobaczyć [ukończony projekt](https://scratch.mit.edu/projects/599529365/){:target="_blank"}.
+Tutaj możesz zobaczyć [ukończony projekt](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 

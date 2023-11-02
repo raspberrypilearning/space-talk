@@ -11,6 +11,8 @@ Duszki mogą również używać baniek myśli i zmieniać kolory, aby pokazać s
 </div>
 </div>
 
+### Giga zmienia kolor
+
 --- task ---
 
 Dodaj duszka **Giga**.
@@ -54,4 +56,3 @@ Zmień słowa i liczbę sekund w bloku `pomyśl`{:class="block3looks"}.
 
 --- /task ---
 
---- save ---

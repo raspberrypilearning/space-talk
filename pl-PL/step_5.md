@@ -32,30 +32,32 @@ Upewnij się, że duszek **Nano** jest zaznaczony na Liście duszków pod Sceną
 ![Lista duszków z niebieską obwódką wokół duszka Nano wskazującą, że Nano został wybrany.](images/nano-selected.png)
 
 
-Kliknij zakładkę **Skrypt** i dodaj kod, aby duszek **Nano** `powiedział`{:class="block3looks"} `Dzięki!`:
+Kliknij zakładkę **Skrypt** i dodaj kod, aby duszek **Nano** powiedział{:class="block3looks"} "Dzięki!" używając `zmień kostium na`{:class="block3looks"} i`oczekiwanie`{:class="block3control"}:
 
 ![Duszek Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // po kliknięciu Nano
 switch costume to [nano-b v] // Nano mówi
-say [Dzięki!] for [2] seconds // spróbuj 1 zamiast 2
+wait (0.5) seconds // spróbuj 0.25 zamiast 0.5
 switch costume to [nano-a v] // Nano się uśmiecha
 ```
 --- /task ---
 
-**Wskazówka:** Wszystkie bloki są oznaczone kolorami, więc znajdziesz blok `zmień kostium na`{:class="block3looks"} w menu bloków `Wygląd`{:class="block3looks"}.
+**Wskazówka:** Wszystkie bloki są oznaczone kolorami, więc znajdziesz blok `zmień kostium na`{:class="block3looks"} w menu bloków `Wygląd`{:class="block3looks"}i blok `oczekiwania`{:class="block3control"}w menu bloków `Kontroli`{:class="block3control"}.
 
 --- task ---
 
-**Test:** Kliknij duszka **Nano** na Scenie i sprawdź, czy wyświetla się dymek z tekstem, a kostium Nano się zmienia.
+**Test:** Kliknij duszka **Nano** na Scenie i sprawdź, czy kostium Nano się zmienia.
 
 --- /task ---
 
 ### Nano używa języka migowego
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miliony ludzi porozumiewają się w języku migowym. Powszechnym gestem oznaczającym „dziękuję” jest **podniesienie prawej ręki do ust**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miliony ludzi porozumiewają się w języku migowym. Powszechnym sposobem wyrażenia „Dziękuję” jest ułożenie palców na podbródku tak płasko, jak to możliwe. Następnie rękę przesuwa się do przodu, z dala od podbródka i lekko w dół. 
 </p>
+
+<!--- Add a video of someone signing --->
 
 Nano posłuży się językiem migowym poprzez zmianę kostiumów.
 
@@ -110,4 +112,3 @@ Wróć do kostiumu **nano-b** i kliknij **Wklej**. Kostium powinien wyglądać n
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Nauczyłeś się pokazywać gest „dziękuję”. Gdy następnym razem będziesz komuś dziękować, może wykorzystasz swoją nową umiejętność?
 </p>
 
---- save ---

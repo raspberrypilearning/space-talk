@@ -13,7 +13,11 @@ Dodasz bloki kodu, aby Pico wyrażał emocje z użyciem słów i dźwięku po kl
 </div>
 </div>
 
-Aby użyć bloków, możesz kliknąć na nie w menu bloków.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotki**</span> to sposób na pokazanie osobowości postaci w grze. Mogą używać mowy, dźwięków, ruchu i efektów graficznych, zupełnie tak jak w Scratchu. Czy grasz w jakieś gry, które używają emotek?
+</p>
+
+### Użyj bloku powiedz
 
 --- task ---
 
@@ -31,8 +35,6 @@ Duszek **Pico** pokaże dymek z tekstem przez dwie sekundy.
 
 --- /task ---
 
-Możesz przeciągać bloki do obszaru Skrypt i następnie stamtąd ich używać.
-
 --- task ---
 
 Przeciągnij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="block3looks"} `2` `sekundy`{:class="block3looks"} do obszaru Skrypt. Kliknij go ponownie.
@@ -43,7 +45,7 @@ Przeciągnij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="blo
 
 --- /task ---
 
-Bloki można łączyć ze sobą w obszarze Skrypt, aby uruchomić więcej niż jeden na raz. Połączone bloki będą uruchamiane w kolejności od góry do dołu.
+### Spraw, by Pico mówił po kliknięciu (lub stuknięciu)
 
 --- task ---
 
@@ -60,7 +62,7 @@ say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
 
 --- /task ---
 
-Komentarz jest wyjaśnieniem, co robi Twój skrypt.
+### Komentarze do kodu
 
 ```blocks3
 say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
@@ -71,10 +73,18 @@ Jeśli po zakończeniu projektu masz czas, dobrym pomysłem jest dodanie komenta
 
 ![Wyskakujące menu, które pojawia się po kliknięciu bloku prawym przyciskiem myszy. Wybrano opcję „Dodaj komentarz”.](images/add-comment.png)
 
+### Test
+
 --- task ---
 
 **Test:** Kliknij duszka **Pico** na Scenie i sprawdź, czy dymek wyświetla się przez dwie sekundy. To ważne, by przetestować kod i upewnić się, że robi to, czego oczekujesz.
 
 --- /task ---
 
---- save ---
+--- task ---
+
+Zapisałeś już swój projekt i nadałeś mu nazwę. Scratch będzie teraz **automatycznie** zapisywał projekt dla ciebie.
+
+Nadal możesz kliknąć Zapisz, jeśli chcesz, aby mieć pewność.
+
+--- /task ---

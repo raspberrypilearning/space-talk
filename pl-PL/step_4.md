@@ -11,15 +11,17 @@ Innym sposobem komunikowania się jest użycie dźwięku.
 </div>
 </div>
 
+### Dodaj dźwięk do duszka Pico
+
 --- task ---
 
 Kliknij zakładkę **Dźwięki** duszka **Pico**, a znajdziesz dźwięk **pop**. Kliknij ikonę **Odtwórz** aby go usłyszeć.
 
 ![Odtwarzanie dźwięku pop w zakładce Dźwięki.](images/pico-sound-play.png)
 
---- /task ---
+**Debugowanie**: Jeśli nie słyszysz dźwięku, sprawdź, czy dźwięk działa na komputerze lub tablecie.
 
-W Scratchu jest kilka fantastycznych kosmicznych dźwięków, które możesz dodać do swojego duszka.
+--- /task ---
 
 --- task ---
 
@@ -41,6 +43,8 @@ Odtwórz kilka różnych dźwięków za pomocą ikon **Odtwórz**. Kiedy już zn
 
 --- /task ---
 
+### Spraw, by dźwięk odtwarzał się po kliknięciu (lub stuknięciu)
+
 --- task ---
 
 Kliknij na zakładkę **Skrypt**. W menu bloków `Dźwięk`{:class="block3sound"} znajdź blok `zagraj dźwięk`{:class="block3sound"}.
@@ -56,10 +60,12 @@ Twój kod powinien wyglądać tak:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
+say [Cześć!!] for [2] seconds // ukryj dymek po 2 sekundach
 ```
 
 --- /task ---
+
+### Przetestuj swój kod
 
 --- task ---
 
@@ -71,9 +77,7 @@ Upewnij się, że Twój blok `zagraj dźwięk`{:class="block3sound"} zawiera Tw�
 
 --- task ---
 
-**Test:** Kliknij duszka **Pico** i sprawdź, czy dymek wyświetla się i czy słyszysz dźwięk. Jeśli nie słyszysz dźwięku, upewnij się, że dodałeś blok `zagraj dźwięk`{:class="block3sound"} pod blokiem `gdy ten duszek kliknięty`{:class="block3events"}. Sprawdź również, czy działają głośniki w komputerze lub tablecie.
+**Test:** Kliknij duszka **Pico** i sprawdź, czy dymek wyświetla się i czy słyszysz dźwięk. Jeśli nie słyszysz dźwięku, upewnij się, że dodałeś blok `zagraj dźwięk`{:class="block3sound"} pod blokiem `gdy ten duszek kliknięty`{:class="block3events"}.
 
 --- /task ---
-
---- save ---
 

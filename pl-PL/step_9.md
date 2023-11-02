@@ -11,17 +11,9 @@ Jeśli podążasz ścieżką [Wprowadzenie do Scratch](https://projects.raspberr
 --- no-print ---
 
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/486719199/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/602796029/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
 
 Jeśli chcesz mieć więcej zabawy z odkrywaniem Scratcha, możesz wypróbować dowolny z [tych projektów](https://projects.raspberrypi.org/pl-PL/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
-
-***
-Ten projekt został przetłumaczony przez wolontariuszy:
-
-Sylwia Mikolajczuk
-Paweł Wilk
-
-Dzięki wolontariuszom możemy dać ludziom na całym świecie szansę nauki w ich własnym języku. Możesz pomóc nam dotrzeć do większej liczby osób, zgłaszając się na ochotnika do tłumaczenia - więcej informacji na stronie [rpf.io/translate](https://rpf.io/translate).

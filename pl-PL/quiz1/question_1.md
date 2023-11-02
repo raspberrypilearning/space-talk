@@ -1,10 +1,8 @@
-## Powtórka
+## Szybki quiz
 
-Dobra robota, dużo materiału już za Tobą! Teraz nadszedł czas na sprawdzenie swojej wiedzy — powtarzanie jest ważną częścią uczenia się, ponieważ pomaga tworzyć nowe połączenia w mózgu.
+Odpowiedz na trzy pytania, aby otrzymać odznakę Space Talk. Wskazówki poprowadzą cię w kierunku prawidłowej odpowiedzi.
 
-Odpowiedz na trzy poniższe pytania, aby przypomnieć sobie to, czego się nauczyłeś.
-
-Po udzieleniu odpowiedzi na każde pytanie kliknij **Prześlij**. Zostaniesz poprowadzony w kierunku prawidłowej odpowiedzi. Możesz powtarzać to ćwiczenie wielokrotnie.
+Po udzieleniu odpowiedzi na każde pytanie kliknij **Prześlij**.
 
 Miłej zabawy!
 
@@ -13,9 +11,9 @@ Miłej zabawy!
 legend: Pytanie 1 z 3
 ---
 
-W swoim projekcie dodałeś tło i kilka postaci duszków.
+W swoim projekcie dodałeś kilka postaci duszków.
 
-Gdzie się skierujesz, aby dodać duszka do projektu?
+Gdzie powinieneś przejść, by **dodać nowego duszka** do swojego projektu?
 
 ![Zrzut ekranu pełnego edytora Scratch z adnotacjami: 1 — zakładka Kostiumy, 2 — zakładka Dźwięki, 3 — lista duszków i 4 — podświetlony panel Scena.](images/question1.png)
 
