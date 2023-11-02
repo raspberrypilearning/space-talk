@@ -32,7 +32,7 @@ Qinisekisa ukuba i **Nano** sprite ikhethiwe kuluhlu lwe-Sprite ngaphantsi kwe-S
 ![Uluhlu lweSprite, olunomda ozuba ojikeleze iNano sprite ukubonisa ukuba uNano ukhethiwe.](images/nano-selected.png)
 
 
-Cofa kwi **Code** ithebhu kwaye wongeze iskripthi ukufumana i **Nano** sprite ukusayina 'Enkosi' usebenzisa `tshintsha isinxibo ukuya kwi`{: class="block3looks"} kunye `linda`{: class="block3control"}:
+Cofa kwi **Code** ithebhu kwaye wongeze iskripthi ukufumana i **Nano** sprite ukusayina 'Enkosi' usebenzisa `tshintsha isinxibo ukuya kwi`{:class="block3looks"} kunye `linda`{:class="block3control"}:
 
 ![I-Nano sprite.](images/nano-sprite.png)
 
@@ -44,7 +44,7 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Ingcebiso:** Zonke iibhloko zinekhowudi yombala, ngoko ke uya kufumana i `yokutshintshela isinxibo ukuya ku`{:class="block3looks"} ibhloko kwi `Looks`{:class="block3looks"} iibhloko zemenyu kunye nokulinda ka `.`{:iklasi="block3control"} ibhloko kwi- `Control`{:class="block3control"} iibhloko zemenyu.
+**Ingcebiso:** Zonke iibhloko zinekhowudi yombala, ngoko ke uya kufumana i `yokutshintshela isinxibo ukuya ku`{:class="block3looks"} ibhloko kwi `Looks`{:class="block3looks"} iibhloko zemenyu kunye nokulinda ka `yima`{:class="block3control"} ibhloko kwi- `Control`{:class="block3control"} iibhloko zemenyu.
 
 --- task ---
 
