@@ -25,29 +25,29 @@ Cofa ku **Izandi** ithebhu ye- **Pico** sprite kwaye uya kufumana i **pop** isan
 
 --- task ---
 
-Ukukhetha isandi esitsha, cofa kwindawo ethi **Khetha i-icon yesandi** kwaye ukhethe i- **Space** udidi okanye uchwetheze isithuba sesi</code> `yokukhangela.</p>
+Ukukhetha isandi esitsha, cofa kwindawo ethi **Khetha i-icon yesandi** kwaye ukhethe i- **Space** udidi okanye uchwetheze isithuba sesi yokukhangela.
 
-<p spaces-before="0"><img src="images/sound-button.png" alt="'Khetha iSound'icon." /></p>
+!['Khetha iSound' icon.](images/sound-button.png)
 
-<p spaces-before="0"><img src="images/pico-choose-sound.png" alt="Umhleli we-Scratch 'Khetha iSound' ephawulweyo." /></p>
+![Umhleli we-Scratch 'Khetha iSound' ephawulweyo.](images/pico-choose-sound.png)
 
-<p spaces-before="0"><img src="images/pico-space-category.png" alt="Udidi 'lweSithuba' kwiThala leencwadi leSandi." /></p>
+![Udidi 'lweSithuba' kwiThala leencwadi leSandi.](images/pico-space-category.png)
 
-<p spaces-before="0">--- /task ---</p>
+--- /task ---
 
-<p spaces-before="0">--- task ---</p>
+--- task ---
 
-<p spaces-before="0">Dlala izandi ezimbalwa ezahlukeneyo usebenzisa i <strong x-id="1">Play</strong>icons. Nje ukuba ufumene isandi ofuna ukusisebenzisa, cofa kuso ukuze uyongeze kwiprojekthi yakho.</p>
+Dlala izandi ezimbalwa ezahlukeneyo usebenzisa i **Play**icons. Nje ukuba ufumene isandi ofuna ukusisebenzisa, cofa kuso ukuze uyongeze kwiprojekthi yakho.
 
-<p spaces-before="0"><img src="images/pico-inserted-sound.png" alt="Umzekelo wesandi (isandi se-Alien Creak1) esiboniswe ngezantsi kwesandi sepop kwithebhu yeZandi." /></p>
+![Umzekelo wesandi (isandi se-Alien Creak1) esiboniswe ngezantsi kwesandi sepop kwithebhu yeZandi.](images/pico-inserted-sound.png)
 
-<p spaces-before="0">--- /task ---</p>
+--- /task ---
 
-<h3 spaces-before="0">Yenza isandi sidlale xa ucofa (okanye ucofa)</h3>
+### Yenza isandi sidlale xa ucofa (okanye ucofa)
 
-<p spaces-before="0">--- task ---</p>
+--- task ---
 
-<p spaces-before="0">Cofa kwi <strong x-id="1">Code</strong> thebhu. Kwi <code>Sound`{:class="block3sound"} iibhloko zemenyu, fumana i `isiqalo sesandi`{:class="block3sound"} bhloko.
+Cofa kwi **Code** thebhu. Kwi `Sound`{:class="block3sound"} iibhloko zemenyu, fumana i `isiqalo sesandi`{:class="block3sound"} bhloko.
 
 Tsala ibhloko kwindawo yeKhowudi, phakathi kwe- `xa esi-sprite sicofwa`{:class="block3events"} ibhloko kunye no `athi`{:class="block3looks"} ibhloko. Isikhewu siya kuvuleka kwaye ibhloko iya kungena endaweni yayo.
 
