@@ -18,7 +18,7 @@ Ungaya phi ukuze ufumane le bloko?
 
   --- feedback ---
 
-Ewe. U `uthi`{:class="block3looks"} ibhloko iku- `inkangeleko`{:class="block3looks"} iibhloko zemenyu, elingana nombala webhloko.
+Ewe. U `uthi`{:class="block3looks"} ibhloko iku- `inkangeleko`{:class="block3looks"} iibhloko zemenyu, elingana nombala webhloko. U `uthi`{:class="block3looks"} ibhloko iku- `inkangeleko`{:class="block3looks"} iibhloko zemenyu, elingana nombala webhloko.
 
   --- /feedback ---
 
