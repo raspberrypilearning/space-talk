@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Ewe. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume.
+Ewe. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume.
 
   --- /feedback ---
 
