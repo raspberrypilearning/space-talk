@@ -1,0 +1,29 @@
+Ciao!
+
+nascondi il fumetto dopo 2 secondi
+
+quando si clicca su Nano
+
+Nano sta parlando
+
+prova 0.25 invece di 0.5
+
+Hmm...
+
+0 è il colore iniziale
+
+ritorna al colore iniziale
+
+nascondi il fumetto
+
+un numero fino a 200
+
+0,5 è mezzo secondo
+
+riproduce il suono, non aspetta
+
+mostra il fumetto
+
+mette la mano alla bocca
+
+sorridente

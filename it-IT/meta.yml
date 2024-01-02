@@ -1,0 +1,30 @@
+---
+title: Conversazione spaziale
+hero_image: images/banner.png
+description: Utilizza Scratch per dare un'espressione (emote) agli sprite per farli parlare quando vengono cliccati
+meta_title: Scratch coding projects for kids and teens | Intro to Scratch
+meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Quello che farai
+  - title: Crea la tua scena
+  - title: Pico dice Ciao
+    completion:
+      - engaged
+  - title: Pico riproduce un suono
+  - title: Nano cambia il costume
+  - title: Giga cambia il colore
+    completion:
+      - internal
+  - title: Quiz veloce
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Migliora il tuo progetto
+  - title: E adesso?
