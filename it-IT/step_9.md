@@ -1,4 +1,4 @@
-## E ora?
+## E adesso?
 
 Se stai seguendo il percorso [Introduzione a Scratch](https://projects.raspberrypi.org/it-IT/pathways/scratch-intro) puoi passare al progetto [Prendi l'autobus](https://projects.raspberrypi.org/it-IT/projects/catch-the-bus). In questo progetto, userai il codice per creare un'animazione con gli sprite che devono raggiungere l'autobus prima che parta.
 
