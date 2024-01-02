@@ -22,7 +22,7 @@ Sì. Il blocco `dire`{:class="block3looks"} si trova nel menù dei blocchi `Aspe
 
   --- /feedback ---
 
-- (x) `Suono`{:class="block3sound"}
+- ( ) `Suono`{:class="block3sound"}
 
   --- feedback ---
 
@@ -30,7 +30,7 @@ I blocchi nel menu dei blocchi`Suono`{:class="block3sound"} sono utilizzati per 
 
   --- /feedback ---
 
-- (x) `Movimento`{:class="block3motion"}
+- ( ) `Movimento`{:class="block3motion"}
 
   --- feedback ---
 
