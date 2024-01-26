@@ -49,15 +49,6 @@ You can also 'remix' the project to make any changes you like. You could change 
 
 --- collapse ---
 ---
-ಶೀರ್ಷಿಕೆ: ಬಾಹ್ಯಾಕಾಶ ಮಾತುಕತೆ ಪ್ರಮಾಣಪತ್ರ
----
-
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
-
---- /collapse ---
-
---- collapse ---
----
 title: ಪೂರ್ಣಗೊಂಡ ಪ್ರಾಜೆಕ್ಟ್
 ---
 
