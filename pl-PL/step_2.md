@@ -47,7 +47,7 @@ Kliknij kategorię **Kosmos** lub wpisz `kosmos` w polu wyszukiwania:
 
 --- /task ---
 
-W naszym przykładzie wybraliśmy tło **Space**(kosmos), ale wybierz tło, które najbardziej Ci się podoba.
+W naszym przykładzie wybraliśmy tło **Space** (kosmos), ale wybierz tło, które najbardziej Ci się podoba.
 
 --- task ---
 
