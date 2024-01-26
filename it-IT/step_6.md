@@ -15,7 +15,7 @@ Gli Sprite possono anche usare fumetti pensierosi e cambiare colore per mostrare
 
 --- task ---
 
-Aggiungi lo sprite da **Giga**.
+Aggiungi lo sprite **Giga**.
 
 Trascina lo sprite **Giga** per posizionarlo sul lato destro dello Stage.
 
