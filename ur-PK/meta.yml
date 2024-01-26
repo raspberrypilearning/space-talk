@@ -1,0 +1,39 @@
+---
+title: خلائی گفتگو
+hero_image: images/banner.png
+description: خلائی گفتگو
+meta_title: بچوں اور نوعمروں کے لیے سکریچ کوڈنگ پروجیکٹس | سکریچ کا تعارف
+meta_description: بچوں اور نوعمروں کے لیے Raspberry Pi Foundation کے کوڈنگ پروجیکٹس کے ساتھ سکریچ میں کوڈ کرنا سیکھیں۔ سکریچ اینیمیشنز، گیمز، ایپس وغیرہ بنائیں۔
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - 
+    title: بچوں اور نوعمروں کے لیے Raspberry Pi Foundation کے کوڈنگ پروجیکٹس کے ساتھ سکریچ میں کوڈ کرنا سیکھیں۔ سکریچ اینیمیشنز، گیمز، ایپس وغیرہ بنائیں۔
+  - 
+    title: اپنا منظر بنائیں
+  - 
+    title: اپنا منظر بنائیں
+    completion:
+      - engaged
+  - 
+    title: پیکو آواز بجاتا ہے۔
+  - 
+    title: پیکو آواز بجاتا ہے۔
+  - 
+    title: گیگا رنگ بدلتا ہے۔
+    completion:
+      - internal
+  - 
+    title: گیگا رنگ بدلتا ہے۔
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - 
+    title: اپنے پروجیکٹ کو اپ گریڈ کریں۔
+  - 
+    title: اپنے پروجیکٹ کو اپ گریڈ کریں۔
