@@ -49,15 +49,6 @@ Você também pode brincar com o projeto e fazer quaisquer mudanças que você q
 
 --- collapse ---
 ---
-title: Certificado de Conversa espacial
----
-
-Muito bem! Você concluiu o projeto Conversa espacial. Aqui está [um certificado](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} para celebrar suas novas habilidades. Baixe uma cópia e abra-a para adicionar seu nome.
-
---- /collapse ---
-
---- collapse ---
----
 title: Projeto concluído
 ---
 
