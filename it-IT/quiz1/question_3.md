@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Domanda 3 di 3
+Legend: domanda 3 di 3
 ---
 
 Nel tuo progetto, hai fatto dire a Nano "Grazie". Quale codice hai usato per portare la mano di Nano alla sua bocca?
