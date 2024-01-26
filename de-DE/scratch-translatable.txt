@@ -1,29 +1,29 @@
-Hello!
+Hallo!
 
-hide speech after 2 seconds
+Sprache nach 2 Sekunden ausblenden
 
-when Nano is clicked
+wenn Nano angeklickt wird
 
-Nano talking
+Nano redet
 
-try 0.25 instead of 0.5
+versuche 0,25 statt 0,5
 
 Hm...
 
-0 is the starting colour
+0 ist die Startfarbe
 
-back to the starting colour
+zurück zur Ausgangsfarbe
 
-hide speech bubble
+Sprechblase ausblenden
 
-number up to 200
+Zahl bis 200
 
-0.5 is half a second
+0,5 ist eine halbe Sekunde
 
-plays sound, doesn't wait
+spielt Klang ab, wartet nicht
 
-shows speech bubble
+zeigt Sprechblase
 
-put hand to mouth
+gibt die Hand zum Mund
 
-smiling
+lächeln
