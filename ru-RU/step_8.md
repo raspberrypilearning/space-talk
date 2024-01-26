@@ -49,15 +49,6 @@ speak [hello]
 
 --- collapse ---
 ---
-title: Сертификат Космический разговор
----
-
-Отличная работа! Ты завершил проект Космический разговор. Вот [сертификат](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, чтобы отметить твои новые навыки. Загрузи копию, затем открой её, чтобы добавить свое имя.
-
---- /collapse ---
-
---- collapse ---
----
 title: Завершённый проект
 ---
 
