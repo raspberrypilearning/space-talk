@@ -32,7 +32,7 @@ Upewnij się, że duszek **Nano** jest zaznaczony na Liście duszków pod Sceną
 ![Lista duszków z niebieską obwódką wokół duszka Nano wskazującą, że Nano został wybrany.](images/nano-selected.png)
 
 
-Kliknij zakładkę **Skrypt** i dodaj kod, aby duszek **Nano** powiedział {:class="block3looks"} "Dzięki!" używając `zmień kostium na`{:class="block3looks"} i`oczekiwanie`{:class="block3control"}:
+Kliknij zakładkę **Skrypt** i dodaj kod, aby duszek **Nano** powiedział „Dzięki!” używając `zmień kostium na`{:class="block3looks"} i `czekaj`{:class="block3control"}:
 
 ![Duszek Nano.](images/nano-sprite.png)
 
@@ -44,7 +44,7 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Wskazówka:** Wszystkie bloki są oznaczone kolorami, więc znajdziesz blok `zmień kostium na`{:class="block3looks"} w menu bloków `Wygląd`{:class="block3looks"}i blok `oczekiwania`{:class="block3control"}w menu bloków `Kontroli`{:class="block3control"}.
+**Wskazówka:** Wszystkie bloki są oznaczone kolorami, więc znajdziesz blok `zmień kostium na`{:class="block3looks"} w menu bloków `Wygląd`{:class="block3looks"} i blok `czekaj`{:class="block3control"} w menu bloków `Kontroli`{:class="block3control"}.
 
 --- task ---
 
