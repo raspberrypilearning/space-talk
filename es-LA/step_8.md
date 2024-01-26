@@ -49,15 +49,6 @@ También puedes 'remezclar' el proyecto para realizar los cambios que desees. Po
 
 --- collapse ---
 ---
-title: Certificado de conversación espacial
----
-
-¡Bien hecho! Has terminado el proyecto Conversación espacial. Aquí tienes [un certificado](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} para celebrar tus nuevas habilidades. Descarga una copia y luego ábrela para agregar tu nombre.
-
---- /collapse ---
-
---- collapse ---
----
 title: Proyecto terminado
 ---
 
