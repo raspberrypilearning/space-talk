@@ -49,15 +49,6 @@ Du kan också "remixa" projektet för att göra ändringar du vill. Du kan ändr
 
 --- collapse ---
 ---
-titel: Space talk certifikat
----
-
-Bra jobbat! Du har slutfört projektet Space talk. Här är [ett certifikat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} för att fira dina nya kunskaper. Ladda ner en kopia och öppna den för att lägga till ditt namn.
-
---- /collapse ---
-
---- collapse ---
----
 titel: Avslutat projekt
 ---
 
