@@ -1,53 +1,53 @@
 ## Quick quiz
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Beantworte die drei Fragen, um deinen Space Talk Badge zu erhalten. Hinweise helfen dir beim Finden der richtigen Antwort.
 
-When you have answered each question, click on **Check my answer**.
+Nach dem Beantworten der Fragen wähle **Check my answer**.
 
-Have fun!
+Viel Spaß!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Frage 1 von 3
 ---
 
-In your project, you added some sprite characters.
+Du hast in deinem Projekt Sprite Charaktere hinzugefügt.
 
-Where do you go to **add a sprite** to your project?
+Wo hast du die Auswahl **add a sprite** zu deinem Projekt durchgeführt?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Ein Screenshot mit Beschreibung von Scratch Editor mit 1 — Kostüme Reiter, 2 — Klänge Reiter, 3 — Sprite Liste, und 4 — Bühne Bereich.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Der **Kostüme** Reiter
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Du hast unter dem **Kostüme** Reiter ein Kostüm für deinen Sprite bearbeitet.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Der **Klänge** Reiter
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Du hast unter dem **Klänge** Reiter einen neuen Klang für deinen Sprite ausgewählt.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Die Sprite Liste
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Ja. In diesem Bereich kannst du deine Sprites im Projekt ansehen, neue Sprites hinzufügen, vorhandene Sprites löschen und mit einem Klick auswählen.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Bühne
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Du hast den Hintergrund im Bereich Bühne ausgewählt.
 
   --- /feedback ---
 
