@@ -49,15 +49,6 @@ speak [hello]
 
 --- collapse ---
 ---
-title: Сертифікат космічної розмови
----
-
-Молодець! Проєкт Космічна розмова завершений. Ось сертифікат, [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, щоб відсвяткувати твої нові навички. Завантаж копію та відкрий його, щоб додати своє ім'я.
-
---- /collapse ---
-
---- collapse ---
----
 title: Завершений проєкт
 ---
 
