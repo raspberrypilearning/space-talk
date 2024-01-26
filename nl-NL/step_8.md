@@ -49,15 +49,6 @@ Je kunt het project ook 'remixen' om allerlei wijzigingen aan te brengen. Je zou
 
 --- collapse ---
 ---
-titel: Ruimte praat-certificaat
----
-
-Goed gedaan! Je hebt het Ruimte praat-project afgerond. Hier is [een certificaat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} om je nieuwe vaardigheden te vieren. Download een kopie en open deze om jouw naam toe te voegen.
-
---- /collapse ---
-
---- collapse ---
----
 title: Voltooid project
 ---
 
