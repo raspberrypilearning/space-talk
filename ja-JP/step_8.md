@@ -49,15 +49,6 @@ speak [hello]
 
 --- collapse ---
 ---
-title: スペーストーク修了証
----
-
-よくできました！ スペーストークのプロジェクトが完了しました。 この[修了証](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}であなたの新しいスキルをお祝いしよう。 ダウンロードして開いて自分の名前を記入してください。
-
---- /collapse ---
-
---- collapse ---
----
 title: 完成したプロジェクト
 ---
 
