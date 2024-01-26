@@ -49,15 +49,6 @@ Da iawn! Rwyt ti wedi cwblhau'r prosiect Sgwrs yn y Sêr. Dyma [dystysgrif](http
 
 --- collapse ---
 ---
-title: Tystysgrif Sgwrs yn y Sêr
----
-
-Well done! You have completed the Space talk project. Here is [a certificate](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} to celebrate your new skills. Download a copy then open it to add your name.
-
---- /collapse ---
-
---- collapse ---
----
 teitl: Prosiect gorffenedig
 ---
 
