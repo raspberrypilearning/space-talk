@@ -49,15 +49,6 @@ speak [hello]
 
 --- collapse ---
 ---
-title: شهادة حديث الفضاء
----
-
-أحسنت! لقد أكملت مشروع حديث الفضاء. هنا [شهادة](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} للاحتفال بمهاراتك الجديدة. قم بتنزيل نسخة ثم افتحها لإضافة اسمك.
-
---- /collapse ---
-
---- collapse ---
----
 title: مشروع مكتمل
 ---
 
