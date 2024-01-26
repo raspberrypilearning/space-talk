@@ -49,15 +49,6 @@ speak [hello]
 
 --- collapse ---
 ---
-title: स्पेस टॉक सर्टिफिकेट
----
-
-बहुत बढ़िया! आपने स्पेस टॉक प्रोजेक्ट पूरा कर लिया है। आपके नए कौशल का जश्न मनाने के लिए [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} है। एक प्रति डाउनलोड करें फिर अपना नाम जोड़ने के लिए इसे खोलें।
-
---- /collapse ---
-
---- collapse ---
----
 title: पूरा किया हुआ प्रोजेक्ट।
 ---
 
