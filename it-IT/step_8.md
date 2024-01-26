@@ -45,16 +45,7 @@ speak [hello]
 
 Puoi anche fare 'remix' del progetto per fare le modifiche che vuoi. Potresti cambiare lo sfondo e il modo in cui gli sprite si esprimono e persino scegliere diversi sprite e dare loro delle espressioni.
 
-**Suggerimento:** Fai clic su uno sprite nella lista degli Sprite sotto lo Stage per modificare il codice, i costumi e il suono per quello sprite.
-
---- collapse ---
----
-title: Certificato di Coversazione spaziale
----
-
-Ben fatto! Hai completato il progetto Conversazione spaziale. Ecco il [certificato](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} per festeggiare le tue nuove abilità. Scarica una copia e poi aprila per aggiungere il tuo nome.
-
---- /collapse ---
+**Suggerimento:** Fai clic su uno sprite a scelta nella lista degli Sprite, sotto lo Stage, per modificarne il codice, i costumi e il suono.
 
 --- collapse ---
 ---
