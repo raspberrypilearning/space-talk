@@ -2,9 +2,9 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Uno sprite può avere del codice, dei costumi, e dei suoni per cambiare il suo aspetto e cambiare quello che fa. 
+Uno sprite può avere del codice, dei costumi e dei suoni per cambiare il suo aspetto e quello che fa. 
   
-Aggiungi blocchi di codice per far parlare Pico o per fargli emettere suoni quando si fa clic sullo sprite.
+Aggiungi blocchi di codice per far parlare Pico o per fargli emettere suoni quando lo si clicca.
 </div>
 <div>
 
@@ -83,7 +83,7 @@ Se hai tempo quando hai finito il progetto, è una buona idea aggiungere comment
 
 --- task ---
 
-Hai già salvato il tuo progetto e gli hai dato un nome. Scratch ora lo salva **automaticamente** per te.
+Hai già salvato il tuo progetto e gli hai dato un nome. Scratch ora lo salverà **automaticamente** per te.
 
 Puoi comunque fare click su salva se ti va, per essere sicuro.
 

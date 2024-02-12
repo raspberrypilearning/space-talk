@@ -15,7 +15,7 @@ Inizia il tuo progetto con uno sfondo spaziale e il primo sprite.
 
 --- task ---
 
-Apri [il progetto iniziale Conversazione spaziale](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch si aprirà in una nuova scheda del browser.
+Apri il [progetto iniziale Conversazione spaziale](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch si aprirà in una nuova scheda del browser.
 
 [[[working-offline]]]
 
@@ -27,7 +27,7 @@ Apri [il progetto iniziale Conversazione spaziale](https://scratch.mit.edu/proje
 
 ### Aggiungi uno sfondo
 
-Lo **Stage** dove il tuo progetto viene eseguito. Uno **sfondo** cambia l'aspetto dello Stage.
+Lo **Stage** è l'area dove il tuo progetto viene eseguito. Uno **sfondo** cambia l'aspetto dello Stage.
 
 --- task ---
 
@@ -47,7 +47,7 @@ Clicca sulla categoria **Spazio** o scrivi `space` nella barra di ricerca:
 
 --- /task ---
 
-Nel nostro esempio, abbiamo scelto lo sfondo **Space**, ma scegli pure lo sfondo che ti piace di più.
+Nel nostro esempio, abbiamo scelto lo sfondo **Space**, ma tu scegli quello che ti piace di più.
 
 --- task ---
 
@@ -105,7 +105,7 @@ Scrivi il nome del tuo progetto nella casella di testo nella parte superiore del
 
 ![La casella di testo per il nome del progetto.](images/project-name.png)
 
-**Suggerimento:** Dai nome utile ai tuoi progetti così li puoi trovare facilmente quando ne hai molti.
+**Suggerimento:** Scegli nomi utili per i tuoi progetti, così potrai trovarli più facilmente quando ne avrai molti.
 
 Adesso, clicca su **File**, e poi su **Salva ora** per salvare il tuo progetto.
 

@@ -11,7 +11,7 @@ Divertiti!
 legend: Domanda 1 di 3
 ---
 
-Nel tuo progetto hai aggiunto alcuni sprite dei personaggi.
+Nel tuo progetto hai aggiunto alcuni sprite a forma di personaggi.
 
 Dove vai per **scegliere uno sprite** da aggiungere al tuo progetto?
 
@@ -39,7 +39,7 @@ Sei andato nella scheda **Suoni** per scegliere un nuovo suono per il tuo sprite
 
   --- feedback ---
 
-Sì. Questa è la zona dove puoi vedere tutti i tuoi sprite usati nel progetto, aggiungere o eliminare gli sprite, e cliccare sugli sprite per selezionarli.
+Sì. Questa è la zona dove puoi vedere tutti gli sprite usati nel tuo progetto, aggiungere o eliminare gli sprite e cliccare su di essi per selezionarli.
 
   --- /feedback ---
 
