@@ -19,7 +19,7 @@ Gli Sprite hanno **costumi** per cambiare il loro aspetto. Per animare uno sprit
 
 --- task ---
 
-Aggiungi lo sprite **Nano** al tuo progetto dall categoria **Fantasia**.
+Aggiungi lo sprite **Nano** al tuo progetto dalla categoria **Fantasia**.
 
 ![L'icona 'Scegli uno Sprite'.](images/choose-sprite-menu.png)
 
@@ -32,7 +32,7 @@ Assicurati che lo sprite **Nano** sia selezionato nella lista degli Sprite sotto
 ![L'elenco degli Sprite, con un bordo blu attorno allo sprite Nano per mostrare che Nano è selezionato.](images/nano-selected.png)
 
 
-Fai clic sulla scheda **Codice** e aggiungi uno script per fare in modo che lo sprite **Nano** faccia il segno 'Grazie' utilizzando `passa al costume`{:class="block3looks"} e `attendi`{:class="block3control"}:
+Fai clic sulla scheda **Codice** e aggiungi uno script per fare in modo che lo sprite **Nano** ringrazi utilizzando `passa al costume`{:class="block3looks"} e `attendi`{:class="block3control"}:
 
 ![Lo sprite Nano.](images/nano-sprite.png)
 
@@ -48,7 +48,7 @@ switch costume to [nano-a v] // Nano sorridente
 
 --- task ---
 
-**Prova:** Fai clic sullo sprite **Nano** sullo Stage e controlla Nano cambi il suo costume.
+**Prova:** Fai clic sullo sprite **Nano** sullo Stage e controlla che Nano cambi il suo costume.
 
 --- /task ---
 
@@ -83,7 +83,7 @@ Il tuo costume dovrebbe assomigliare a questo:
 
 --- /task ---
 
-**Suggerimento:** Se fai un errore nell'editor Paint, puoi cliccare **Annulla**.
+**Suggerimento:**Se fai un errore nell'editor Paint, puoi cliccare **Annulla**.
 
 ![L'icona 'Annulla'.](images/nano-undo.png)
 
@@ -105,7 +105,7 @@ Torna al costume **nano-b** e fai clic su **Incolla**. Il costume dovrebbe assom
 
 --- task ---
 
-**Prova:** Fai clic sullo sprite **Nano** sullo Stage e controlla che appaia il fumetto e che il costume di Nano cambi nel costume che hai modificato.
+**Prova:**Clicca lo sprite **Nano** sullo Stage e controlla che appaia il fumetto e che il costume di Nano cambi nel costume che hai modificato.
 
 --- /task ---
 

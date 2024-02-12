@@ -4,7 +4,7 @@
 legend: Domanda 2 di 3
 ---
 
-Hai fatto `dire`{:class="block3looks"} a Pico "Ciao!" in un fumetto.
+Hai fatto `dire` a Pico {:class="block3looks"} "Ciao!" in un fumetto.
 
 ```blocks3
 say [Ciao!] for [2] seconds

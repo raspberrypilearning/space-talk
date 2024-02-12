@@ -5,9 +5,9 @@ Crea una scena spaziale con personaggi 👾 che condividono i loro pensieri ed e
 In Scratch, i personaggi e gli oggetti sono chiamati **sprite** e appaiono nello **Stage**.
 
 Tu:
-+ Aggiungi degli sprite e uno **sfondo** per iniziare il tuo progetto
-+ Clicchi sugli sprite per farli comunicare usando i blocchi di codice `Aspetto`{:class="block3looks"} e `Suono`{:class="block3sound"}
-+ Usa **l'editor dei costumi** per modificare un **costume**
++ Aggiungerai degli sprite e uno **sfondo** per iniziare il tuo progetto
++ Cliccherai sugli sprite per farli comunicare usando i blocchi di codice `Aspetto`{:class="block3looks"} e `Suono`{:class="block3sound"}
++ Userai **l'editor dei costumi** per modificare un **costume**
 
 --- no-print ---
 --- task ---
