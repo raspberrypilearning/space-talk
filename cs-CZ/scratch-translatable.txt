@@ -1,6 +1,6 @@
 Ahoj!
 
-skrýt řeč po 2 sekundách
+skryje řeč po 2 sekundách
 
 po kliknutí na Nano
 
@@ -20,7 +20,7 @@ skrýt bublinu
 
 0.5 je půl sekundy
 
-plays sound, doesn't wait
+přehraje zvuk, bez čekání
 
 zobrazit bublinu
 
