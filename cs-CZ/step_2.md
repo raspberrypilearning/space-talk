@@ -1,117 +1,117 @@
-## Create your scene
+## Vytvoř si scénu
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+Nastav v projektu vesmírné pozadí a první postavu. 
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![Vesmírné pozadí a postava Pico.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Open the starter project
+### Otevři úvodní projekt
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
+Otevři [úvodní projekt Vesmírná řeč](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch se otevře v nové záložce prohlížeče.
 
 [[[working-offline]]]
 
 --- /task ---
 
-### The Scratch editor
+### Editor Scratch
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Komentovaný snímek obrazovky editoru Scratch s označenou Scénou, podoknem Scéna, podoknem Postav, seznamem Postav a oblastí pro kód.](images/scratch-interface.png)
 
-### Add a backdrop
+### Přidej pozadí
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+Tvůj projekt se zobrazuje na **Scéně**. Pomocí **Pozadí** můžeš měnit vzhled Scény.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+V panelu Scéna klikni (nebo na tabletu tapni) na **Vybrat pozadi**:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![Ikona 'Vybrat pozadí'.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![Editor Scratche se zvýrazněnou ikonou 'Vybrat pozadí' v pravém dolním rohu.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+Klikni na kategorii **Vesmír** nebo napiš do vyhledávacího políčka `space` (názvy pozadí jsou anglicky):
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![Knihovna Pozadí s vybracou kategorií 'Vesmír'.](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+V našem příkladu jsme si vybrali pozadí s názvem **Space**, ale můžeš si vybrat, kterékoli se ti líbí.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Klikni na vybrané pozadí a přidej ho do svého projektu. To by se teď mělo objevit na Scéně:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![Editor Scratche s přidaným pozadím 'Space'.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Přidej Postavu
+
+Vidíš postavu, která už ve tvém projektu je? To je kocour Scratch.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Vymaž Postavu **Postava1** (kocour Scratche): vyber Postavu **Postava1** v seznamu Postav pod Scénou a klikni na ikonu **Vymazat**.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![Ikona 'Vymazat'.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+Klikni na **Vyber postavu** v seznamu Postav:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![Ikona 'Vyber postavu'.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![Editor Scratche se zvýrazněnou ikonou 'Vyber postavu'.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+Vyber kategorii **Fantazie**. Klikni na postavu **Pico** a přidej ji do svého projektu.
 
-![The remix button.](images/remix-button.png)
+![Kategorie 'Fantazie' s postavou Pico.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+Vezmi postavu **Pico** a umísti ji do levé části Scény. Scéna by teď měla vypadat nějak takto:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![Scéna s vybraným pozadím a postavou Pico umístěnou v levé části scény.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**Uložení**: Pokud jsi přihlášeny/á ke svému účtu ve Scratchi, klikni na zelené tlačítko Vytvoř si kopii. Tím si uložíš kopii tohoto projektu do svého účtu ve Scratchi.
+
+![Tlačítko Vytvoř si kopii.](images/remix-button.png)
+
+Svůj projekt si pojmenuj v poli pro název projektu v horní části obrazovky.
+
+![Pole pro název projektu.](images/project-name.png)
+
+**Tip:** Dávej projektům taková jména, abys poznal/a, o jaký projekt se jedná, až jej budeš někdy v budoucnu hledat.
+
+Poté klikni na **Soubor** a **Uložit aktuální stav**.
+
+![Možnosti nabídky 'Soubor'.](images/file-menu.png)
+
+Pokud nejsi online nebo nemáš ve Scratchi účet, můžeš kliknout na **Ulož do svého počítače** a svoji kopii projektu si uložit takto.
 
 --- /task ---
 
