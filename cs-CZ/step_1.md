@@ -1,10 +1,10 @@
-## You will make
+## Co budeš dělat
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+Vytvoř vesmírnou scénu s postavami 👾, které pomocí různých gest a výrazů sdílejí své myšlenky a pocity.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+Ve Scratchi se všechny postavičky i objekty nazývají **Postavy** a objevují se na **Scéně**.
 
-You will:
+V tomto projektu:
 + Add sprites and a **backdrop** to set up your project
 + Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
 + Use the **Paint editor** to change a **costume**
