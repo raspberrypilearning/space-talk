@@ -14,7 +14,7 @@ Hm...
 
 zpět na počáteční barvu
 
-skrýt bublinu
+skryje bublinu
 
 číslo do 200
 
@@ -24,6 +24,6 @@ přehraje zvuk, bez čekání
 
 zobrazit bublinu
 
-přiložit ruku k ústům
+přiloží ruku k ústům
 
-s úsměvem
+směje se
