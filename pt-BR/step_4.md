@@ -11,7 +11,7 @@ Outra forma de se comunicar é usar som.
 </div>
 </div>
 
-### Existem alguns sons alienígenas fantásticos no Scratch que você pode adicionar ao seu ator.
+### Adicionar um som ao ator Pico
 
 --- task ---
 
@@ -19,17 +19,17 @@ Clique na aba **Sons** para o ator **Pico** e você encontrará um som chamado *
 
 ![Reproduzindo o som pop na aba Sons.](images/pico-sound-play.png)
 
-Além disso, verifique se o som está funcionando em seu computador ou tablet.
+**Depurar**: Se você não consegue ouvir um som, verifique se o som está funcionando em seu computador ou tablet.
 
 --- /task ---
 
 --- task ---
 
-Para escolher um novo som, clique no ícone **Selecionar um Som** e selecione a categoria **Espaço** ou digite `espaço` na caixa de pesquisa.
+Para escolher um novo som, clique no ícone **Selecionar um Som** e selecione a categoria **Espaço** ou digite `space` na caixa de pesquisa.
 
 ![O ícone 'Selecione um som'.](images/sound-button.png)
 
-![O editor Scratch com 'Selecione um som' destacado.](images/pico-choose-sound.png)
+![O editor Scratch com 'Selecionar um Som' destacado.](images/pico-choose-sound.png)
 
 ![A categoria 'Espaço' na Biblioteca de sons.](images/pico-space-category.png)
 
@@ -43,11 +43,11 @@ Reproduza alguns sons diferentes usando os ícones **Reproduzir**. Depois de enc
 
 --- /task ---
 
-### Make the sound play when clicked (or tapped)
+### Faça o som tocar quando clicado (ou tocado)
 
 --- task ---
 
-Clique na aba **Código**. No menu de blocos `Som`{:class="block3sound"}, encontre o bloco `toque o som`{:class="block3sound"}.
+Clique na guia **Código**. No menu de blocos `Som`{:class="block3sound"}, encontre o bloco `toque o som`{:class="block3sound"}.
 
 Arraste o bloco para a área de código, entre `quando este ator for clicado`{:class="block3events"} e o bloco `diga`{:class="block3looks"}. Um espaço se abrirá e o bloco se encaixará no lugar.
 
@@ -55,7 +55,7 @@ Arraste o bloco para a área de código, entre `quando este ator for clicado`{:c
 
 Seu código deve ficar assim:
 
-![The Pico sprite.](images/pico-sprite.png)
+![O ator Pico.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,7 +65,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Test your code
+### Teste seu código
 
 --- task ---
 
@@ -77,7 +77,7 @@ Verifique se o seu bloco `toque o som`{:class="block3sound"} contém o som escol
 
 --- task ---
 
-Clique na aba **Sons** para o ator **Pico** e você encontrará um som chamado **pop**. Clique no **Jogar** para ouvir o som **pop**.
+**Teste:** Clique no ator **Pico** e verifique se o balão de fala aparece e você pode ouvir o som. Se você não ouvir o som, certifique-se de ter adicionado o bloco `toque o som`{:class="block3sound"} abaixo do bloco `quando este ator for clicado`{:class="block3events"}.
 
 --- /task ---
 
