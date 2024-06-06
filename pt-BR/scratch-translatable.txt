@@ -6,7 +6,7 @@ quando o Nano é clicado
 
 Nano falando
 
-try 0.25 instead of 0.5
+tente 0.25 em vez de 0.5
 
 Hm...
 
@@ -18,7 +18,7 @@ esconder balão de fala
 
 número até 200
 
-0.5 is half a second
+0.5 é meio segundo
 
 toca som, não espera
 
