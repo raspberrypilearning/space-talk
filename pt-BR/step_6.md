@@ -11,7 +11,7 @@ Atores também podem usar balões de pensamento e mudar as cores para mostrar su
 </div>
 </div>
 
-### O ator Giga.
+### Faça Giga mudar de cor
 
 --- task ---
 
