@@ -1,16 +1,16 @@
-## Experimente
+## O que você vai fazer
 
-Neste projeto, você criará uma cena espacial com personagens com 'emote' para compartilhar seus pensamentos ou sentimentos.
+Crie uma cena espacial com personagens 👾 que expressem seus pensamentos ou sentimentos através de gestos e expressões faciais.
 
 No Scratch, os personagens e objetos são chamados de **atores** e aparecem no **Palco**.
 
-Você irá:
+Você deve:
 + Adicione atores e um **cenário** para configurar seu projeto
 + Clique nos atores para fazê-los se comunicar usando blocos `Aparência`{:class="block3looks"} e `Som`{:class="block3sound"}
 + Use o **editor de imagens** para mudar uma **fantasia**
 
 --- no-print --- --- task ---
-### Play ▶️
+### Jogar ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 Clique em cada ator para ver o que eles fazem. 
