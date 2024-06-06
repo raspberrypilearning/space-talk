@@ -11,11 +11,11 @@ Adicione o ator **Tera** e use qualquer um dos blocos que você aprendeu para fa
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+Você também pode usar a extensão Texto para Fala para fazer **Tera** falar em voz alta:
 
 [[[scratch3-text-to-speech]]]
 
-A personalidade do ato **Tera** é sua escolha, então divirta-se usando suas próprias idéias criativas.
+A personalidade do ator **Tera** é sua escolha, então divirta-se usando suas próprias ideias criativas.
 
 ```blocks3
 when this sprite clicked
@@ -43,7 +43,7 @@ start sound [pop v]
 speak [hello]
 ```
 
-Você também pode brincar com o projeto e fazer quaisquer mudanças que você quiser. Você pode mudar o pano de fundo e como animar os atores, e até mesmo escolher diferentes atores e dar a eles emoções.
+Você também pode 'remixar' o projeto para fazer as alterações que desejar. Você pode mudar o cenário, e como os atores se expressam, e até mesmo escolher diferentes atores e dar-lhes novas expressões.
 
 **Dica:** Clique no ator na lista de Atores abaixo do Palco para adicionar ou alterar o código, fantasia ou som.
 
