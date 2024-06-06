@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Um ator pode ter código, fantasias e sons para mudar sua aparência e o que faz. 
   
-Você adicionará blocos de código para fazer o Pico reagir com palavras e sons quando o sprite for clicado.
+Você adicionará blocos de código para fazer o Pico reagir com palavras e sons quando o ator for clicado.
 </div>
 <div>
 
@@ -13,17 +13,21 @@ Você adicionará blocos de código para fazer o Pico reagir com palavras e sons
 </div>
 </div>
 
-Para usar blocos, você pode clicar neles no menu Blocos.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> são uma forma de mostrar a personalidade de um personagem em um jogo. Eles podem usar fala, sons, movimento e efeitos gráficos, assim como no Scratch. Você joga algum jogo que usa emotes?
+</p>
+
+### Use o bloco diga
 
 --- task ---
 
-Abra o menu `Aparência`{:class="block3looks"} nos blocos.
+Abra o menu dos blocos `Aparência`{:class="block3looks"}.
 
-Clique em um bloco `diga`{:class="block3looks"} `Olá` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
+Clique em um bloco `diga`{:class="block3looks"} `Olá!` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
 
-![O bloco 'diga Olá! por 2 segundos' brilhando com um contorno amarelo.](images/pico-say-hello-blocks-menu.png)
+![O 'diga Olá! por 2 segundos' brilhando com um contorno amarelo.](images/pico-say-hello-blocks-menu.png)
 
-O **Pico** mostrará um balão de fala por dois segundos.
+O ator **Pico** mostrará um balão de fala por dois segundos.
 
 ![O ator Pico com "Olá!" em um balão de fala.](images/pico-say-hello-stage.png)
 
@@ -31,11 +35,9 @@ O **Pico** mostrará um balão de fala por dois segundos.
 
 --- /task ---
 
-Você pode arrastar blocos para a área de código e eles podem ser usados a partir daí.
-
 --- task ---
 
-Arraste o bloco `diga`{:class="block3looks"} `Olá` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"} para a área de Código. Clique nele novamente.
+Arraste o bloco `diga`{:class="block3looks"} `Olá!` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"} para a área de Código. Clique nele novamente.
 
 ![Arrastando o bloco 'diga' para a área de código e clicando nele para executá-lo.](images/pico-drag-say.gif)
 
@@ -43,7 +45,7 @@ Arraste o bloco `diga`{:class="block3looks"} `Olá` `por`{:class="block3looks"} 
 
 --- /task ---
 
-Os blocos podem ser conectados juntos na área de Código para executar mais de um por vez. Os blocos conectados serão executados na ordem de cima para baixo.
+### Faça o Pico falar quando clicado (ou tocado)
 
 --- task ---
 
@@ -60,16 +62,19 @@ say [Olá!] for [2] seconds // esconder a fala após 2 segundos
 
 --- /task ---
 
-Um comentário é uma explicação do que seu código faz.
+### Comentários de código
 
 ```blocks3
 say [Olá!] for [2] seconds // esconder a fala após 2 segundos
 ```
-Você verá comentários em exemplos de código. Você não precisa adicionar comentários ao adicionar código ao seu projeto.
+
+Você verá comentários em código de exemplo. Você não precisa adicionar comentários ao adicionar código ao seu projeto.
 
 Se você tiver tempo ao terminar seu projeto, é uma boa ideia adicionar comentários ao seu código para que seja mais fácil de entender mais tarde. Para adicionar um comentário, clique com o botão direito (ou em um tablet, pressione e segure) em um bloco na área de Código e escolha **Comentar**.
 
 ![O menu pop-up que aparece quando você clica com o botão direito em um bloco. 'Comentar' é selecionado.](images/add-comment.png)
+
+### Teste
 
 --- task ---
 
@@ -77,4 +82,10 @@ Se você tiver tempo ao terminar seu projeto, é uma boa ideia adicionar coment�
 
 --- /task ---
 
---- save ---
+--- task ---
+
+Você já salvou seu projeto e deu um nome a ele. O Scratch agora salvará **automaticamente** para você.
+
+Você ainda pode clicar em salvar se quiser, só para ter certeza.
+
+--- /task ---

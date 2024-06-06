@@ -11,7 +11,7 @@ Se você está seguindo o caminho de [Introdução ao Scratch](https://projects.
 --- no-print ---
 
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/486719199/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724160134/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
@@ -24,5 +24,7 @@ Este projeto foi traduzido por voluntários:
 Thales Santos
 Max Santos
 Flavio Silva
+Vinícius
+Anáiram
 
 Graças a voluntários, podemos dar às pessoas de todo o mundo a chance de aprender em seu próprio idioma. Você pode nos ajudar a alcançar mais pessoas oferecendo-se para traduzir - mais informações em rpf.io/translate.

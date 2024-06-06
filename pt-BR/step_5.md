@@ -3,9 +3,9 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Você fará Nano se animar trocando de **fantasias**.
+Faça Nano expressar seus pensamentos ou sentimentos através de gestos e expressões faciais trocando de **fantasias**.
 
-Atores têm **fantasias** para mudar sua aparência. Para animar um sprite, você pode alterar suas fantasias.
+Atores têm **fantasias** para mudar sua aparência. Para animar um ator, você pode alterar sua fantasia.
 
 </div>
 <div>
@@ -32,29 +32,29 @@ Verifique se o ator **Nano** esteja selecionado na lista de Atores abaixo do Pal
 ![A lista de Atores, com uma borda azul ao redor do ator Nano para mostrar que o Nano está selecionado.](images/nano-selected.png)
 
 
-Clique na aba **Código** e adicione um script para fazer com que o ator **Nano** `diga`{:class="block3looks"} `Obrigado!`:
+Clique na guia **Código** e adicione um código para que o ator **Nano** diga 'Obrigado' usando `mude para a fantasia`{:class="block3looks"} e `espere`{:class="block3control"}:
 
 ![O ator Nano.](images/nano-sprite.png)
 
 ```blocks3
 when this sprite clicked // quando o Nano é clicado
 switch costume to [nano-b v] // Nano falando
-say [Obrigado!] for [2] seconds // tente 1 em vez de 2
+wait (0.5) seconds // tente 0.25 em vez de 0.5
 switch costume to [nano-a v] // Nano sorrindo
 ```
 --- /task ---
 
-**Dica:** Todos os blocos são codificados por cores, assim você vai encontrar o bloco `mude para a fantasia`{:class="block3looks"} no menu de blocos `Aparência`{:class="block3looks"}.
+**Dica:** Todos os blocos são codificados por cores, assim você vai encontrar o bloco `mude para a fantasia`{:class="block3looks"} no menu de blocos `Aparência`{:class="block3looks"} e o bloco `espere`{:class="block3control"} no menu de blocos `Controle`{:class="block3control"}.
 
 --- task ---
 
-**Teste:** Clique no **Nano** no Palco e verifique se o balão de fala aparece e se a fantasia de Nano muda.
+**Teste:** Clique no ator **Nano** no Palco e verifique se o balão de fala aparece e se a fantasia de Nano muda.
 
 --- /task ---
 
 ### Nano usa linguagem de sinais
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Milhões de pessoas usam a linguagem de sinais para se comunicar. Um sinal comum para 'obrigado' é **levar a mão direita à boca**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Milhões de pessoas usam a linguagem de sinais para se comunicar. Uma forma comum de dizer 'Obrigado' é colocar os dedos no queixo com a mão o mais espalmada possível. Você então move a mão para frente, longe do queixo e ligeiramente para baixo. 
 </p>
 
 Nano usará linguagem de sinais trocando de fantasia.
@@ -109,5 +109,3 @@ Volte para a fantasia **nano-b** e clique em **Colar**. A fantasia deve ficar as
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Você aprendeu a fazer o sinal de "obrigado". Da próxima vez que você agradecer a alguém, por que não usar sua nova habilidade?
 </p>
-
---- save ---

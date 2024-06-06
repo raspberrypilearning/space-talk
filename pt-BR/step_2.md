@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Nesta etapa, você configurará seu projeto com um cenário de espaço e o primeiro ator. 
+Configure seu projeto com um cenário espacial e o primeiro ator. 
 </div>
 <div>
 
@@ -10,6 +10,8 @@ Nesta etapa, você configurará seu projeto com um cenário de espaço e o prime
 
 </div>
 </div>
+
+### Abra o projeto inicial
 
 --- task ---
 
@@ -19,9 +21,11 @@ Abra o [projeto inicial Conversa espacial](https://scratch.mit.edu/projects/5822
 
 --- /task ---
 
-O editor Scratch se parece com isso:
+### O editor Scratch
 
 ![Uma captura de tela com anotações do editor Scratch, com o Palco, Painel de Palcos, Painel de Atores, Lista de atores e área de código rotulados.](images/scratch-interface.png)
+
+### Adicione um cenário
 
 O **Palco** é onde seu projeto é executado. Um **cenário** muda a aparência do Palco.
 
@@ -37,13 +41,13 @@ Clique (ou em um tablet, toque) em **Selecionar Cenário** no painel Palco:
 
 --- task ---
 
-Clique na categoria **Space** ou digite `space` na caixa de pesquisa:
+Clique na categoria **Espaço** ou digite `space` na caixa de pesquisa:
 
 ![A Biblioteca de cenários com a categoria 'Espaço' selecionada.](images/space-backdrops.png)
 
 --- /task ---
 
-Em nosso exemplo, escolhemos o **Space**, mas escolha o cenário que você mais gosta.
+Em nosso exemplo, escolhemos o cenário **Space**, mas escolha o cenário que você mais gosta.
 
 --- task ---
 
@@ -53,11 +57,13 @@ Clique no cenário escolhido para adicioná-lo ao seu projeto. O Palco deve most
 
 --- /task ---
 
-Você consegue ver ator que já fora incluído em seu projeto? Esse é o Scratch Cat.
+### Adicione um ator
+
+Você consegue ver o ator que já está incluído no seu projeto? Esse é o Scratch Cat.
 
 --- task ---
 
-Exclua o ator **Ator1** (Scratch Cat): selecione o ator **Ator1** na lista Ator abaixo do Palco e clique no ícone **Apagar**.
+Exclua o ator **Ator1** (Scratch Cat): selecione o ator **Ator1** na lista de Atores abaixo do Palco e clique no ícone **Apagar**.
 
 ![O ícone 'Excluir'.](images/delete-sprite.png)
 
@@ -65,7 +71,7 @@ Exclua o ator **Ator1** (Scratch Cat): selecione o ator **Ator1** na lista Ator 
 
 --- task ---
 
-Clique em **Selecione um ator** na lista de Atores:
+Clique em **Selecione um Ator** na lista de Atores:
 
 ![O ícone 'Selecione um ator'.](images/sprite-button.png)
 
@@ -83,7 +89,7 @@ Selecione a categoria **Imaginários**. Clique no **Pico** para adicioná-los ao
 
 --- task ---
 
-Arraste o **Pico** para posicioná-lo no lado esquerdo do Palco. Seu Palco deve ser parecido com este:
+Arraste o **Pico** para posicioná-lo no lado esquerdo do Palco. Seu Palco deve estar parecido com isto:
 
 ![O Palco com o cenário escolhido e o ator Pico posicionado do lado esquerdo.](images/pico-on-stage.png)
 
@@ -91,7 +97,7 @@ Arraste o **Pico** para posicioná-lo no lado esquerdo do Palco. Seu Palco deve 
 
 --- task ---
 
-Se você estiver conectado à sua conta Scratch, clique no botão verde Remix. Isso salvará uma cópia do projeto em sua conta Scratch.
+**Salvar**: Se você estiver conectado à sua conta Scratch, clique no botão verde Remix. Isso salvará uma cópia do projeto em sua conta Scratch.
 
 ![Botão remix.](images/remix-button.png)
 

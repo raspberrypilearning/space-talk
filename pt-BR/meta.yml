@@ -3,12 +3,13 @@ title: Conversa espacial
 hero_image: images/banner.png
 description: Use o Scratch para dar aos atores uma 'ação' para que eles se comuniquem
   quando clicados
-version: 4
+meta_title: Projetos de programação Scratch para crianças e adolescentes | Introdução ao Scratch
+meta_description: Aprenda a programar no Scratch com os projetos de programação da Raspberry Pi Foundation para crianças e adolescentes. Faça animações, jogos, aplicativos e muito mais no Scratch.
 listed: true
 copyedit: false
 last_tested: '2021-02-09'
 steps:
-- title: Introdução
+- title: Você vai fazer
 - title: Crie sua cena
 - title: Pico diz olá
   completion:
@@ -18,7 +19,7 @@ steps:
 - title: Giga muda de cor
   completion:
   - internal
-- title: Reflexão
+- title: Teste rápido
   knowledge_quiz:
     path: quiz1
     version: 1
