@@ -1,10 +1,10 @@
-## Quick quiz
+## Teste rápido
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Responda às três perguntas para obter seu distintivo Conversa Espacial. Existem dicas para guiá-lo para a resposta correta.
 
-Após responder cada pergunta, clique em **Enviar**. Você será levado para a resposta correta.
+Após responder cada pergunta, clique em **Ver minha resposta**.
 
-Have fun!
+Divirta-se!
 
 --- question ---
 ---
@@ -13,9 +13,9 @@ legend: Pergunta 1 de 3
 
 Em seu projeto, você adicionou um cenário e alguns personagens (atores).
 
-Where do you go to **add a sprite** to your project?
+Onde você vai para **adicionar um ator** ao seu projeto?
 
-![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 3 — Lista de Atores e 4 - O painel Palco destacado.](images/question1.png)
+![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 3 — Lista de Atores e 4 — O painel Palco destacado.](images/question1.png)
 
 --- choices ---
 
@@ -23,7 +23,7 @@ Where do you go to **add a sprite** to your project?
 
   --- feedback ---
 
-Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
+Você foi para a guia **Fantasias** para editar uma fantasia para o seu ator.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
 
   --- feedback ---
 
-Você foi até a aba **Sons** para escolher um novo som para seu sprite.
+Você foi até a guia **Sons** para escolher um novo som para seu ator.
 
   --- /feedback ---
 
