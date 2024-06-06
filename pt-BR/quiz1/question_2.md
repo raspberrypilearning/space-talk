@@ -4,7 +4,7 @@
 legend: Pergunta 2 de 3
 ---
 
-Você fez Pico dizer "Olá!" em um balão de fala.
+Você fez Pico `dizer`{:class="block3looks"} "Olá!" em um balão de fala.
 
 ```blocks3
 say [Olá!] for [2] seconds

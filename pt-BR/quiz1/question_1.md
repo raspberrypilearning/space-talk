@@ -1,10 +1,8 @@
-## Reflexão
+## Teste rápido
 
-Muito bem, você aprendeu muito! Agora, é hora de refletir - refletir é uma parte importante do aprendizado, porque isso ajuda a fazer novas conexões no seu cérebro.
+Responda às três perguntas para obter seu distintivo Conversa Espacial. Existem dicas para guiá-lo para a resposta correta.
 
-Responda às três perguntas abaixo para refletir sobre o que você aprendeu.
-
-Após responder cada pergunta, clique em **Enviar**. Você será levado para a resposta correta. Você pode repetir quantas vezes quiser.
+Após responder cada pergunta, clique em **Ver minha resposta**.
 
 Divirta-se!
 
@@ -15,9 +13,9 @@ legend: Pergunta 1 de 3
 
 Em seu projeto, você adicionou um cenário e alguns personagens (atores).
 
-Onde você vai para adicionar um ator ao seu projeto?
+Onde você vai para **adicionar um ator** ao seu projeto?
 
-![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 3 — Lista de Atores e 4 - O painel Palco destacado.](images/question1.png)
+![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 3 — Lista de Atores e 4 — O painel Palco destacado.](images/question1.png)
 
 --- choices ---
 
@@ -25,7 +23,7 @@ Onde você vai para adicionar um ator ao seu projeto?
 
   --- feedback ---
 
-Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
+Você foi para a guia **Fantasias** para editar uma fantasia para o seu ator.
 
   --- /feedback ---
 
@@ -33,7 +31,7 @@ Você foi para a aba **Fantasias** para editar uma fantasia para o seu sprite.
 
   --- feedback ---
 
-Você foi até a aba **Sons** para escolher um novo som para seu sprite.
+Você foi até a guia **Sons** para escolher um novo som para seu ator.
 
   --- /feedback ---
 
