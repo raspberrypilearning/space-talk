@@ -1,19 +1,19 @@
-Code tab
+Guia Código
 
-Blocks menu
+Menu de blocos
 
-Backpack
+Mochila
 
-Zoom
+Ampliação
 
-Sprite list
+Lista de Sprites
 
-Sprite pane
+Painel Sprite
 
-Stage pane
+Painel de palco
 
-Stage pane
+Painel de palco
 
-Full screen
+Tela cheia
 
-Code area
+Área de código
