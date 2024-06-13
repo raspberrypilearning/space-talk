@@ -1,10 +1,10 @@
-## Quick quiz
+## Vinnige vasvra
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Beantwoord die drie vrae om jou Space talk-kenteken te kry. Daar is wenke om jou na die korrekte antwoord te lei.
 
-When you have answered each question, click on **Check my answer**.
+Wanneer jy elke vraag beantwoord het, klik op **Gaan my antwoord na**.
 
-Have fun!
+Geniet dit!
 
 --- question ---
 ---
