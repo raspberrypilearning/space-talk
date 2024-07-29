@@ -5,7 +5,7 @@
 
 Get Nano to emote by switching **costumes**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costume.
+Sprites have **costumes** to change the way that they look. They are usually slightly different images of the same sprite. To animate a sprite, you can change its costume.
 
 </div>
 <div>
