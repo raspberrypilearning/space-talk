@@ -104,7 +104,7 @@ Go back to the **nano-b** costume and click on **Paste**. The costume should loo
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
 
 --- /task ---
 
