@@ -31,8 +31,7 @@ Make sure that the **Nano** sprite is selected in the Sprite list below the Stag
 
 ![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
 
-
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![The Nano sprite.](images/nano-sprite.png)
 
