@@ -8,46 +8,46 @@ Geniet dit!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legende: Vraag 1 van 3
 ---
 
-In your project, you added some sprite characters.
+In jou projek, het jy 'n paar sprite-karakters bygevoeg.
 
-Where do you go to **add a sprite** to your project?
+Waarheen gaan jy om **'n sprite by te voeg** in jou projek?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+!['n Geannoteerde skermskoot van die volledige Scratch-redigeerder met 1 - Die Kostuums-oortjie, 2 - Die Klanke-oortjie, 3 - Die Sprite-lys en 4 - Die Stage-paneel uitgelig.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Die **Kostuums** oortjie
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Jy het na die **Kostuums**-oortjie gegaan om 'n kostuum vir jou sprite te wysig.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Die **Geluide** oortjie
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Jy het na die **Kostuums**-oortjie gegaan om 'n kostuum vir jou sprite te wysig.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Die Sprite-lys
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Ja. Dit is die area waar jy al die sprites in die projek kan sien, sprites kan byvoeg en uitvee, en op sprites kan klik om hulle te kies.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Die verhoogpaneel
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Jy het na die verhoogpaneel gegaan om 'n agtergrond te kies.
 
   --- /feedback ---
 
