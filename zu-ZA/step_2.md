@@ -1,117 +1,117 @@
-## Create your scene
+## Qala isigcawu sakho
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+Setha iphrojekthi yakho ngesiteji kanye ne-sprite sokuqala. 
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![Isiteji se-Space nge-Pico sprite.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Open the starter project
+### Vula iphrojekthi uqale usebenze
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
+Vula iphrojekthi ethi [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. U-Scratch uzovuleka kwenye ithebhu yesiphequluli.
 
 [[[working-offline]]]
 
 --- /task ---
 
-### The Scratch editor
+### Umhleli we-Scratch
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Isithombe-skrinishothi esichasisiwe somhleli we-Scratch, esine-Stage, ifasitelana lesiteji, ifasitelana le-Sprite, uhlu lwe-Sprite, kanye nendawo yeKhodi elebuliwe.](images/scratch-interface.png)
 
-### Add a backdrop
+### Engeza isteji
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+I- **Stage** yilapho iphrojekthi yakho isebenza khona. A **okwasemuva** kushintsha indlela iSiteji esibukeka ngayo.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+Chofoza (noma kuthebhulethi, thepha) okuthi **Khetha okwasemuva** kufasitelana lesiteji:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![Ibhathini 'Khetha okwasemuva'.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![Umhleli we-Scratch 'oKhetha okwasemuva' ogqanyiswe ekhoneni elingezansi kwesokudla.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+Chofoza kusigaba esithi **Space** noma bhala `space` ebhokisini lokusesha:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![Uhlu lokwasemuva enesigaba esithi 'Space' esikhethiwe.](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+Esibonelweni sethu, sikhethe okwasemuva okuthi **Space**, kodwa ungakhetha okwasemuva okuthanda kakhulu.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Chofoza okwasemuva okukhethile ukuze wengeze kuphrojekthi yakho. Isiteji kufanele sibonise okwasemuva okukhethile:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![Umhleli we-Scratch onokungemuva okukhethiwe sekwengeziwe.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Yengeza i-Sprite
+
+Uyasibona i-sprite esivele sifakiwe kuphrojekthi yakho? I-Scratch Cat leso.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Susa i- **Sprite1** (Scratch Cat) sprite: khetha **Sprite1** sprite kuhlu lwe-Sprite ngaphansi kweSiteji bese uchofoza la okuthi **Susa** isithonjana.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![Isithonjana 'Susa'.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+Chofoza ku- **Khetha i-Sprite** kuhlu lwe-Sprite:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![Ibhathini 'Khetha okwasemuva'.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![Umhleli we-Scratch ogqanyiswe 'Khetha i-Sprite'.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+Khetha isigaba esithi **Fantasy**. Chofoza ku- **Pico** sprite ukuze ubangeze kuphrojekthi yakho.
 
-![The remix button.](images/remix-button.png)
+![Isigaba esithi 'Fantasy' ene-Pico sprite.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+Khetha u- **Pico** sprite ukuze usibeke ngakwesokunxele kweSiteji. Isiteji sakho kufanele sibukeke kanje:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![Isiteji esinokwasemuva okukhethiwe kanye ne-Pico sprite esibekwe ngakwesokunxele.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**Londoloza/ save**: Uma ungene ngemvume ku-akhawunti yakho ye-Scratch, chofoza inkinobho eluhlaza ye-Remix. Lokhu kuzolondoloza ikhophi yephrojekthi ku-akhawunti yakho ye-Scratch.
+
+![Inkinobho ye-remix.](images/remix-button.png)
+
+Bhala igama lephrojekthi yakho ebhokisini legama lephrojekthi phezulu esikrinini.
+
+![Ibhokisi legama lephrojekthi.](images/project-name.png)
+
+**Ithiphu:** Nikeza amaphrojekthi akho amagama awusizo ukuze uwathole kalula uma unamaphrojekthi amaningi.
+
+Okulandelayo, chofoza okuthi **Ifayela**, bese u- **Londoloza/save manje** ukuze ulondoloze iphrojekthi yakho.
+
+![Izinketho zemenyu 'yefayela'.](images/file-menu.png)
+
+Uma ungekho ku-inthanethi noma ungenayo i-akhawunti ye-Scratch, ungachofoza kokuthi **Londoloza kukhompyutha yakho** ukuze ulondoloze ikhophi yephrojekthi yakho.
 
 --- /task ---
 
