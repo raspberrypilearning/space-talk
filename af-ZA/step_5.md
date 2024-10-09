@@ -5,7 +5,7 @@
 
 Get Nano to emote by switching **costumes**.
 
-Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costume.
+Sprites have **costumes** to change the way that they look. They are usually slightly different images of the same sprite. To animate a sprite, you can change its costume.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Make sure that the **Nano** sprite is selected in the Sprite list below the Stag
 
 ![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
 
-
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![The Nano sprite.](images/nano-sprite.png)
 
@@ -105,7 +104,7 @@ Go back to the **nano-b** costume and click on **Paste**. The costume should loo
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that the speech bubble appears and Nano's costume changes to the costume that you have edited.
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
 
 --- /task ---
 
