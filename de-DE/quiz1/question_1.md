@@ -1,8 +1,8 @@
-## Quick quiz
+## Kurzes Quiz
 
 Beantworte die drei Fragen, um deinen Space Talk Badge zu erhalten. Hinweise helfen dir beim Finden der richtigen Antwort.
 
-Nach dem Beantworten der Fragen wähle **Check my answer**.
+Nach dem Beantworten der Fragen wähle **Meine Antwort prüfen**.
 
 Viel Spaß!
 
@@ -11,7 +11,7 @@ Viel Spaß!
 legend: Frage 1 von 3
 ---
 
-Du hast in deinem Projekt Sprite Charaktere hinzugefügt.
+Du hast in deinem Projekt einige Figuren Charaktere hinzugefügt.
 
 Wo hast du die Auswahl **add a sprite** zu deinem Projekt durchgeführt?
 
@@ -23,7 +23,7 @@ Wo hast du die Auswahl **add a sprite** zu deinem Projekt durchgeführt?
 
   --- feedback ---
 
-Du hast unter dem **Kostüme** Reiter ein Kostüm für deinen Sprite bearbeitet.
+Du hast unter dem **Kostüme** Reiter ein Kostüm für deine Figur bearbeitet.
 
   --- /feedback ---
 
@@ -31,15 +31,15 @@ Du hast unter dem **Kostüme** Reiter ein Kostüm für deinen Sprite bearbeitet.
 
   --- feedback ---
 
-Du hast unter dem **Klänge** Reiter einen neuen Klang für deinen Sprite ausgewählt.
+Du hast unter dem **Klänge** Reiter einen neuen Klang für deine Figur ausgewählt.
 
   --- /feedback ---
 
-- (x) 3: Die Sprite Liste
+- (x) 3: Die Figuren Liste
 
   --- feedback ---
 
-Ja. In diesem Bereich kannst du deine Sprites im Projekt ansehen, neue Sprites hinzufügen, vorhandene Sprites löschen und mit einem Klick auswählen.
+Ja. In diesem Bereich kannst du deine Figuren im Projekt ansehen, neue Figuren hinzufügen, vorhandene Figuren löschen und mit einem Klick auswählen.
 
   --- /feedback ---
 
