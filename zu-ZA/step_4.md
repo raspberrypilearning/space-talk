@@ -15,11 +15,11 @@ Another way to communicate is to use sound.
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Chofoza u- **Play** ukuze uzwe umsindo othi **pop**.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![Idlala umsindo othi-pop kuthebhu yemisindo.](images/pico-sound-play.png)
 
-**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+**Susa iphutha**: Uma ungezwa umsindo bheka ukuthi umsindo uyasebenza kukhompuyutha noma ithebhulethi yakho.
 
 --- /task ---
 
