@@ -5,7 +5,7 @@
 
 ستجعل Nano يعبر عن مشاعره عن طريق تبديل مظهره **الهيئة**.
 
-الكائنات تمتلك **المظاهر** لتغيير الطريقة التي تظهر بها. لتحريك كائن ما، يمكنك تغيير مظهره.
+الكائنات تمتلك **المظاهر** لتغيير الطريقة التي تظهر بها. They are usually slightly different images of the same sprite. لتحريك كائن ما، يمكنك تغيير مظهره.
 
 </div>
 <div>
@@ -31,8 +31,7 @@
 
 ![قائمة الكائن، مع أطار أزرق حول الكائن Nano لإظهار أنه تم أختيار Nano.](images/nano-selected.png)
 
-
-أنقر على تبويب **المقاطع البرمجية** وأضف نص للحصول على الكائن **Nano** `لقول`{:class="block3looks"}`شكراً!`:
+ارجع إلى مظهر **nano-b** وانقر على **لصق**. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![الكائن Nano.](images/nano-sprite.png)
 
