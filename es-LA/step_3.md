@@ -64,14 +64,18 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 ### Comentarios de código
 
+--- task ---
+
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Verás los comentarios en los ejemplos de código. No necesitas agregarlos cuando agregas código a tu proyecto.
 
-Si tienes tiempo cuando hayas terminado tu proyecto, es una buena idea agregar comentarios a tu código para que sea más fácil de entender más adelante. Para agregar un comentario, haz clic con el botón derecho (o en una tableta, mantén presionado) en un bloque en el área de Código y elige **Agregar comentario**.
+Si tienes tiempo cuando hayas terminado tu proyecto, es una buena idea agregar comentarios a tu código para que sea más fácil de entender más adelante. Try adding a comment now. Para agregar un comentario, haz clic con el botón derecho (o en una tableta, mantén presionado) en un bloque en el área de Código y elije **Agregar comentario**.
 
 ![El menú emergente que aparece al hacer clic con el botón derecho en un bloque. 'Agregar comentario' está seleccionado.](images/add-comment.png)
+
+--- /task ---
 
 ### Prueba
 
