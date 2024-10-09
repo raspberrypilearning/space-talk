@@ -64,14 +64,18 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 ### Code opmerkingen
 
+--- task ---
+
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Je ziet opmerkingen in de codevoorbeelden. Je hoeft de opmerkingen niet toe te voegen wanneer je code aan jouw project toevoegt.
 
-Als je tijd over hebt zodra je jouw project hebt afgerond, is het een goed idee om opmerkingen aan je code toe te voegen, zodat deze later gemakkelijker te begrijpen is. Om een opmerking toe te voegen, klik je met de rechtermuisknop (of tik je op een tablet en houdt je vast) op een blok in het codegebied en kies je **Commentaar toevoegen**.
+Als je tijd over hebt zodra je jouw project hebt afgerond, is het een goed idee om opmerkingen aan je code toe te voegen, zodat deze later gemakkelijker te begrijpen is. Try adding a comment now. Om een opmerking toe te voegen, klik je met de rechtermuisknop (of tik je op een tablet en houdt je vast) op een blok in het codegebied en kies je **Commentaar toevoegen**.
 
 ![Het pop-up menu dat verschijnt wanneer je met de rechtermuisknop op een blok klikt. 'Commentaar toevoegen' is geselecteerd.](images/add-comment.png)
+
+--- /task ---
 
 ### Test
 
