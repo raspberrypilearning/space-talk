@@ -5,7 +5,7 @@
 
 Haz que Nano se emocione cambiando **disfraces**.
 
-Los objetos tienen **disfraces** para cambiar su apariencia. Para animar un objeto, puedes cambiar su disfraz.
+Los objetos tienen **disfraces** para cambiar su apariencia. They are usually slightly different images of the same sprite. Para animar un objeto, puedes cambiar su disfraz.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Asegúrate de que el objeto **Nano** esté seleccionado en la lista de objetos d
 
 ![La lista de objetos, con un borde azul alrededor del objeto Nano para mostrar que está seleccionado.](images/nano-selected.png)
 
-
-Haga clic en la pestaña **Código** y agrega el código para hacer que el objeto **Nano** diga 'Gracias' usando `cambiar disfraz`{:class="block3looks"} y `esperar`{:class="block3control"}:
+Vuelve al disfraz **nano-b** y haz clic en **Pegar**. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![El objeto Nano.](images/nano-sprite.png)
 
@@ -105,7 +104,7 @@ Vuelve al disfraz **nano-b** y haz clic en **pegar**. El disfraz debería verse 
 
 --- task ---
 
-**Prueba:** Haz clic en el objeto **Nano** en el escenario y verifica que aparezca la burbuja de diálogo y que el disfraz de Nano cambie al disfraz que has editado.
+**Prueba:** Haz clic en el objeto **Nano** en el Escenario y verifica que aparezca la burbuja de diálogo y que el disfraz de Nano cambie al disfraz que has editado.
 
 --- /task ---
 
