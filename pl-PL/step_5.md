@@ -5,7 +5,7 @@
 
 Sprawisz, że Nano będzie emotował poprzez zmianę **kostiumów**.
 
-Duszki mają **kostiumy**, które pozwalają im zmienić wygląd. Aby animować duszka, możesz zmienić jego kostiumy.
+Duszki mają **kostiumy**, które pozwalają im zmienić wygląd. They are usually slightly different images of the same sprite. Aby animować duszka, możesz zmienić jego kostiumy.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Upewnij się, że duszek **Nano** jest zaznaczony na Liście duszków pod Sceną
 
 ![Lista duszków z niebieską obwódką wokół duszka Nano wskazującą, że Nano został wybrany.](images/nano-selected.png)
 
-
-Kliknij zakładkę **Skrypt** i dodaj kod, aby duszek **Nano** powiedział „Dzięki!” używając `zmień kostium na`{:class="block3looks"} i `czekaj`{:class="block3control"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Duszek Nano.](images/nano-sprite.png)
 
