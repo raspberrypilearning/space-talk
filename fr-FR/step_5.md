@@ -5,7 +5,7 @@
 
 Donne une émotion à Nano en changeant de **costumes**.
 
-Les sprites ont des **costumes** pour changer leur apparence. They are usually slightly different images of the same sprite. Pour animer un sprite, tu peux changer ses costumes.
+Les sprites ont des **costumes** pour changer leur apparence. Il s'agit généralement d'images légèrement différentes du même sprite. Pour animer un sprite, tu peux changer ses costumes.
 
 </div>
 <div>
@@ -31,7 +31,7 @@ Assure-toi que le sprite **Nano** est sélectionné dans la liste Sprite sous la
 
 ![La liste Sprite, avec une bordure bleue autour du sprite Nano pour montrer que Nano est sélectionné.](images/nano-selected.png)
 
-Clique sur l'onglet **Code** et ajoute un script pour que le sprite **Nano** signe « Merci » en utilisant `basculer sur le costume`{:class="block3looks"} et `attendre`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
+Clique sur l'onglet **Code** et ajoute un script pour que le sprite **Nano** signe « Merci » en utilisant `basculer sur le costume`{:class="block3looks"} et `attendre`{:class="block3control"}. Utilise le menu déroulant pour basculer de `nano-b`{:class="block3looks"} à `nano-a`{:class="block3looks"} :
 
 ![Le sprite Nano.](images/nano-sprite.png)
 
@@ -104,7 +104,7 @@ Reviens au **nano-b** et clique sur **Coller**. Le costume devrait ressembler à
 
 --- task ---
 
-**Test :** Clique sur le **Nano** sur la Scène et vérifie que la bulle de dialogue apparaît et que le costume de Nano change pour le costume que tu as édité.
+**Test :** clique sur le sprite **Nano** sur la Scène et vérifie que le costume de Nano se transforme en costume que tu as modifié.
 
 --- /task ---
 
