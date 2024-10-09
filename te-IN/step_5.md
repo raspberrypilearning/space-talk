@@ -5,7 +5,7 @@
 
 Get Nano to emote by switching **costumes**.
 
-Sprite లు కనిపించే విధానాన్ని మార్చడానికి **costumes**ని కలిగి ఉంటాయి. To animate a sprite, you can change its costume.
+Sprite లు కనిపించే విధానాన్ని మార్చడానికి **costumes**ని కలిగి ఉంటాయి. They are usually slightly different images of the same sprite. To animate a sprite, you can change its costume.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Stage దిగువన ఉన్న Sprite జాబితాలో **Nano** s
 
 ![Sprite జాబితాలో, Nano ఎంపిక చేయబడిందని చూపించడానికి Nano sprite చుట్టూ నీలిరంగు అంచుతో ఉంటుంది.](images/nano-selected.png)
 
-
-**Code** ట్యాబ్‌పై క్లిక్ చేసి, **Nano** sprite నుండి `say`{:class="block3looks"} `Thanks!`ని పొందడానికి స్క్రిప్ట్‌ను జోడించండి:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Nano sprite.](images/nano-sprite.png)
 
