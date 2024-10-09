@@ -3,9 +3,9 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Ты отредактируешь костюм Nano, чтобы он сделал знак «спасибо».
+У тебя получится, чтобы Nano проявил эмоцию, сменив **костюмы**.
 
-У спрайтов есть **костюмы**, чтобы изменить их внешний вид. Ты можешь редактировать костюмы для своих спрайтов с помощью графического редактора.
+У спрайтов есть **костюмы**, чтобы изменить их внешний вид. They are usually slightly different images of the same sprite. Чтобы оживить спрайт, ты можешь изменить его костюмы.
 
 </div>
 <div>
@@ -31,8 +31,7 @@
 
 ![Список спрайтов с синей рамкой вокруг спрайта Nano, чтобы показать, что Nano выбран.](images/nano-selected.png)
 
-
-Перейди на вкладку **Код** и добавь скрипт, чтобы спрайт **Nano** мог `говорить`{:class="block3looks"} `Спасибо!`:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Спрайт Nano.](images/nano-sprite.png)
 
