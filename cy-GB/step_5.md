@@ -5,7 +5,7 @@
 
 Get Nano to emote by switching **costumes**.
 
-Mae gan gorluniau **wisgoedd** sy'n newid y ffordd maen nhw'n edrych. To animate a sprite, you can change its costume.
+Mae gan gorluniau **wisgoedd** sy'n newid y ffordd maen nhw'n edrych. They are usually slightly different images of the same sprite. To animate a sprite, you can change its costume.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Gwna'n siŵr dy fod wedi dewis corlun **Nano** yn rhestr y Corluniau o dan y Llw
 
 ![Y rhestr Corluniau, gydag amlinell las o gwmpas corlun Nano i ddangos mai Nano sydd wedi'i ddewis.](images/nano-selected.png)
 
-
-Clicia'r tab **Cod** ac ychwanegu sgript i wneud i gorlun **Nano** `ddweud`{:class="block3looks"} `Diolch!`:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Corlun Nano.](images/nano-sprite.png)
 
