@@ -71,7 +71,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Tu verras des commentaires dans les exemples de code. Tu n'as pas besoin d'ajouter les commentaires lorsque tu ajoutes du code à ton projet.
 
-Si tu as le temps lorsque tu as terminé ton projet, c'est une bonne idée d'ajouter des commentaires à ton code afin qu'il soit plus facile à comprendre plus tard. Try adding a comment now. Pour ajouter un commentaire, fais un clic droit (ou sur une tablette, appuie et maintiens) sur un bloc dans la zone de Code et choisis **Ajouter un commentaire**.
+Si tu as le temps lorsque tu as terminé ton projet, c'est une bonne idée d'ajouter des commentaires à ton code afin qu'il soit plus facile à comprendre plus tard. Essaie d'ajouter un commentaire maintenant. Fais un clic droit (ou tape et maintien sur une tablette) sur un bloc dans la zone Code et choisis **Ajouter un commentaire**.
 
 ![Le menu contextuel qui apparaît lorsque tu fais un clic droit sur un bloc. « Ajouter un commentaire » est sélectionné.](images/add-comment.png)
 
