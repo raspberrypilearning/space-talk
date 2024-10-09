@@ -5,7 +5,7 @@
 
 Fai in modo che Nano si esprima cambiano **costumi**.
 
-Gli Sprite hanno **costumi** per cambiare il loro aspetto. Per animare uno sprite, puoi cambiargli il costume.
+Gli Sprite hanno **costumi** per cambiare il loro aspetto. They are usually slightly different images of the same sprite. Per animare uno sprite, puoi cambiargli il costume.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Assicurati che lo sprite **Nano** sia selezionato nella lista degli Sprite sotto
 
 ![L'elenco degli Sprite, con un bordo blu attorno allo sprite Nano per mostrare che Nano è selezionato.](images/nano-selected.png)
 
-
-Fai clic sulla scheda **Codice** e aggiungi uno script per fare in modo che lo sprite **Nano** ringrazi utilizzando `passa al costume`{:class="block3looks"} e `attendi`{:class="block3control"}:
+Torna al costume **nano-b** e fai clic su **Incolla**. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Lo sprite Nano.](images/nano-sprite.png)
 
