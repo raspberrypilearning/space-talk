@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+inganekwane: Umbuzo 2 kwengu-3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+Wenze u-Pico `wathi`{:class="block3looks"} "Sawubona!" kubhamuza lenkulumo.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Ungaya kuphi ukuze uthole leli bhulokhi?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `uKubukeka`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Yebo. I- `ithi`{:class="block3looks"} ibhulokhi iku- `ukubukeka`{:class="block3looks"} imenyu yamabhulokhi, efanayo umbala njengebhulokhi.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `Umsindo`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Amabhulokhi kumenyu yamabhulokhi engu- ``{:class="block3sound"} asetshenziselwa ukwenza ama-sprites adlale imisindo.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Ukunyakaza`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Amabhulokhi kumenyu yamabhulokhi engu- ``{:class="block3sound"} asetshenziselwa ukwenza ama-sprites adlale imisindo.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Imicimbi`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Amabhulokhi kumenyu yamabhulokhi engu- ``{:class="block3sound"} asetshenziselwa ukwenza ama-sprites adlale imisindo.
 
   --- /feedback ---
 
