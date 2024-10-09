@@ -5,7 +5,7 @@
 
 Faça Nano expressar seus pensamentos ou sentimentos através de gestos e expressões faciais trocando de **fantasias**.
 
-Atores têm **fantasias** para mudar sua aparência. Para animar um ator, você pode alterar sua fantasia.
+Atores têm **fantasias** para mudar sua aparência. They are usually slightly different images of the same sprite. Para animar um ator, você pode alterar sua fantasia.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Verifique se o ator **Nano** esteja selecionado na lista de Atores abaixo do Pal
 
 ![A lista de Atores, com uma borda azul ao redor do ator Nano para mostrar que o Nano está selecionado.](images/nano-selected.png)
 
-
-Clique na guia **Código** e adicione um código para que o ator **Nano** diga 'Obrigado' usando `mude para a fantasia`{:class="block3looks"} e `espere`{:class="block3control"}:
+Volte para a fantasia **nano-b** e clique em **Colar**. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![O ator Nano.](images/nano-sprite.png)
 
