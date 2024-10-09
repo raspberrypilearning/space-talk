@@ -5,7 +5,7 @@
 
 **コスチューム**を切り替えることで、Nanoにエモートさせます。
 
-スプライトには、見た目を変えるための**コスチューム**があります。 コスチュームを変更してスプライトを動かすことができます。
+スプライトには、見た目を変えるための**コスチューム**があります。 They are usually slightly different images of the same sprite. コスチュームを変更してスプライトを動かすことができます。
 
 </div>
 <div>
@@ -31,8 +31,7 @@
 
 ![Nanoが選択されていることを示すためにNanoスプライトの周りが青く囲まれたスプライトリスト。](images/nano-selected.png)
 
-
-**コード**タブをクリックして、 **Nano**スプライトが`コスチュームを...にする`{:class="block3looks"}と`待つ`{:class="block3control"}を使用して「ありがとう」と合図するスクリプトを追加します。
+**nano-b**コスチュームに戻り、**貼り付け**をクリックします。 Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Nanoスプライト。](images/nano-sprite.png)
 
