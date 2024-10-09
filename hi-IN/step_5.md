@@ -5,7 +5,7 @@
 
 **वेशभूषा** बदलकर नैनो को भावपूर्ण बनाएं।
 
-स्प्राइट्स के पास **कॉस्टयूम** होते हैं जो उनके दिखने के तरीके को बदल देते हैं। एक स्प्राइट को चेतन करने के लिए, आप उसकी पोशाक बदल सकते हैं।
+स्प्राइट्स के पास **कॉस्टयूम** होते हैं जो उनके दिखने के तरीके को बदल देते हैं। They are usually slightly different images of the same sprite. एक स्प्राइट को चेतन करने के लिए, आप उसकी पोशाक बदल सकते हैं।
 
 </div>
 <div>
@@ -31,8 +31,7 @@
 
 ![Sprite लिस्ट, जिसमे nano स्प्राइट के चारों ओर नीले रंग की आउटलाइन यह दर्शाती है कि Nano का चयन किया गया है।](images/nano-selected.png)
 
-
-**Code** टैब पर क्लिक करें और **नैनो ** स्प्राइट से `धन्यवाद!` `Say`{:class="block3looks"} के लिए एक स्क्रिप्ट जोड़ें:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Nano स्प्राइट।](images/nano-sprite.png)
 
