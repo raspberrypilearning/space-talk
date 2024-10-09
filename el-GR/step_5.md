@@ -5,7 +5,7 @@
 
 Θα κάνεις τον Nano να εκφράσει συναισθήματα αλλάζοντας **ενδυμασίες**.
 
-Τα αντικείμενα έχουν **ενδυμασίες** για να αλλάζουν την εμφάνισή τους. Για να ζωντανέψεις ένα αντικείμενο, μπορείς να αλλάξεις την ενδυμασία του.
+Τα αντικείμενα έχουν **ενδυμασίες** για να αλλάζουν την εμφάνισή τους. They are usually slightly different images of the same sprite. Για να ζωντανέψεις ένα αντικείμενο, μπορείς να αλλάξεις την ενδυμασία του.
 
 </div>
 <div>
@@ -31,8 +31,7 @@
 
 ![Η λίστα Αντικειμένων, με ένα μπλε περίγραμμα γύρω από το αντικείμενο Nano για να δείξει ότι έχει επιλεγεί το Nano.](images/nano-selected.png)
 
-
-Κάνε κλικ στην καρτέλα **Κώδικας** και πρόσθεσε script για να κάνεις το αντικείμενο **Nano** να `πει`{:class="block3looks"} `Ευχαριστώ!`:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Το αντικείμενο Nano.](images/nano-sprite.png)
 
