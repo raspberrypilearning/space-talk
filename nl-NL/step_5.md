@@ -5,7 +5,7 @@
 
 Je gaat Nano een emotie laten zien door van **Uiterlijk** te wisselen.
 
-Sprites hebben **uiterlijken** om hun uiterlijk te veranderen. Om een sprite te animeren, kun je zijn uiterlijk laten veranderen.
+Sprites hebben **uiterlijken** om hun uiterlijk te veranderen. They are usually slightly different images of the same sprite. Om een sprite te animeren, kun je zijn uiterlijk laten veranderen.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Zorg ervoor dat de **Nano** sprite geselecteerd is in de Sprite lijst onder het 
 
 ![De Sprite-lijst, met een blauwe rand rond de Nano sprite om aan te geven dat Nano is geselecteerd.](images/nano-selected.png)
 
-
-Klik op het tabblad **Code** en voeg een script toe om de **Nano**-sprite een 'Bedankt' gebaar te laten maken met `verander uiterlijk naar`{:class="block3looks"} en `wacht`{:class="block3control"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![De Nano sprite.](images/nano-sprite.png)
 
