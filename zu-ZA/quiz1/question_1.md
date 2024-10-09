@@ -1,53 +1,53 @@
-## Quick quiz
+## Zihlole ulwazi ngokushesha
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Phendula imibuzo emithathu ukuze uthole ibheji lakho lesibhakabhaka esikhulumayo. Kunamacebo angakuholela empendulweni efanele.
 
-When you have answered each question, click on **Check my answer**.
+Uma usuphendule umbuzo ngamunye, chofoza okuthi **Hlola impendulo yami**.
 
-Have fun!
+Kujabulele!
 
 --- question ---
 ---
-legend: Question 1 of 3
+inganekwane: Umbuzo 1 kwengu-3
 ---
 
-In your project, you added some sprite characters.
+Kuphrojekthi yakho, wengeze izinhlamvu ze-sprite.
 
-Where do you go to **add a sprite** to your project?
+Uya ku- **khetha i-sprite** kuphrojekthi yakho?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Isithombe-skrini esichasisiwe somhleli ogcwele we-Scratch 1 - Ithebhu Yezingubo, 2 - Ithebhu yemisindo, 3 - Uhlu lwe-Sprite, no-4 - Ifasitelana lesiteji ligqanyisiwe.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Ithebhu **Izingubo**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Uke waya kwi-thebhu ethi **Costumes** ukuze uhlele ukubukeka kwe-sprite sakho.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: I- **Imisindo** ithebhu
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Uke waya kwi-thebhu ethi **Costumes** ukuze uhlele ukubukeka kwe-sprite sakho.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Uhlu lwama-Sprite
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Yebo. Lena indawo lapho ungabona khona wonke ama-sprites kwiphrojekthi, wengeze futhi ususe ama-sprites, bese uchofoza ama-sprites ukuze uwakhethe.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: Ifasitelana lesiteji
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Uke waya kwifasitelana lesiteji ukuze ukhethe isiteji.
 
   --- /feedback ---
 
