@@ -1,31 +1,31 @@
 ---
-title: Space talk
+title: Isibhakabhaka esikhulumayo
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
-meta_title: Scratch coding projects for kids and teens | Intro to Scratch
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+description: Sebenzisa i-Scratch ukunikeza ama-sprites 'i-emote(ukunyakaza)' ukuze axhumane lapho achofozwa
+meta_title: Amaphrojekthi okubhala ikhodi ezingane nentsha | Isingeniso ku-Scratch
+meta_description: Funda ukubhala ikhodi ku-Scratch ngamaphrojekthi okubhala ikhodi nge-Raspberry Pi Foundation yezingane nentsha. Yenza opopayi be-Scratch, imidlalo, izinhlelo zokusebenza, nokuningi.
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: Uzokwenza
   - 
-    title: Create your scene
+    title: Qala isigcawu sakho
   - 
-    title: Pico says hello
+    title: U-Pico uthi sawubona
     completion:
       - engaged
   - 
-    title: Pico plays a sound
+    title: U-Pico udlala umsindo
   - 
-    title: Nano switches costumes
+    title: U-Nano ushintsha izingubo
   - 
-    title: Giga changes colour
+    title: UGiga ushintsha umbala
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Zihlole ulwazi ngokushesha
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -34,6 +34,6 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Thuthukisa iphrojekthi yakho
   - 
-    title: What next?
+    title: Yini elandelayo?
