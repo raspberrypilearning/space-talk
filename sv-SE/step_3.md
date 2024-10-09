@@ -64,14 +64,18 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 ### Kodkommentarer
 
+--- task ---
+
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Du kommer se kommentarer i kodexemplen. Du behöver inte lägga till kommentarerna när du lägger till kod till ditt projekt.
 
-Om du har tid när du är klar med ditt projekt, är det en bra idé att lägga till kommentarer till din kod så att det blir lättare att förstå senare. Högerklicka (eller tryck och håll kvar på surfplatta) på ett block i kodområdet och välj **Lägg till kommentar** för att kommentera.
+Om du har tid när du är klar med ditt projekt, är det en bra idé att lägga till kommentarer till din kod så att det blir lättare att förstå senare. Try adding a comment now. Right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
 ![Popupmenyn som visas när du högerklickar på ett block. 'Lägg till kommentar' är vald.](images/add-comment.png)
+
+--- /task ---
 
 ### Test
 
