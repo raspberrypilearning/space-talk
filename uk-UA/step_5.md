@@ -5,7 +5,7 @@
 
 Зроби так, щоб Nano емоційно реагував на зміну **образів**.
 
-Спрайти мають **образи**, щоб змінювати їхній вигляд. Щоб анімувати спрайт, можна змінювати його образ.
+Спрайти мають **образи**, щоб змінювати їхній вигляд. They are usually slightly different images of the same sprite. Щоб анімувати спрайт, можна змінювати його образ.
 
 </div>
 <div>
@@ -31,8 +31,7 @@
 
 ![Список спрайтів, з синьою рамкою навколо спрайта Nano, що вказує, що вибрано спрайт Nano.](images/nano-selected.png)
 
-
-Натисни на вкладку **Код** та додай скрипт, щоб змусити спрайт **Nano** сказати 'Дякую', використовуючи блоки `змінити образ на`{:class="block3looks"} та `чекати`{:class="block3control"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Спрайт Nano.](images/nano-sprite.png)
 
@@ -105,7 +104,7 @@ Nano буде використовувати мову жестів, змінюю
 
 --- task ---
 
-**Тест:** Клацни на спрайт**Nano** на Сцені та переконайся, що з'явилася мовна бульбашка, а образ Nano змінився на образ, який був відредагований.
+**Тест:** Клацни на спрайт **Nano** на Сцені та переконайся, що з'явилася мовна бульбашка, а образ Nano змінився на образ, який був відредагований.
 
 --- /task ---
 
