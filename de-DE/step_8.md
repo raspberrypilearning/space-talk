@@ -1,21 +1,21 @@
-## Upgrade your project
+## Verbessere dein Projekt
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Füge die **Tera**-Figur hinzu und verwende einen der Blöcke, die du kennengelernt hast, um ein 'Emote' für die **Tera**-Figur zu erstellen.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![Die Tera-Figur auf der Bühne.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+Du kannst auch die Text-zu-Sprache-Erweiterung verwenden, um **Tera** laut sprechen zu lassen:
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+Die Persönlichkeit **Tera**-Figur kannst du wählen, also hab Spaß beim Umsetzen deiner eigenen kreativen Ideen.
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Du kannst das Projekt auch 'remixen', um die gewünschten Änderungen vorzunehmen. Du könntest den Hintergrund und die Art und Weise ändern, wie die Figuren Gefühle zeigen, und sogar verschiedene Figuren unterschiedliche Gefühle geben.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Tipp:** Klicke auf eine Figur in der Figuren-Liste unter der Bühne, um den Code, die Kostüme und den Klang für diese Figur zu ändern.
 
 --- collapse ---
 ---
-title: Completed project
+title: Abgeschlossenes Projekt
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Du findest das [abgeschlossene Projekt hier](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
