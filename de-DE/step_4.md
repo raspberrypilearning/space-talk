@@ -1,61 +1,61 @@
-## Pico plays a sound
+## Pico spielt einen Klang
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+Eine andere Möglichkeit zur Kommunikation ist die Verwendung von Ton.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Die Pico-Figur sagt "Hallo!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Add a sound to the Pico Sprite
+### Einen Klang zur Pico-Figur hinzufügen
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Klicke auf den Reiter **Klang** für die **Pico**-Figur und du wirst einen **pop**-Sound finden. Klicke auf das **Abspielen**-Symbol um den **pop**-Klang zu hören.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![Spiele den Pop-Klang im Reiter.](images/pico-sound-play.png)
 
-**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+**Debuggen**: Wenn du keinen Klang hören kannst, prüfe ob der Ton auf deinem Computer oder Tablet funktioniert.
 
 --- /task ---
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+Um einen neuen Klang auszuwählen, klicke auf das **Klang wählen**-Symbol und wähle die Kategorie **Weltraum** oder tippe `Weltraum` in die Suchleiste.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+![Das Symbol "Klang wählen".](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+![Der Scratch-Editor mit hervorgehobener Option „Klang wählen“.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![Die Kategorie „Weltraum“ in der Klängebibliothek.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+Spiele ein paar verschiedene Klänge in dem du das **Abspielen**-Symbol benutzt. Sobald du den Klang gefunden hast, den du nutzen möchtest, klicke darauf und füge ihn deinem Projekt hinzu.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![Ein Beispielklang (der Alien Creak1-Klang), der unter dem Pop-Klang auf der Registerkarte „Klänge“ angezeigt wird.](images/pico-inserted-sound.png)
 
 --- /task ---
 
-### Make the sound play when clicked (or tapped)
+### Den Klang abspielen, wenn angeklickt (oder angetippt)
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+Klicke auf den Reiter **Skripte**. Im `Klang`{:class="block3sound"} Blockmenü findest du den `Spiele Klang`{:class="block3sound"}-Block.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+Ziehe den Block in den Skriptbereich zwischen den `Wenn diese Figur angeklickt wird`{:class="block3events"} Block und den `sage`{:class="block3looks"}-Block. Eine Lücke wird sich öffnen und der Block wird an den Platz einschnappen.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![Der 'spiele Klang'-Block wird zwischen zwei Blöcken hinzugefügt.](images/pico-insert-block.gif)
 
-Your code should look like this:
+Dein Code sollte wie folgt aussehen:
 
-![The Pico sprite.](images/pico-sprite.png)
+![Die Pico-Figur.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Test your code
+### Teste deinen Code
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+Prüfe ob dein `Spiele Klang`{:class="block3sound"} -Block den korrekten Klang ausgewählt hat. Falls nicht, klicke auf den Klang in dem `Spiele Klang`{:class="block3sound"}-Block und wähle deinen gewählten Klang in dem Dropdown-Menü.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![Klick auf den Alien Creak1 Klang im Dropdown-Menü im 'spiele Klang'-Block.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
+**Test:** Klicke auf die **Pico**-Figur und prüfe, ob die Sprechblase erscheint und der Klang zu hören ist. Wenn du den Klang nicht hören kannst, stell sicher, dass du den `Spiele Klang`{:class="block3sound"}-Block unter den `Wenn diese Figur angeklickt wird`{:class="block3events"}-Block.
 
 --- /task ---
 
