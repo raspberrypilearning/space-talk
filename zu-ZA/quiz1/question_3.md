@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+inganekwane: Umbuzo 3 kwengu-3
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+Kwiphrojekthi yakho, wenze u-Nano ethi "ngiyabonga". Iyiphi ikhodi oyisebenzisile ukuze uNano ahambise isandla emlonyeni wakhe?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+Le khodi idlala umsindo futhi ikhombisa ibhamuza lenkulumo.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+Le khodi ishintsha umbala we-sprite futhi ibonise ibhamuza lomcabango.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Yebo. `shintsha ukubukeka kube-`{:class="block3looks"} amabhulokhi ashintsha ukubukeka kwe-sprite ukuze ingalo inyakaze.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+Le khodi ishintsha umbala we-sprite futhi ibonise ibhamuza lomcabango.
 
   --- /feedback ---
 
