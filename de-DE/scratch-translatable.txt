@@ -24,6 +24,6 @@ spielt Klang ab, wartet nicht
 
 zeigt Sprechblase
 
-gibt die Hand zum Mund
+bringt die Hand zum Mund
 
 lächeln
