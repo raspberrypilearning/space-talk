@@ -1,9 +1,9 @@
 ---
 title: Weltraumgespräch
 hero_image: images/banner.png
-description: Verwende Scratch, um Sprites ein „Emote“ zu geben, damit sie beim Klicken kommunizieren
+description: Verwende Scratch, um Figuren ein „Emote“ zu geben, damit sie kommunizieren, wenn sie angeklickt werden
 meta_title: Scratch Coding Projekte für Kinder und Jugendliche | Einführung in Scratch
-meta_description: Lerne Coding in Scratch mit den Coding Projekten der Raspberry Pi Foundation für Kinder und Jugendliche. Erstelle Scratch-Animationen, Spiele, Apps und mehr.
+meta_description: Lerne programmieren (coden) in Scratch mit den Coding Projekten der Raspberry Pi Foundation für Kinder und Jugendliche. Erstelle Scratch-Animationen, Spiele, Apps und mehr.
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -17,7 +17,7 @@ steps:
     completion:
       - engaged
   - 
-    title: Pico spielt einen Klang
+    title: Pico spielt einen Ton ab
   - 
     title: Nano wechselt Kostüme
   - 
@@ -34,6 +34,6 @@ steps:
     completion:
       - external
   - 
-    title: Verbessere dein Projekt
+    title: Mach dein Projekt noch cooler
   - 
     title: Wie geht es weiter?
