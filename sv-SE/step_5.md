@@ -5,7 +5,7 @@
 
 Få Nano att gestikulera genom att byta **klädsel**.
 
-Sprajter har **klädslar** för att förändra deras utseenende. För att animera en sprajt kan du ändra dess klädsel.
+Sprajter har **klädslar** för att förändra deras utseenende. They are usually slightly different images of the same sprite. För att animera en sprajt kan du ändra dess klädsel.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Se till att **Nano**-sprajten är vald i sprajtlistan under scenen.
 
 ![Sprajtlistan, med en blå kant runt Nano-sprajten för att visa att Nano är vald.](images/nano-selected.png)
 
-
-Klicka på **Kod**fliken och lägg till ett skript för att få **Nano**sprajten att teckna "Tack" med `ändra klädsel till`{:class="block3looks"} och `vänta`{:class="block3control"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Nanosprajten.](images/nano-sprite.png)
 
