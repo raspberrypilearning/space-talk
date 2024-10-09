@@ -5,7 +5,7 @@
 
 Donne une émotion à Nano en changeant de **costumes**.
 
-Les sprites ont des **costumes** pour changer leur apparence. Pour animer un sprite, tu peux changer ses costumes.
+Les sprites ont des **costumes** pour changer leur apparence. They are usually slightly different images of the same sprite. Pour animer un sprite, tu peux changer ses costumes.
 
 </div>
 <div>
@@ -31,8 +31,7 @@ Assure-toi que le sprite **Nano** est sélectionné dans la liste Sprite sous la
 
 ![La liste Sprite, avec une bordure bleue autour du sprite Nano pour montrer que Nano est sélectionné.](images/nano-selected.png)
 
-
-Clique sur l'onglet **Code** et ajoute un script pour faire `dire`{:class="block3looks"} `Merci !` au sprite **Nano** :
+Clique sur l'onglet **Code** et ajoute un script pour que le sprite **Nano** signe « Merci » en utilisant `basculer sur le costume`{:class="block3looks"} et `attendre`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Le sprite Nano.](images/nano-sprite.png)
 
