@@ -33,7 +33,7 @@ Auf der **Bühne** wird dein Projekt ausgeführt. Ein **Hintergrund** ändert da
 
 Klicke (oder tippe auf einem Tablet) im Bühnenbereich auf **Hintergrund wählen**:
 
-![Das Symbol "Bühnenbild wählen".](images/backdrop-button.png)
+![Das Symbol "Hintergrund wählen".](images/backdrop-button.png)
 
 ![Der Scratch-Editor mit hervorgehobener Option „Hintergrund wählen“ in der unteren rechten Ecke.](images/choose-a-backdrop.png)
 
@@ -41,7 +41,7 @@ Klicke (oder tippe auf einem Tablet) im Bühnenbereich auf **Hintergrund wählen
 
 --- task ---
 
-Klicke auf die Kategorie **Weltraum** oder gib `Weltraum` in das Suchfeld ein:
+Klicke auf die Kategorie **Weltraum** oder gib `Space` in das Suchfeld ein:
 
 ![Die Hintergrundbilderbibliothek mit der ausgewählten Kategorie „Weltraum“.](images/space-backdrops.png)
 
