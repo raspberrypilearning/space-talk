@@ -1,9 +1,9 @@
-## Nano switches costume
+## En Nano canvia de vestit
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Get Nano to emote by switching **costumes**.
+Fes que Nano cobri vida i és canvi els vestits.
 
 Sprites have **costumes** to change the way that they look. They are usually slightly different images of the same sprite. To animate a sprite, you can change its costume.
 
