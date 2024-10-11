@@ -1,31 +1,31 @@
 ---
 title: Xerrada espacial
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
-meta_title: Scratch coding projects for kids and teens | Intro to Scratch
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+description: Utilitzeu Scratch per donar vida als personatges i es comunicaran quan facis clic
+meta_title: Projectes de programació Scratch per a nens i adolescents | Introducció a Scratch
+meta_description: Apreneu a programar a Scratch amb els projectes de codificació de la Fundació Raspberry Pi per a nens i adolescents. Crea amb Scratch animacions, jocs, aplicacions i molt més.
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: Tu faràs
   - 
-    title: Create your scene
+    title: Crea la teva escena
   - 
-    title: Pico says hello
+    title: El Pico diu hola
     completion:
       - engaged
   - 
-    title: Pico plays a sound
+    title: El Pico fa un so
   - 
-    title: Nano switches costumes
+    title: El Nano canvia de vestit
   - 
-    title: Giga changes colour
+    title: La Giga canvia de color
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Test ràpid
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -34,6 +34,6 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Actualitza el teu projecte
   - 
-    title: What next?
+    title: Què ve després?
