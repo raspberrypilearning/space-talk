@@ -1,19 +1,19 @@
-Code tab
+Registerkarte „Skripte“
 
-Blocks menu
+Bereich „Blöcke“
 
-Backpack
+Backback
 
-Zoom
+Vergrößern und Verkleinern (zoomen)
 
-Sprite list
+Figuren-Liste
 
-Sprite pane
+Figuren-Bereich
 
-Stage pane
+Bühnen-Liste
 
-Stage pane
+Bühnen-Liste
 
-Full screen
+Vollbild
 
-Code area
+Bereich für Skripte
