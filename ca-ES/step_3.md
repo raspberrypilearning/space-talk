@@ -1,59 +1,59 @@
-## Pico says hello
+## En Pico diu hola
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+Un personatge pot tenir codi, vestits i sons per canviar l'aspecte i el que fa. 
   
-Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Afegiu blocs de codi per fer que en Pico cobri vida amb paraules i sons quan feu clic al personatge.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![El personatge d'en Pico dient: "Hola!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**Donar vida**</span> són una manera de mostrar la personalitat d'un personatge en un joc. Poden utilitzar la parla, els sons, el moviment i els efectes gràfics, igual que a Scratch. Jugues a algun joc que doni vida?
 </p>
 
-### Use the say block
+### Utilitzeu el bloc dir.
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Obriu el menú de blocs `Aspecte`{:class="block3looks"}.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Feu clic a un `dir`{:class="block3looks"} `Hola!` `per a`{:class="block3looks"} `2` `segons`{:class= bloc "block3looks"}.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+![Ells diuen Hola! al bloc de '2 segons' que brilli amb un contorn groc.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+El personatge d'en  **Pico** mostrarà una bafarada durant dos segons.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![El personatge d'en Pico diu "Hola!" en una bafarada.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Consell:** Els blocs de codi a Scratch brillen amb un contorn groc quan s'executen.
 
 --- /task ---
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Arrossegueu el `Dir`{:class="block3looks"} `Hola!` `per a`{:class="block3looks"} `2` `segons`{:class= bloc "block3looks"} a l'àrea de codi. Feu-hi clic de nou.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![Arrossegueu el bloc "dir" a l'àrea de codi i feu-hi clic per executar-lo.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![El bloc "dir" s'ha arrossegat a l'àrea Codi. El bloc de codi brilla amb un contorn groc.](images/pico-drag-say.png)
 
 --- /task ---
 
-### Make Pico talk when clicked (or tapped)
+### Feu que en Pico parli quan feu clic (o toqueu)
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Arrossegueu `quan es fasi clic al personatge`{:class="block3events"} des del menú de blocs `Esdeveniments`{:class="block3events"} i connecteu-vos a la part superior del bloc `dir`{:class="block3looks"} a l'àrea Codi. Els blocs s'enganxaran junts.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![Una animació dels blocs que s'uneixen junts. Quan es fa clic a Pico, diuen "Hola!" durant dos segons.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![El personatge d'en Pico.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -62,33 +62,33 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Code comments
+### Comentaris del codi
 
 --- task ---
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+Veureu comentaris en exemples de codi. No cal que afegiu els comentaris quan afegiu codi al vostre projecte.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. Try adding a comment now. Right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Si teniu temps quan acabeu el vostre projecte, és una bona idea afegir comentaris al vostre codi perquè sigui més fàcil d'entendre més endavant. Prova d'afegir un comentari ara. Feu clic amb el botó dret (o en una tauleta, manteniu premut) en un bloc a l'àrea Codi i trieu **Afegir un comentari**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
-
---- /task ---
-
-### Test
-
---- task ---
-
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+![El menú emergent que apareix quan feu clic amb el botó dret sobre un bloc. S'ha seleccionat "Afegeix comentari".](images/add-comment.png)
 
 --- /task ---
 
+### Prova
+
 --- task ---
 
-You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+**Prova:** Feu clic al personatge d'en **Pico**  a l'escenari i comproveu que la bafarada apareix durant dos segons. És important provar el vostre codi per assegurar-vos que fa el que espereu.
 
-You can still click save if you like, just to make sure.
+--- /task ---
+
+--- task ---
+
+Ja heu desat el vostre projecte i li heu donat un nom. Scratch ara **desarà automàticament** per a tu.
+
+Encara podeu fer clic a Desa si voleu, només per assegurar-vos.
 
 --- /task ---
