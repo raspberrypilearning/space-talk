@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Pregunta 3 de 3
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+En el teu projecte, has fet que Nano signes "gràcies". Quin codi vas utilitzar per fer que Nano mogui una mà a la boca?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+Aquest codi reprodueix un so i mostra una bafarada.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+Aquest codi canvia el color del personatge i mostra una bafarada.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Sí. Els blocs `canvien el vestit a`{:class="block3looks"} canvien el tipus de personatge perquè el braç es mogui.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+Aquest codi canvia el color del personatge i reprodueix un so.
 
   --- /feedback ---
 
