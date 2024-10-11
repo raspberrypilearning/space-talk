@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-Dieser Code ändert die Farbe des Sprites und zeigt deine Gedankenblase.
+Dieser Code ändert die Farbe der Figur und zeigt eine Gedankenblase.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Ja. Der `wechsle zu Kostüm`{:class="block3looks"} Block, ändert Sprites Kostüm und lässt dadurch auch seinen Arm bewegen.
+Ja. Der `wechsle zu Kostüm`{:class="block3looks"} Block, ändert das Kostüm der Figur und lässt dadurch auch seinen Arm bewegen.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-Der Code änder die Farbe des Sprites und spielt einen Klang ab.
+Der Code ändert die Farbe der Figur und spielt einen Klang ab.
 
   --- /feedback ---
 
