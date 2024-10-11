@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+Llegenda: Pregunta 2 de 3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+Has fet que Pico `digués`{:class="block3looks"} "Hola!" en una bafarada.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+On aniries a trobar aquest bloc?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Aspecte`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Sí. El bloc `digues`{:class="block3looks"} es troba al menú de blocs `Looks`{:class="block3looks"}, que és el mateix color com el bloc.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `So`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Els blocs del menú de blocs `Sound`{:class="block3sound"} s'utilitzen per fer que els sprites reprodueixin sons.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Moviment`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Els blocs del menú de blocs `Motion`{:class="block3motion"} s'utilitzen per fer moure els sprites.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Esdeveniments`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Els blocs del menú de blocs `Esdeveniments`{:class="block3events"} s'utilitzen per fer que les coses passin.
 
   --- /feedback ---
 
