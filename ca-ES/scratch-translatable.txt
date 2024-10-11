@@ -1,29 +1,29 @@
-Hello!
+Hola!
 
-hide speech after 2 seconds
+para de parlar després de 2 segons
 
-when Nano is clicked
+quan facis clic a Nano
 
-Nano talking
+El Nano parlant
 
-try 0.25 instead of 0.5
+prova 0,25 en lloc de 0,5
 
 Hm...
 
-0 is the starting colour
+0 és el color inicial
 
-back to the starting colour
+tornar al color inicial
 
-hide speech bubble
+amagar la bafarada
 
-number up to 200
+conta fins a 200
 
-0.5 is half a second
+0,5 és mig segon
 
-plays sound, doesn't wait
+fa so, sense esperar
 
-shows speech bubble
+mostra la bafarada
 
-put hand to mouth
+posar la mà a la boca
 
-smiling
+somrient
