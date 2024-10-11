@@ -6,7 +6,7 @@ In Scratch werden Charaktere und Objekte **Figuren** genannt und erscheinen auf 
 
 Du wirst:
 + Figuren und einen **Hintergrund** hinzufügen, um dein Projekt einzurichten
-+ Figuren anklicken, um sie mithilfe der Codeblöcke `Looks`{:class="block3looks"} und `Sound`{:class="block3sound"} kommunizieren zu lassen
++ Figuren anklicken, um sie mithilfe der Codeblöcke `Aussehen`{:class="block3looks"} und `Klang`{:class="block3sound"} kommunizieren zu lassen
 + Den **Mal-Editor** verwenden, um ein **Kostüm** zu ändern
 
 --- no-print --- --- task ---
