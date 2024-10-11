@@ -43,7 +43,7 @@ start sound [pop v]
 speak [hello]
 ```
 
-Du kannst das Projekt auch 'remixen', um die gewünschten Änderungen vorzunehmen. Du könntest den Hintergrund und die Art und Weise ändern, wie die Figuren Gefühle zeigen, und sogar verschiedene Figuren unterschiedliche Gefühle geben.
+Du kannst das Projekt auch 'remixen', um die gewünschten Änderungen vorzunehmen. Du könntest den Hintergrund und die Art und Weise ändern, wie die Figuren Gefühle zeigen, und den verschiedene Figuren unterschiedliche Gefühle geben.
 
 **Tipp:** Klicke auf eine Figur in der Figuren-Liste unter der Bühne, um den Code, die Kostüme und den Klang für diese Figur zu ändern.
 
