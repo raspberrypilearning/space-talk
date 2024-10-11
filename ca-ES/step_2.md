@@ -1,117 +1,117 @@
-## Create your scene
+## Crea la teva escena
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+Configureu el vostre projecte amb un teló de fons espacial i el primer personatge. 
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![El fons de l'espai amb el personatge d'en Pico.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Open the starter project
+### Obriu el projecte inicial
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
+Obriu el projecte inicial [Xerrada espacial](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch s'obrirà en una altra pestanya del navegador.
 
 [[[working-offline]]]
 
 --- /task ---
 
-### The Scratch editor
+### L'editor Scratch
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Una captura de pantalla de l'editor de Scratch, amb l'Escenari, el panell d'Escenari, el panell Personatge, la llista de Personatges i l'àrea de codi.](images/scratch-interface.png)
 
-### Add a backdrop
+### Afegeix un fons
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+L'etapa **Escenari** és on s'executa el vostre projecte. Un **ons** canvia l'aspecte de l'escenari.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+Feu clic (o en una tauleta, toqueu) a **Trieu un fons** al panell de l'escenari:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![L'icona de 'Tria el fons'.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![L'editor Scratch amb "Tria el fons" ressaltat a l'extrem inferior dret.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+Feu clic a la categoria **Espai** o escriviu `espai` al quadre de cerca:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![La biblioteca de fons amb la categoria "Espai" seleccionada.](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+Al nostre exemple, hem triat el fons **Espai** , però trieu el que més us agradi.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Feu clic al fons escollit per afegir-lo al vostre projecte. L'escenari hauria de mostrar el fons que heu triat:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![S'ha afegit l'editor Scratch amb el fons de l'espai.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Afegeix un Personatge
+
+Pots veure el personatge que ja està inclòs al teu projecte? Aquest és el gat de Scratch.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Suprimeix el personatge **Personatge1** (Gat de Scratch): seleccioneu el personatge **Personatge1** a la llista de Personatges a sota de l'escenari i feu clic a l'icona de **Esborrar** .
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![La icona "Esborrar".](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+Feu clic a **Trieu un Personatge** a la llista de Personatges:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![La icona "Tria un Personatge". ](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![L'editor Scratch amb "Tria un Personatge" ressaltat.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+Seleccioneu la categoria **Fantasia** . Feu clic al personatge **Pico** per afegir-lo al vostre projecte.
 
-![The remix button.](images/remix-button.png)
+![La categoria 'Fantasia' amb el personatge d'en Pico.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+Arrossegueu el personatge d'en **Pico** per situar-lo a la part esquerra de l'escenari. El vostre escenari hauria de semblar-se a això:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![L'escenari amb el fons escollit i el personatge d'en Pico situat a la part esquerra.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**Desa**: si heu iniciat la sessió al vostre compte de Scratch, feu clic al botó verd Reinventa. Això desarà una còpia del projecte al vostre compte de Scratch.
+
+![El botó de reinventar.](images/remix-button.png)
+
+Escriviu el nom del vostre projecte a la caixa de nom del projecte a la part superior de la pantalla.
+
+![La caixa de nom del projecte.](images/project-name.png)
+
+**Consell:** Doneu noms útils als vostres projectes perquè els pugueu trobar fàcilment quan tingueu molts projectes.
+
+A continuació, feu clic a **Fitxer**i després a **Desa ara** per desar el vostre projecte.
+
+![Les opcions del menú "Fitxer".](images/file-menu.png)
+
+Si no esteu en línia o no teniu un compte de Scratch, podeu fer clic a **Desa al vostre ordinador** per desar una còpia del vostre projecte.
 
 --- /task ---
 
