@@ -11,7 +11,7 @@ Viel Spaß!
 legend: Frage 1 von 3
 ---
 
-Du hast in deinem Projekt einige Figuren Charaktere hinzugefügt.
+Du hast in deinem Projekt Figuren hinzugefügt.
 
 Wo hast du die Auswahl **add a sprite** zu deinem Projekt durchgeführt?
 
