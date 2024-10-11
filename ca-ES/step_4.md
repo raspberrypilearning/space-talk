@@ -1,61 +1,61 @@
-## Pico plays a sound
+## En Pico reprodueix un so
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+Una altra manera de comunicar-se és utilitzar el so.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![El personatge d'en Pico dient: "Hola!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Add a sound to the Pico Sprite
+### Afegiu un so al personatge d'en Pico
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Feu clic a la pestanya **So** per al personatge d'en **Pico** i trobareu un so **pop** . Feu clic a la icona **Reprodueix** per sentir el so **pop** .
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![Reproducció del so pop a la pestanya Sons.](images/pico-sound-play.png)
 
-**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+**Depuració**: si no podeu sentir un so, comproveu que el so funcioni a l'ordinador o a la tauleta.
 
 --- /task ---
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+Per escollir un nou so, fes clic en l'icona **Tria un so** i selecciona la categoria **Espai** o escriu `espai` en la caixa de cerca.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+![La icona "Tria un so".](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+![L'editor Scratch amb "Tria un so" destacat.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![La categoria "Espai" a la Fonoteca.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+Reprodueix uns quants sons diferents amb les icones **Reprodueix** . Un cop hàgiu trobat el so que voleu utilitzar, feu-hi clic per afegir-lo al vostre projecte.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![Un exemple de so (el so Alien Creak1) que es mostra a sota del so pop a la pestanya Sons.](images/pico-inserted-sound.png)
 
 --- /task ---
 
-### Make the sound play when clicked (or tapped)
+### Feu que en Pico parli quan feu clic (o toqueu)
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+Feu clic a la pestanya **Codi** . Al menú de blocs `So`{:class="block3sound"}, cerqueu el bloc `d'inici`{:class="block3sound"}.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+Arrossegueu el bloc a l'àrea de codi, entre el `quan aquest personatge va fer clic al bloc`{:class="block3events"} i el `dir`{:class= "block3looks"} bloc. S'obrirà un buit i el bloc encaixarà al seu lloc.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![El bloc "so d'inici" que s'afegeix entre els dos blocs.](images/pico-insert-block.gif)
 
-Your code should look like this:
+El teu codi hauria de ser així:
 
-![The Pico sprite.](images/pico-sprite.png)
+![El personatge d'en Pico.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Test your code
+### Prova el teu codi
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+Comproveu que el teu bloc `d'inici`{:class="block3sound"} tingui el so escollit. Si no ho fa, cal que feu clic al bloc de so `Reproduir so`{:class="block3sound"} i, a continuació, seleccioneu el so triat al menú desplegable.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![Fent clic al so Alien Creak1 al menú desplegable dins del bloc "Reproduir so".](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
+**Prova:** Feu clic al personatge d'en **Pico** i comproveu que apareix la bafarada i podeu sentir el so. Si no escoltes cap so, asegurat de haver afegit el bloc `Reproduir so`{:class="block3sound"} sota el bloc `quan fas clic al personatge`{:class="block3events"}.
 
 --- /task ---
 
