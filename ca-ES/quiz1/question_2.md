@@ -18,7 +18,7 @@ On aniries a trobar aquest bloc?
 
   --- feedback ---
 
-Sí. El bloc `digues`{:class="block3looks"} es troba al menú de blocs `Looks`{:class="block3looks"}, que és el mateix color com el bloc.
+Sí. El bloc `digues`{:class="block3looks"} es troba al menú de blocs `Aspecte`{:class="block3looks"}, que és el mateix color com el bloc.
 
   --- /feedback ---
 
@@ -26,7 +26,7 @@ Sí. El bloc `digues`{:class="block3looks"} es troba al menú de blocs `Looks`{:
 
   --- feedback ---
 
-Els blocs del menú de blocs `Sound`{:class="block3sound"} s'utilitzen per fer que els sprites reprodueixin sons.
+Els blocs del menú de blocs `So`{:class="block3sound"} s'utilitzen per fer que els personatges reprodueixin sons.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ Els blocs del menú de blocs `Sound`{:class="block3sound"} s'utilitzen per fer q
 
   --- feedback ---
 
-Els blocs del menú de blocs `Motion`{:class="block3motion"} s'utilitzen per fer moure els sprites.
+Els blocs del menú de blocs `Moviment`{:class="block3motion"} s'utilitzen per fer moure els personatges.
 
   --- /feedback ---
 
