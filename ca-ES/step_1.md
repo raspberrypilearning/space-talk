@@ -1,21 +1,21 @@
-## You will make
+## Tu faràs
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+Crea una escena espacial amb personatges 👾 que cobrin vida i comparteixin els seus pensaments o sentiments.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+A Scratch, els personatges i els objectes s'anomenen **personatges**i apareixen a l'escenari ****.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Tu faràs:
++ Afegeix personatges i un **teló de fons** per configurar el teu projecte
++ Feu clic als personatges per fer-los comunicar mitjançant blocs de codi `Aspecte`{:class="block3looks"} i `So`{:class="block3sound"}
++ Utilitzeu l' **Editor gràfic** per canviar un **vestit**
 
 --- no-print --- --- task ---
-### Play ▶️
+### Reproduir ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Feu clic a cada personatge per veure què fan. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+Què passa si feu clic a un personatge i després feu clic ràpidament a un altre personatge?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![El projecte finalitzat.](images/showcase_static.png)
 
 --- /print-only ---
 
