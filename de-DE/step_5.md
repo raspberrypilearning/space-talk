@@ -5,7 +5,7 @@
 
 Bringe Nano dazu, Emotionen zu zeigen, indem er das **Kostüm** wechselt.
 
-Figuren haben **Kostüme** um ihr Aussehen zu ändern. They are usually slightly different images of the same sprite. Um eine Figur zu animieren, kannst du ihr Kostüm ändern.
+Figuren haben **Kostüme** um ihr Aussehen zu ändern. Normalerweise handelt es sich dabei um leicht unterschiedliche Bilder derselben Figur. Um eine Figur zu animieren, kannst du ihr Kostüm ändern.
 
 </div>
 <div>
@@ -27,11 +27,11 @@ Füge die **Nano**-Figur aus der Kategorie **Fantasie** zu deinem Projekt hinzu.
 
 --- task ---
 
-Stelle sicher, dass die **Nano**-Figur ausgewählt ist in der Figurenliste unter der Bühne.
+Stelle sicher, dass die **Nano**-Figur in der Figurenliste unter der Bühne ausgewählt ist.
 
 ![Die Figuren-Liste mit einem blauen Rand um die Nano-Figur, um anzuzeigen, dass Nano ausgewählt ist.](images/nano-selected.png)
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
+Klicke auf den Reiter**Skripte** und füge ein Skript hinzu, damit die **Nano**-Figur 'Danke' sagt, indem du `wechsle zu Kostüm`{:class="block3looks"} `warte`{:class="block3control"} nutzt. Verwende das Dropdown-Menü, um zwischen `nano-b`{:class="block3looks"} und `nano-a`{:class="block3looks"} zu wechseln:
 
 ![Die Nano-Figur.](images/nano-sprite.png)
 
@@ -53,14 +53,14 @@ switch costume to [nano-a v] // Nano smiling
 
 ### Nano verwendet Gebärdensprache
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millionen von Menschen nutzen Gebärdensprache zur Kommunikation. Ein typischer Weg um 'Danke' zu sagen ist es, die Finger mit möglichst flacher Hand auf dein Kinn zu legen. Dann bewegst du die Hand vorwärts, weg von deinem Kinn und leicht nach unten. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millionen von Menschen nutzen Gebärdensprache zur Kommunikation. Ein typischer Weg, um 'Danke' zu sagen ist, deine Finger mit möglichst flacher Hand auf dein Kinn zu legen. Dann bewegst du die Hand vorwärts, weg von deinem Kinn und leicht nach unten. 
 </p>
 
 <!-- Add a video of someone signing -->
 
-Nano wird Gebärdensprache nutzen in dem er Kostüme wechselt.
+Nano wird Gebärdensprache nutzen, indem er seine Kostüme wechselt.
 
-Du kannst die Kostüme für deine Figuren ändern mit dem Paint Editor. Du wirst ein Kostüm von Nano ändern um ihn "Danke" sagen zu lassen.
+Du kannst die Kostüme für deine Figuren mit dem Paint-Editor ändern. Du wirst ein Kostüm von Nano ändern um ihn "Danke" zeigen zu lassen.
 
 --- task ---
 
@@ -78,7 +78,7 @@ Klicke auf das **nano-b**-Kostüm. Klicke auf den Arm auf der linken Seite und d
 
 Das Kostüm sollte wie folgt aussehen:
 
-![Das nano-b-Kostüm mit dem gelöschten Arm.](images/nano-arm-deleted.png)
+![Das nano-b-Kostüm bei dem ein Arm gelöscht ist.](images/nano-arm-deleted.png)
 
 --- /task ---
 
@@ -88,7 +88,7 @@ Das Kostüm sollte wie folgt aussehen:
 
 --- task ---
 
-Gehe zum **nano-c** -Kostüm und klicke auf den Arm auf der linken Seite. Klicken Sie dann auf **Kopieren**.
+Gehe zum **nano-c** -Kostüm und klicke auf den Arm auf der linken Seite. Klicke dann auf **Kopieren**.
 
 ![Das nano-c-Kostüm mit dem ausgewählten Arm.](images/nano-c-arm-selected.png)
 
@@ -104,7 +104,7 @@ Geh zurück zum **nano-b**-Kostüm und klicke auf **Einfügen**. Das Kostüm sol
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+**Test:** Klicke auf der Bühne auf die **Nano**-Figur und prüfe, ob die Sprechblase erscheint und Nanos Kostüm sich in das von dir gewünschte Kostüm ändert.
 
 --- /task ---
 
