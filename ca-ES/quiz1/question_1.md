@@ -1,53 +1,53 @@
-## Quick quiz
+## Test ràpid
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Contesta les tres preguntes per obtenir la teva insígnia de Conversa espacial. Hi ha consells per guiar-vos a la resposta correcta.
 
-When you have answered each question, click on **Check my answer**.
+Quan hagis respost cada pregunta, fes clic a **Comprova la meva resposta**.
 
-Have fun!
+Diverteix-te!
 
 --- question ---
 ---
-legend: Question 1 of 3
+Llegenda: Pregunta 1 de 3
 ---
 
-In your project, you added some sprite characters.
+Al teu projecte, has afegit alguns sprites de personatges.
 
-Where do you go to **add a sprite** to your project?
+On aneu per **afegir un sprite** al vostre projecte?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Una captura de pantalla anotada de l'editor Scratch complet amb 1 — La pestanya Vestuaris, 2 — La pestanya Sons, 3 — La llista de Sprites i 4 — El panell de l'escenari ressaltat.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: La pestanya **Disfresses**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Has anat a la pestanya **Disfresses** per editar un vestit per al teu sprite.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: La pestanya **Sons**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Has anat a la pestanya **Sons** per triar un so nou per al teu sprite.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: La llista de Sprites
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Sí. Aquesta és l'àrea on podeu veure tots els sprites del projecte, afegir i suprimir sprites i fer clic als sprites per seleccionar-los.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: El panell d'escenari
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Has anat al panell de l'escenari per triar un teló de fons.
 
   --- /feedback ---
 
