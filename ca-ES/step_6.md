@@ -1,31 +1,31 @@
-## Giga changes colour
+## La Giga canvia de color
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+Els personatges també poden utilitzar bafarades i canviar de color per mostrar la seva personalitat. Fareu que Giga faci això.
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![El personatge de la Giga pensant, "Hmm...".](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Make Giga change colour
+### Feu que la Giga canviï de color
 
 --- task ---
 
-Add the **Giga** sprite.
+Afegeix el personatge de la **Giga** .
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+Arrossegueu el personatge de la **Giga** cap a la part dreta de l'escenari.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+Assegureu-vos que teniu seleccionat el personatge de la  **Giga** a la llista de personatges que hi ha a sota de l'escenari. Afegiu aquest codi per fer que el personatge de la  **Giga** es comuniqui canviant de color:
 
-![The Giga sprite.](images/giga-sprite.png)
+![El personatge de la Giga.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -36,23 +36,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**Consell:** Feu clic al personatge de la llista de personatges a sota de l'escenari abans d'afegir o canviar codi, vestuari o so. Assegureu-vos que heu fet clic al personatge correcte.
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+Proveu diferents números des del `1` fins al `200` al ` per establir l'efecte de color al bloc `{:class="block3looks" } fins que trobeu el color que us agradi.
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+Canvieu les paraules i el nombre de segons al bloc `pensa`{:class="block3looks"}.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**Prova:** Feu clic al personatge de la **Giga** a l'escenari i comproveu que el personatge canvia de color i mostra una bombolla de pensament.
 
 --- /task ---
 
