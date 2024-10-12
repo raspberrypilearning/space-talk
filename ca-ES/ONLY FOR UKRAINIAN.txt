@@ -1,19 +1,19 @@
-Code tab
+Pestanya Codi
 
-Blocks menu
+Menú de blocs
 
-Backpack
+Motxilla
 
 Zoom
 
-Sprite list
+Llista de personatges
 
-Sprite pane
+Panell de personatges
 
-Stage pane
+Panell de l'escenari
 
-Stage pane
+Panell de l'escenari
 
-Full screen
+Pantalla completa
 
-Code area
+Àrea de codi
