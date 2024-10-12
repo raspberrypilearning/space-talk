@@ -1,21 +1,21 @@
-## Upgrade your project
+## Actualitza el teu projecte
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Afegiu el personatge de la **Tera** i utilitzeu qualsevol dels blocs que hàgiu après per donar vida al personatge de la **Tera**.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![El personatge de la Tera a l'escenari.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+També podeu utilitzar l'extensió Text a veu per fer que la **Tera** parli en veu alta:
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+La personalitat del personatge de la <0>Tera</0> ho pots triar a la teva elecció, així que diverteix-te fent servir les teves pròpies idees creatives.
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+També podeu "reinventar" el projecte per fer els canvis que vulgueu. Podríeu canviar el fons i com es mouen els personatges, i fins i tot triar diferents personatges i donar-los vida.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Consell:** Feu clic a un personatge de la llista de personatges a sota de l'escenari per canviar el codi, els vestits i el so d'aquest personatge.
 
 --- collapse ---
 ---
-title: Completed project
+títol: Projecte finalitzat
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Podeu veure el projecte completat [aquí](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
