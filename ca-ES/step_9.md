@@ -1,10 +1,10 @@
-## What next?
+## Què ve després?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) pathway, you can move on to the [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) project. In this project, you will code an animation with sprites that need to make it to a bus before it leaves.
+Si seguiu la ruta [Introducció a Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) , podeu passar al projecte [Agafa l'autobús](https://projects.raspberrypi.org/en/projects/catch-the-bus) . En aquest projecte, codificaràs una animació amb personatges que han d'arribar a un autobús abans que surti.
 
 --- print-only ---
 
-![The 'Catch the bus' project.](images/scratch-tour-bus.png)
+![El projecte 'Agafa l'autobús'.](images/scratch-tour-bus.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Si voleu divertir-vos més explorant Scratch, podeu provar qualsevol d'aquests projectes [](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
