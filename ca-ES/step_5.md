@@ -31,7 +31,7 @@ Assegureu-vos que el personatge d'en **Nano** estigui seleccionat a la llista de
 
 ![La llista de personatges, amb una vora blava al voltant del personatge d'en Nano per mostrar que Nano està seleccionat.](images/nano-selected.png)
 
-Fes clic a  la pestanya de **Codi**  i afegeix codi per que el personatge d'en  **Nano** signi "Gràcies" fent servir el  `Canvi de vestit`{:class="block3looks"} i `esperar`{:class="block3control"}. Utilitzeu el menú desplegable per canviar entre `nano-b`{:class="block3looks"} i `nano-a`{:class="block3looks" }:
+Fes clic a  la pestanya de **Codi**  i afegeix codi per que el personatge d'en  **Nano** signi "Gràcies" fent servir el  `Canvi de vestit`{:class="block3looks"} i `espera`{:class="block3control"}. Utilitzeu el menú desplegable per canviar entre `nano-b`{:class="block3looks"} i `nano-a`{:class="block3looks" }:
 
 ![El personatge d'en Pico.](images/nano-sprite.png)
 
@@ -43,71 +43,71 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Consell:** Tots els blocs estan codificats per colors, així podras trobar el bloc `canvi de vestit`{:class="block3looks"} en  el bloc de menú `Aspecte`{:class="block3looks"} i el bloc d' `esperar`{:class="block3control"} en el bloc de menu de `Control`{:class="block3control"}.
+**Consell:** Tots els blocs estan codificats per colors, així podras trobar el bloc `canvi de vestit`{:class="block3looks"} en  el bloc de menú `Aspecte`{:class="block3looks"} i el bloc d' `espera`{:class="block3control"} en el bloc de menu de `Control`{:class="block3control"}.
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+**Prova:** Feu clic al personatge d'en **Nano**  a l'escenari i comproveu que el vestit d'en Nano canvia.
 
 --- /task ---
 
-### Nano uses sign language
+### En Nano utilitza llenguatge de signes
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Milions de persones utilitzen la llengua de signes per comunicar-se. Una manera habitual de signar "Gràcies" és col·locar els dits a la barbeta amb la mà tan plana com sigui possible. A continuació, moveu la mà cap endavant, allunyant-vos de la barbeta i lleugerament cap avall. 
 </p>
 
 <!-- Add a video of someone signing -->
 
-Nano will use sign language by switching costumes.
+Nano utilitzarà el llenguatge de signes canviant de vestit.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
+Podeu editar vestits per als vostres personatges amb l'editor gràfic. Editaràs un vestit de Nano perquè signin "gràcies".
 
 --- task ---
 
-Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+Feu clic a la pestanya **Vestit** per veure els vestits per al personatge d'en  **Nano** :
 
-![The available costumes for the Nano sprite.](images/nano-costumes.png)
+![Els vestits disponibles per al personatge d'en Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **nano-b** costume. Click on the arm on the left-hand side, and then click on **Delete**.
+Feu clic al vestit **nano-b** . Feu clic al braç del costat esquerre i, a continuació, feu clic a **Eliminar**.
 
-![The nano-b costume with the arm selected.](images/nano-arm-selected.png)
+![El vestit nano-b amb el braç seleccionat.](images/nano-arm-selected.png)
 
-The costume should look like this:
+El vestit hauria de ser així:
 
-![The nano-b costume with the arm deleted.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
-
-![The 'Undo' icon.](images/nano-undo.png)
-
---- task ---
-
-Go to the **nano-c** costume and click on the arm on the left-hand side, then click on **Copy**.
-
-![The nano-c costume with the arm selected.](images/nano-c-arm-selected.png)
+![La vestit nano-b amb el braç eliminat.](images/nano-arm-deleted.png)
 
 --- /task ---
 
+**Consell:** Si cometeu un error a l'editor gràfic, podeu fer clic a **Desfer**.
+
+![La icona "Desfer".](images/nano-undo.png)
+
 --- task ---
 
-Go back to the **nano-b** costume and click on **Paste**. The costume should look like this:
+Aneu al vestit **nano-c** i feu clic al braç del costat esquerre i, a continuació, feu clic a **Copia**.
 
-![The nano-b costume with the arm from the nano-c costume.](images/nano-b-new-arm.png)
+![El vestit nano-c amb el braç seleccionat.](images/nano-c-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+Torna al vestit **nano-b** i fes clic a **Enganxa**. El vestit hauria de ser així:
+
+![El vestit nano-b amb el braç des del vestit nano-c.](images/nano-b-new-arm.png)
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+--- task ---
+
+**Prova:** Feu clic al personatge d'en **Nano** a l'escenari i comproveu que el vestit d'en Nano canvia al vestit que heu editat.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Heu après a signar "gràcies". La pròxima vegada que agraeixis a algú, per què no utilitzar la teva nova habilitat?
 </p>
 
