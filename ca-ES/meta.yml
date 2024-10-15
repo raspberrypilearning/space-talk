@@ -1,0 +1,30 @@
+---
+title: Xerrada espacial
+hero_image: images/banner.png
+description: Utilitzeu Scratch per donar vida als personatges i es comunicaran quan facis clic
+meta_title: Projectes de programació Scratch per a nens i adolescents | Introducció a Scratch
+meta_description: Apreneu a programar a Scratch amb els projectes de codificació de la Fundació Raspberry Pi per a nens i adolescents. Crea amb Scratch animacions, jocs, aplicacions i molt més.
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: Tu faràs
+  - title: Crea la teva escena
+  - title: El Pico diu hola
+    completion:
+      - engaged
+  - title: El Pico fa un so
+  - title: El Nano canvia de vestit
+  - title: La Giga canvia de color
+    completion:
+      - internal
+  - title: Test ràpid
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Actualitza el teu projecte
+  - title: Què ve després?

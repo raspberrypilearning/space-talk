@@ -1,0 +1,29 @@
+Hallo!
+
+Sprache nach 2 Sekunden ausblenden
+
+wenn Nano angeklickt wird
+
+Nano redet
+
+versuche 0,25 statt 0,5
+
+Hm...
+
+0 ist die Startfarbe
+
+zurück zur Ausgangsfarbe
+
+Sprechblase ausblenden
+
+Zahl bis 200
+
+0,5 ist eine halbe Sekunde
+
+spielt Klang ab, wartet nicht
+
+zeigt Sprechblase
+
+bringt die Hand zum Mund
+
+lächeln
