@@ -1,21 +1,21 @@
-## You will make
+## Vi ćete napraviti
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+Stvorite svemirsku scenu s likovima 👾 koji 'emotivno' dijele svoje misli ili osjećaje.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+U Scratchu se likovi i objekti nazivaju **likovi**, a pojavljuju se na **pozornici**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Vi ćete:
++ Dodajte likove i **pozadinu** kako bi postavili svoj projekt
++ Kliknite na likove kako biste ih natjerali da komuniciraju koristeći `izgled`{:class="block3looks"} i `zvuk`{:class="block3sound"} blokove koda
++ Koristite **Uređivač kostima** za promjenu **kostima**
 
 --- no-print --- --- task ---
-### Play ▶️
+### Igraj ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Kliknite na svaki lik da vidite što rade. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+Što se događa ako kliknete na jedan lik, a zatim brzo kliknete na drugi lik?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![Završen projekt.](images/showcase_static.png)
 
 --- /print-only ---
 
