@@ -1,29 +1,29 @@
 Pozdrav!
 
-hide speech after 2 seconds
+sakriti govor nakon 2 sekunde
 
-when Nano is clicked
+kada je Nano kliknut
 
-Nano talking
+Nano govori
 
-try 0.25 instead of 0.5
+pokušajte s 0,25 umjesto 0,5
 
 Hm...
 
-0 is the starting colour
+0 je početna boja
 
-back to the starting colour
+povratak na početnu boju
 
-hide speech bubble
+sakrij oblačić govora
 
-number up to 200
+broj do 200
 
-0.5 is half a second
+0,5 je pola sekunde
 
-plays sound, doesn't wait
+reproducira zvuk, ne čeka
 
-shows speech bubble
+prikaži oblačić govora
 
-put hand to mouth
+staviti ruku na usta
 
-smiling
+smiješak
