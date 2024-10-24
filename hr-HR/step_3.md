@@ -1,59 +1,59 @@
-## Pico says hello
+## Pico kaže bok
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+Lik može imati kod, kostime i zvukove koji mijenjaju način na koji izgleda i što radi. 
   
-Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+Dodajte blokove koda kako bi Pico izrazio emocije riječima i zvukom kada se klikne na lika.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Pico lik govori: "Bok!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+<span style="color: #0faeb0">**Emoti**</span> su način prikazivanja osobnosti lika u igri. Mogu koristiti govor, zvukove, pokrete i grafičke efekte, baš kao u Scratchu. Igrate li igrice koje koriste emocije?
 </p>
 
-### Use the say block
+### Koristite blok govori
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu.
+Otvorite izbornik blokova `Izgled`{:class="block3looks"}.
 
-Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
+Kliknite na `govori`{:class="block3looks"} `Bok!` `za`{:class="block3looks"} `2` `sekundi`{:class= "block3looks"} blok.
 
-![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
+!['Reci bok! blok od 2 sekunde svijetli žutim obrisom.](images/pico-say-hello-blocks-menu.png)
 
-The **Pico** sprite will show a speech bubble for two seconds.
+**Pico** lik će prikazati oblačić govora na dvije sekunde.
 
-![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
+![Pico lik s "Bok!!" u govornom oblačiću.](images/pico-say-hello-stage.png)
 
-**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
+**Savjet:** Blokovi koda u Scratchu svijetle žutim obrisom dok se izvode.
 
 --- /task ---
 
 --- task ---
 
-Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
+Povucite `govori`{:class="block3looks"} `Bok!` `za`{:class="block3looks"} `2` `sekundi`{:class= "block3looks"} blok do područja koda. Ponovno kliknite na njega.
 
-![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
+![Povucite blok 'govori' u područje koda i kliknite na njega da biste ga pokrenuli.](images/pico-drag-say.gif)
 
-![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
+![Blok 'govori' dovučen je u područje koda. Blok koda svijetli žutim obrisom.](images/pico-drag-say.png)
 
 --- /task ---
 
-### Make Pico talk when clicked (or tapped)
+### Neka Pico govori kada se klikne (ili dodirne)
 
 --- task ---
 
-Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
+Povucite `kada je lik kliknt`{:class="block3events"} blok iz `Događaji`{:class="block3events"} izbornika blokova i povežite se na vrh vašeg `govori`{:class="block3looks"} bloka u području koda. Blokovi će se spojiti.
 
-![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
+![Animacija blokova koji se spajaju. Kad se klikne na Pico, govori "Bok!" dvije sekunde.](images/pico-snap-together.gif)
 
-![The Pico sprite.](images/pico-sprite.png)
+![Pico lik.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
@@ -62,18 +62,18 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Code comments
+### Komentari koda
 
 --- task ---
 
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project.
+Vidjet ćete komentare u primjerima koda. Ne morate dodavati komentare kada dodajete kod svom projektu.
 
-If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. Try adding a comment now. Right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Ako imate vremena kada završite svoj projekt, dobra je ideja dodati komentare svom kodu kako biste ga kasnije lakše razumjeli. Pokušajte sada dodati komentar. Desnom tipkom miša kliknite (ili na tabletu dodirnite i držite) na blok u području koda i odaberite **Dodaj komentar**.
 
-![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+![Skočni izbornik koji se pojavljuje kada desnom tipkom miša kliknete blok. Odabrano je 'Dodaj komentar'.](images/add-comment.png)
 
 --- /task ---
 
@@ -81,14 +81,14 @@ If you have time when you have finished your project, it is a good idea to add c
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
+**Test:** Kliknite na **Pico** lik na pozornici i provjerite pojavljuje li se oblačić govora na dvije sekunde. Važno je testirati svoj kod kako biste bili sigurni da radi ono što očekujete.
 
 --- /task ---
 
 --- task ---
 
-You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+Već ste spremili svoj projekt i dali mu ime. Scratch će sada **automatski** spremati za vas.
 
-You can still click save if you like, just to make sure.
+Još uvijek možete kliknuti Spremi ako želite, samo da budete sigurni.
 
 --- /task ---
