@@ -43,7 +43,7 @@ switch costume to [nano-a v] // Nano smiling
 ```
 --- /task ---
 
-**Consell:** Tots els blocs estan codificats per colors, així podras trobar el bloc `canvi de vestit`{:class="block3looks"} en  el bloc de menú `Aspecte`{:class="block3looks"} i el bloc d' `espera`{:class="block3control"} en el bloc de menu de `Control`{:class="block3control"}.
+**Consell:** Tots els blocs estan codificats per colors, així podras trobar el bloc `canvi de vestit`{:class="block3looks"} en  el bloc de menú `Aspecte`{:class="block3looks"} i el bloc d'`espera`{:class="block3control"} en el bloc de menu de `Control`{:class="block3control"}.
 
 --- task ---
 
