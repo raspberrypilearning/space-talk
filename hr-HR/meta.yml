@@ -1,31 +1,31 @@
 ---
-title: Space talk
+title: Svemirski razgovor
 hero_image: images/banner.png
-description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
-meta_title: Scratch coding projects for kids and teens | Intro to Scratch
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+description: Upotrijebite Scratch kako bi ste dali likovima "emociju" da komuniciraju kada se kliknu
+meta_title: Projekti scratch programiranja za djecu i tinejdžere | Uvod u Scratch
+meta_description: Naučite programirati u Scratchu uz projekte programiranja Zaklade Raspberry Pi za djecu i tinejdžere. Napravite Scratch animacije, igre, aplikacije i još puno toga.
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: Vi ćete napraviti
   - 
-    title: Create your scene
+    title: Kreirajte svoju scenu
   - 
-    title: Pico says hello
+    title: Pico kaže bok
     completion:
       - engaged
   - 
-    title: Pico plays a sound
+    title: Pico pušta zvuk
   - 
-    title: Nano switches costumes
+    title: Nano mijenja kostime
   - 
-    title: Giga changes colour
+    title: Giga mijenja boju
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Brzi kviz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -34,6 +34,6 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Nadogradite svoj projekt
   - 
     title: Što dalje?
