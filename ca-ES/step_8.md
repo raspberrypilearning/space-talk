@@ -15,7 +15,7 @@ També podeu utilitzar l'extensió Text a veu per fer que la **Tera** parli en v
 
 [[[scratch3-text-to-speech]]]
 
-La personalitat del personatge de la <0>Tera</0> ho pots triar a la teva elecció, així que diverteix-te fent servir les teves pròpies idees creatives.
+La personalitat del personatge de la **Tera** ho pots triar a la teva elecció, així que diverteix-te fent servir les teves pròpies idees creatives.
 
 ```blocks3
 when this sprite clicked
@@ -52,7 +52,7 @@ També podeu "reinventar" el projecte per fer els canvis que vulgueu. Podríeu c
 títol: Projecte finalitzat
 ---
 
-Podeu veure el projecte completat [aquí](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Podeu veure el projecte completat [aquí](https://scratch.mit.edu/projects/1081645263/){:target="_blank"}.
 
 --- /collapse ---
 
