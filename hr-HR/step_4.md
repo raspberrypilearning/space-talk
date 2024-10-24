@@ -1,61 +1,61 @@
-## Pico plays a sound
+## Pico pušta zvuk
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+Drugi način komunikacije je korištenje zvuka.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![Pico lik govori: "Bok!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Add a sound to the Pico Sprite
+### Dodajte zvuk Pico liku
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+Kliknite karticu **Zvukovi** za **Pico** lik i pronaći ćete **pop** zvuk. Kliknite na **Reproduciraj** ikonu da čujete **pop** zvuk.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![Reprodukcija pop zvuka na kartici Zvukovi.](images/pico-sound-play.png)
 
-**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+**Debug**: Ako ne čujete zvuk, provjerite radi li zvuk na vašem računalu ili tabletu.
 
 --- /task ---
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+Da biste odabrali novi zvuk, kliknite na ikonu **Odaberi zvuk** i odaberite kategoriju **Prostor** ili upišite `space` u okvir za pretraživanje.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+![Ikona "Odaberi zvuk".](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+![Uređivač Scratch s istaknutim 'Odaberite zvuk'.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![Kategorija 'Prostor' u biblioteci zvukovi.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+Reproducirajte nekoliko različitih zvukova koristeći **Reproduciraj** ikone. Nakon što pronađete zvuk koji želite koristiti, kliknite na njega da biste ga dodali u svoj projekt.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![Primjer zvuka (zvuk Alien Creak1) prikazan ispod pop zvuka na kartici Zvukovi.](images/pico-inserted-sound.png)
 
 --- /task ---
 
-### Make the sound play when clicked (or tapped)
+### Neka se zvuk reproducira kada se klikne (ili dodirne)
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+Kliknite karticu **Skripte**. U izborniku blokova `Zvuk`{:class="block3sound"} pronađite `sviraj zvuk`{:class="block3sound"} blok.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+Povucite blok u područje koda, između bloka `kada je lik kliknut`{:class="block3events"} bloka i `govori`{:class= "block3looks"} bloka. Otvoriće se praznina i blok će se automatski postaviti na mjesto.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![Blok 'sviraj zvuk' koji se dodaje između dva bloka.](images/pico-insert-block.gif)
 
-Tvoj kôd bi trebao izgledati ovako:
+Tvoj kod bi trebao izgledati ovako:
 
-![The Pico sprite.](images/pico-sprite.png)
+![Pico lik.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Testiraj svoj kôd
+### Testiraj svoj kod
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+Provjerite sadrži li vaš `sviraj zvuk`{:class="block3sound"} blok zvuk koji ste odabrali. Ako se ne pojavi, trebate kliknuti na zvuk u bloku `sviraj zvuk`{:class="block3sound"}, zatim odabrati odabrani zvuk u padajućem izborniku.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![Klikom na zvuk Alien Creak1 u padajućem izborniku unutar bloka 'sviraj zvuk'.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
+**Test:** Kliknite na **Pico** lik i provjerite pojavljuje li se oblačić s govorom i čujete li zvuk. Ako ne čujete zvuk, provjerite jeste li dodali blok `sviraj zvuk`{='block3sound'} ispod bloka `kad je lik kliknut`{='block3events'}.
 
 --- /task ---
 
