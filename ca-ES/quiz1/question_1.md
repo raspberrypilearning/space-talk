@@ -23,7 +23,7 @@ On aneu per **afegir un personatge** al vostre projecte?
 
   --- feedback ---
 
-Has anat a la pestanya <0>Vestits</0> per editar un vestit per al teu personatge.
+Has anat a la pestanya **Vestits** per editar un vestit per al teu personatge.
 
   --- /feedback ---
 
