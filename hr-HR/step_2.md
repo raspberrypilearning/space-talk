@@ -1,12 +1,12 @@
-## Create your scene
+## Kreirajte svoju scenu
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+Postavite svoj projekt sa svemirskom pozadinom i prvim likom. 
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![Svemirska pozadina s Pico likom.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
@@ -15,103 +15,103 @@ Set up your project with a space backdrop and the first sprite.
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
+Otvorite [početni projekt Razgovor o svemiru](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch će se otvoriti u drugoj kartici preglednika.
 
 [[[working-offline]]]
 
 --- /task ---
 
-### The Scratch editor
+### Scratch uređivač
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![Snimka zaslona uređivača Scratch s komentarima, s označenim poljem Pozornica, pločom Pozornica, pločom Lika, popisom Lika i područjem koda.](images/scratch-interface.png)
 
-### Add a backdrop
+### Dodavanje pozadine
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+**Pozornica** je mjesto gdje se vaš projekt izvodi. **Pozadina** mijenja način na koji pozornica izgleda.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+Kliknite (ili na tabletu dodirnite) na **Odaberite pozadinu** u ploči Pozornica:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![Ikona "Odaberi pozadinu".](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![Uređivač Scratch s označenom 'Odaberite pozadinu' u donjem desnom kutu.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+Kliknite na kategoriju **Prostor** ili upišite `prostor` u okvir za pretraživanje:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![Biblioteka pozadine s odabranom kategorijom "Prostor".](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+U našem primjeru odabrali smo pozadinu **Svemir**, ali odaberite pozadinu koja vam se najviše sviđa.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+Klikni na pozadinu da ju dodaš u svoj projekt. Pozornica bi trebala prikazivati pozadinu koju ste odabrali:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![Uređivač Scratch s dodanom Svemir pozadinom.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### Dodaj lika
+
+Možete li vidjeti lika koji je već uključen u vaš projekt? To je Scratch mačka.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+Izbrišite **Lika 1** (Scratch mačka): odaberite **Lik 1** lika na popisu Likova ispod pozornice i kliknite na **Izbriši** ikona.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![Ikona "Izbriši".](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+Kliknite na **Odaberite lika** na popisu Likova:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![Ikona "Odaberi lika".](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![Uređivač Scratch s istaknutim 'Izaberi lika'.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+Odaberite kategoriju **Fantazija**. Kliknite na **Pico** lik da biste ih dodali u svoj projekt.
 
-![The remix button.](images/remix-button.png)
+![Kategorija 'Fantazija' s Pico likom.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+Povucite **Pico** lik da biste ih postavili na lijevu stranu pozornice. Vaša bi pozornica trebala izgledati otprilike ovako:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![Pozornica s odabranom pozadinom i Pico likom smještenim na lijevoj strani.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**Spremi**: Ako ste prijavljeni na svoj Scratch račun, kliknite na zeleni gumb Obrada. Ovo će spremiti kopiju projekta na vaš Scratch račun.
+
+![Gumb za obradu.](images/remix-button.png)
+
+Upišite naziv svog projekta u okvir za naziv projekta na vrhu ekrana.
+
+![Okvir za naziv projekta.](images/project-name.png)
+
+**Savjet:** Dajte svojim projektima korisna imena tako da ih možete lako pronaći kada imate puno projekata.
+
+Zatim klikni na **Datoteka** pa **Spremi sada** da spremiš svoj projekt.
+
+![Opcije izbornika 'Datoteka'.](images/file-menu.png)
+
+Ako niste na mreži ili nemate Scratch račun, možete kliknuti na **Spremi na svoje računalo** da biste spremili kopiju svog projekta.
 
 --- /task ---
 
