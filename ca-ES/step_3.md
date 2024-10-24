@@ -23,7 +23,7 @@ Afegiu blocs de codi per fer que en Pico cobri vida amb paraules i sons quan feu
 
 Obriu el menú de blocs `Aspecte`{:class="block3looks"}.
 
-Feu clic a un `dir`{:class="block3looks"} `Hola!` `per a`{:class="block3looks"} `2` `segons`{:class= bloc "block3looks"}.
+Feu clic a un `dir`{:class="block3looks"} `Hola!` `per a`{:class="block3looks"} `2` `segons`{:class="block3looks"}.
 
 ![Ells diuen Hola! al bloc de '2 segons' que brilli amb un contorn groc.](images/pico-say-hello-blocks-menu.png)
 
