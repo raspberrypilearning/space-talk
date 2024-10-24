@@ -73,7 +73,7 @@ Suprimeix el personatge **Personatge1** (Gat de Scratch): seleccioneu el persona
 
 Feu clic a **Trieu un Personatge** a la llista de Personatges:
 
-![La icona "Tria un Personatge". ](images/sprite-button.png)
+![La icona "Tria un Personatge".](images/sprite-button.png)
 
 ![L'editor Scratch amb "Tria un Personatge" ressaltat.](images/choose-a-sprite.png)
 
@@ -107,7 +107,7 @@ Escriviu el nom del vostre projecte a la caixa de nom del projecte a la part sup
 
 **Consell:** Doneu noms útils als vostres projectes perquè els pugueu trobar fàcilment quan tingueu molts projectes.
 
-A continuació, feu clic a **Fitxer**i després a **Desa ara** per desar el vostre projecte.
+A continuació, feu clic a **Fitxer** i després a **Desa ara** per desar el vostre projecte.
 
 ![Les opcions del menú "Fitxer".](images/file-menu.png)
 
