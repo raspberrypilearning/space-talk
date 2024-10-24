@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legenda: Pitanje 2 od 3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+Napravio si da Pico `kaže`{:class="block3looks"} "Zdravo!" u oblačiću govora.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Gdje biste otišli da pronađete ovaj blok?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Izgled`{:class="block3looks"}
 
   --- feedback ---
 
-Da. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Da. Blok `reci`{:class="block3looks"} nalazi se u izborniku blokova `Izgled`{:class="block3looks"}, što je isto boja kao blok.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `Zvuk`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Izbornik blokova `Zvuk`{:class="block3sound"} koriste se kako bi likovi reproducirali zvukove.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Kretanje`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Izbornik blokova `Kretanje`{:class="block3sound"} koriste se kako bi se likovi kretali.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Događaji`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Izbornik blokova `Događaji`{:class="block3sound"} koriste se kako bi se stvari dogodile.
 
   --- /feedback ---
 
