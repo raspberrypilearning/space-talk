@@ -2,7 +2,7 @@
 
 Crea una escena espacial amb personatges 👾 que cobrin vida i comparteixin els seus pensaments o sentiments.
 
-A Scratch, els personatges i els objectes s'anomenen **personatges**i apareixen a l'escenari ****.
+A Scratch, els personatges i els objectes s'anomenen **personatges**i apareixen a **l'escenari**.
 
 Tu faràs:
 + Afegeix personatges i un **teló de fons** per configurar el teu projecte
