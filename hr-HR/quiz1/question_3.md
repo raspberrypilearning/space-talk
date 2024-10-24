@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: Question 3 of 3
+legenda: Pitanje 3 od 3
 ---
 
-In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
+U svom projektu, napravili ste da Nano kaže 'hvala'.". Koji ste kod koristili kako bi napravili da Nano pomakne ruku prema ustima?
 
 --- choices ---
 
@@ -17,7 +17,7 @@ say [Hello!] for [2] seconds
 
   --- feedback ---
 
-This code plays a sound and shows a speech bubble.
+Ovaj kod reproducira zvuk i prikazuje govorni oblačić.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and shows a thought bubble.
+Ovaj kod mijenja boju lika i prikazuje oblačić misli.
 
   --- /feedback ---
 
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Da. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
+Da. `Mijenja kostim u`{:class="block3looks"} blokovi mijenjaju kostim lika tako da se ruka pomiče.
 
   --- /feedback ---
 
@@ -59,7 +59,7 @@ clear graphic effects
 
   --- feedback ---
 
-This code changes the colour of the sprite and plays a sound.
+Ovaj kod mijenja boju lika i reproducira zvuk.
 
   --- /feedback ---
 
