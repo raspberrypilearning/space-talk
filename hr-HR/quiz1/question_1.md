@@ -1,53 +1,53 @@
-## Quick quiz
+## Brzi kviz
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Odgovori na tri pitanja kako bi dobio svoju značku Svemirskog razgovora. Postoje savjeti koji će te usmjeriti prema točnom odgovoru.
 
-When you have answered each question, click on **Check my answer**.
+Kada odgovorite na svako pitanje, kliknite na **Provjeri moj odgovor**.
 
 Zabavi se!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legenda: Pitanje 1 od 3
 ---
 
-In your project, you added some sprite characters.
+U svom projektu ste dodali nekoliko likova.
 
-Where do you go to **add a sprite** to your project?
+Gdje idete da **dodate lika** u svoj projekt?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Snimka zaslona cijelog Scratch uređivača s komentarima s 1 — karticom Kostimi, 2 — karticom Zvukovi, 3 — Listom likova i 4 — istaknutom pločom pozornice.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: Kartica **Kostimi**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Otišli ste na karticu **Kostimi** da biste uredili kostim za svoj lik.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Kartica **Zvukovi**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Otišli ste na karticu **Zvukovi** da biste dodali zvuk za svojeg lika.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: Lista likova
 
   --- feedback ---
 
-Da. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Da. Ovo je područje gdje možete vidjeti sve likove u projektu, dodavati i brisati likove i kliknuti na likeove da biste ih odabrali.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: ploča pozornice
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Otišli ste u ploču pozornice kako bi odabrali pozadinu.
 
   --- /feedback ---
 
