@@ -5,7 +5,7 @@
 
 Fumana uNano imvakalelo ngokutshintsha **isinxibo**.
 
-I-Sprites ine-*impahla** yokutshintsha indlela ekhangeleka ngayo. They are usually slightly different images of the same sprite. Ukuvuselela i-sprite, ungatshintsha isinxibo sayo.
+I-Sprites ine-*impahla** yokutshintsha indlela ekhangeleka ngayo. Ngokuqhelekileyo kukho imifanekiso eyahlukileyo kancinane ye-sprite esinye. Ukuvuselela i-sprite, ungatshintsha isinxibo sayo.
 
 </div>
 <div>
@@ -31,7 +31,7 @@ Qinisekisa ukuba i **Nano** sprite ikhethiwe kuluhlu lwe-Sprite ngaphantsi kwe-S
 
 ![Uluhlu lweSprite, olunomda ozuba ojikeleze iNano sprite ukubonisa ukuba uNano ukhethiwe.](images/nano-selected.png)
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
+Cofa kwithebhu **Khowudi** wongeze iskripthi ukufumana i **Nano** sprite ebonakala esthi 'Enkosi' ngezandla usebenzisa `tshintsha isinxibo ukuya kwi`{:class="block3looks"} kunye `linda`{:class="block3control"}. Sebenzisa imenyu eyehlayo ukutshintsha phakathi `nano-b`{:class="block3looks"} kunye `nano-a`{:class="block3looks"}:
 
 ![I-Nano sprite.](images/nano-sprite.png)
 
