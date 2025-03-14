@@ -27,7 +27,7 @@ Uye kwi **Isinxibo** ithebhu ukuhlela isinxibo se sprite yakho.
 
   --- /feedback ---
 
-- ( ) 2: I **Sounds-** tab
+- ( ) 2: I **Izandi-** tab
 
   --- feedback ---
 
