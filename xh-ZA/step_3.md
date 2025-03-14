@@ -73,7 +73,7 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Uya kubona izimvo kwimizekelo yekhowudi. Awudingi ukongeza izimvo xa usongeza ikhowudi kwiprojekthi yakho.
 
-Ukuba unexesha xa ugqibile iprojekthi yakho, luluvo oluhle ukongeza izimvo kwikhowudi yakho ukuze kube lula ukuyiqonda kamva. Try adding a comment now. Right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
+Ukuba unexesha xa ugqibile iprojekthi yakho, luluvo oluhle ukongeza izimvo kwikhowudi yakho ukuze kube lula ukuyiqonda kamva. Zama ukufaka izimvo. Ukongeza inkcazo, cofa ekunene (okanye kwithebhulethi, cinezela kwaye ubambe) kwibhloko kwindawo yeKhowudi kwaye ukhethe **Yongeza izimvo**.
 
 ![Imenyu ephumayo evelayo xa ucofa ekunene kwibhloko. 'Yongeza uluvo' ikhethiwe.](images/add-comment.png)
 
