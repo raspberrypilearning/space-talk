@@ -52,7 +52,7 @@ Unako kwakhona 'ukuxuba' iprojekthi ukwenza naluphi na utshintsho oluthandayo. U
 title: Isatifikethi se-spacetalk
 ---
 
-Wenze kakuhle! Uyigqibile iprojekthi yokuthetha ngeSithuba. Nasi u- [isatifikethi](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} ukubhiyozela izakhono zakho ezitsha. Khuphela ikopi uze uyivule uze wongeze igama lakho.
+Ungajonga i [projkthi engqityweyo apha](https://scratch.mit.edu/projects/913597736/){:target="_blank"}.
 
 --- /collapse ---
 
