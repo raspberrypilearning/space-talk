@@ -20,4 +20,4 @@ Ukuba ufuna ukonwaba ngakumbi ngokujonga iScratch, ungazama [na kwezi projekthi]
 
 ***
 
-This project was translated by Anelisa Masebe.
+This project was translated by Anelisa Masebe and Sulungeka Myataza.

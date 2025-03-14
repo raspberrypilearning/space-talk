@@ -64,14 +64,18 @@ say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
 
 ### Izimvo zekhowudi
 
+--- task ---
+
 ```blocks3
 say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
 ```
 Uya kubona izimvo kwimizekelo yekhowudi. Awudingi ukongeza izimvo xa usongeza ikhowudi kwiprojekthi yakho.
 
-Ukuba unexesha xa ugqibile iprojekthi yakho, luluvo oluhle ukongeza izimvo kwikhowudi yakho ukuze kube lula ukuyiqonda kamva. Ukongeza inkcazo, cofa ekunene (okanye kwithebhulethi, cinezela kwaye ubambe) kwibhloko kwindawo yeKhowudi kwaye ukhethe **Yongeza i-zimvo**.
+Ukuba unexesha xa ugqibile iprojekthi yakho, luluvo oluhle ukongeza izimvo kwikhowudi yakho ukuze kube lula ukuyiqonda kamva. Zama ukufaka izimvo. Ukongeza inkcazo, cofa ekunene (okanye kwithebhulethi, cinezela kwaye ubambe) kwibhloko kwindawo yeKhowudi kwaye ukhethe **Yongeza izimvo**.
 
 ![Imenyu ephumayo evelayo xa ucofa ekunene kwibhloko. 'Yongeza uluvo' ikhethiwe.](images/add-comment.png)
+
+--- /task ---
 
 ### Uvavanyo
 
