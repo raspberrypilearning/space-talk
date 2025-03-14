@@ -1,13 +1,13 @@
 ## Uya kwenza
 
-Yenza indawo yendawo enabalinganiswa 👾 'emote' ukwabelana ngeengcinga okanye iimvakalelo zabo.
+Yenza indawo yendawo enabalinganiswa 👾 'imvakalelo' ukwabelana ngeengcinga okanye iimvakalelo zabo.
 
-Kwi-Scratch, iimpawu kunye nezinto zibizwa ngokuba yi **sprites**, kwaye zivela kwi- **Stage**.
+Kwi-Scratch, iimpawu kunye nezinto zibizwa ngokuba yi **sprites**, kwaye zivela kwi- **Qonga**.
 
 Uza ku:
 + Yongeza i-sprites kunye ne- **yangasemva** ukuseta iprojekthi yakho
-+ Cofa kwi-sprites ukubenza banxibelelane usebenzisa i `Looks`{:class="block3looks"} kunye no `Isandi`{:class="block3sound"} iibhloko zekhowudi
-+ Sebenzisa i **Peyinta umhleli** ukutshintsha **isinxibo** esi
++ Cofa kwi-sprites ukubenza banxibelelane usebenzisa i `Ujonga`{:class="block3looks"} kunye no `Isandi`{:class="block3sound"} iibhloko zekhowudi
++ Sebenzisa i **Uhlelo lokuPeyinta** ukutshintsha **isinxibo** esi
 
 --- no-print ---
 --- task ---

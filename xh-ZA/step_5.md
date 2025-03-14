@@ -5,7 +5,7 @@
 
 Fumana uNano imvakalelo ngokutshintsha **isinxibo**.
 
-I-Sprites ine-**impahla** yokutshintsha indlela ekhangeleka ngayo. Ukuvuselela i-sprite, ungatshintsha isinxibo sayo.
+I-Sprites ine-**impahla** yokutshintsha indlela ekhangeleka ngayo. Ngokuqhelekileyo kukho imifanekiso eyahlukileyo kancinane ye-sprite esinye. Ukuvuselela i-sprite, ungatshintsha isinxibo sayo.
 
 </div>
 <div>
@@ -31,13 +31,12 @@ Qinisekisa ukuba i **Nano** sprite ikhethiwe kuluhlu lwe-Sprite ngaphantsi kwe-S
 
 ![Uluhlu lweSprite, olunomda ozuba ojikeleze iNano sprite ukubonisa ukuba uNano ukhethiwe.](images/nano-selected.png)
 
-
-Cofa kwi **Code** ithebhu kwaye wongeze iskripthi ukufumana i **Nano** sprite ukusayina 'Enkosi' usebenzisa `tshintsha isinxibo ukuya kwi`{:class="block3looks"} kunye `linda`{:class="block3control"}:
+Cofa kwithebhu **Khowudi** wongeze iskripthi ukufumana i **Nano** sprite ebonakala esthi 'Enkosi' ngezandla usebenzisa `tshintsha isinxibo ukuya kwi`{:class="block3looks"} kunye `linda`{:class="block3control"}. Sebenzisa imenyu eyehlayo ukutshintsha phakathi `nano-b`{:class="block3looks"} kunye `nano-a`{:class="block3looks"}:
 
 ![I-Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // xa kucofa uNano
+when this sprite clicked // xa ucofa kuNano
 switch costume to [nano-b v] // Nano ethetha
 wait (0.5) seconds // zama 0.25 endaweni ka 0.5
 switch costume to [nano-a v] // Nano encumile
@@ -57,7 +56,7 @@ switch costume to [nano-a v] // Nano encumile
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Izigidi zabantu zisebenzisa intetho yezandla ukuze zinxibelelane. Indlela eqhelekileyo yokusayina 'Enkosi' kukubeka iminwe yakho esilevini ngesandla sakho sicaba kangangoko. Emva koko uhambise isandla sakho phambili, kude nesilevu sakho kwaye uhle kancinci. 
 </p>
 
-<!--- Add a video of someone signing --->
+<!-- Add a video of someone signing -->
 
 Unano uza kusebenzisa intetho yezandla ngokutshintsha iimpahla.
 
