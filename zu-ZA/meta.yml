@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Sebenzisa i-Scratch ukunikeza ama-sprites 'i-emote(ukunyakaza)' ukuze axhumane lapho achofozwa
 meta_title: Amaphrojekthi okubhala ikhodi ezingane nentsha | Isingeniso ku-Scratch
 meta_description: Funda ukubhala ikhodi ku-Scratch ngamaphrojekthi okubhala ikhodi nge-Raspberry Pi Foundation yezingane nentsha. Yenza opopayi be-Scratch, imidlalo, izinhlelo zokusebenza, nokuningi.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Thuthukisa iphrojekthi yakho
-  - 
-    title: Yini elandelayo?
