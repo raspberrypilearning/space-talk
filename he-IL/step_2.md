@@ -1,117 +1,117 @@
-## Create your scene
+## צור את הסצנה שלך
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Set up your project with a space backdrop and the first sprite. 
+הקימו את הפרויקט שלכם עם רקע של חלל והספרייט הראשון. 
 </div>
 <div>
 
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
+![רקע החלל עם ספרייט פיקו.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Open the starter project
+### פתח את פרויקט ההתחלתי
 
 --- task ---
 
-Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
+פתח את פרויקט ההתחלתי של [שיחת החלל](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. סקראץ׳ ייפתח בכרטיסייה אחרת של הדפדפן.
 
 [[[working-offline]]]
 
 --- /task ---
 
-### The Scratch editor
+### עורך סקראץ'
 
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
+![צילום מסך עם הערות של עורך סקראץ׳, עם התוויות הבמה, חלונית הבמה, חלונית ספרייט, רשימת ספרייטים ואזור הקוד.](images/scratch-interface.png)
 
-### Add a backdrop
+### הוסף רקע
 
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
+**הבמה** הוא המקום שבו הפרויקט שלך פועל. **רקע** משנה את מראה הבמה.
 
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+לחצו (או בטאבלט, הקישו) על **בחרו רקע** בחלונית הבמה:
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
+![סמל 'בחר רקע'.](images/backdrop-button.png)
 
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
+![עורך הסקראץ׳ כאשר האפשרות 'בחר רקע' מסומנת בפינה הימנית התחתונה.](images/choose-a-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Space** category or type `space` in the search box:
+לחצו על הקטגוריה **חלל** או הקלידו `חלל` בתיבת החיפוש:
 
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+![ספריית הרקע עם הקטגוריה 'חלל שנבחרה.](images/space-backdrops.png)
 
 --- /task ---
 
-### Add a Sprite
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
+בדוגמה שלנו, בחרנו את הרקע **רווח**, אבל בחרו את הרקע שאתם הכי אוהבים.
 
 --- task ---
 
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
+לחץ על הרקע שבחרת כדי להוסיף אותו לפרויקט שלך. הבמה צריכה להציג את הרקע שבחרתם:
 
-![The 'Delete' icon.](images/delete-sprite.png)
+![עורך הסקראץ׳ עם רקע החלל שנוסף.](images/inserted-backdrop.png)
 
 --- /task ---
 
+### הוסף ספרייט
+
+האם אתה יכול לראות את הספרייט שכבר כלול בפרויקט שלך? זהו חתול הסקראץ׳.
+
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+מחיקת הספרייט **ספרייט1** (חתול גירוד): בחרו את הספרייט **ספרייט1** ברשימת הספרייטים שמתחת לשלב ולחצו על סמל המחיקה ****.
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
+![סמל 'מחיקה'.](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
+לחץ על **בחר ספרייט** ברשימת הספרייטים:
 
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
+![סמל 'בחר ספרייט'.](images/sprite-button.png)
 
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+![עורך הסקראץ׳ עם הסמל 'בחר ספרייט' מסומן.](images/choose-a-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
+בחר את הקטגוריה **פנטזיה**. לחץ על הספרייט **פיקו** כדי להוסיף אותו לפרויקט שלך.
 
-![The remix button.](images/remix-button.png)
+![קטגוריית ה'פנטזיה' עם ספרייט הפיקו.](images/fantasy-pico.png)
 
-Type the name of your project in the project name box at the top of the screen.
+--- /task ---
 
-![The project name box.](images/project-name.png)
+--- task ---
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
+גררו את הספרייט **פיקו** כדי למקם אותו בצד שמאל של הבמה. הבמה שלך אמורה להיראות בערך כך:
 
-Next, click on **File**, and then on **Save now** to save your project.
+![הבמה עם הרקע הנבחר וספרייט הפיקו ממוקם בצד שמאל.](images/pico-on-stage.png)
 
-![The 'File' menu options.](images/file-menu.png)
+--- /task ---
 
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
+--- task ---
+
+**שמירה**: אם אתם מחוברים לחשבון הסקראץ׳ שלכם, לחצו על כפתור הרמיקס הירוק. פעולה זו תשמור עותק של הפרויקט בחשבון סקראץ׳ שלך.
+
+![כפתור הרמיקס.](images/remix-button.png)
+
+הקלד את שם הפרויקט שלך בתיבת שם הפרויקט בראש המסך.
+
+![תיבת שם הפרויקט.](images/project-name.png)
+
+**טיפ:** תנו לפרויקטים שלכם שמות נוחים כדי שתוכלו למצוא אותם בקלות כשיש לכם הרבה פרויקטים.
+
+לאחר מכן, לחצו על **קובץ**, ולאחר מכן על **שמור עכשיו** כדי לשמור את הפרויקט.
+
+![אפשרויות התפריט 'קובץ'.](images/file-menu.png)
+
+אם אינך מחובר לאינטרנט או שאין לך חשבון סקראץ׳, תוכל ללחוץ על **שמור במחשב שלך** כדי לשמור עותק של הפרויקט שלך.
 
 --- /task ---
 
