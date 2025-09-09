@@ -1,21 +1,21 @@
-## You will make
+## אתה תעשה
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+צרו סצנת חלל עם דמויות 👾 ש"מביעות רגשות" כדי לשתף את מחשבותיהן או רגשותיהן.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+בסקראץ׳, דמויות ואובייקטים נקראים **ספרייטים**, והם מופיעים בשלב **הבמה**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+אתה תעשה את הדברים הבאים:
++ הוסף ספרייטים ו **רקע** כדי להגדיר את הפרויקט שלך
++ לחצו על ספרייטים כדי לגרום להם לתקשר באמצעות בלוקי קוד `מראה`{:class="block3looks"} ו- `צליל`{:class="block3sound"}
++ השתמש ב **עורך צבע** כדי לשנות את **התחפושת**
 
 --- no-print --- --- task ---
-### Play ▶️
+### נגן ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+לחצו על כל ספרייט כדי לראות מה הוא עושה. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+מה יקרה אם לוחצים על ספרייט אחד ואז לוחצים במהירות על הספרייט האחר?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![הפרויקט שהושלם.](images/showcase_static.png)
 
 --- /print-only ---
 
