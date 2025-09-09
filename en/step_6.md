@@ -65,8 +65,6 @@ Select the 'Front' tool to make the arm the front layer.
 
 ![The 'Undo' icon.](images/nano-undo.png)
 
---- task ---
-
 --- no-print ---
 
 ![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
