@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Sebenzisa iScratch ukunika i-sprites 'imvakalelo' ukuze zinxibelelane xa uzicofa
 meta_title: Iiprojekthi zokubhala iikhowudi zabantwana kunye nabaselula | Intshayelelo ku Scratch
 meta_description: Funda ukwenza ikhowudi kwiScratch kunye neeprojekthi zeekhowudi zeRaspberry Pi Foundation zabantwana kunye nolutsha. Yenza oopopayi be-Scratch, imidlalo, ii-apps, kunye nokunye.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Phucula iprojekthi yakho
-  - 
-    title: Yintoni elandelayo?
