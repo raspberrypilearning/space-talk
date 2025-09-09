@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Utilitzeu Scratch per donar vida als personatges i es comunicaran quan facis clic
 meta_title: Projectes de programació Scratch per a nens i adolescents | Introducció a Scratch
 meta_description: Apreneu a programar a Scratch amb els projectes de codificació de la Fundació Raspberry Pi per a nens i adolescents. Crea amb Scratch animacions, jocs, aplicacions i molt més.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Actualitza el teu projecte
-  - 
-    title: Què ve després?
