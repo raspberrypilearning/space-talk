@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+שאלה 2 מתוך 3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+גרמת לפיקו `לומר`{:class="block3looks"} "שלום!" בבועת דיבור.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+לאן היית הולך כדי למצוא את הבלוק הזה?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `מראה`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+כֵּן. הבלוק `אמור`{:class="block3looks"} נמצא בתפריט הבלוקים `מראה`{:class="block3looks"}, שהוא באותו צבע כמו הבלוק.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `צליל`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+הבלוקים בתפריט הבלוקים `צליל`{:class="block3sound"} משמשים כדי לגרום לדמויות להשמיע צלילים.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- () `תנועה`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+הבלוקים בתפריט הבלוקים `תנועה`{:class="block3motion"} משמשים כדי לגרום לדמויות לזוז.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `אירועים`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+הבלוקים בתפריט הבלוקים `אירועים`{:class="block3events"} משמשים כדי לגרום לדברים לקרות.
 
   --- /feedback ---
 
