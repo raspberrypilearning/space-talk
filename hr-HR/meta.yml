@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Upotrijebite Scratch kako bi ste dali likovima "emociju" da komuniciraju kada se kliknu
 meta_title: Projekti scratch programiranja za djecu i tinejdžere | Uvod u Scratch
 meta_description: Naučite programirati u Scratchu uz projekte programiranja Zaklade Raspberry Pi za djecu i tinejdžere. Napravite Scratch animacije, igre, aplikacije i još puno toga.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Nadogradite svoj projekt
-  - 
-    title: Što dalje?
