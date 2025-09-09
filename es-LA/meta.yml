@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Usa Scratch para darle una 'emoción' a los objetos para que se comuniquen cuando se hace clic en ellos
 meta_title: Proyectos de codificación de Scratch para niños y adolescentes | Encuentra el insecto
 meta_description: Crea un juego en el que tienes que encontrar un insecto oculto en cada nivel.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Mejora tu proyecto
-  - 
-    title: '¿Qué sigue?'
