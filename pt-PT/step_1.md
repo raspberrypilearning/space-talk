@@ -1,21 +1,21 @@
-## You will make
+## Irá fazer
 
-Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
+Criar uma cena espacial com personagens 👾 que expressam emoções para compartilhar os seus pensamentos ou sentimentos.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+No Scratch, as personagens e os objetos são chamados de **actores**, e eles aparecem no **Palco**.
 
-You will:
-+ Add sprites and a **backdrop** to set up your project
-+ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
-+ Use the **Paint editor** to change a **costume**
+Você irá:
++ Adicionar actores e um **cenário** para configurar o seu projeto
++ Clicar nos actores para fazer com que comuniquem uns com os outros usando os blocos de código `Aparência`{:class="block3looks"} e `Som`{:class="block3sound"}
++ Usar o **editor de pintura** para alterar um **traje**
 
 --- no-print --- --- task ---
-### Play ▶️
+### Começar ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+Clique em cada actor para ver o que eles fazem. 
 
-What happens if you click on one sprite and then quickly click on another sprite?
+O que acontece se clicar num actor e depois clicar rapidamente noutro actor?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ What happens if you click on one sprite and then quickly click on another sprite
 
 --- print-only ---
 
-![The completed project.](images/showcase_static.png)
+![O projecto completo.](images/showcase_static.png)
 
 --- /print-only ---
 
