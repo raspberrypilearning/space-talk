@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: ಸ್ಪ್ರೈಟ್‌ಗೆ ʼಅಭಿನಯʼ ಕೊಡಲು Scratch ಉಪಯೋಗಿಸಿ, ಅದರಿಂದ ಕ್ಲಿಕ್‌ ಮಾಡಿದಾಗ ಅವು ತಿಳಿಸುತ್ತವೆ
 meta_title: Scratch coding projects for kids and teens | Intro to Scratch
 meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
-  - 
-    title: ಮುಂದೆ ಏನು?
