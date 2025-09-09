@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Utiliser Scratch pour donner aux sprites une « émotion » afin qu'ils communiquent lorsqu'ils sont cliqués
 meta_title: Projets de codage scratch pour enfants et adolescents | Intro à Scratch
 meta_description: Apprends à coder avec Scratch avec les projets de codage de la Raspberry Pi Foundation pour les enfants et les adolescents. Réalise des animations Scratch, des jeux, des applications, et bien plus encore.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Améliorer ton projet
-  - 
-    title: Et ensuite ?
