@@ -1,31 +1,31 @@
-## Giga changes colour
+## גיגה משנה צבע
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
+ספרייטים יכולים גם להשתמש בבועות מחשבה ולשנות צבעים כדי להראות את אישיותם. אתה תגרום לגיגה לעשות את זה.
 </div>
 <div>
 
-![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
+![גיגה חושב, "הממ...".](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Make Giga change colour
+### תגרום לגיגה לשנות צבע
 
 --- task ---
 
-Add the **Giga** sprite.
+הוסף את הספרייט **גיגה**.
 
-Drag the **Giga** sprite to the right-hand side of the Stage.
+גרור את הספרייט **גיגה** לצד ימין של הבמה.
 
 --- /task ---
 
 --- task ---
 
-Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
+ודא שבחרת את הספרייט **גיגה** ברשימת הספרייטים שמתחת לבמה. הוסף את הקוד הזה כדי לגרום לספרייט **גיגה** לתקשר על ידי שינוי צבע:
 
-![The Giga sprite.](images/giga-sprite.png)
+![ספרייט גיגה.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -36,23 +36,23 @@ clear graphic effects // back to the starting colour
 
 --- /task ---
 
-**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
+**טיפ:** לחצו על הספרייט ברשימת הספרייטים שמתחת לבמה לפני שאתם מוסיפים או משנים קוד, תלבושות או צלילים. ודא שלחצת על הספרייט הנכון.
 
 --- task ---
 
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
+נסה מספרים שונים מ- `1` עד `200` בבלוק `הגדר את אפקט הצבע ל-`{:class="block3looks"} עד שתמצא צבע שאתה אוהב.
 
 --- /task ---
 
 --- task ---
 
-Change the words and number of seconds in the `think`{:class="block3looks"} block.
+שנה את המילים ומספר השניות בבלוק `חושב`{:class="block3looks"}.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
+**בדיקה:** לחצו על הספרייט **גיגה** על הבמה ובדקו שהספרייט משנה צבע ומציג בועת מחשבה.
 
 --- /task ---
 
