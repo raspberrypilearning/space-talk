@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Defnyddio Scratch i roi 'emoshlun' i gymeriadau corlun fel eu bod yn cyfathrebu ar ôl eu clicio
 meta_title: Scratch coding projects for kids and teens | Intro to Scratch
 meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Uwchraddio dy brosiect
-  - 
-    title: Beth nesaf?
