@@ -1,48 +1,48 @@
 
 --- question ---
 ---
-legend: Question 2 of 3
+legenda: Pergunta 2 de 3
 ---
 
-You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
+Fez o Pico `dizer`{:class="block3looks"} "Olá!" num balão de fala.
 
 ```blocks3
 say [Hello!] for [2] seconds
 ```
 
-Where would you go to find this block?
+Aonde iria para encontrar este bloco?
 
 --- choices ---
 
-- (x) `Looks`{:class="block3looks"}
+- (x) `Aparência`{:class="block3looks"}
 
   --- feedback ---
 
-Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
+Sim. O bloco `diz`{:class="block3looks"} está no menu de blocos `Aparência`{:class="block3looks"}, que tem a mesma cor do bloco.
 
   --- /feedback ---
 
-- ( ) `Sound`{:class="block3sound"}
+- ( ) `Som`{:class="block3sound"}
 
   --- feedback ---
 
-The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
+Os blocos no menu `Som`{:class="block3sound"} são usados para fazer os actores tocarem sons.
 
   --- /feedback ---
 
-- ( ) `Motion`{:class="block3motion"}
+- ( ) `Movimento`{:class="block3motion"}
 
   --- feedback ---
 
-The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
+Os blocos no menu `Som`{:class="block3sound"} são usados para fazer os actores tocarem sons.
 
   --- /feedback ---
 
-- ( ) `Events`{:class="block3events"}
+- ( ) `Eventos`{:class="block3events"}
 
   --- feedback ---
 
-The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
+Os blocos no menu `Eventos`{:class="block3sound"} são usados para executar blocos de código em função da ocorrência de determinados eventos.
 
   --- /feedback ---
 
