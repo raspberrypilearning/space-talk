@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Użyj Scratcha, aby dać duszkom „emotkę”, tak by komunikowały się po kliknięciu
 meta_title: Projekty programistyczne Scratch dla dzieci i młodzieży | Wprowadzenie do Scratcha
 meta_description: Naucz się programować w języku Scratch dzięki projektom programistycznym Fundacji Raspberry Pi dla dzieci i nastolatków. Twórz animacje Scratch, gry, aplikacje i nie tylko.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Ulepsz swój projekt
-  - 
-    title: Co dalej?
