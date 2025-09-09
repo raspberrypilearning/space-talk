@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Use o Scratch para dar aos atores uma 'ação' para que eles se comuniquem quando clicados
 meta_title: Projetos de programação Scratch para crianças e adolescentes | Introdução ao Scratch
 meta_description: Aprenda a programar no Scratch com os projetos de programação da Raspberry Pi Foundation para crianças e adolescentes. Faça animações, jogos, aplicativos e muito mais no Scratch.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Melhore o seu projeto
-  - 
-    title: O que vem a seguir?
