@@ -1,61 +1,61 @@
-## Pico plays a sound
+## פיקו משמיע צליל
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Another way to communicate is to use sound.
+דרך נוספת לתקשר היא באמצעות צליל.
 </div>
 <div>
 
-![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
+![ספרייט פיקו אומר "שלום!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Add a sound to the Pico Sprite
+### הוסף צליל לספרייט פיקו
 
 --- task ---
 
-Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
+לחצו על הכרטיסייה **צלילים** עבור הספרייט **פיקו** ותמצאו צליל **פופ**. לחץ על סמל **הפעל** כדי לשמוע את צליל **פופ**.
 
-![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
+![השמעת צליל הפופ בכרטיסייה צלילים.](images/pico-sound-play.png)
 
-**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
+**בדיקה**: אם אינך שומע צליל, ודא שהצליל פועל במחשב או בטאבלט שלך.
 
 --- /task ---
 
 --- task ---
 
-To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
+כדי לבחור צליל חדש, לחצו על הסמל **בחירת צליל** ובחרו את הקטגוריה **חלל** או הקלידו `חלל` בתיבת החיפוש.
 
-![The 'Choose a Sound' icon.](images/sound-button.png)
+![סמל 'בחר צליל'.](images/sound-button.png)
 
-![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
+![עורךהסקראץ׳ כאשר האפשרות 'בחר צליל' מסומנת.](images/pico-choose-sound.png)
 
-![The 'Space' category in the Sound Library.](images/pico-space-category.png)
+![קטגוריית 'החלל' בספריית הצלילים.](images/pico-space-category.png)
 
 --- /task ---
 
 --- task ---
 
-Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
+נגן כמה צלילים שונים באמצעות הסמל **הפעל**. לאחר שמצאתם את הצליל שברצונכם להשתמש בו, לחצו עליו כדי להוסיף אותו לפרויקט שלכם.
 
-![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
+![דוגמה לצליל (צליל Alien Creak1) המוצגת מתחת לצליל הפופ בכרטיסייה צלילים.](images/pico-inserted-sound.png)
 
 --- /task ---
 
-### Make the sound play when clicked (or tapped)
+### לגרום לצליל להתנגן בעת לחיצה (או הקשה)
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
+לחץ על הכרטיסייה **קוד**. בתפריט הבלוקים `צליל`{:class="block3sound"}, מצא את הבלוק `נגן צליל`{:class="block3sound"}.
 
-Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
+גררו את הבלוק לאזור הקוד, בין הבלוק `כאשר הספרייט הזה נלחץ`{:class="block3events"} לבין הבלוק `אמור`{:class="block3looks"}. ייפתח פער והבלוק ייכנס למקומו בנקישה.
 
-![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
+![בלוק 'נגן צליל' נוסף בין שני הבלוקים.](images/pico-insert-block.gif)
 
-Your code should look like this:
+הקוד שלך אמור להיראות כך:
 
-![The Pico sprite.](images/pico-sprite.png)
+![הספרייט פיקו.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -65,19 +65,19 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 
 --- /task ---
 
-### Test your code
+### בדוק את הקוד שלך
 
 --- task ---
 
-Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
+ודאו שבלוק `נגן צליל`{:class="block3sound"} שלכם מכיל את הצליל שבחרתם. אם לא, עליך ללחוץ על הצליל בבלוק `נגן צליל`{:class="block3sound"}, לאחר מכן לבחור את הצליל שבחרת מהתפריט הנפתח.
 
-![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
+![לחיצה על צליל ה- Alien Creak1 בתפריט הנפתח בתוך בלוק 'נגן צליל'.](images/pico-sound-menu.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
+**בדיקה:** לחצו על הספרייט **פיקו** ובדקו שבועת הדיבור מופיעה ושאתם יכולים לשמוע את הצליל. אם אינך שומע את הצליל, ודא שהוספת את הבלוק `נגן צליל`{:class="block3sound"} מתחת לבלוק `כאשר ספרייט זה לחץ`{:class="block3events"}.
 
 --- /task ---
 
