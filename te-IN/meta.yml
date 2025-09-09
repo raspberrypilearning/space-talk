@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Sprite లకు 'emote' ఇవ్వడానికి Scratch ని ఉపయోగించండి, తద్వారా అవి క్లిక్ చేసినప్పుడు కమ్యూనికేట్ చేస్తాయి
 meta_title: Scratch coding projects for kids and teens | Intro to Scratch
 meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: మీ ప్రాజెక్ట్‌ను అప్‌గ్రేడ్ చేయండి
-  - 
-    title: తర్వాత ఏంటి?
