@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Scratchでスプライトに「感情を表現（エモート）」させ、クリックでコミュニケーションできるようにしましょう。
 meta_title: 幼児・小学生と十代の若者向けの言語スクラッチ を用いたコーディング プロジェクト |Scratch入門
 meta_description: Raspberry Pi Foundation による幼児、小中学生向けのコーディング プロジェクトで、スクラッチ言語によるコーディングを学びましょう。Scratch アニメーション、ゲーム、アプリなどを作成します。
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: プロジェクトをアップグレードする
-  - 
-    title: 次のステップ
