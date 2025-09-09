@@ -1,53 +1,53 @@
-## Quick quiz
+## Teste rápido
 
-Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
+Responde às três perguntas para obter o seu distintivo da Conversa Espacial. Existem dicas para guiá-lo até a resposta correta.
 
-When you have answered each question, click on **Check my answer**.
+Quanto tiver respondido a cada pergunta, clique em **Verificar a minha resposta**.
 
-Have fun!
+Divirta-se!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legenda: Pergunta 1 de 3
 ---
 
-In your project, you added some sprite characters.
+No seu projeto, adicionou alguns actores (sprite).
 
-Where do you go to **add a sprite** to your project?
+Aonde vai para **adicionar um actor** ao seu projeto?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![Uma captura de tela anotada do editor Scratch completo com 1 — separador Trajes, 2 — separador Sons, 3 — a lista de actores e 4 — o painel Palco destacado.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- () 1: Separador **Trajes**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+Foi até ao separador **Trajes** para editar uma traje para o seu actor.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: Separador **Sons**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+Foi até ao separador **Sons** para escolher um novo som para o seu actor.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: A lista de Actores
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+Sim. Esta é a área onde pode ver todos os actores do projeto, adicionar e excluir actores e clicar neles para selecioná-los.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- ( ) 4: O painel Palco
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+Foi ao painel Palco para escolher um cenário.
 
   --- /feedback ---
 
