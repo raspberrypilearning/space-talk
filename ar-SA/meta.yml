@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: استخدم Scratch لإعطاء الكائنات "تعبيرًا" بحيث يتواصلون عند النقر عليهم
 meta_title: مشاريع الترميز Scratch للأطفال والمراهقين | مقدمة إلى سكراتش
 meta_description: تعلم البرمجة في سكراتش باستخدام مشاريع الترميز الخاصة بمؤسسة Raspberry Pi Foundation للأطفال والمراهقين. أنشئ رسومًا متحركة وألعابًا وتطبيقات من سكراتش والمزيد.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: قم بترقية مشروعك
-  - 
-    title: ما التالي؟
