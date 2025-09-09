@@ -1,31 +1,32 @@
 ---
 title: שיחת חלל
 hero_image: images/banner.png
-description: השתמש ב-Scratch כדי לתת ל-sprites 'רגש' כך שהם מתקשרים כאשר לוחצים עליהם
-meta_title: Scratch coding projects for kids and teens | Intro to Scratch
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+description: השתמש בסקראץ׳ כדי לתת ספרייטים 'רגש' כך שהם מתקשרים כאשר לוחצים עליהם
+meta_title: פרויקטים של קידוד בסקראץ׳ לילדים ובני נוער | מבוא לסקראץ׳
+meta_description: למדו לקודד בסקראץ׳ עם פרויקטי הקידוד של קרן Raspberry Pi לילדים ובני נוער. צרו אנימציות, משחקים, אפליקציות ועוד בסקראץ׳.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: You will make
+    title: אתה תעשה
   - 
-    title: Create your scene
+    title: צור את הסצנה שלך
   - 
-    title: Pico says hello
+    title: פיקו אומר שלום
     completion:
       - engaged
   - 
-    title: Pico plays a sound
+    title: פיקו משמיע צליל
   - 
-    title: Nano switches costumes
+    title: ננו מחליף תחפושות
   - 
-    title: Giga changes colour
+    title: גיגה משנה צבע
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: חידון מהיר
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -34,6 +35,4 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
-  - 
-    title: What next?
+    title: שדרגו את הפרויקט שלכם
