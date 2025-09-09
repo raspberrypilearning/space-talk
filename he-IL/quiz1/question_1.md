@@ -15,39 +15,39 @@
 
 איך **מוסיפים ספרייט** לפרויקט שלכם?
 
-![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
+![צילום מסך עם הערות של עורך Scratch המלא כאשר 1 — לשונית התלבושות, 2 — לשונית הצלילים, 3 — רשימת הדמויות, ו 4 — חלונית הבמה מודגשים.](images/question1.png)
 
 --- choices ---
 
-- ( ) 1: The **Costumes** tab
+- ( ) 1: לשונית **תלבושות**
 
   --- feedback ---
 
-You went to the **Costumes** tab to edit a costume for your sprite.
+נכנסת ללשונית **תחפושות** כדי לערוך תחפושת עבור הדמות שלך.
 
   --- /feedback ---
 
-- ( ) 2: The **Sounds** tab
+- ( ) 2: הכרטיסייה **צלילים**
 
   --- feedback ---
 
-You went to the **Sounds** tab to choose a new sound for your sprite.
+נכנסת ללשונית **צלילים** כדי לבחור צליל חדש לדמות שלך.
 
   --- /feedback ---
 
-- (x) 3: The Sprite list
+- (x) 3: רשימת הדמויות
 
   --- feedback ---
 
-Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
+כֵּן. זהו האזור שבו ניתן לראות את כל הדמויות בפרויקט, להוסיף ולמחוק דמויות, וללחוץ על דמויות כדי לבחור אותם.
 
   --- /feedback ---
 
-- ( ) 4: The Stage pane
+- () 4: חלונית הבמה
 
   --- feedback ---
 
-You went to the Stage pane to choose a backdrop.
+עברת לחלונית הבמה כדי לבחור רקע.
 
   --- /feedback ---
 
