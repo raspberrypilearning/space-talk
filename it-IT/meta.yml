@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Utilizza Scratch per dare un'espressione (emote) agli sprite per farli parlare quando vengono cliccati
 meta_title: Progetti di programmazione con Scratch per bambini e ragazzi | Introduzione a Scratch
 meta_description: Impara a programmare usando Scratch con i progetti di programmazione per bambini e ragazzi offerti dalla Raspberry Pi Foundation. Fai animazioni con Scratch, giochi, app e altro ancora.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
@@ -35,5 +36,3 @@ steps:
       - external
   - 
     title: Migliora il tuo progetto
-  - 
-    title: E adesso?
