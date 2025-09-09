@@ -1,18 +1,18 @@
-Hello!
+Olá!
 
-hide speech after 2 seconds
+oculta a fala após 2 segundos
 
-when Nano is clicked
+quando se clica em Nano
 
-Nano talking
+Nano a falar
 
-try 0.25 instead of 0.5
+experimente 0,25 em vez de 0,5
 
 Hm...
 
-0 is the starting colour
+0 é a cor inicial
 
-back to the starting colour
+voltar à cor inicial
 
 hide speech bubble
 
