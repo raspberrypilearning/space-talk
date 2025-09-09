@@ -1,21 +1,21 @@
-## Upgrade your project
+## שדרגו את הפרויקט שלכם
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+הוסיפו את הספרייט **טרה** והשתמשו בכל אחד מהבלוקים שלמדתם עליהם כדי ליצור 'רגש' עבור הספרייט **טרה**.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![הספרייט טרה על הבמה.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+ניתן גם להשתמש בהרחבת טקסט לדיבור כדי לגרום ל- **טרה** לדבר בקול רם:
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+האישיות של הספרייט **טרה** היא בחירתכם, אז תהנו להשתמש ברעיונות יצירתיים משלכם.
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+ניתן גם 'לערוך מחדש' את הפרויקט כדי לבצע שינויים שתרצו. אפשר לשנות את הרקע, ואת האופן שבו הספרייטים מרגישים, ואפילו לבחור ספרייטים שונים ולתת להם רגשות.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**טיפ:** לחצו על ספרייט ברשימת הספרייטים שמתחת לבמה כדי לשנות את הקוד, התלבושות והצליל עבור אותו ספרייט.
 
 --- collapse ---
 ---
-title: Completed project
+כותרת: פרויקט שהושלם
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+ניתן לצפות בפרויקט שהושלם [כאן](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /collapse ---
 
