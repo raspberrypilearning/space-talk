@@ -1,0 +1,30 @@
+---
+title: שיחת חלל
+hero_image: images/banner.png
+description: השתמש בסקראץ׳ כדי לתת ספרייטים 'רגש' כך שהם מתקשרים כאשר לוחצים עליהם
+meta_title: פרויקטים של קידוד בסקראץ׳ לילדים ובני נוער | מבוא לסקראץ׳
+meta_description: למדו לקודד בסקראץ׳ עם פרויקטי הקידוד של קרן Raspberry Pi לילדים ובני נוער. צרו אנימציות, משחקים, אפליקציות ועוד בסקראץ׳.
+pdf: resources/space-talk.pdf
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - title: אתה תעשה
+  - title: צור את הסצנה שלך
+  - title: פיקו אומר שלום
+    completion:
+      - engaged
+  - title: פיקו משמיע צליל
+  - title: ננו מחליף תחפושות
+  - title: גיגה משנה צבע
+    completion:
+      - internal
+  - title: חידון מהיר
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: שדרגו את הפרויקט שלכם
