@@ -35,9 +35,9 @@ Click on the **Code** tab and add a script to get the **Nano** sprite to change 
 
 ```blocks3
 when this sprite clicked // when Nano is clicked
-switch costume to [nano-b v] // Nano talking
+switch costume to (nano-b v) // Nano talking
 wait (0.5) seconds // try 0.25 instead of 0.5
-switch costume to [nano-a v] // Nano smiling
+switch costume to (nano-a v) // Nano smiling
 ```
 --- /task ---
 
