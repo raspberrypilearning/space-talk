@@ -1,19 +1,59 @@
 ## पुढे काय?
 
-तुम्ही [Scratch चा परिचय](https://projects.raspberrypi.org/en/pathways/scratch-intro) मार्गाचे पालन करत असलात, तर तुम्ही [बस पकडा](https://projects.raspberrypi.org/en/projects/catch-the-bus) प्रोजेक्टवर जाऊ शकता. या प्रोजेक्टमध्ये, तुम्ही स्प्राईट सह ऍनिमेशन कोड कराल ज्याची बस सोडण्याआधी ती बनविण्यासाठी आवश्यकता आहे.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+</div>
+<div>
 
---- print-only ---
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 
-!['बस पकडा' प्रोजेक्ट.](images/scratch-tour-bus.png)
+</div>
+</div>
 
---- /print-only ---
+तुम्ही [Scratch चा परिचय](https://projects.raspberrypi.org/mr-IN/pathways/scratch-intro) मार्गाचे पालन करत असलात, तर तुम्ही [बस पकडा](https://projects.raspberrypi.org/mr-IN/projects/catch-the-bus) प्रोजेक्टवर जाऊ शकता. या प्रोजेक्टमध्ये, तुम्ही स्प्राईट सह ऍनिमेशन कोड कराल ज्याची बस सोडण्याआधी ती बनविण्यासाठी आवश्यकता आहे.
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+
+```blocks3
+when this sprite clicked
+
+say [Hello!] for [2] seconds
+
+say [Hello!]
+
+say [] // hide speech bubble
+
+think [Hmm...] for [2] seconds
+
+switch costume to [tera-d v]
+
+wait (1) seconds // 0.5 is half a second
+
+set [color v] effect to [0] // number up to 200
+
+clear graphic effects
+
+play sound [pop v] until done
+
+start sound [pop v]
+
+speak [hello]
+```
+
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
 --- no-print ---
 
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724160134/?autostart=false" frameborder="0"></iframe>
-</div>
+--- collapse ---
+---
+title: Completed project
+---
 
---- /no-print ---
+तुम्हाला Scratch शोधतांना अधिक मजा हवी असल्यास, तुम्ही [या प्रोजेक्ट](https://projects.raspberrypi.org/mr-IN/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) पैकी कशाचाही प्रयत्न करू शकता.
 
-तुम्हाला Scratch शोधतांना अधिक मजा हवी असल्यास, तुम्ही [या प्रोजेक्ट](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) पैकी कशाचाही प्रयत्न करू शकता.
+--- /collapse ---
+
+--- save ---
