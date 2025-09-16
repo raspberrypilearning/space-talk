@@ -15,8 +15,6 @@
 </div>
 </div>
 
-### ננו מסמן "תודה!"
-
 --- task ---
 
 הוסף את הספרייט **ננו** לפרויקט שלך מהקטגוריה **פנטזיה**.
@@ -31,15 +29,15 @@
 
 ![רשימת הספרייטים, עם סימון סביב הספרייט הננו כדי להראות שהוא נבחר.](images/nano-selected.png)
 
-לחצו על הכרטיסייה **קוד** והוסיפו סקריפט כדי לקבל את הספרייט **ננו** לסמן 'תודה' באמצעות `החליפו את התחפושת ל`{:class="block3looks"} ו- `המתינו`{:class="block3control"}. השתמשו בתפריט הנפתח כדי לעבור בין `ננו א׳`{:class="block3looks"} לבין `ננו ב׳`{:class="block3looks"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to change costume using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. השתמשו בתפריט הנפתח כדי לעבור בין `ננו א׳`{:class="block3looks"} לבין `ננו ב׳`{:class="block3looks"}:
 
 ![הננו ספרייט.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // when Nano is clicked
-switch costume to [nano-b v] // Nano talking
-wait (0.5) seconds // try 0.25 instead of 0.5
-switch costume to [nano-a v] // Nano smiling
+when this sprite clicked // כאשר לוחצים על ננו
+switch costume to [nano-b v] // ננו מדבר
+wait (0.5) seconds // נסה 0.25 במקום 0.5
+switch costume to [nano-a v] // מחייך
 ```
 --- /task ---
 
@@ -50,64 +48,3 @@ switch costume to [nano-a v] // Nano smiling
 **בדיקה:** לחצו על הספרייט **ננו** שעל הבמה ובדקו שהתלבושת של ננו משתנה.
 
 --- /task ---
-
-### ננו משתמש בשפת הסימנים
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">מיליוני אנשים משתמשים בשפת הסימנים כדי לתקשר. דרך נפוצה לסמן "תודה" היא להניח את האצבעות על הסנטר כשהיד שטוחה ככל האפשר. לאחר מכן אתה מזיז את ידך קדימה, הרחק מהסנטר שלך וקצת למטה. 
-</p>
-
-<!-- Add a video of someone signing -->
-
-ננו ישתמש בשפת הסימנים על ידי החלפת תלבושות.
-
-אתם יכולים לערוך תלבושות עבור הספרייטים שלכם בעזרת עורך הצבע. אתה תערוך תחפושת של ננו כדי לגרום להם לסמן "תודה".
-
---- task ---
-
-לחצו על הכרטיסייה **תלבושות** כדי לראות את התלבושות עבור הספרייט **ננו**:
-
-![התלבושות הזמינות עבור הספרייט ננו.](images/nano-costumes.png)
-
---- /task ---
-
---- task ---
-
-לחץ על התחפושת **ננו ב׳**. לחץ על הזרוע בצד שמאל, ולאחר מכן לחץ על **מחק**.
-
-![תחפושת הננו בי עם הזרוע שנבחרה.](images/nano-arm-selected.png)
-
-התחפושת צריכה להיראות כך:
-
-![תחפושת הננו בי ללא הזרוע.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**טיפ:** אם עשיתם טעות בעורך הצבע, תוכלו ללחוץ על **בטל**.
-
-![סמל ה'ביטול'.](images/nano-undo.png)
-
---- task ---
-
-עבור לתחפושת **ננו ג׳** ולחצו על הזרוע בצד שמאל, לאחר מכן לחצו על **העתק**.
-
-![תחפושת הננו ג׳ עם הזרוע שנבחרה.](images/nano-c-arm-selected.png)
-
---- /task ---
-
---- task ---
-
-חזור לתחפושת **ננו ב׳** ולחץ על **הדבק**. התחפושת צריכה להיראות כך:
-
-![תחפושת הננו בי עם הזרוע מתחפושת הננו גי.](images/nano-b-new-arm.png)
-
---- /task ---
-
---- task ---
-
-**בדיקה:** לחצו על הספרייט **ננו** שעל הבמה ובדקו שהתלבושת של ננו משתנה לתלבושת שערכתם.
-
---- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">למדת איך לסמן "תודה". בפעם הבאה שתגיד תודה למישהו, למה שלא תשתמש במיומנות החדשה שלך?
-</p>
-
