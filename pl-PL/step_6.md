@@ -1,58 +1,82 @@
-## Giga zmienia kolor
+## Nano signs "Thanks!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Duszki mogą również używać baniek myśli i zmieniać kolory, aby pokazać swoją osobowość. Sprawisz, że Giga zrobi tak.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
-![Duszek Giga myślący „Hmm...”](images/giga-step2.png){:width="300px"}
+![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Giga zmienia kolor
+### Nano uses sign language
+
+You will edit a costume of Nano to get them to sign "thank you".
+
+You can edit costumes for sprites with the Paint editor.
 
 --- task ---
 
 Dodaj duszka **Giga**.
 
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
+
+--- /task ---
+
+--- task ---
+
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
+
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
+
+--- /task ---
+
+--- task ---
+
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
+
+--- /task ---
+
+--- task ---
+
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
+
+--- /task ---
+
 Przeciągnij **Giga** na prawą stronę Sceny.
 
---- /task ---
+![The 'Undo' icon.](images/nano-undo.png)
 
---- task ---
+--- no-print ---
 
-Upewnij się, że duszek **Giga** jest zaznaczony na Liście duszków pod Sceną. Dodaj ten kod, aby **Giga** komunikował się poprzez zmianę koloru:
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
 
-![Duszek Giga.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
-```
-
---- /task ---
-
-**Wskazówka:** Kliknij duszka na liście duszków pod sceną zanim dodasz lub zmienisz kod, kostiumy lub dźwięk. Upewnij się, że kliknąłeś właściwego duszka.
-
---- task ---
-
-Wypróbuj różne liczby od `1` do `200` w `ustaw efekt kolor na`{:class="block3looks"}, aż znajdziesz kolor, który się Tobie podoba.
-
---- /task ---
-
---- task ---
-
-Zmień słowa i liczbę sekund w bloku `pomyśl`{:class="block3looks"}.
-
---- /task ---
+--- /no-print ---
 
 --- task ---
 
 **Test:** Kliknij duszka **Giga** na scenie i sprawdź, czy duszek zmienia kolor i pokazuje bańkę myśli.
 
 --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
