@@ -23,10 +23,12 @@ steps:
     title: Nano ಉಡುಪುಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
   - 
     title: Giga ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ
+  - 
+    title: ಪುನರ್ಮನನ
     completion:
       - internal
   - 
-    title: ಪುನರ್ಮನನ
+    title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
+    title: Upgrade your project
