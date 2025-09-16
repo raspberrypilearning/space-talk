@@ -23,10 +23,12 @@ steps:
     title: Nanoのコスチュームを変える
   - 
     title: Gigaの色を変える
-    completion:
-      - internal
   - 
     title: ふりかえり
+    completion:
+      - external
+  - 
+    title: プロジェクトをアップグレードする
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: プロジェクトをアップグレードする
+    title: Upgrade your project
