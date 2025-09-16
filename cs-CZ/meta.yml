@@ -22,6 +22,8 @@ steps:
   - 
     title: Nano switches costumes
   - 
+    title: Nano signs "Thanks!"
+  - 
     title: Giga changes colour
     completion:
       - internal
