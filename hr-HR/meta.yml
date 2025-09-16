@@ -22,11 +22,13 @@ steps:
   - 
     title: Nano mijenja kostime
   - 
-    title: Giga mijenja boju
+    title: Nano signs "Thanks!"
+  - 
+    title: Giga changes colour
     completion:
       - internal
   - 
-    title: Brzi kviz
+    title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: Nadogradite svoj projekt
+    title: Upgrade your project
