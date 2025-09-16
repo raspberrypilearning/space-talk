@@ -1,58 +1,82 @@
-## Giga cambia de color
+## Nano signs "Thanks!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Los objetos también pueden usar burbujas de pensamiento y cambiar sus colores para mostrar su personalidad. Vas a hacer que Giga haga eso.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
-![El objeto Giga pensando, "Umm...".](images/giga-step2.png){:width="300px"}
+![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Haz que Giga cambie de color
+### Nano uses sign language
+
+You will edit a costume of Nano to get them to sign "thank you".
+
+You can edit costumes for sprites with the Paint editor.
 
 --- task ---
 
 Agrega el objeto **Giga**.
 
-Arrastra el objeto **Giga** al lado derecho del escenario.
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Asegúrate de tener el objeto **Giga** seleccionado en la lista de objetos debajo del escenario. Agrega este código para que el objeto **Giga** se comunique cambiando de color:
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
-![El objeto Giga.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
-```
-
---- /task ---
-
-**Consejo:** Haz clic en el objeto en la lista de objetos debajo del escenario antes de agregar o cambiar el código, el vestuario o el sonido. Asegúrate de haber hecho clic en el objeto correcto.
-
---- task ---
-
-Prueba con diferentes números del `1` al `200` en el bloque `fijar efecto color a`{:class="block3looks"} hasta que encuentres un color que te guste.
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-Cambia las palabras y la cantidad de segundos en el bloque `pensar`{:class="block3looks"}.
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
 --- /task ---
 
 --- task ---
 
-**Prueba:** Haz clic en el objeto **Giga** en el escenario y verifica que el objeto cambie de color y que muestre una burbuja de pensamiento.
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
 
 --- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+--- /no-print ---
+
+--- task ---
+
+**Prueba:** Haz clic en el objeto **Giga** en el Escenario y verifica que el objeto cambie de color y que muestre una burbuja de pensamiento.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
