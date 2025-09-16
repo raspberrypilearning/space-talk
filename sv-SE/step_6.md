@@ -2,7 +2,13 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprajts kan även använda tankebubblor och ändra färger för att visa sin personlighet. Du kommer få Giga att göra detta.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
@@ -13,46 +19,64 @@ Sprajts kan även använda tankebubblor och ändra färger för att visa sin per
 
 ### Få Giga att ändra färg
 
---- task ---
+You will edit a costume of Nano to get them to sign "thank you".
 
 Lägg till **Giga**sprajten.
 
-Dra **Giga**sprajten till höger sida av scenen.
+--- task ---
+
+Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Se till att du har **Giga**sprajten vald i sprajtlistan under scenen. Lägg till den här koden för att få **Giga**sprajten att kommunicera genom att byta färg:
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
-![Gigasprajten.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
-```
-
---- /task ---
-
-**Tips:** Klicka på sprajten i sprajtlistan under scenen innan du lägger till eller ändrar kod, klädsel eller ljud. Se till att du har klickat på rätt sprajt.
-
---- task ---
-
-Prova olika tal från `1` till `200` i `ändra färgeffekten till`{:class="block3looks"}blocket tills du hittar en färg som du gillar.
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-Ändra orden och antalet sekunder i blocket `tänk`{:class="block3looks"}.
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
 --- /task ---
 
 --- task ---
 
-**Test:** Klicka på **Giga**sprajten på scenen och kontrollera att den ändrar färg och visar en tankebubbla.
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
 
 --- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+--- /no-print ---
+
+--- task ---
+
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
