@@ -23,10 +23,12 @@ steps:
     title: Nano ने कॉश्चुम बदलला
   - 
     title: Giga ने रंग बदलला
+  - 
+    title: परावर्तन
     completion:
       - internal
   - 
-    title: परावर्तन
+    title: तुमचा प्रोजेक्ट अपग्रेड करा
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: तुमचा प्रोजेक्ट अपग्रेड करा
+    title: Upgrade your project
