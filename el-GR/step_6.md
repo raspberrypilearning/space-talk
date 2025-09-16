@@ -2,57 +2,81 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Τα αντικείμενα μπορούν επίσης να χρησιμοποιήσουν φυσαλίδες σκέψης και να αλλάξουν χρώματα για να δείξουν την προσωπικότητά τους. Θα βάλεις τον Giga να το κάνει αυτό.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
-! [Ο Giga σκέφτεται, «Χμμ...».](images/giga-step2.png){:width="300px"}
+![Ο Giga σκέφτεται, «Χμμ...».](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
 ### Κάνε τον Giga να αλλάξει χρώμα
 
---- task ---
+You will edit a costume of Nano to get them to sign "thank you".
 
 Πρόσθεσε το αντικείμενο **Giga**.
 
-Σύρε το αντικείμενο **Giga** για να το τοποθετήσεις στην δεξιά πλευρά της Σκηνής.
+--- task ---
+
+Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Βεβαιώσου ότι έχεις επιλέξει τον **Giga** στη λίστα Αντικειμένων κάτω από την Σκηνή. Πρόσθεσε αυτόν τον κώδικα για να κάνεις το αντικείμενο **Giga** να επικοινωνεί αλλάζοντας χρώμα:
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
-![Το αντικείμενο Giga.](images/giga-sprite.png)
-
-```blocks3
-όταν γίνει κλικ σε αυτό το αντικέιμενο
-όρισε εφέ [χρώματος v] σε [0] // 0 είναι το αρχικό χρώμα
-σκέψου [Χμμ...] για [2] δευτερόλεπτα
-επανάφερε εφέ γραφικών // επιστροφή στο αρχικό χρώμα
-```
-
---- /task ---
-
-**Συμβουλή:** Κάνε κλικ στο αντικείμενο στη λίστα Αντικειμένων κάτω από τη Σκηνή πριν προσθέσεις ή αλλάξεις κώδικα, ενδυμασία ή ήχο. Βεβαιώσου ότι έχεις κάνει κλικ στο σωστό αντικείμενο.
-
---- task ---
-
-Δοκίμασε διαφορετικούς αριθμούς από `1` έως το `200` στο μπλοκ `όρισε εφέ χρώματος σε`{:class="block3looks"} μέχρι να βρεις ένα χρώμα που σου αρέσει.
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-Άλλαξε τις λέξεις και τον αριθμό των δευτερολέπτων στο μπλοκ `σκέψου`{:class="block3looks"}.
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
 --- /task ---
 
 --- task ---
 
-**Δοκιμή:** Κάνε κλικ στον **Giga** στην Σκηνή και έλεγξε ότι το αντικείμενο αλλάζει χρώμα και εμφανίζει ένα συννεφάκι σκέψης.
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
 
 --- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+--- /no-print ---
+
+--- task ---
+
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
