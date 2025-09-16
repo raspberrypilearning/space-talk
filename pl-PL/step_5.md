@@ -15,8 +15,6 @@ Duszki mają **kostiumy**, które pozwalają im zmienić wygląd. They are usual
 </div>
 </div>
 
-### Nano mówi „Dzięki!”
-
 --- task ---
 
 Dodaj duszka **Nano** do swojego projektu z kategorii **Fikcja**.
@@ -31,15 +29,15 @@ Upewnij się, że duszek **Nano** jest zaznaczony na Liście duszków pod Sceną
 
 ![Lista duszków z niebieską obwódką wokół duszka Nano wskazującą, że Nano został wybrany.](images/nano-selected.png)
 
-Click on the **Code** tab and add a script to get the **Nano** sprite to sign 'Thanks' using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
+Kliknij zakładkę **Skrypt** i dodaj kod, aby duszek **Nano** powiedział „Dzięki!” używając `zmień kostium na`{:class="block3looks"} i `czekaj`{:class="block3control"}: Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
 ![Duszek Nano.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // when Nano is clicked
-switch costume to [nano-b v] // Nano talking
-wait (0.5) seconds // try 0.25 instead of 0.5
-switch costume to [nano-a v] // Nano smiling
+when this sprite clicked // po kliknięciu Nano
+switch costume to [nano-b v] // Nano mówi
+wait (0.5) seconds // spróbuj 0.25 zamiast 0.5
+switch costume to [nano-a v] // Nano się uśmiecha
 ```
 --- /task ---
 
@@ -50,64 +48,3 @@ switch costume to [nano-a v] // Nano smiling
 **Test:** Kliknij duszka **Nano** na Scenie i sprawdź, czy kostium Nano się zmienia.
 
 --- /task ---
-
-### Nano używa języka migowego
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miliony ludzi porozumiewają się w języku migowym. Powszechnym sposobem wyrażenia „Dziękuję” jest ułożenie palców na podbródku tak płasko, jak to możliwe. Następnie rękę przesuwa się do przodu, z dala od podbródka i lekko w dół. 
-</p>
-
-<!-- Add a video of someone signing -->
-
-Nano posłuży się językiem migowym poprzez zmianę kostiumów.
-
-Możesz edytować kostiumy swoich duszków za pomocą Edytora graficznego. Zmodyfikujesz kostium Nano tak, aby pokazał "dziękuję".
-
---- task ---
-
-Kliknij zakładkę **Kostiumy**, aby zobaczyć kostiumy dla duszka **Nano**:
-
-![Kostiumy dostępne dla duszka Nano.](images/nano-costumes.png)
-
---- /task ---
-
---- task ---
-
-Kliknij kostium **nano-b**. Kliknij ramię po lewej stronie, a następnie kliknij **Usuń**.
-
-![Kostium nano-b z wybranym ramieniem.](images/nano-arm-selected.png)
-
-Kostium powinien wyglądać następująco:
-
-![Kostium nano-b z usuniętym ramieniem.](images/nano-arm-deleted.png)
-
---- /task ---
-
-**Wskazówka:** Jeśli popełnisz błąd w Edytorze graficznym, możesz kliknąć **Cofnij**.
-
-![Ikona „Cofnij”.](images/nano-undo.png)
-
---- task ---
-
-Przejdź do kostiumu **nano-c** i kliknij ramię po lewej stronie, a następnie kliknij **Kopiuj**.
-
-![Kostium nano-c z wybranym ramieniem.](images/nano-c-arm-selected.png)
-
---- /task ---
-
---- task ---
-
-Wróć do kostiumu **nano-b** i kliknij **Wklej**. Kostium powinien wyglądać następująco:
-
-![Kostium nano-b z ramieniem z kostiumu nano-c.](images/nano-b-new-arm.png)
-
---- /task ---
-
---- task ---
-
-**Test:** Kliknij duszka **Nano** na Scenie i sprawdź, czy wyświetla się dymek z tekstem, a kostium Nano się zmienia na kostium który wyedytowałeś.
-
---- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Nauczyłeś się pokazywać gest „dziękuję”. Gdy następnym razem będziesz komuś dziękować, może wykorzystasz swoją nową umiejętność?
-</p>
-
