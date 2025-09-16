@@ -23,10 +23,12 @@ steps:
     title: Nano yn newid gwisgoedd
   - 
     title: Giga yn newid lliw
+  - 
+    title: Myfyrio
     completion:
       - internal
   - 
-    title: Myfyrio
+    title: Uwchraddio dy brosiect
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: Uwchraddio dy brosiect
+    title: Upgrade your project
