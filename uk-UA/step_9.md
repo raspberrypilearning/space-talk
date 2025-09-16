@@ -1,19 +1,59 @@
 ## Що далі?
 
-Якщо ти йдеш по проєктах [Знайомство зі Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro), можеш перейти до проєкту [Встигнути на автобус](https://projects.raspberrypi.org/en/projects/catch-the-bus). У цьому проєкті ти будеш програмувати анімацію зі спрайтами, які повинні встигнути на автобус до того, як він відправиться в рейс.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+</div>
+<div>
 
---- print-only ---
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 
-![Проєкт 'Встигнути на автобус'.](images/scratch-tour-bus.png)
+</div>
+</div>
 
---- /print-only ---
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+
+```blocks3
+when this sprite clicked
+
+say [Hello!] for [2] seconds
+
+say [Hello!]
+
+say [] // hide speech bubble
+
+think [Hmm...] for [2] seconds
+
+switch costume to [tera-d v]
+
+wait (1) seconds // 0.5 is half a second
+
+set [color v] effect to [0] // number up to 200
+
+clear graphic effects
+
+play sound [pop v] until done
+
+start sound [pop v]
+
+speak [hello]
+```
+
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
 --- no-print ---
 
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724160134/?autostart=false" frameborder="0"></iframe>
-</div>
+--- collapse ---
+---
+title: Completed project
+---
 
---- /no-print ---
+Якщо ти хочеш більш цікаво вивчати Scratch, можеш спробувати будь-який з [цих проєктів](https://projects.raspberrypi.org/uk-UA/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Якщо ти хочеш більш цікаво вивчати Scratch, можеш спробувати будь-який з [ цих проєктів ](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- /collapse ---
+
+--- save ---
