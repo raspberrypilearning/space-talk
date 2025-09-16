@@ -23,10 +23,12 @@ steps:
     title: Nano міняє образи
   - 
     title: Giga змінює колір
+  - 
+    title: Швидкий тест
     completion:
       - internal
   - 
-    title: Швидкий тест
+    title: Вдосконалення твого проєкту
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: Вдосконалення твого проєкту
+    title: Upgrade your project
