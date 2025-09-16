@@ -1,8 +1,14 @@
-## Giga verandert van kleur
+## Nano signs "Thanks!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites kunnen ook denkballonnen gebruiken en van kleur veranderen om hun persoonlijkheid te tonen. Je gaat Giga dit laten doen.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
@@ -11,48 +17,66 @@ Sprites kunnen ook denkballonnen gebruiken en van kleur veranderen om hun persoo
 </div>
 </div>
 
-### Giga verandert van kleur
+### Nano uses sign language
+
+You will edit a costume of Nano to get them to sign "thank you".
+
+You can edit costumes for sprites with the Paint editor.
 
 --- task ---
-
-Voeg de **Giga** sprite toe.
 
 Sleep de **Giga** sprite naar de rechterkant van het Speelveld.
 
---- /task ---
-
---- task ---
-
-Zorg ervoor dat je de **Giga** sprite hebt geselecteerd in de Sprite-lijst onder het Speelveld. Voeg deze code toe om de **Giga** sprite te laten communiceren door van kleur te veranderen:
-
-![De Giga sprite.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
-```
-
---- /task ---
-
-**Tip:** Klik op de sprite in de Sprite lijst onder het Speelveld voordat je code, uiterlijken of geluid toevoegt of wijzigt. Zorg ervoor dat je op de juiste sprite hebt geklikt.
-
---- task ---
-
-Probeer verschillende getallen van `1` tot `200` in de `verander kleur effect met`{:class="block3looks"} blok totdat je een kleur vindt die je leuk vindt.
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Verander de woorden en het aantal seconden in het `denk`{:class="block3looks"} blok.
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
+
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
 --- /task ---
+
+--- task ---
+
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
+
+--- /task ---
+
+--- task ---
+
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
+
+--- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+--- /no-print ---
 
 --- task ---
 
 **Test:** Klik op de **Giga** sprite in het speelveld en controleer of de sprite van kleur verandert en een tekstballon toont.
 
 --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
