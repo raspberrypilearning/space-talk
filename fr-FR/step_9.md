@@ -1,19 +1,59 @@
-## Et ensuite ?
+## Upgrade your project
 
-Si tu suis l'[Introduction à Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) , tu peux passer au projet [Attraper le bus](https://projects.raspberrypi.org/en/projects/catch-the-bus). Dans ce projet, tu vas coder une animation avec des sprites qui doivent se rendre dans un bus avant qu'il ne parte.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+</div>
+<div>
 
---- print-only ---
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 
-![Le projet « Attrapez le bus ».](images/scratch-tour-bus.png)
+</div>
+</div>
+
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+
+```blocks3
+when this sprite clicked
+
+say [Hello!] for [2] seconds
+
+say [Hello!]
+
+say [] // hide speech bubble
+
+think [Hmm...] for [2] seconds
+
+switch costume to [tera-d v]
+
+wait (1) seconds // 0.5 is half a second
+
+set [color v] effect to [0] // number up to 200
+
+clear graphic effects
+
+play sound [pop v] until done
+
+start sound [pop v]
+
+speak [hello]
+```
+
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+
+--- /no-print ---
+---
+title: Completed project
+---
+
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /print-only ---
 
---- no-print ---
-
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724160134/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
-
-Si tu veux t'amuser davantage à explorer Scratch, tu peux essayer l'un de ces [projets](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- save ---
