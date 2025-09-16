@@ -23,10 +23,12 @@ steps:
     title: Nano utshintsha isinxibo
   - 
     title: Giga utshintsha umbala
+  - 
+    title: Imibuzo ekhawulezayo
     completion:
       - internal
   - 
-    title: Imibuzo ekhawulezayo
+    title: Phucula iprojekthi yakho
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: Phucula iprojekthi yakho
+    title: Upgrade your project
