@@ -2,57 +2,81 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-I-Sprites inokusebenzisa amaqamza eengcinga kwaye itshintshe imibala ukubonisa ubuntu babo. Uya kufumana uGiga ukuba enze oku.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
-![I-Giga sprite icinga, "Hmm...".](imifanekiso/giga-step2.png){:width="300px"}
+![I-Giga sprite icinga, "Hmm...".](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
 ### Yenza uGiga atshintshe umbala
 
---- task ---
+You will edit a costume of Nano to get them to sign "thank you".
 
 Yongeza i **Giga** sprite.
 
-Tsala i **Giga** sprite ukuya kwicala lasekunene le-qonga.
+--- task ---
+
+Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Qinisekisa ukuba unayo i **Giga** sprite ekhethiweyo kuluhlu lwe-Sprite ngaphantsi kweSigaba. Yongeza le khowudi ukwenza i **Giga** sprite inxibelelane ngokutshintsha umbala:
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
-![I-Giga sprite.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
-```
-
---- /task ---
-
-Icebiso **:** Cofa kwi-sprite kuluhlu lwe-Sprite ngezantsi kweNqanaba ngaphambi kokuba wongeze okanye utshintshe ikhowudi, iimpahla, okanye isandi. Qinisekisa ukuba ucofe kwi-sprite esichanekileyo.
-
---- task ---
-
-Zama amanani ahlukeneyo ukusuka ku `1` ukuya ku `200` kwi `cwangcisa isiphumo sombala ukuya ku`{:class="block3looks"} vimba ude ufumane umbala owuthandayo.
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-Guqula amagama kunye nenani lemizuzwana kwi `cinga`{:class="block3looks"} bloko.
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
 --- /task ---
 
 --- task ---
 
-**Uvavanyo:** Cofa kwi- **Giga** sprite kwi-Stage kwaye ukhangele ukuba i-sprite itshintsha umbala kwaye ibonisa iqamza lokucinga.
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
 
 --- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+--- /no-print ---
+
+--- task ---
+
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
