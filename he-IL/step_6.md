@@ -2,7 +2,13 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-ספרייטים יכולים גם להשתמש בבועות מחשבה ולשנות צבעים כדי להראות את אישיותם. אתה תגרום לגיגה לעשות את זה.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
@@ -13,46 +19,64 @@
 
 ### תגרום לגיגה לשנות צבע
 
---- task ---
+You will edit a costume of Nano to get them to sign "thank you".
 
 הוסף את הספרייט **גיגה**.
 
-גרור את הספרייט **גיגה** לצד ימין של הבמה.
+--- task ---
+
+Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
+
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-ודא שבחרת את הספרייט **גיגה** ברשימת הספרייטים שמתחת לבמה. הוסף את הקוד הזה כדי לגרום לספרייט **גיגה** לתקשר על ידי שינוי צבע:
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
-![ספרייט גיגה.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
-```
-
---- /task ---
-
-**טיפ:** לחצו על הספרייט ברשימת הספרייטים שמתחת לבמה לפני שאתם מוסיפים או משנים קוד, תלבושות או צלילים. ודא שלחצת על הספרייט הנכון.
-
---- task ---
-
-נסה מספרים שונים מ- `1` עד `200` בבלוק `הגדר את אפקט הצבע ל-`{:class="block3looks"} עד שתמצא צבע שאתה אוהב.
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-שנה את המילים ומספר השניות בבלוק `חושב`{:class="block3looks"}.
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
 --- /task ---
 
 --- task ---
 
-**בדיקה:** לחצו על הספרייט **גיגה** על הבמה ובדקו שהספרייט משנה צבע ומציג בועת מחשבה.
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
 
 --- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+--- /no-print ---
+
+--- task ---
+
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
