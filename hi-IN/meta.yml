@@ -23,10 +23,12 @@ steps:
     title: Nano ने कास्ट्यूम (costume) बदल लिया
   - 
     title: Giga ने रंग बदला
+  - 
+    title: सोचिए
     completion:
       - internal
   - 
-    title: सोचिए
+    title: प्रोजेक्ट को अपग्रेड करें
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: प्रोजेक्ट को अपग्रेड करें
+    title: Upgrade your project
