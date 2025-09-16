@@ -1,58 +1,82 @@
-## Giga меняет цвет
+## Nano signs "Thanks!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Спрайты также могут использовать выноски и менять цвета, чтобы показать свою индивидуальность. Ты сделаешь так, чтобы Giga сделал это.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
+
 </div>
 <div>
 
-![Спрайт Giga думает: «Хмм...».](images/giga-step2.png){:width="300px"}
+![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### --- save ---
+### Nano uses sign language
+
+You will edit a costume of Nano to get them to sign "thank you".
+
+You can edit costumes for sprites with the Paint editor.
 
 --- task ---
 
 Добавь спрайт **Giga**.
 
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
+
+--- /task ---
+
+--- task ---
+
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
+
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
+
+--- /task ---
+
+--- task ---
+
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
+
+![The rotate tool highlighted](images/rotate-tool.png)
+
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
+
+The costume should look like this:
+
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
+
+--- /task ---
+
+--- task ---
+
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
+
+--- /task ---
+
 Перетащи спрайт **Giga** в правую часть Сцены.
 
---- /task ---
+![The 'Undo' icon.](images/nano-undo.png)
 
---- task ---
+--- no-print ---
 
-Убедись, что у тебя спрайт **Giga** выбран в Списке Спрайтов под Сценой. Добавь этот код, чтобы спрайт **Giga** мог общаться, изменяя цвет:
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
 
-![Спрайт Giga.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
-clear graphic effects // back to the starting colour
-```
-
---- /task ---
-
-**Совет:** Щёлкни спрайт в Списке Спрайтов под Сценой, прежде чем добавлять или изменять его код, костюмы или звук. Убедись, что ты выбрал нужный спрайт.
-
---- task ---
-
-Попробуй использовать разные числа от `1` до `200` в `установить эффект цвет`{:class="block3looks"}, пока не найдёшь цвет, который тебе понравится.
-
---- /task ---
-
---- task ---
-
-Измени слова и количество секунд в блоке `думать`{:class="block3looks"}.
-
---- /task ---
+--- /no-print ---
 
 --- task ---
 
 **Тест:** Нажми на спрайт **Giga** на Сцене и убедись, что спрайт меняет цвет и показывает о чём он думает.
 
 --- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
