@@ -23,10 +23,12 @@ steps:
     title: Nano troca de fantasias
   - 
     title: Giga muda de cor
+  - 
+    title: Teste rápido
     completion:
       - internal
   - 
-    title: Perguntas rápidas
+    title: Melhore o seu projeto
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -35,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: Melhore o seu projeto
+    title: Upgrade your project
