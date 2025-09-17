@@ -57,7 +57,7 @@ Fais glisser un `quand ce sprite est cliqué` du `bloc d'événements`{:class="b
 
 ```blocks3
 +when this sprite clicked
-say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
+say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
 ```
 
 --- /task ---
@@ -65,7 +65,7 @@ say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
 ### Commentaires de code
 
 ```blocks3
-say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
+say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
 ```
 Tu verras des commentaires dans les exemples de code. Tu n'as pas besoin d'ajouter les commentaires lorsque tu ajoutes du code à ton projet.
 
