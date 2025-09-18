@@ -1,7 +1,7 @@
 ---
 title: Parler de l'espace
 hero_image: images/banner.png
-description: Utiliser Scratch pour donner aux sprites une « émotion » afin qu'ils communiquent lorsqu'ils sont cliqués
+description: Utiliser Scratch pour donner aux sprites une « émotion » afin qu'ils communiquent lorsqu'ils sont cliques
 meta_title: Projets de codage scratch pour enfants et adolescents | Intro à Scratch
 meta_description: Apprends à coder avec Scratch avec les projets de codage de la Raspberry Pi Foundation pour les enfants et les adolescents. Réalise des animations Scratch, des jeux, des applications, et bien plus encore.
 pdf: resources/space-talk.pdf
@@ -22,13 +22,13 @@ steps:
   - 
     title: Nano change de costume
   - 
-    title: Giga change de couleur
+    title: Nano fait signe « Merci ! »
   - 
-    title: Questionnaire rapide
+    title: Giga change de couleur
     completion:
       - external
   - 
-    title: Améliorer ton projet
+    title: Questionnaire rapide
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -37,4 +37,4 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
