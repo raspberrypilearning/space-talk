@@ -16,6 +16,7 @@ steps:
       - engaged
   - title: Pico joue un son
   - title: Nano change de costume
+  - title: Nano fait signe « Merci ! »
   - title: Giga change de couleur
     completion:
       - internal
