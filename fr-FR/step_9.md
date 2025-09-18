@@ -52,7 +52,7 @@ Tu peux également « remixer » le projet pour apporter les modifications que
 title: Projet terminé
 ---
 
-Tu peux voir le [projet terminé ici](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Tu peux voir le [projet terminé ici](https://scratch.mit.edu/projects/595566051/){:target="_blank"}.
 
 --- /collapse ---
 
