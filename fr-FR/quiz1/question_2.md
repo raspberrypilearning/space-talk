@@ -4,7 +4,7 @@
 legend : Question 2 sur 3
 ---
 
-Tu as fait dire à Pico ``{:class="block3looks"} "Bonjour !" dans une bulle.
+Tu as fait dire à Pico ``{:class="block3looks"} « Bonjour ! » dans une bulle.
 
 ```blocks3
 say [Hello!] for [2] seconds
@@ -26,7 +26,7 @@ Oui. Le bloc `dire`{:class="block3looks"} se trouve dans le menu blocs `Apparenc
 
   --- feedback ---
 
-Les blocs du menu Blocs `Son`{:class="block3sound"} sont utilisés pour faire jouer des sons aux sprites.
+Les blocs du menu blocs `Son`{:class="block3sound"} sont utilisés pour faire jouer des sons aux sprites.
 
   --- /feedback ---
 
