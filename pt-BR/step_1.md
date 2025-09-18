@@ -1,4 +1,4 @@
-## O que você vai fazer
+## What you will make
 
 Crie uma cena espacial com personagens 👾 que expressem seus pensamentos ou sentimentos através de gestos e expressões faciais.
 
