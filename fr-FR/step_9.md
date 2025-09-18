@@ -1,21 +1,21 @@
-## Upgrade your project
+## Améliorer ton projet
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+Ajoute le sprite **Tera** et utilise l'un des blocs que tu as appris pour créer une « émotion » pour le sprite **Tera**.
 </div>
 <div>
 
-![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
+![Le sprite Tera sur la scène.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-You could also use the Text to Speech extension to make **Tera** speak out loud:
+Tu peux également utiliser l'extension Synthèse Vocale pour faire parler **Tera** à voix haute  :
 
 [[[scratch3-text-to-speech]]]
 
-The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+La personnalité du sprite **Tera** est ton choix, alors amuse-toi en utilisant tes propres idées créatives.
 
 ```blocks3
 when this sprite clicked
@@ -43,16 +43,16 @@ start sound [pop v]
 speak [hello]
 ```
 
-You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+Tu peux également « remixer » le projet pour apporter les modifications que tu souhaites. Tu peux changer l'arrière-plan et la façon dont les sprites s'émeuvent, et même choisir différents sprites et leur donner des émotions.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+**Astuce :** Clique sur un sprite dans la liste des Sprite sous la scène pour modifier le code, les costumes et le son de ce sprite.
 
 --- /no-print ---
 ---
-title: Completed project
+title: Projet terminé
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+Tu peux voir le [projet terminé ici](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
 --- /print-only ---
 
