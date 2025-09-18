@@ -1,4 +1,4 @@
-## Vi ćete napraviti
+## What you will make
 
 Stvorite svemirsku scenu s likovima 👾 koji 'emotivno' dijele svoje misli ili osjećaje.
 
