@@ -1,4 +1,4 @@
-## Tu faràs
+## What you will make
 
 Crea una escena espacial amb personatges 👾 que cobrin vida i comparteixin els seus pensaments o sentiments.
 
