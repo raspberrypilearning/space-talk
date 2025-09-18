@@ -41,13 +41,13 @@ Clique (ou sur une tablette, appuie) sur **Choisir un arrière-plan** dans le vo
 
 --- task ---
 
-Clique sur l'**Espace** ou tape `espace` dans le champ de recherche :
+Clique sur **Space** ou tape `space` dans le champ de recherche :
 
-![La bibliothèque d'arrière-plan avec la catégorie « Espace » sélectionnée.](images/space-backdrops.png)
+![La bibliothèque d'arrière-plan avec la catégorie « Space » sélectionnée.](images/space-backdrops.png)
 
 --- /task ---
 
-Dans notre exemple, nous avons choisi l'**Espace**, mais choisis l'arrière-plan que tu aimes le plus.
+Dans notre exemple, nous avons choisi **Space**, mais choisis l'arrière-plan que tu aimes le plus.
 
 --- task ---
 
@@ -65,7 +65,7 @@ Peux-tu voir le sprite qui est déjà inclus dans ton projet ? C'est le chat Scr
 
 Supprimer le sprite **Sprite1** (Chat Scratch) : sélectionne le sprite **Sprite1** dans la liste Sprite sous la scène et clique sur l'icône **Supprimer**.
 
-![L'icône 'Supprimer'.](images/delete-sprite.png)
+![L'icône « Supprimer ».](images/delete-sprite.png)
 
 --- /task ---
 

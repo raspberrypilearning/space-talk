@@ -1,58 +1,82 @@
-## Giga change de couleur
+## Nano fait signe « Merci ! »
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Les sprites peuvent également utiliser des bulles de pensée et changer de couleur pour montrer leur personnalité. Tu obtiendras Giga pour le faire.
+
+Fais que Nano fasse un signe en éditant un costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Des millions de personnes utilisent la langue des signes pour communiquer. Une façon courante de signer « Merci » consiste à placer tes doigts sur le menton avec ta main aussi à plat que possible. Tu déplaces ensuite ta main vers l'avant, loin de ton menton et légèrement vers le bas. 
+</p>
+
+
 </div>
 <div>
 
-![Le sprite Giga pensant, "Hmm...".](images/giga-step2.png){:width="300px"}
+![Le sprite Nano disant : « Merci ! »](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Faire changer Giga de couleur
+### Nano utilise la langue des signes
+
+Tu éditeras un costume de Nano pour leur faire signer « merci ».
+
+Tu peux éditer les costumes des sprites avec l'éditeur de peinture.
 
 --- task ---
 
-Ajoute le sprite **Giga**.
+Clique sur l'onglet **Costumes** pour voir les costumes du sprite **Nano** :
 
-Fais glisser le sprite **Giga** sur le côté droit de la scène.
+![Les costumes disponibles pour le sprite Nano.](images/nano-costumes.png)
 
 --- /task ---
 
 --- task ---
 
-Assure-toi que tu as le sprite **Giga** sélectionné dans la liste Sprite sous la scène. Ajoute ce code pour faire communiquer le sprite **Giga** en changeant de couleur :
+Clique sur le costume **nano-b**. Clique sur le bras sur le côté gauche.
 
-![Le sprite Giga.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 est la couleur de départ
-think [Hum...] for [2] seconds 
-clear graphic effects // retour à la couleur de départ
-```
-
---- /task ---
-
-**Astuce :** Clique sur le sprite dans la liste Sprite sous la scène avant d'ajouter ou de modifier le code, les costumes ou le son. Assure-toi d'avoir cliqué sur le bon sprite.
-
---- task ---
-
-Essaye différents nombres de `1` à `200` dans le bloc `mettre l'effet couleur à`{:class="block3looks"} jusqu'à ce que tu trouves une couleur que tu aimes.
+![Le costume nano-b avec le bras gauche sélectionné.](images/nano-left-arm-selected.png)
 
 --- /task ---
 
 --- task ---
 
-Modifie les mots et le nombre de secondes dans le bloc `penser`{:class="block3looks"}.
+Sélectionne la flèche à double tête « rotation » et fais glisser la souris vers le haut pour faire pivoter le bras.
+
+![L'outil de rotation en surbrillance](images/rotate-tool.png)
+
+![La direction de rotation - courber vers le haut et vers la gauche](images/rotate-demo.png)
+
+Le costume devrait ressembler à ceci :
+
+![Le bras de Nano est tourné pour toucher son menton](images/nano-arm-rotated.png)
 
 --- /task ---
 
 --- task ---
 
-**Tester :** Clique sur le sprite **Giga** sur la scène et vérifie que le sprite change de couleur et affiche une bulle de pensée.
+Choisis l'outil « Avant » pour faire du bras la couche avant.
+
+![Le bras de Nano sur la couche avant](images/nano-arm-front.png)
 
 --- /task ---
+
+**Astuce :** Si tu fais une erreur dans l'éditeur de peinture, tu peux cliquer sur **Annuler**.
+
+![L'icône « Annuler ».](images/nano-undo.png)
+
+--- no-print ---
+
+![Animation montrant la rotation du bras et son placement sur la couche avant.](images/nano-rotate-resize-lrg.gif)
+
+--- /no-print ---
+
+--- task ---
+
+**Test :** clique sur le sprite **Nano** sur la Scène et vérifie que le costume de Nano se transforme en costume que tu as modifié.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Tu as appris à signer « merci ». La prochaine fois que tu remercieras quelqu'un, pourquoi ne pas utiliser ta nouvelle compétence ?
+</p>
 
