@@ -1,4 +1,4 @@
-## Irá fazer
+## What you will make
 
 Criar uma cena espacial com personagens 👾 que expressam emoções para compartilhar os seus pensamentos ou sentimentos.
 
