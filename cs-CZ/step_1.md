@@ -1,4 +1,4 @@
-## Co budeš dělat
+## What you will make
 
 Vytvoř vesmírnou scénu s postavami 👾, které pomocí různých gest a výrazů sdílejí své myšlenky a pocity.
 
