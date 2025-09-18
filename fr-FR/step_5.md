@@ -10,7 +10,7 @@ Les sprites ont des **costumes** pour changer leur apparence. Il s'agit généra
 </div>
 <div>
 
-![Le sprite Nano disant : "Merci !"](images/nano-step-2.png){:width="300px"}
+![Le sprite Nano avec les bras tendus](images/nano-b-demo.png){:width="300px"}
 
 </div>
 </div>
@@ -29,15 +29,15 @@ Assure-toi que le sprite **Nano** est sélectionné dans la liste Sprite sous la
 
 ![La liste Sprite, avec une bordure bleue autour du sprite Nano pour montrer que Nano est sélectionné.](images/nano-selected.png)
 
-Clique sur l'onglet **Code** et ajoute un script pour faire `dire`{:class="block3looks"} `Merci !` au sprite **Nano** : Utilise le menu déroulant pour basculer de `nano-b`{:class="block3looks"} à `nano-a`{:class="block3looks"} :
+Clique sur l'onglet **Code** et ajoute un script pour que le sprite **Nano** change de costume en utilisant `basculer sur le costume`{:class="block3looks"} et `attendre`{:class="block3control"}. Utilise le menu déroulant pour basculer de `nano-b`{:class="block3looks"} à `nano-a`{:class="block3looks"} :
 
 ![Le sprite Nano.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // quand on clique sur Nano
-switch costume to [nano-b v] // Nano parle
-wait (0.5) seconds // essayez 0.25 au lieu de 0.5
-switch costume to [nano-a v] // Nano souriant
+quand le sprite est cliqué // quand on clique sur Nano
+bascule sur le costume [nano-b v] // Nano parle
+attendre (0.5) seconds // essaie 0.25 au lieu de 0.5
+bascule sur le costume [nano-a v] // Nano souriant
 ```
 --- /task ---
 
