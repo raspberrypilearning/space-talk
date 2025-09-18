@@ -1,4 +1,4 @@
-## Lo que harás
+## What you will make
 
 En este proyecto, crearás una escena espacial con personajes 👾 que se 'emocionan' para compartir sus pensamientos o sentimientos.
 
