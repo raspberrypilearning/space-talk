@@ -65,7 +65,7 @@ Peux-tu voir le sprite qui est déjà inclus dans ton projet ? C'est le chat Scr
 
 Supprimer le sprite **Sprite1** (Chat Scratch) : sélectionne le sprite **Sprite1** dans la liste Sprite sous la scène et clique sur l'icône **Supprimer**.
 
-![L'icône 'Supprimer'.](images/delete-sprite.png)
+![L'icône « Supprimer ».](images/delete-sprite.png)
 
 --- /task ---
 
