@@ -1,4 +1,4 @@
-## You will make
+## What you will make
 
 Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
