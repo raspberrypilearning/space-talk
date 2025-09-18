@@ -10,7 +10,7 @@ copyedit: false
 last_tested: "2021-02-09"
 steps:
   - 
-    title: Ce que tu feras
+    title: What you will make
   - 
     title: Créer ta scène
   - 
@@ -26,7 +26,7 @@ steps:
   - 
     title: Giga change de couleur
     completion:
-      - external
+      - internal
   - 
     title: Questionnaire rapide
     knowledge_quiz:
