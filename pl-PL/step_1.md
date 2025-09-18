@@ -1,4 +1,4 @@
-## Co będziesz robić
+## What you will make
 
 W tym projekcie stworzysz scenę w kosmosie z postaciami, które „emotują”, aby podzielić się swoimi przemyśleniami lub uczuciami.
 
