@@ -1,0 +1,40 @@
+---
+title: Space talk
+hero_image: images/banner.png
+description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+meta_title: Scratch coding projects for kids and teens | Intro to Scratch
+meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+pdf: resources/space-talk.pdf
+listed: true
+copyedit: false
+last_tested: "2021-02-09"
+steps:
+  - 
+    title: You will make
+  - 
+    title: Create your scene
+  - 
+    title: Pico says hello
+    completion:
+      - engaged
+  - 
+    title: Pico plays a sound
+  - 
+    title: Nano switches costumes
+  - 
+    title: Nano signs "Thanks!"
+  - 
+    title: Giga changes colour
+    completion:
+      - internal
+  - 
+    title: Quick quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - 
+    title: Upgrade your project
