@@ -23,7 +23,7 @@ Ajoute des blocs de code pour que Pico s'exprime avec des mots et des sons lorsq
 
 Ouvre le menu bloc `Apparence`{:class="block3looks"}.
 
-Clique sur un bloc `dire`{:class="block3looks"} `Bonjour !` `pendant`{:class="block3looks"} `2` `secondes`{:class="block3looks"}.
+Clique sur un bloc `dire`{:class="block3looks"} `Bonjour !` `pendant`{:class="block3looks"} `2` `secondes`{:class="block3looks"}.
 
 ![Le "dire bonjour !" le bloc pendant 2 secondes en surbrillance avec un contour jaune.](images/pico-say-hello-blocks-menu.png)
 
