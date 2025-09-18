@@ -1,4 +1,4 @@
-## Du kommer att skapa
+## What you will make
 
 Skapa en rymdbakgrund med karaktärer 👾 som gör gester för att dela sina tankar och känslor.
 
