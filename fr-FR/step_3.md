@@ -23,7 +23,7 @@ Ajoute des blocs de code pour que Pico s'exprime avec des mots et des sons lorsq
 
 Ouvre le menu bloc `Apparence`{:class="block3looks"}.
 
-Clique sur un bloc `dire`{:class="block3looks"} `Bonjour !` `pendant`{:class="block3looks"} `2` `secondes`{:class="block3looks"}.
+Clique sur un bloc `dire`{:class="block3looks"} `Bonjour !` `pendant`{:class="block3looks"} `2` `secondes`{:class="block3looks"}.
 
 ![Le "dire bonjour !" le bloc pendant 2 secondes en surbrillance avec un contour jaune.](images/pico-say-hello-blocks-menu.png)
 
@@ -64,20 +64,24 @@ say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
 
 ### Commentaires de code
 
+--- task ---
+
 ```blocks3
 say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
 ```
 Tu verras des commentaires dans les exemples de code. Tu n'as pas besoin d'ajouter les commentaires lorsque tu ajoutes du code à ton projet.
 
-Si tu as le temps lorsque tu as terminé ton projet, c'est une bonne idée d'ajouter des commentaires à ton code afin qu'il soit plus facile à comprendre plus tard. Pour ajouter un commentaire, fais un clic droit (ou sur une tablette, appuie et maintiens) sur un bloc dans la zone de Code et choisis **Ajouter un commentaire**.
+Si tu as le temps lorsque tu as terminé ton projet, c'est une bonne idée d'ajouter des commentaires à ton code afin qu'il soit plus facile à comprendre plus tard. Essaie d'ajouter un commentaire maintenant. Fais un clic droit (ou tape et maintien sur une tablette) sur un bloc dans la zone Code et choisis **Ajouter un commentaire**.
 
 ![Le menu contextuel qui apparaît lorsque tu fais un clic droit sur un bloc. « Ajouter un commentaire » est sélectionné.](images/add-comment.png)
+
+--- /task ---
 
 ### Test
 
 --- task ---
 
-**Tester :** Clique sur le sprite **Pico** sur la Scène et vérifie que la bulle de dialogue apparaît pendant deux secondes. Il est important de tester ton code pour t'assurer qu'il fait ce que tu attends.
+**Test :** Clique sur le sprite **Pico** sur la Scène et vérifie que la bulle de dialogue apparaît pendant deux secondes. Il est important de tester ton code pour t'assurer qu'il fait ce que tu attends.
 
 --- /task ---
 

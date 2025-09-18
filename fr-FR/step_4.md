@@ -19,13 +19,13 @@ Clique sur l'onglet **Son** pour le sprite **Pico** et tu trouveras un son **pop
 
 ![Jouer le son pop dans l'onglet Sons.](images/pico-sound-play.png)
 
-**Déboguer**: si tu n'entends pas de son, vérifie que le son fonctionne sur ton ordinateur ou ta tablette.
+**Débogage**: si tu n'entends pas de son, vérifie que le son fonctionne sur ton ordinateur ou ta tablette.
 
 --- /task ---
 
 --- task ---
 
-Pour choisir un nouveau son, clique sur **Choisir un son** et sélectionne **Espace** ou tape `espace` dans la zone de recherche.
+Pour choisir un nouveau son, clique sur **Choisir un son** et sélectionne **Space** ou tape `space` dans la zone de recherche.
 
 ![L'icône « Choisir un son ».](images/sound-button.png)
 
@@ -77,7 +77,7 @@ Vérifie que ton bloc `jouer le son`{:class="block3sound"} contient le son que t
 
 --- task ---
 
-**Tester :** Clique sur le sprite **Pico** et vérifie que la bulle apparaît et que tu entends le son. Si tu n'entends pas le son, assure-toi d'avoir ajouté le bloc `jouer le son`{:class="block3sound"} sous le bloc `quand ce sprite est cliqué`{:class="block3events"} .
+**Test :** Clique sur le sprite **Pico** et vérifie que la bulle apparaît et que tu entends le son. Si tu n'entends pas le son, assure-toi d'avoir ajouté le bloc `jouer le son`{:class="block3sound"} sous le bloc `quand ce sprite est cliqué`{:class="block3events"}.
 
 --- /task ---
 

@@ -1,6 +1,6 @@
 ## Questionnaire rapide
 
-Répondez aux trois questions pour obtenir votre badge Parler de l'espace. Il y a des indices pour te guider vers la bonne réponse.
+Réponds aux trois questions pour obtenir ton badge Parler de l'espace. Il y a des indices pour te guider vers la bonne réponse.
 
 Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
@@ -15,7 +15,7 @@ Dans ton projet, tu as ajouté des sprite personnages.
 
 Où vas-tu pour **ajouter un sprite** à ton projet ?
 
-![Une capture d'écran annotée de l'éditeur Scratch complet avec 1 — L'onglet Costumes, 2 – L'onglet Sons, 3 – La liste Sprite et 4 – Le volet Scène en surbrillance.](images/question1.png)
+![](images/question1.png)
 
 --- choices ---
 
