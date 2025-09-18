@@ -1,4 +1,4 @@
-## Cyflwyniad
+## What you will make
 
 Yn y prosiect hwn, byddi di'n creu golygfa o’r gofod gyda chymeriadau sy’n defnyddio 'emoshluniau' i rannu eu meddyliau neu eu teimladau.
 
