@@ -97,7 +97,7 @@ Fais glisser le sprite **Pico** pour le positionner sur le côté gauche de la s
 
 --- task ---
 
-Sauvegarde : si tu es connecté à ton compte Scratch, clique sur le bouton vert Remix. Cela enregistrera une copie du projet sur ton compte Scratch.
+Sauvegarde : si tu es connecté·e à ton compte Scratch, clique sur le bouton vert Remix. Cela enregistrera une copie du projet sur ton compte Scratch.
 
 ![Bouton Remix.](images/remix-button.png)
 
