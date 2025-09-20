@@ -19,7 +19,7 @@ Fais que Nano fasse un signe en éditant un costume.
 
 ### Nano utilise la langue des signes
 
-Tu éditeras un costume de Nano pour leur faire signer « merci ».
+Tu éditeras un costume de Nano pour lui faire signer « merci ».
 
 Tu peux éditer les costumes des sprites avec l'éditeur de peinture.
 
@@ -77,6 +77,6 @@ Choisis l'outil « Avant » pour faire du bras la couche avant.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Tu as appris à signer « merci ». La prochaine fois que tu remercieras quelqu'un, pourquoi ne pas utiliser ta nouvelle compétence ?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Tu as appris à signer « merci ». La prochaine fois que tu remercieras quelqu'un·e, pourquoi ne pas utiliser ta nouvelle compétence ?
 </p>
 
