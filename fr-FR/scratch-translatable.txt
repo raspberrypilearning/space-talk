@@ -6,7 +6,7 @@ quand on clique sur Nano
 
 Nano parle
 
-essayez 0.25 au lieu de 0.5
+essaie 0.25 au lieu de 0.5
 
 Hum...
 
