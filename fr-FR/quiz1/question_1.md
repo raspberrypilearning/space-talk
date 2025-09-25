@@ -23,7 +23,7 @@ Où vas-tu pour **ajouter un sprite** à ton projet ?
 
   --- feedback ---
 
-Tu es allé dans l'onglet **Costumes** pour modifier un costume pour ton sprite.
+Tu es allé·e dans l'onglet **Costumes** pour modifier un costume pour ton sprite.
 
   --- /feedback ---
 
@@ -31,7 +31,7 @@ Tu es allé dans l'onglet **Costumes** pour modifier un costume pour ton sprite.
 
   --- feedback ---
 
-Tu es allé dans l'onglet **Sons** pour choisir un nouveau son pour ton sprite.
+Tu es allé·e dans l'onglet **Sons** pour choisir un nouveau son pour ton sprite.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ Oui. C'est la zone où tu peux voir tous les sprites du projet, ajouter et suppr
 
   --- feedback ---
 
-Tu es allé dans le volet Scène pour choisir un arrière plan.
+Tu es allé·e dans le volet Scène pour choisir un arrière plan.
 
   --- /feedback ---
 
