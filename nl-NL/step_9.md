@@ -1,30 +1,59 @@
-## Wat kun je verder nog doen?
+## Verbeter je project
 
-Als je het [Inleiding tot Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-intro) pad hebt gevolgd, kun je doorgaan naar het [Neem de bus](https://projects.raspberrypi.org/nl-NL/projects/catch-the-bus) project. In dit project codeer je een animatie met sprites die de bus moeten halen voordat deze vertrekt.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Voeg de **Tera** sprite toe en gebruik een van de blokken waar je over hebt geleerd om een 'emotie' te maken voor de **Tera** sprite.
+</div>
+<div>
 
---- print-only ---
+![De Tera sprite in het Speelveld.](images/tera-step.png){:width="300px"}
 
-![Het project 'Neem de bus'.](images/scratch-tour-bus.png)
-
---- /print-only ---
-
---- no-print ---
-
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589764379/?autostart=false" frameborder="0"></iframe>
+</div>
 </div>
 
---- /no-print ---
+Je kunt ook de tekst-naar-spraakextensie gebruiken om **Tera** echt te laten praten:
 
-Wil je nog meer plezier hebben met het het verkennen van Scratch, dan kun je een van [deze projecten](https://projects.raspberrypi.org/nl-NL/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) proberen.
+[[[scratch3-text-to-speech]]]
 
-***
-Dit project werd vertaald door vrijwilligers:
+De persoonlijkheid van de **Tera** sprite is jouw keuze, dus veel plezier met het gebruiken van je eigen creatieve ideeën.
 
-Cor Groot
-Sanneke van der Meer
-Max Schaaper
-Iny van Beuningen
-Robert-Jan Kempenaar
+```blocks3
+when this sprite clicked
 
-Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
+say [Hello!] for [2] seconds
+
+say [Hello!]
+
+say [] // hide speech bubble
+
+think [Hmm...] for [2] seconds
+
+switch costume to [tera-d v]
+
+wait (1) seconds // 0.5 is half a second
+
+set [color v] effect to [0] // number up to 200
+
+clear graphic effects
+
+play sound [pop v] until done
+
+start sound [pop v]
+
+speak [hello]
+```
+
+Je kunt het project ook 'remixen' om wijzigingen die je leuk vindt aan te brengen. Je zou de achtergrond kunnen veranderen, en hoe de sprites emoties laten zien, en zelfs verschillende sprites kiezen en ze emoties geven.
+
+**Tip:** Klik op een sprite in de Sprite-ijst onder het Speelveld om de code, de uiterlijken en het geluid voor die sprite te wijzigen.
+
+--- collapse ---
+---
+title: Voltooid project
+---
+
+Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/485673032/){:target="_blank"} bekijken.
+
+--- /collapse ---
+
+--- save ---
