@@ -9,7 +9,8 @@ Je gaat:
 + Op sprites klikken om ze te laten communiceren met behulp van `Uiterlijken`{:class="block3looks"} en `Geluid`{:class="block3sound"} codeblokken
 + De **Paint-editor** gebruiken om een **uiterlijk** te veranderen
 
---- no-print --- --- task ---
+--- no-print ---
+--- task ---
 ### Afspelen ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
@@ -21,7 +22,8 @@ Wat gebeurt er als je op een sprite klikt en dan snel op een andere sprite klikt
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
---- /task --- --- /no-print ---
+--- /task ---
+--- /no-print ---
 
 --- print-only ---
 
