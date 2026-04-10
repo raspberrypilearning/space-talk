@@ -37,7 +37,7 @@ De **Pico** sprite toont gedurende twee seconden een tekstballon.
 
 --- task ---
 
-Sleep een `zeg`{:class="block3looks"} `Hallo!` `voor`{;class="block3looks"} `2` `seconden`{:class="block3looks"} blok naar het codegebied. Klik er nogmaals op.
+Sleep een `zeg`{:class="block3looks"} `Hallo!` `voor`{:class="block3looks"} `2` `seconden`{:class="block3looks"} blok naar het codegebied. Klik er nogmaals op.
 
 ![Het 'zeg'-blok naar het codegebied slepen en erop klikken om het uit te voeren.](images/pico-drag-say.gif)
 
