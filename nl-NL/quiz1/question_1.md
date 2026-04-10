@@ -1,6 +1,6 @@
 ## Snelle quiz
 
-Beantwoord de drie vragen om je Ruimte praat-badge te krijgen. Er zijn tips om je naar het juiste antwoord te leiden.
+Beantwoord de drie vragen om je Space Talk-badge te krijgen. Er zijn tips om je naar het juiste antwoord te leiden.
 
 Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**.
 

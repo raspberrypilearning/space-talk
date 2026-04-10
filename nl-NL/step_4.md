@@ -60,7 +60,7 @@ Je code zou er als volgt uit moeten zien:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Hallo!] for [2] seconds // spraak verbergen na 2 seconden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
