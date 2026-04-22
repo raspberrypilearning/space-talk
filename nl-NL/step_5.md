@@ -5,12 +5,12 @@
 
 Je gaat Nano een emotie laten zien door van **Uiterlijk** te wisselen.
 
-Sprites hebben **uiterlijken** om hun uiterlijk te veranderen. Om een sprite te animeren, kun je zijn uiterlijk laten veranderen.
+Sprites hebben **uiterlijken** om hun uiterlijk te veranderen. Het zijn meestal bijna dezelfde afbeeldingen van dezelfde sprite. Om een sprite te animeren, kun je zijn uiterlijk laten veranderen.
 
 </div>
 <div>
 
-![De Nano sprite zegt: "Dank je!"](images/nano-step-2.png){:width="300px"}
+![De Nano sprite met uitgestrekte armen](images/nano-b-demo.png){:width="300px"}
 
 </div>
 </div>

@@ -1,17 +1,27 @@
-## Giga verandert van kleur
+## Nano gebaart "Bedankt!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Sprites kunnen ook denkballonnen gebruiken en van kleur veranderen om hun persoonlijkheid te tonen. Je gaat Giga dit laten doen.
+
+Laat Nano een gebaar maken door het uiterlijk aan te passen.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miljoenen mensen gebruiken gebarentaal om te communiceren. Een veel voorkomend 'Dankjewel' gebaar maak je door je vingers op je kin te leggen met je hand zo plat mogelijk. Dan beweeg je je hand naar voren, van je kin af en iets naar beneden. 
+</p>
+
+
 </div>
 <div>
 
-![De Giga sprite denkt, "Hmm...".](images/giga-step2.png){:width="300px"}
+![De Nano sprite zegt: "Dank je!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Giga verandert van kleur
+### Nano gebruikt gebarentaal
+
+Je gaat het uiterlijk van Nano bewerken om hem het gebaar "dank je" te laten doen.
+
+Je kunt uiterlijken voor sprites bewerken met de Teken-editor.
 
 > [!TASK]
 >
@@ -45,3 +55,6 @@ Sprites kunnen ook denkballonnen gebruiken en van kleur veranderen om hun persoo
 > [!TASK]
 >
 > **Test:** Klik op de **Giga** sprite in het speelveld en controleer of de sprite van kleur verandert en een tekstballon toont.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Je hebt het gebaar voor "dank je" geleerd. Waarom zou je de volgende keer dat je iemand bedankt, je nieuwe vaardigheid niet gebruiken?
+</p>
+

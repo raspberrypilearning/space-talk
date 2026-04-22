@@ -1,6 +1,10 @@
-## Wat kun je verder nog doen?
+## Verbeter je project
 
-Als je het [Inleiding tot Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-intro) pad hebt gevolgd, kun je doorgaan naar het [Neem de bus](https://projects.raspberrypi.org/nl-NL/projects/catch-the-bus) project. In dit project codeer je een animatie met sprites die de bus moeten halen voordat deze vertrekt.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Voeg de **Tera** sprite toe en gebruik een van de blokken waar je over hebt geleerd om een 'emotie' te maken voor de **Tera** sprite.
+</div>
+<div>
 
 > [!PRINTONLY]
 >
@@ -12,16 +16,9 @@ Als je het [Inleiding tot Scratch](https://projects.raspberrypi.org/nl-NL/pathwa
 >   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589764379/?autostart=false" frameborder="0"></iframe>
 > </div>
 
-Wil je nog meer plezier hebben met het het verkennen van Scratch, dan kun je een van [deze projecten](https://projects.raspberrypi.org/nl-NL/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) proberen.
+> [!ACCORDION] Voltooid project
+>
+> Dit project werd vertaald door vrijwilligers:
+> Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/595587060/){:target="_blank"} bekijken.
 
----
-
-Dit project werd vertaald door vrijwilligers:
-
-Cor Groot
-Sanneke van der Meer
-Max Schaaper
-Iny van Beuningen
-Robert-Jan Kempenaar
-
-Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
+> [!SAVE]
