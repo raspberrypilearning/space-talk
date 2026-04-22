@@ -47,22 +47,12 @@ speak [こんにちは]
 
 **ヒント:** ステージの下にあるスプライトリストでスプライトをクリックして、そのスプライトのコード、コスチューム、音を変更します。
 
---- collapse ---
----
-title: スペーストーク修了証
----
+> [!ACCORDION] スペーストーク修了証
+>
+> よくできました！ スペーストークのプロジェクトが完了しました。 この[修了証](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"}であなたの新しいスキルをお祝いしよう。 ダウンロードして開いて自分の名前を記入してください。
 
-よくできました！ スペーストークのプロジェクトが完了しました。 この[修了証](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}であなたの新しいスキルをお祝いしよう。 ダウンロードして開いて自分の名前を記入してください。
+> [!ACCORDION] 完成したプロジェクト
+>
+> [完成したプロジェクトはこちら](https://scratch.mit.edu/projects/606912139/){:target="\_blank"}で確認できます。
 
---- /collapse ---
-
---- collapse ---
----
-title: 完成したプロジェクト
----
-
-[完成したプロジェクトはこちら](https://scratch.mit.edu/projects/606912139/){:target="_blank"}で確認できます。
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

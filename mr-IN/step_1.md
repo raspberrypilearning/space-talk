@@ -9,31 +9,31 @@
 Scratch मध्ये, कॅरेक्टर आणि ऑब्जेक्ट यांना **sprites** म्हणतात, आणि ते **Stage** यावर दिसतात.
 
 तुम्ही हे कारल:
-+ तुमचा प्रोजेक्ट सेट करण्यासाठी sprites आणि **backdrop** समाविष्ट कराल
-+ `Looks`{:class="block3looks"} आणि `Sound`{:class="block3sound"} कोड ठोकळ्यांचा वापर करून त्यांना संवाद करता येण्यासाठी sprites वर क्लिक करा
-+ **costume** बदलण्यासाठी **Paint editor** चा वापर करा
 
---- no-print ---
---- task ---
-### याचा प्रयत्न करा
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-ते काय करतात हे बघण्यासाठी प्रत्येक sprite वर क्लिक करा. 
+- तुमचा प्रोजेक्ट सेट करण्यासाठी sprites आणि **backdrop** समाविष्ट कराल
+- `Looks`{:class="block3looks"} आणि `Sound`{:class="block3sound"} कोड ठोकळ्यांचा वापर करून त्यांना संवाद करता येण्यासाठी sprites वर क्लिक करा
+- **costume** बदलण्यासाठी **Paint editor** चा वापर करा
 
-तुम्ही एका sprite वर क्लिक केले आणि त्यानंतर लगेच दुसऱ्या sprite वर क्लिक केले तर काय घडते?
-</div>
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658230195/?autostart=false" frameborder="0"></iframe>
-</div>
-</div>
---- /task ---
---- /no-print ---
+> [!NOPRINT]
+>
+> > [!TASK]
+> >
+> > ### याचा प्रयत्न करा
+> >
+> > <div style="display: flex; flex-wrap: wrap">
+> > <div style="flex-basis: 175px; flex-grow: 1">  
+> > ते काय करतात हे बघण्यासाठी प्रत्येक sprite वर क्लिक करा.
+> >
+> > तुम्ही एका sprite वर क्लिक केले आणि त्यानंतर लगेच दुसऱ्या sprite वर क्लिक केले तर काय घडते?
+> >
+> > </div>
+> > <div class="scratch-preview" style="margin-left: 15px;">
+> >   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658230195/?autostart=false" frameborder="0"></iframe>
+> > </div>
+> > </div>
 
---- print-only ---
-
-![पूर्ण झालेला प्रोजेक्ट.](images/showcase_static.png)
-
---- /print-only ---
+> [!PRINTONLY]
+>
+> ![पूर्ण झालेला प्रोजेक्ट.](images/showcase_static.png)
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
-

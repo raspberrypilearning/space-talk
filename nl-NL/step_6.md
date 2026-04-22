@@ -13,46 +13,35 @@ Sprites kunnen ook denkballonnen gebruiken en van kleur veranderen om hun persoo
 
 ### Giga verandert van kleur
 
---- task ---
+> [!TASK]
+>
+> Voeg de **Giga** sprite toe.
+>
+> Sleep de **Giga** sprite naar de rechterkant van het Speelveld.
 
-Voeg de **Giga** sprite toe.
-
-Sleep de **Giga** sprite naar de rechterkant van het Speelveld.
-
---- /task ---
-
---- task ---
-
-Zorg ervoor dat je de **Giga** sprite hebt geselecteerd in de Sprite-lijst onder het Speelveld. Voeg deze code toe om de **Giga** sprite te laten communiceren door van kleur te veranderen:
-
-![De Giga sprite.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 is de startkleur
-think [Hmm...] for [2] seconds 
-clear graphic effects // terug naar de startkleur
-```
-
---- /task ---
+> [!TASK]
+>
+> Zorg ervoor dat je de **Giga** sprite hebt geselecteerd in de Sprite-lijst onder het Speelveld. Voeg deze code toe om de **Giga** sprite te laten communiceren door van kleur te veranderen:
+>
+> ![De Giga sprite.](images/giga-sprite.png)
+>
+> ```blocks3
+> when this sprite clicked
+> set [color v] effect to [0] // 0 is de startkleur
+> think [Hmm...] for [2] seconds
+> clear graphic effects // terug naar de startkleur
+> ```
 
 **Tip:** Klik op de sprite in de Sprite lijst onder het Speelveld voordat je code, uiterlijken of geluid toevoegt of wijzigt. Zorg ervoor dat je op de juiste sprite hebt geklikt.
 
---- task ---
+> [!TASK]
+>
+> Probeer verschillende getallen van `1` tot `200` in de `verander kleur effect met`{:class="block3looks"} blok totdat je een kleur vindt die je leuk vindt.
 
-Probeer verschillende getallen van `1` tot `200` in de `verander kleur effect met`{:class="block3looks"} blok totdat je een kleur vindt die je leuk vindt.
+> [!TASK]
+>
+> Verander de woorden en het aantal seconden in het `denk`{:class="block3looks"} blok.
 
---- /task ---
-
---- task ---
-
-Verander de woorden en het aantal seconden in het `denk`{:class="block3looks"} blok.
-
---- /task ---
-
---- task ---
-
-**Test:** Klik op de **Giga** sprite in het speelveld en controleer of de sprite van kleur verandert en een tekstballon toont.
-
---- /task ---
-
+> [!TASK]
+>
+> **Test:** Klik op de **Giga** sprite in het speelveld en controleer of de sprite van kleur verandert en een tekstballon toont.

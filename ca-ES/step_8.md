@@ -47,13 +47,8 @@ També podeu "reinventar" el projecte per fer els canvis que vulgueu. Podríeu c
 
 **Consell:** Feu clic a un personatge de la llista de personatges a sota de l'escenari per canviar el codi, els vestits i el so d'aquest personatge.
 
---- collapse ---
----
-title: Projecte finalitzat
----
+> [!ACCORDION] Projecte finalitzat
+>
+> Podeu veure el projecte completat [aquí](https://scratch.mit.edu/projects/1081645263/){:target="\_blank"}.
 
-Podeu veure el projecte completat [aquí](https://scratch.mit.edu/projects/1081645263/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

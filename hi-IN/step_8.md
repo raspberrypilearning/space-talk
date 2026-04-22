@@ -47,22 +47,12 @@ speak [hello]
 
 **सलाह:** कोड, कास्ट्यूम या ध्वनि जोड़ने या बदलने से पहले स्टेज के नीचे Spite लिस्ट में स्प्राइट पर क्लिक करें।
 
---- collapse ---
----
-title: स्पेस टॉक सर्टिफिकेट
----
+> [!ACCORDION] स्पेस टॉक सर्टिफिकेट
+>
+> बहुत बढ़िया! आपने स्पेस टॉक प्रोजेक्ट पूरा कर लिया है। आपके नए कौशल का जश्न मनाने के लिए [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} है। एक प्रति डाउनलोड करें फिर अपना नाम जोड़ने के लिए इसे खोलें।
 
-बहुत बढ़िया! आपने स्पेस टॉक प्रोजेक्ट पूरा कर लिया है। आपके नए कौशल का जश्न मनाने के लिए [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} है। एक प्रति डाउनलोड करें फिर अपना नाम जोड़ने के लिए इसे खोलें।
+> [!ACCORDION] पूरा किया हुआ प्रोजेक्ट।
+>
+> आप [पूर्ण की गई परियोजना को यहां](https://scratch.mit.edu/projects/658227120/){:target="\_blank"} देख सकते हैं।
 
---- /collapse ---
-
---- collapse ---
----
-title: पूरा किया हुआ प्रोजेक्ट।
----
-
-आप [पूर्ण की गई परियोजना को यहां](https://scratch.mit.edu/projects/658227120/){:target="_blank"} देख सकते हैं।
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

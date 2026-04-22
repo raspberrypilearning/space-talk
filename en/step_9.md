@@ -45,15 +45,10 @@ speak [hello]
 
 You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite. 
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
---- collapse ---
----
-title: Completed project
----
+> [!ACCORDION] Completed project
+>
+> You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="\_blank"}.
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

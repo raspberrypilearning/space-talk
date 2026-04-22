@@ -9,31 +9,31 @@
 Scratch లో, పాత్రలు మరియు వస్తువులను **sprites**అని పిలుస్తారు మరియు అవి **stage** మీద కనిపిస్తాయి.
 
 మీరు:
-+ మీ ప్రాజెక్ట్‌ని సెటప్ చేయడానికి sprite లు మరియు **backdrop** లను జోడించగలరు
-+ `Looks`{:class="block3looks"} మరియు `Sound`{:class="block3sound"} కోడ్ బ్లాక్‌లను ఉపయోగించి sprite లపై క్లిక్ చేసి కమ్యూనికేట్ చేయగలరు
-+ **costume**ని మార్చడానికి **Paint editor** ని ఉపయోగించ గలరు
 
---- no-print ---
---- task ---
-### ప్రయత్నించండి
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-అవి ఏమి చేయగలవో చూడటానికి ప్రతి sprite పై క్లిక్ చేయండి. 
+- మీ ప్రాజెక్ట్‌ని సెటప్ చేయడానికి sprite లు మరియు **backdrop** లను జోడించగలరు
+- `Looks`{:class="block3looks"} మరియు `Sound`{:class="block3sound"} కోడ్ బ్లాక్‌లను ఉపయోగించి sprite లపై క్లిక్ చేసి కమ్యూనికేట్ చేయగలరు
+- **costume**ని మార్చడానికి **Paint editor** ని ఉపయోగించ గలరు
 
-మీరు ఒక sprite పై క్లిక్ చేసి, మరొక sprite పై త్వరగా క్లిక్ చేస్తే ఏమి జరుగుతుంది?
-</div>
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658231668/?autostart=false" frameborder="0"></iframe>
-</div>
-</div>
---- /task ---
---- /no-print ---
+> [!NOPRINT]
+>
+> > [!TASK]
+> >
+> > ### ప్రయత్నించండి
+> >
+> > <div style="display: flex; flex-wrap: wrap">
+> > <div style="flex-basis: 175px; flex-grow: 1">  
+> > అవి ఏమి చేయగలవో చూడటానికి ప్రతి sprite పై క్లిక్ చేయండి.
+> >
+> > మీరు ఒక sprite పై క్లిక్ చేసి, మరొక sprite పై త్వరగా క్లిక్ చేస్తే ఏమి జరుగుతుంది?
+> >
+> > </div>
+> > <div class="scratch-preview" style="margin-left: 15px;">
+> >   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658231668/?autostart=false" frameborder="0"></iframe>
+> > </div>
+> > </div>
 
---- print-only ---
-
-![పూర్తయిన ప్రాజెక్ట్.](images/showcase_static.png)
-
---- /print-only ---
+> [!PRINTONLY]
+>
+> ![పూర్తయిన ప్రాజెక్ట్.](images/showcase_static.png)
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
-

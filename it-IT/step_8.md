@@ -47,22 +47,12 @@ Puoi anche fare 'remix' del progetto per fare le modifiche che vuoi. Potresti ca
 
 **Suggerimento:** Fai clic su uno sprite nella lista degli Sprite sotto lo Stage per modificare il codice, i costumi e il suono per quello sprite.
 
---- collapse ---
----
-title: Certificato di Coversazione spaziale
----
+> [!ACCORDION] Certificato di Coversazione spaziale
+>
+> Ben fatto! Hai completato il progetto Conversazione spaziale. Ecco il [certificato](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} per festeggiare le tue nuove abilità. Scarica una copia e poi aprila per aggiungere il tuo nome.
 
-Ben fatto! Hai completato il progetto Conversazione spaziale. Ecco il [certificato](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} per festeggiare le tue nuove abilità. Scarica una copia e poi aprila per aggiungere il tuo nome.
+> [!ACCORDION] Il progetto completo
+>
+> Puoi visualizzare i [progetti completati qui](https://scratch.mit.edu/projects/946016490/){:target="\_blank"}.
 
---- /collapse ---
-
---- collapse ---
----
-title: Il progetto completo
----
-
-Puoi visualizzare i [progetti completati qui](https://scratch.mit.edu/projects/946016490/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

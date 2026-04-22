@@ -47,13 +47,8 @@ Você também pode 'remixar' o projeto para fazer as alterações que desejar. V
 
 **Dica:** Clique no ator na lista de Atores abaixo do Palco para adicionar ou alterar o código, fantasia ou som.
 
---- collapse ---
----
-title: Projeto concluído
----
+> [!ACCORDION] Projeto concluído
+>
+> Você pode ver o [projeto concluído aqui](https://scratch.mit.edu/projects/1033302796/){:target="\_blank"}.
 
-Você pode ver o [projeto concluído aqui](https://scratch.mit.edu/projects/1033302796/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

@@ -19,54 +19,49 @@ Dodasz bloki kodu, aby Pico wyrażał emocje z użyciem słów i dźwięku po kl
 
 ### Użyj bloku powiedz
 
---- task ---
+> [!TASK]
+>
+> Otwórz menu blokowe `Wygląd`{:class="block3looks"}.
+>
+> Kliknij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="block3looks"} `2` `sekundy`{:class="block3looks"}.
+>
+> ![„Powiedz Cześć! przez 2 sekundy blok otoczony jest świecącą żółtą obwódką.](images/pico-say-hello-blocks-menu.png)
+>
+> Duszek **Pico** pokaże dymek z tekstem przez dwie sekundy.
+>
+> ![Duszek Pico z tekstem "Cześć!" w dymku.](images/pico-say-hello-stage.png)
+>
+> **Wskazówka:** Kiedy bloki kodu w Scratchu są uruchomione, otacza je żółty świecący kontur.
 
-Otwórz menu blokowe `Wygląd`{:class="block3looks"}.
-
-Kliknij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="block3looks"} `2` `sekundy`{:class="block3looks"}.
-
-![„Powiedz Cześć! przez 2 sekundy blok otoczony jest świecącą żółtą obwódką.](images/pico-say-hello-blocks-menu.png)
-
-Duszek **Pico** pokaże dymek z tekstem przez dwie sekundy.
-
-![Duszek Pico z tekstem "Cześć!" w dymku.](images/pico-say-hello-stage.png)
-
-**Wskazówka:** Kiedy bloki kodu w Scratchu są uruchomione, otacza je żółty świecący kontur.
-
---- /task ---
-
---- task ---
-
-Przeciągnij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="block3looks"} `2` `sekundy`{:class="block3looks"} do obszaru Skrypt. Kliknij go ponownie.
-
-![Przeciąganie bloku "powiedz" to obszaru Skrypt i kliknięcie by go uruchomić.](images/pico-drag-say.gif)
-
-![Blok "powiedz" został przeciągnięty do obszaru Skrypt. Blok kodu jest otoczony świecącym żółtym konturem.](images/pico-drag-say.png)
-
---- /task ---
+> [!TASK]
+>
+> Przeciągnij blok `powiedz`{:class="block3looks"} `Cześć!` `przez`{:class="block3looks"} `2` `sekundy`{:class="block3looks"} do obszaru Skrypt. Kliknij go ponownie.
+>
+> ![Przeciąganie bloku "powiedz" to obszaru Skrypt i kliknięcie by go uruchomić.](images/pico-drag-say.gif)
+>
+> ![Blok "powiedz" został przeciągnięty do obszaru Skrypt. Blok kodu jest otoczony świecącym żółtym konturem.](images/pico-drag-say.png)
 
 ### Spraw, by Pico mówił po kliknięciu (lub stuknięciu)
 
---- task ---
-
-Przeciągnij blok `kiedy ten duszek kliknięty`{:class="block3events"} z menu bloków `Zdarzenia`{:class="block3events"} do górnej krawędzi bloku `Powiedz`{:class="block3looks"} w obszarze Skrypt. Bloki się połączą.
-
-![Bloki kodu łączą się, animacja. Kiedy Pico zostanie kliknięty, mówi "Cześć!" przez dwie sekundy.](images/pico-snap-together.gif)
-
-![Duszek Pico.](images/pico-sprite.png)
-
-```blocks3
-+when this sprite clicked
-say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
-```
-
---- /task ---
+> [!TASK]
+>
+> Przeciągnij blok `kiedy ten duszek kliknięty`{:class="block3events"} z menu bloków `Zdarzenia`{:class="block3events"} do górnej krawędzi bloku `Powiedz`{:class="block3looks"} w obszarze Skrypt. Bloki się połączą.
+>
+> ![Bloki kodu łączą się, animacja. Kiedy Pico zostanie kliknięty, mówi "Cześć!" przez dwie sekundy.](images/pico-snap-together.gif)
+>
+> ![Duszek Pico.](images/pico-sprite.png)
+>
+> ```blocks3
+> +when this sprite clicked
+> say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
+> ```
 
 ### Komentarze do kodu
 
 ```blocks3
 say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
 ```
+
 W przykładach kodu zobaczysz komentarze. Nie musisz dodawać komentarzy podczas dodawania kodu do projektu.
 
 Jeśli po zakończeniu projektu masz czas, dobrym pomysłem jest dodanie komentarzy do kodu, aby później był łatwiejszy do zrozumienia. Aby dodać komentarz, kliknij prawym przyciskiem myszy (lub na tablecie naciśnij i przytrzymaj) blok w obszarze Skrypt i wybierz **Dodaj komentarz**.
@@ -75,16 +70,12 @@ Jeśli po zakończeniu projektu masz czas, dobrym pomysłem jest dodanie komenta
 
 ### Test
 
---- task ---
+> [!TASK]
+>
+> **Test:** Kliknij duszka **Pico** na Scenie i sprawdź, czy dymek wyświetla się przez dwie sekundy. To ważne, by przetestować kod i upewnić się, że robi to, czego oczekujesz.
 
-**Test:** Kliknij duszka **Pico** na Scenie i sprawdź, czy dymek wyświetla się przez dwie sekundy. To ważne, by przetestować kod i upewnić się, że robi to, czego oczekujesz.
-
---- /task ---
-
---- task ---
-
-Zapisałeś już swój projekt i nadałeś mu nazwę. Scratch będzie teraz **automatycznie** zapisywał projekt dla ciebie.
-
-Nadal możesz kliknąć Zapisz, jeśli chcesz, aby mieć pewność.
-
---- /task ---
+> [!TASK]
+>
+> Zapisałeś już swój projekt i nadałeś mu nazwę. Scratch będzie teraz **automatycznie** zapisywał projekt dla ciebie.
+>
+> Nadal możesz kliknąć Zapisz, jeśli chcesz, aby mieć pewność.

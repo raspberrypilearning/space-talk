@@ -19,76 +19,65 @@ Füge Codeblöcke hinzu, damit Pico Wörter und Töne ausgibt, wenn auf die Figu
 
 ### Verwende den Sage-Block
 
---- task ---
+> [!TASK]
+>
+> Öffne das Blockmenü `Aussehen`{:class="block3looks"}.
+>
+> Klicke auf einen `Sage`{:class="block3looks"} `Hallo!` `für`{:class="block3looks"} `2` `Sekunden`{:class="block3looks"} Block.
+>
+> ![Das „Sag Hallo!“! für 2 Sekunden leuchtender Block mit gelber Umrandung.](images/pico-say-hello-blocks-menu.png)
+>
+> Die **Pico**-Figur wird für 2 Sekunden eine Sprechblase anzeigen.
+>
+> ![Die Pico-Figur mit "Hallo!" in einer Sprechblase.](images/pico-say-hello-stage.png)
+>
+> **Tipp:** Codeblöcke in Scratch leuchten mit einer gelben Umrandung, wenn sie ausgeführt werden.
 
-Öffne das Blockmenü `Aussehen`{:class="block3looks"}.
-
-Klicke auf einen `Sage`{:class="block3looks"} `Hallo!` `für`{:class="block3looks"} `2` `Sekunden`{:class="block3looks"} Block.
-
-![Das „Sag Hallo!“! für 2 Sekunden leuchtender Block mit gelber Umrandung.](images/pico-say-hello-blocks-menu.png)
-
-Die **Pico**-Figur wird für 2 Sekunden eine Sprechblase anzeigen.
-
-![Die Pico-Figur mit "Hallo!" in einer Sprechblase.](images/pico-say-hello-stage.png)
-
-**Tipp:** Codeblöcke in Scratch leuchten mit einer gelben Umrandung, wenn sie ausgeführt werden.
-
---- /task ---
-
---- task ---
-
-Ziehe den `Sage`{:class="block3looks"} `Hallo!` `für`{:class="block3looks"} `2` `Sekunden`{:class="block3looks"} Block in den Skriptbereich. Klicke erneut darauf.
-
-![Ziehe den „Say“-Block in den Skriptbereich und klicke darauf, um ihn auszuführen.](images/pico-drag-say.gif)
-
-![Der „sage“-Block wurde in den Skriptbereich gezogen. Der Codeblock leuchtet mit gelber Umrandung.](images/pico-drag-say.png)
-
---- /task ---
+> [!TASK]
+>
+> Ziehe den `Sage`{:class="block3looks"} `Hallo!` `für`{:class="block3looks"} `2` `Sekunden`{:class="block3looks"} Block in den Skriptbereich. Klicke erneut darauf.
+>
+> ![Ziehe den „Say“-Block in den Skriptbereich und klicke darauf, um ihn auszuführen.](images/pico-drag-say.gif)
+>
+> ![Der „sage“-Block wurde in den Skriptbereich gezogen. Der Codeblock leuchtet mit gelber Umrandung.](images/pico-drag-say.png)
 
 ### Lass Pico sprechen, wenn er angeklickt (oder angetippt) wird
 
---- task ---
-
-Ziehe einen Block `Wenn diese Figur angeklickt wird`{:class="block3events"} aus dem Menü `Ereignisse`{:class="block3events"} und verbinde ihn oben mit dem `sage`{:class="block3looks"}-Block im Skriptbereich. Die Blöcke werden zusammenschnappen.
-
-![Eine Animation des Zusammenschnappens der Blöcke. Wenn auf Pico geklickt wird, sag er zwei Sekunden lang "Hallo!".](images/pico-snap-together.gif)
-
-![Die Pico-Figur.](images/pico-sprite.png)
-
-```blocks3
-+when this sprite clicked
-say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
-```
-
---- /task ---
+> [!TASK]
+>
+> Ziehe einen Block `Wenn diese Figur angeklickt wird`{:class="block3events"} aus dem Menü `Ereignisse`{:class="block3events"} und verbinde ihn oben mit dem `sage`{:class="block3looks"}-Block im Skriptbereich. Die Blöcke werden zusammenschnappen.
+>
+> ![Eine Animation des Zusammenschnappens der Blöcke. Wenn auf Pico geklickt wird, sag er zwei Sekunden lang "Hallo!".](images/pico-snap-together.gif)
+>
+> ![Die Pico-Figur.](images/pico-sprite.png)
+>
+> ```blocks3
+> +when this sprite clicked
+> say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
+> ```
 
 ### Codekommentare
 
---- task ---
-
-```blocks3
-say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
-```
-Du wirst Kommentare in Codebeispielen sehen. Du musst keine Kommentare hinzufügen, wenn du deinem Projekt Code hinzufügst.
-
-Wenn du nach Abschluss deines Projekts noch Zeit hast, ist es eine gute Idee, Kommentare zu deinem Code hinzuzufügen, damit er später leichter zu verstehen ist. Versuche jetzt, einen Kommentar hinzuzufügen. Um einen Kommentar hinzuzufügen, klicke mit der rechten Maustaste (oder tippe und halte auf einem Tablet) auf einen Block im Codebereich und wähle **Kommentar hinzufügen**.
-
-![Das Popup-Menü, das angezeigt wird, wenn du mit der rechten Maustaste auf einen Block klickst. „Kommentar hinzufügen“ ist ausgewählt.](images/add-comment.png)
-
---- /task ---
+> [!TASK]
+>
+> ```blocks3
+> say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
+> ```
+>
+> Du wirst Kommentare in Codebeispielen sehen. Du musst keine Kommentare hinzufügen, wenn du deinem Projekt Code hinzufügst.
+>
+> Wenn du nach Abschluss deines Projekts noch Zeit hast, ist es eine gute Idee, Kommentare zu deinem Code hinzuzufügen, damit er später leichter zu verstehen ist. Versuche jetzt, einen Kommentar hinzuzufügen. Um einen Kommentar hinzuzufügen, klicke mit der rechten Maustaste (oder tippe und halte auf einem Tablet) auf einen Block im Codebereich und wähle **Kommentar hinzufügen**.
+>
+> ![Das Popup-Menü, das angezeigt wird, wenn du mit der rechten Maustaste auf einen Block klickst. „Kommentar hinzufügen“ ist ausgewählt.](images/add-comment.png)
 
 ### Test
 
---- task ---
+> [!TASK]
+>
+> **Test:** Klicke auf der Bühne auf die **Pico**-Figur und prüfe, ob die Sprechblase zwei Sekunden lang angezeigt wird. Es ist wichtig, deinen Code zu testen, um sicherzustellen, dass er das tut, was du erwartest.
 
-**Test:** Klicke auf der Bühne auf die **Pico**-Figur und prüfe, ob die Sprechblase zwei Sekunden lang angezeigt wird. Es ist wichtig, deinen Code zu testen, um sicherzustellen, dass er das tut, was du erwartest.
-
---- /task ---
-
---- task ---
-
-Du hast dein Projekt bereits gespeichert und ihm einen Namen gegeben. Scratch speichert jetzt **automatisch** für dich.
-
-Du kannst zur Sicherheit immer noch auf Speichern klicken.
-
---- /task ---
+> [!TASK]
+>
+> Du hast dein Projekt bereits gespeichert und ihm einen Namen gegeben. Scratch speichert jetzt **automatisch** für dich.
+>
+> Du kannst zur Sicherheit immer noch auf Speichern klicken.

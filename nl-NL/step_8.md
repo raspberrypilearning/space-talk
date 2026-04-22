@@ -47,22 +47,12 @@ Je kunt het project ook 'remixen' om allerlei wijzigingen aan te brengen. Je zou
 
 **Tip:** Klik op een sprite in de Sprite lijst onder het Speelveld om de code, de uiterlijken en het geluid voor die sprite te wijzigen.
 
---- collapse ---
----
-title: Ruimte praat-certificaat
----
+> [!ACCORDION] Ruimte praat-certificaat
+>
+> Goed gedaan! Je hebt het Ruimte praat-project afgerond. Hier is [een certificaat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} om je nieuwe vaardigheden te vieren. Download een kopie en open deze om jouw naam toe te voegen.
 
-Goed gedaan! Je hebt het Ruimte praat-project afgerond. Hier is [een certificaat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} om je nieuwe vaardigheden te vieren. Download een kopie en open deze om jouw naam toe te voegen.
+> [!ACCORDION] Voltooid project
+>
+> Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/595587060/){:target="\_blank"} bekijken.
 
---- /collapse ---
-
---- collapse ---
----
-title: Voltooid project
----
-
-Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/595587060/){:target="_blank"} bekijken.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

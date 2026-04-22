@@ -2,23 +2,20 @@
 
 Als je het [Inleiding tot Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-intro) pad hebt gevolgd, kun je doorgaan naar het [Neem de bus](https://projects.raspberrypi.org/nl-NL/projects/catch-the-bus) project. In dit project codeer je een animatie met sprites die de bus moeten halen voordat deze vertrekt.
 
---- print-only ---
+> [!PRINTONLY]
+>
+> ![Het project 'Neem de bus'.](images/scratch-tour-bus.png)
 
-![Het project 'Neem de bus'.](images/scratch-tour-bus.png)
-
---- /print-only ---
-
---- no-print ---
-
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589764379/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
+> [!NOPRINT]
+>
+> <div class="scratch-preview" style="margin-left: 15px;">
+>   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589764379/?autostart=false" frameborder="0"></iframe>
+> </div>
 
 Wil je nog meer plezier hebben met het het verkennen van Scratch, dan kun je een van [deze projecten](https://projects.raspberrypi.org/nl-NL/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) proberen.
 
-***
+---
+
 Dit project werd vertaald door vrijwilligers:
 
 Cor Groot

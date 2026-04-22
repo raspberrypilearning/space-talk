@@ -47,13 +47,8 @@ Unako kwakhona 'ukuxuba' iprojekthi ukwenza naluphi na utshintsho oluthandayo. U
 
 **Ingcebiso:** Cofa kwi-sprite kuluhlu lweSprite ngezantsi kweQonga ukutshintsha ikhowudi, iimpahla, kunye nesandi saloo sprite.
 
---- collapse ---
----
-title: Iprojekthi egqityiweyo
----
+> [!ACCORDION] Iprojekthi egqityiweyo
+>
+> Ungajonga i [projkthi engqityweyo apha](https://scratch.mit.edu/projects/913597736/){:target="\_blank"}.
 
-Ungajonga i [projkthi engqityweyo apha](https://scratch.mit.edu/projects/913597736/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

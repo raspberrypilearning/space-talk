@@ -47,13 +47,8 @@ Du kannst das Projekt auch 'remixen', um die gewünschten Änderungen vorzunehme
 
 **Tipp:** Klicke auf eine Figur in der Figuren-Liste unter der Bühne, um den Code, die Kostüme und den Klang für diese Figur zu ändern.
 
---- collapse ---
----
-title: Abgeschlossenes Projekt
----
+> [!ACCORDION] Abgeschlossenes Projekt
+>
+> Du findest das [abgeschlossene Projekt hier](https://scratch.mit.edu/projects/1081644565/){:target="\_blank"}.
 
-Du findest das [abgeschlossene Projekt hier](https://scratch.mit.edu/projects/1081644565/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

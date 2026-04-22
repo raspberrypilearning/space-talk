@@ -2,23 +2,20 @@
 
 Om du följer [Introduktion till Scratch](https://projects.raspberrypi.org/sv-SE/pathways/scratch-intro)-vägen kan du gå vidare till [Hinna med bussen](https://projects.raspberrypi.org/sv-SE/projects/catch-the-bus) -projektet. I det här projektet kommer du att koda en animation med sprajter som måste ta sig till en buss innan den går.
 
---- print-only ---
+> [!PRINTONLY]
+>
+> !["Hinna med bussen" projektet.](images/scratch-tour-bus.png)
 
-!["Hinna med bussen" projektet.](images/scratch-tour-bus.png)
-
---- /print-only ---
-
---- no-print ---
-
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724160134/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
+> [!NOPRINT]
+>
+> <div class="scratch-preview" style="margin-left: 15px;">
+>   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724160134/?autostart=false" frameborder="0"></iframe>
+> </div>
 
 Om du vill ha mer kul med att utforska Scratch kan du prova något av [dessa projekt](https://projects.raspberrypi.org/sv-SE/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-***
+---
+
 Detta projekt översattes av frivilliga:
 
 Holger Molin

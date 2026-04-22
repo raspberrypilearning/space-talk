@@ -47,22 +47,12 @@ Du kan också "remixa" projektet för att göra ändringar du vill. Du kan ändr
 
 **Tips:** Klicka på en sprajt i sprajtlistan under scenen för att ändra koden, klädslarna och ljudet för den sprajten.
 
---- collapse ---
----
-title: Rymdsamtal certifikat
----
+> [!ACCORDION] Rymdsamtal certifikat
+>
+> Bra jobbat! Du har slutfört projektet Rymdsamtal. Här är [ett certifikat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} för att fira dina nya kunskaper. Ladda ner en kopia och öppna den för att lägga till ditt namn.
 
-Bra jobbat! Du har slutfört projektet Rymdsamtal. Här är [ett certifikat](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} för att fira dina nya kunskaper. Ladda ner en kopia och öppna den för att lägga till ditt namn.
+> [!ACCORDION] Avslutat projekt
+>
+> Du kan se det [avslutade projektet här](https://scratch.mit.edu/projects/827154361/){:target="\_blank"}.
 
---- /collapse ---
-
---- collapse ---
----
-title: Avslutat projekt
----
-
-Du kan se det [avslutade projektet här](https://scratch.mit.edu/projects/827154361/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

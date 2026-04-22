@@ -19,76 +19,65 @@ Yongeza iibhloko zekhowudi ukwenza i-Pico ivakale ngamagama kunye nesandi xa i-s
 
 ### Sebenzisa ibhloko kayithi
 
---- task ---
+> [!TASK]
+>
+> Vula i `imbonakalo`{:class="block3looks"} iibhloko zemenyu.
+>
+> Cofa ku- `kuyithi`{:class="block3looks"} `Molo!` `for`{:class="block3looks"} `2` `imizuzwana`{:class="block3looks"} block.
+>
+> ![Bathi Molo! ibhloko yemizuzwana emi-2 ekhazimla ngolwandlalo olutyheli.](images/pico-say-hello-blocks-menu.png)
+>
+> I **Pico** sprite iya kubonisa iqamza lentetho imizuzwana emibini.
+>
+> ![I-Pico sprite eno- "Molo!" kwiqamza lentetho.](images/pico-say-hello-stage.png)
+>
+> **Ingcebiso: Iibhloko zekhowudi** kwiScratch zikhazimla ngolwandlalo olutyheli xa zibaleka.
 
-Vula i `imbonakalo`{:class="block3looks"} iibhloko zemenyu.
-
-Cofa ku- `kuyithi`{:class="block3looks"} `Molo!` `for`{:class="block3looks"} `2` `imizuzwana`{:class="block3looks"} block.
-
-![Bathi Molo! ibhloko yemizuzwana emi-2 ekhazimla ngolwandlalo olutyheli.](images/pico-say-hello-blocks-menu.png)
-
-I **Pico** sprite iya kubonisa iqamza lentetho imizuzwana emibini.
-
-![I-Pico sprite eno- "Molo!" kwiqamza lentetho.](images/pico-say-hello-stage.png)
-
-**Ingcebiso: Iibhloko zekhowudi** kwiScratch zikhazimla ngolwandlalo olutyheli xa zibaleka.
-
---- /task ---
-
---- task ---
-
-Tsala u `yithi`{:class="block3looks"} `Molo!` `for`{:class="block3looks"} `2` `imizuzwana`{:class="block3looks"} ibhloko kwindawo yeKhowudi. Cofa kuyo kwakhona.
-
-![Ukutsala ibhloko ethi 'yithi' kwindawo yeKhowudi kwaye ucofe kuyo ukuyiqhuba.](images/pico-drag-say.gif)
-
-![Ibhloko ethi 'yithi' iye yarhuqelwa kwindawo yeKhowudi. Ibhloko yekhowudi ikhazimla ngolwandlalo olutyheli.](images/pico-drag-say.png)
-
---- /task ---
+> [!TASK]
+>
+> Tsala u `yithi`{:class="block3looks"} `Molo!` `for`{:class="block3looks"} `2` `imizuzwana`{:class="block3looks"} ibhloko kwindawo yeKhowudi. Cofa kuyo kwakhona.
+>
+> ![Ukutsala ibhloko ethi 'yithi' kwindawo yeKhowudi kwaye ucofe kuyo ukuyiqhuba.](images/pico-drag-say.gif)
+>
+> ![Ibhloko ethi 'yithi' iye yarhuqelwa kwindawo yeKhowudi. Ibhloko yekhowudi ikhazimla ngolwandlalo olutyheli.](images/pico-drag-say.png)
 
 ### Yenza uPico athethe xa ucofa (okanye ucofa)
 
---- task ---
-
-Tsala i- `xa le sprite icofa i`{:class="block3events"} ibhlokhi esuka kwi `Iziganeko`{:class="block3events"} iibhloko zemenyu kwaye uyidibanise phezulu kwe `yakho ithi`{:class="block3looks"} bhloka kwindawo yeKhowudi. Iibhloko ziya kuqhawuka kunye.
-
-![Upopayi weebhloko eziqhawuka kunye. Xa uPico ecofa, bathi "Molo!" imizuzwana emibini.](images/pico-snap-together.gif)
-
-![I-Pico sprite.](images/pico-sprite.png)
-
-```blocks3
-+when this sprite clicked
-say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
-```
-
---- /task ---
+> [!TASK]
+>
+> Tsala i- `xa le sprite icofa i`{:class="block3events"} ibhlokhi esuka kwi `Iziganeko`{:class="block3events"} iibhloko zemenyu kwaye uyidibanise phezulu kwe `yakho ithi`{:class="block3looks"} bhloka kwindawo yeKhowudi. Iibhloko ziya kuqhawuka kunye.
+>
+> ![Upopayi weebhloko eziqhawuka kunye. Xa uPico ecofa, bathi "Molo!" imizuzwana emibini.](images/pico-snap-together.gif)
+>
+> ![I-Pico sprite.](images/pico-sprite.png)
+>
+> ```blocks3
+> +when this sprite clicked
+> say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
+> ```
 
 ### Izimvo zekhowudi
 
---- task ---
-
-```blocks3
-say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
-```
-Uya kubona izimvo kwimizekelo yekhowudi. Awudingi ukongeza izimvo xa usongeza ikhowudi kwiprojekthi yakho.
-
-Ukuba unexesha xa ugqibile iprojekthi yakho, luluvo oluhle ukongeza izimvo kwikhowudi yakho ukuze kube lula ukuyiqonda kamva. Zama ukufaka izimvo. Ukongeza inkcazo, cofa ekunene (okanye kwithebhulethi, cinezela kwaye ubambe) kwibhloko kwindawo yeKhowudi kwaye ukhethe **Yongeza izimvo**.
-
-![Imenyu ephumayo evelayo xa ucofa ekunene kwibhloko. 'Yongeza uluvo' ikhethiwe.](images/add-comment.png)
-
---- /task ---
+> [!TASK]
+>
+> ```blocks3
+> say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
+> ```
+>
+> Uya kubona izimvo kwimizekelo yekhowudi. Awudingi ukongeza izimvo xa usongeza ikhowudi kwiprojekthi yakho.
+>
+> Ukuba unexesha xa ugqibile iprojekthi yakho, luluvo oluhle ukongeza izimvo kwikhowudi yakho ukuze kube lula ukuyiqonda kamva. Zama ukufaka izimvo. Ukongeza inkcazo, cofa ekunene (okanye kwithebhulethi, cinezela kwaye ubambe) kwibhloko kwindawo yeKhowudi kwaye ukhethe **Yongeza izimvo**.
+>
+> ![Imenyu ephumayo evelayo xa ucofa ekunene kwibhloko. 'Yongeza uluvo' ikhethiwe.](images/add-comment.png)
 
 ### Uvavanyo
 
---- task ---
+> [!TASK]
+>
+> **Uvavanyo:** Cofa kwi- **Pico** sprite kwi-qonga kwaye ukhangele ukuba iqamza lentetho livela kwimizuzwana emibini. Kubalulekile ukuvavanya ikhowudi yakho ukuze uqiniseke ukuba iyayenza le nto uyilindeleyo.
 
-**Uvavanyo:** Cofa kwi- **Pico** sprite kwi-qonga kwaye ukhangele ukuba iqamza lentetho livela kwimizuzwana emibini. Kubalulekile ukuvavanya ikhowudi yakho ukuze uqiniseke ukuba iyayenza le nto uyilindeleyo.
-
---- /task ---
-
---- task ---
-
-Sele uyigcinile iprojekthi yakho kwaye uyinike igama. I-Scratch ngoku iya **ngokuzenzekelayo** ikugcinele.
-
-Usenako ukucofa ugcine ukuba uyathanda, ukuze uqinisekise.
-
---- /task ---
+> [!TASK]
+>
+> Sele uyigcinile iprojekthi yakho kwaye uyinike igama. I-Scratch ngoku iya **ngokuzenzekelayo** ikugcinele.
+>
+> Usenako ukucofa ugcine ukuba uyathanda, ukuze uqinisekise.
