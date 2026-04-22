@@ -19,48 +19,42 @@ Você adicionará blocos de código para fazer o Pico reagir com palavras e sons
 
 ### Use o bloco diga
 
---- task ---
+> [!TASK]
+>
+> Abra o menu dos blocos `Aparência`{:class="block3looks"}.
+>
+> Clique em um bloco `diga`{:class="block3looks"} `Olá!` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
+>
+> ![O 'diga Olá! por 2 segundos' brilhando com um contorno amarelo.](images/pico-say-hello-blocks-menu.png)
+>
+> O ator **Pico** mostrará um balão de fala por dois segundos.
+>
+> ![O ator Pico com "Olá!" em um balão de fala.](images/pico-say-hello-stage.png)
+>
+> **Dica:** blocos de código no Scratch brilham com um contorno amarelo quando estão em execução.
 
-Abra o menu dos blocos `Aparência`{:class="block3looks"}.
-
-Clique em um bloco `diga`{:class="block3looks"} `Olá!` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"}.
-
-![O 'diga Olá! por 2 segundos' brilhando com um contorno amarelo.](images/pico-say-hello-blocks-menu.png)
-
-O ator **Pico** mostrará um balão de fala por dois segundos.
-
-![O ator Pico com "Olá!" em um balão de fala.](images/pico-say-hello-stage.png)
-
-**Dica:** blocos de código no Scratch brilham com um contorno amarelo quando estão em execução.
-
---- /task ---
-
---- task ---
-
-Arraste o bloco `diga`{:class="block3looks"} `Olá!` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"} para a área de Código. Clique nele novamente.
-
-![Arrastando o bloco 'diga' para a área de código e clicando nele para executá-lo.](images/pico-drag-say.gif)
-
-![O bloco 'diga' foi arrastado para a área de código. O bloco de código brilha com um contorno amarelo.](images/pico-drag-say.png)
-
---- /task ---
+> [!TASK]
+>
+> Arraste o bloco `diga`{:class="block3looks"} `Olá!` `por`{:class="block3looks"} `2` `segundos`{:class="block3looks"} para a área de Código. Clique nele novamente.
+>
+> ![Arrastando o bloco 'diga' para a área de código e clicando nele para executá-lo.](images/pico-drag-say.gif)
+>
+> ![O bloco 'diga' foi arrastado para a área de código. O bloco de código brilha com um contorno amarelo.](images/pico-drag-say.png)
 
 ### Faça o Pico falar quando clicado (ou tocado)
 
---- task ---
-
-Arraste um bloco `quando este ator for clicado`{:class="block3events"} do menu de blocos `Eventos`{:class="block3events"} e conecte-o ao topo do seu bloco `diga`{:class="block3looks"} na área de Código. Os blocos se encaixarão.
-
-![Uma animação dos blocos se encaixando. Quando o Pico é clicado, ele diz "Olá!" por dois segundos.](images/pico-snap-together.gif)
-
-![O ator Pico.](images/pico-sprite.png)
-
-```blocks3
-+when this sprite clicked
-say [Olá!] for [2] seconds // esconder a fala após 2 segundos
-```
-
---- /task ---
+> [!TASK]
+>
+> Arraste um bloco `quando este ator for clicado`{:class="block3events"} do menu de blocos `Eventos`{:class="block3events"} e conecte-o ao topo do seu bloco `diga`{:class="block3looks"} na área de Código. Os blocos se encaixarão.
+>
+> ![Uma animação dos blocos se encaixando. Quando o Pico é clicado, ele diz "Olá!" por dois segundos.](images/pico-snap-together.gif)
+>
+> ![O ator Pico.](images/pico-sprite.png)
+>
+> ```blocks3
+> +when this sprite clicked
+> say [Olá!] for [2] seconds // esconder a fala após 2 segundos
+> ```
 
 ### Comentários de código
 
@@ -76,16 +70,12 @@ Se você tiver tempo ao terminar seu projeto, é uma boa ideia adicionar coment�
 
 ### Teste
 
---- task ---
+> [!TASK]
+>
+> **Teste:** Clique no ator **Pico** no Palco e verifique se o balão de fala aparece por dois segundos. É importante testar seu código para ter certeza de que ele faz o que você espera.
 
-**Teste:** Clique no ator **Pico** no Palco e verifique se o balão de fala aparece por dois segundos. É importante testar seu código para ter certeza de que ele faz o que você espera.
-
---- /task ---
-
---- task ---
-
-Você já salvou seu projeto e deu um nome a ele. O Scratch agora salvará **automaticamente** para você.
-
-Você ainda pode clicar em salvar se quiser, só para ter certeza.
-
---- /task ---
+> [!TASK]
+>
+> Você já salvou seu projeto e deu um nome a ele. O Scratch agora salvará **automaticamente** para você.
+>
+> Você ainda pode clicar em salvar se quiser, só para ter certeza.

@@ -13,46 +13,35 @@ Sprajts kan även använda tankebubblor och ändra färger för att visa sin per
 
 ### Få Giga att ändra färg
 
---- task ---
+> [!TASK]
+>
+> Lägg till **Giga**sprajten.
+>
+> Dra **Giga**sprajten till höger sida av scenen.
 
-Lägg till **Giga**sprajten.
-
-Dra **Giga**sprajten till höger sida av scenen.
-
---- /task ---
-
---- task ---
-
-Se till att du har **Giga**sprajten vald i sprajtlistan under scenen. Lägg till den här koden för att få **Giga**sprajten att kommunicera genom att byta färg:
-
-![Gigasprajten.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 är startfärgen
-think [Hmm...] for [2] seconds 
-clear graphic effects // tillbaka till startfärgen
-```
-
---- /task ---
+> [!TASK]
+>
+> Se till att du har **Giga**sprajten vald i sprajtlistan under scenen. Lägg till den här koden för att få **Giga**sprajten att kommunicera genom att byta färg:
+>
+> ![Gigasprajten.](images/giga-sprite.png)
+>
+> ```blocks3
+> when this sprite clicked
+> set [color v] effect to [0] // 0 är startfärgen
+> think [Hmm...] for [2] seconds
+> clear graphic effects // tillbaka till startfärgen
+> ```
 
 **Tips:** Klicka på sprajten i sprajtlistan under scenen innan du lägger till eller ändrar kod, klädsel eller ljud. Se till att du har klickat på rätt sprajt.
 
---- task ---
+> [!TASK]
+>
+> Prova olika tal från `1` till `200` i `ändra färgeffekten till`{:class="block3looks"}blocket tills du hittar en färg som du gillar.
 
-Prova olika tal från `1` till `200` i `ändra färgeffekten till`{:class="block3looks"}blocket tills du hittar en färg som du gillar.
+> [!TASK]
+>
+> Ändra orden och antalet sekunder i blocket `tänk`{:class="block3looks"}.
 
---- /task ---
-
---- task ---
-
-Ändra orden och antalet sekunder i blocket `tänk`{:class="block3looks"}.
-
---- /task ---
-
---- task ---
-
-**Test:** Klicka på **Giga**sprajten på scenen och kontrollera att den ändrar färg och visar en tankebubbla.
-
---- /task ---
-
+> [!TASK]
+>
+> **Test:** Klicka på **Giga**sprajten på scenen och kontrollera att den ändrar färg och visar en tankebubbla.

@@ -11,47 +11,37 @@ Gall corluniau hefyd ddefnyddio swigod meddwl a newid eu lliw i gyfleu eu person
 </div>
 </div>
 
---- task ---
+> [!TASK]
+>
+> Ychwanega'r corlun **Giga**.
+>
+> Llusga'r corlun **Giga** i ochr dde y Llwyfan.
 
-Ychwanega'r corlun **Giga**.
-
-Llusga'r corlun **Giga** i ochr dde y Llwyfan.
-
---- /task ---
-
---- task ---
-
-Gwna'n siŵr dy fod wedi dewis y corlun **Giga** yn y rhestr o Gorluniau o dan y Llwyfan. Ychwanega'r cod yma i wneud i'r corlun **Giga** gyfathrebu drwy newid ei liw:
-
-![Corlun Giga.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0 yw'r lliw cychwynnol
-think [Hmm...] for [2] seconds 
-clear graphic effects // mynd yn ôl i'r lliw cychwyn
-```
-
---- /task ---
+> [!TASK]
+>
+> Gwna'n siŵr dy fod wedi dewis y corlun **Giga** yn y rhestr o Gorluniau o dan y Llwyfan. Ychwanega'r cod yma i wneud i'r corlun **Giga** gyfathrebu drwy newid ei liw:
+>
+> ![Corlun Giga.](images/giga-sprite.png)
+>
+> ```blocks3
+> when this sprite clicked
+> set [color v] effect to [0] // 0 yw'r lliw cychwynnol
+> think [Hmm...] for [2] seconds
+> clear graphic effects // mynd yn ôl i'r lliw cychwyn
+> ```
 
 **Awgrym:** Clicia ar y corlun yn y rhestr Corluniau o dan y Llwyfan cyn ychwanegu neu newid cod, gwisgoedd neu sain. Gwna'n siŵr dy fod di wedi clicio'r Corlun cywir.
 
---- task ---
+> [!TASK]
+>
+> Rho gynnig ar rifau gwahanol rhwng `1` a `200` yn y bloc `gosod effaith lliw i`{:class="block3looks"} hyd nes i ti weld lliw rwyt ti'n ei hoffi.
 
-Rho gynnig ar rifau gwahanol rhwng `1` a `200` yn y bloc `gosod effaith lliw i`{:class="block3looks"} hyd nes i ti weld lliw rwyt ti'n ei hoffi.
+> [!TASK]
+>
+> Newidia'r geiriau a nifer yr eiliadau yn y bloc `meddwl`{:class="block3looks"}.
 
---- /task ---
+> [!TASK]
+>
+> **Prawf:** Clicia ar y corlun **Giga** ar y Llwyfan a gwneud yn siŵr bod y corlun yn newid ei liw ac yn dangos swigen meddwl.
 
---- task ---
-
-Newidia'r geiriau a nifer yr eiliadau yn y bloc `meddwl`{:class="block3looks"}.
-
---- /task ---
-
---- task ---
-
-**Prawf:** Clicia ar y corlun **Giga** ar y Llwyfan a gwneud yn siŵr bod y corlun yn newid ei liw ac yn dangos swigen meddwl.
-
---- /task ---
-
---- save ---
+> [!SAVE]

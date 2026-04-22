@@ -13,13 +13,11 @@ Inizia il tuo progetto con uno sfondo spaziale e il primo sprite.
 
 ### Apri il progetto iniziale
 
---- task ---
-
-Apri il [progetto iniziale Conversazione spaziale](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch si aprirà in una nuova scheda del browser.
-
-[[[working-offline]]]
-
---- /task ---
+> [!TASK]
+>
+> Apri il [progetto iniziale Conversazione spaziale](https://scratch.mit.edu/projects/582213331/editor){:target="\_blank"}. Scratch si aprirà in una nuova scheda del browser.
+>
+> [[[working-offline]]]
 
 ### L'editor di Scratch
 
@@ -29,89 +27,72 @@ Apri il [progetto iniziale Conversazione spaziale](https://scratch.mit.edu/proje
 
 Lo **Stage** è l'area dove il tuo progetto viene eseguito. Uno **sfondo** cambia l'aspetto dello Stage.
 
---- task ---
+> [!TASK]
+>
+> Clicca (o su un tablet, tocca) su **Scegli uno Sfondo** nel pannello Stage:
+>
+> ![L'icona 'Scegli uno Sfondo'.](images/backdrop-button.png)
+>
+> ![L'editor Scratch con 'Scegli un Sfondo' evidenziato nell'angolo in basso a destra dello schermo.](images/choose-a-backdrop.png)
 
-Clicca (o su un tablet, tocca) su **Scegli uno Sfondo** nel pannello Stage:
-
-![L'icona 'Scegli uno Sfondo'.](images/backdrop-button.png)
-
-![L'editor Scratch con 'Scegli un Sfondo' evidenziato nell'angolo in basso a destra dello schermo.](images/choose-a-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Clicca sulla categoria **Spazio** o scrivi `space` nella barra di ricerca:
-
-![La libreria degli Sfondi con la categoria 'Spazio' selezionata.](images/space-backdrops.png)
-
---- /task ---
+> [!TASK]
+>
+> Clicca sulla categoria **Spazio** o scrivi `space` nella barra di ricerca:
+>
+> ![La libreria degli Sfondi con la categoria 'Spazio' selezionata.](images/space-backdrops.png)
 
 Nel nostro esempio, abbiamo scelto lo sfondo **Space**, ma tu scegli quello che ti piace di più.
 
---- task ---
-
-Clicca sullo sfondo che hai scelto per aggiungerlo al tuo progetto. Lo Stage dovrebbe mostrare lo sfondo che hai scelto:
-
-![L'editor Scratch con lo sfondo Space aggiunto.](images/inserted-backdrop.png)
-
---- /task ---
+> [!TASK]
+>
+> Clicca sullo sfondo che hai scelto per aggiungerlo al tuo progetto. Lo Stage dovrebbe mostrare lo sfondo che hai scelto:
+>
+> ![L'editor Scratch con lo sfondo Space aggiunto.](images/inserted-backdrop.png)
 
 ### Aggiungi uno Sprite
 
 Riesci a vedere lo sprite che è già presente nel tuo progetto? Quello è Scratch Cat (il gatto di Scratch).
 
---- task ---
+> [!TASK]
+>
+> Elimina lo sprite **Sprite1** (Scratch Cat): seleziona lo sprite **Sprite1** nella lista sotto allo Stage e clicca sull'icona **Elimina**.
+>
+> ![L'icona 'Elimina'.](images/delete-sprite.png)
 
-Elimina lo sprite **Sprite1** (Scratch Cat): seleziona lo sprite **Sprite1** nella lista sotto allo Stage e clicca sull'icona **Elimina**.
+> [!TASK]
+>
+> Clicca su **Scegli uno Sprite** nella lista degli Sprite:
+>
+> ![L'icona 'Scegli uno Sprite'.](images/sprite-button.png)
+>
+> ![L'editor Scratch con 'Scegli uno Sprite' evidenziato.](images/choose-a-sprite.png)
 
-![L'icona 'Elimina'.](images/delete-sprite.png)
+> [!TASK]
+>
+> Seleziona la categoria **Fantasia**. Clicca sullo sprite **Pico** e aggiungilo al tuo progetto.
+>
+> ![La categoria 'Fantasia' con lo sprite Pico.](images/fantasy-pico.png)
 
---- /task ---
+> [!TASK]
+>
+> Trascina lo sprite **Pico** per posizionarlo sul lato sinistro dello Stage. Il tuo Stage dovrebbe avere questo aspetto:
+>
+> ![Lo Stage con lo sfondo scelto e lo sprite Pico posizionato sul lato sinistro.](images/pico-on-stage.png)
 
---- task ---
-
-Clicca su **Scegli uno Sprite** nella lista degli Sprite:
-
-![L'icona 'Scegli uno Sprite'.](images/sprite-button.png)
-
-![L'editor Scratch con 'Scegli uno Sprite' evidenziato.](images/choose-a-sprite.png)
-
---- /task ---
-
---- task ---
-
-Seleziona la categoria **Fantasia**. Clicca sullo sprite **Pico** e aggiungilo al tuo progetto.
-
-![La categoria 'Fantasia' con lo sprite Pico.](images/fantasy-pico.png)
-
---- /task ---
-
---- task ---
-
-Trascina lo sprite **Pico** per posizionarlo sul lato sinistro dello Stage. Il tuo Stage dovrebbe avere questo aspetto:
-
-![Lo Stage con lo sfondo scelto e lo sprite Pico posizionato sul lato sinistro.](images/pico-on-stage.png)
-
---- /task ---
-
---- task ---
-
-**Salva**: se hai effettuato l'accesso con il tuo account Scratch, clicca sul bottone verde Remix. Questo salverà una copia del progetto sul tuo account Scratch.
-
-![Il pulsante Remix.](images/remix-button.png)
-
-Scrivi il nome del tuo progetto nella casella di testo nella parte superiore dello schermo.
-
-![La casella di testo per il nome del progetto.](images/project-name.png)
-
-**Suggerimento:** Scegli nomi utili per i tuoi progetti, così potrai trovarli più facilmente quando ne avrai molti.
-
-Adesso, clicca su **File**, e poi su **Salva ora** per salvare il tuo progetto.
-
-![Le opzioni del menu 'File'.](images/file-menu.png)
-
-Se non sei online o non hai un account Scratch, puoi cliccare su **Salva sul tuo computer** per salvare una copia del progetto.
-
---- /task ---
-
+> [!TASK]
+>
+> **Salva**: se hai effettuato l'accesso con il tuo account Scratch, clicca sul bottone verde Remix. Questo salverà una copia del progetto sul tuo account Scratch.
+>
+> ![Il pulsante Remix.](images/remix-button.png)
+>
+> Scrivi il nome del tuo progetto nella casella di testo nella parte superiore dello schermo.
+>
+> ![La casella di testo per il nome del progetto.](images/project-name.png)
+>
+> **Suggerimento:** Scegli nomi utili per i tuoi progetti, così potrai trovarli più facilmente quando ne avrai molti.
+>
+> Adesso, clicca su **File**, e poi su **Salva ora** per salvare il tuo progetto.
+>
+> ![Le opzioni del menu 'File'.](images/file-menu.png)
+>
+> Se non sei online o non hai un account Scratch, puoi cliccare su **Salva sul tuo computer** per salvare una copia del progetto.

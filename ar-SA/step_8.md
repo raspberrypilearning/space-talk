@@ -39,22 +39,12 @@ start sound [pop v]
 
 **نصيحة:** انقر فوق الكائن في قائمة الكائن أسفل المنصة لتغيير التعليمة البرمجية، المظاهر، أو الصوت.
 
---- collapse ---
----
-title: شهادة حديث الفضاء
----
+> [!ACCORDION] شهادة حديث الفضاء
+>
+> أحسنت! لقد أكملت مشروع حديث الفضاء. هنا [شهادة](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} للاحتفال بمهاراتك الجديدة. قم بتنزيل نسخة ثم افتحها لإضافة اسمك.
 
-أحسنت! لقد أكملت مشروع حديث الفضاء. هنا [شهادة](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} للاحتفال بمهاراتك الجديدة. قم بتنزيل نسخة ثم افتحها لإضافة اسمك.
+> [!ACCORDION] مشروع مكتمل
+>
+> يمكنك عرض [المشروع المكتمل هنا](https://scratch.mit.edu/projects/599512566/){:target="\_blank"}.
 
---- /collapse ---
-
---- collapse ---
----
-title: مشروع مكتمل
----
-
-يمكنك عرض [المشروع المكتمل هنا](https://scratch.mit.edu/projects/599512566/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

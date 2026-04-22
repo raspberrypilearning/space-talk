@@ -47,22 +47,12 @@ Możesz także „zremiksować” projekt, aby wprowadzić dowolne zmiany. Może
 
 **Wskazówka:** Kliknij duszka na liście duszków pod sceną, aby zmienić kod, kostiumy i dźwięk tego duszka.
 
---- collapse ---
----
-title: Certyfikat Kosmicznej rozmowy
----
+> [!ACCORDION] Certyfikat Kosmicznej rozmowy
+>
+> Dobra robota! Ukończyłeś projekt Kosmiczna rozmowa. Oto [certyfikatu](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"}, aby uczcić Twoje nowe umiejętności. Pobierz kopię, a następnie otwórz ją, aby dodać swoje imię.
 
-Dobra robota! Ukończyłeś projekt Kosmiczna rozmowa. Oto [certyfikatu](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"}, aby uczcić Twoje nowe umiejętności. Pobierz kopię, a następnie otwórz ją, aby dodać swoje imię.
+> [!ACCORDION] Ukończony projekt
+>
+> Tutaj możesz zobaczyć [ukończony projekt](https://scratch.mit.edu/projects/485673032/){:target="\_blank"}.
 
---- /collapse ---
-
---- collapse ---
----
-title: Ukończony projekt
----
-
-Tutaj możesz zobaczyć [ukończony projekt](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

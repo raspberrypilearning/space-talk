@@ -39,22 +39,12 @@ start sound [pop v]
 
 **टीप:**कोड, कॉश्चुम किंवा साऊंड बदलण्यासाठी Stage च्या खाली असलेल्या Sprite लीस्टमधील स्प्राइटवर क्लिक करा.
 
---- collapse ---
----
-title: स्पेस टॉक प्रमाणपत्र
----
+> [!ACCORDION] स्पेस टॉक प्रमाणपत्र
+>
+> छान! तुम्ही स्पेस टॉक प्रोजेक्ट पूर्ण केला आहे. तुमचे नवीन कौशल्य साजरे करण्यासाठी येथे [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} आहे. एक प्रत डाउनलोड करा नंतर तुमचे नाव जोडण्यासाठी ती उघडा.
 
-छान! तुम्ही स्पेस टॉक प्रोजेक्ट पूर्ण केला आहे. तुमचे नवीन कौशल्य साजरे करण्यासाठी येथे [प्रमाणपत्र](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} आहे. एक प्रत डाउनलोड करा नंतर तुमचे नाव जोडण्यासाठी ती उघडा.
+> [!ACCORDION] पूर्ण झालेला प्रोजेक्ट
+>
+> तुम्ही [येथे पूर्ण झालेला प्रोजेक्ट](https://scratch.mit.edu/projects/658230195/){:target="\_blank"}
 
---- /collapse ---
-
---- collapse ---
----
-title: पूर्ण झालेला प्रोजेक्ट
----
-
-तुम्ही [येथे पूर्ण झालेला प्रोजेक्ट](https://scratch.mit.edu/projects/658230195/){:target="_blank"} 
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

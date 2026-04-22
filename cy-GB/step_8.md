@@ -39,22 +39,12 @@ Galli di hefyd 'ailgymysgu' y prosiect i wneud unrhyw newidiadau hoffet ti. Gell
 
 **Awgrym:** Clicia gorlun yn rhestr y Corluniau sydd o dan y Llwyfan i newid cod, gwisgoedd a sain y corlun hwnnw.
 
---- collapse ---
----
-title: Tystysgrif Sgwrs yn y Sêr
----
+> [!ACCORDION] Tystysgrif Sgwrs yn y Sêr
+>
+> Da iawn! Rwyt ti wedi cwblhau'r prosiect Sgwrs yn y Sêr. Dyma [dystysgrif](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} i ddathlu dy sgiliau newydd. Llwytha gopi i lawr a'i agor i ychwanegu dy enw.
 
-Da iawn! Rwyt ti wedi cwblhau'r prosiect Sgwrs yn y Sêr. Dyma [dystysgrif](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} i ddathlu dy sgiliau newydd. Llwytha gopi i lawr a'i agor i ychwanegu dy enw.
+> [!ACCORDION] Prosiect gorffenedig
+>
+> Galli di weld y [prosiect wedi'i gwblhau yma](https://scratch.mit.edu/projects/626052624/){:target="\_blank"}.
 
---- /collapse ---
-
---- collapse ---
----
-title: Prosiect gorffenedig
----
-
-Galli di weld y [prosiect wedi'i gwblhau yma](https://scratch.mit.edu/projects/626052624/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

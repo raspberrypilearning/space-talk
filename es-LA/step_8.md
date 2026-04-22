@@ -47,22 +47,12 @@ También puedes 'reinventar' el proyecto para realizar los cambios que desees. P
 
 **Consejo:** Haz clic en un objeto en la lista de objetos debajo del escenario para cambiar el código, el disfraz y el sonido de ese objeto.
 
---- collapse ---
----
-title: Certificado de conversación espacial
----
+> [!ACCORDION] Certificado de conversación espacial
+>
+> ¡Bien hecho! Has terminado el proyecto Conversación espacial. Aquí tienes [un certificado](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="\_blank"} para celebrar tus nuevas habilidades. Descarga una copia y luego ábrela para agregar tu nombre.
 
-¡Bien hecho! Has terminado el proyecto Conversación espacial. Aquí tienes [un certificado](https://drive.google.com/file/d/18xx4uNIyRSty_2ujHkGDzGwTgfSGC1AF/view?usp=sharing){:target="_blank"} para celebrar tus nuevas habilidades. Descarga una copia y luego ábrela para agregar tu nombre.
+> [!ACCORDION] Proyecto terminado
+>
+> Puedes ver el [proyecto terminado aquí](https://scratch.mit.edu/projects/599525747/){:target="\_blank"}.
 
---- /collapse ---
-
---- collapse ---
----
-title: Proyecto terminado
----
-
-Puedes ver el [proyecto terminado aquí](https://scratch.mit.edu/projects/599525747/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

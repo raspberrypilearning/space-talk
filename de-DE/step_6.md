@@ -13,46 +13,35 @@ Figuren können auch Denkblasen verwenden und ihre Farbe ändern, um ihre Persö
 
 ### Giga ändert die Farbe
 
---- task ---
+> [!TASK]
+>
+> Füge die **Giga**-Figur hinzu.
+>
+> Ziehe die **Giga**-Figur auf die rechte Seite der Bühne.
 
-Füge die **Giga**-Figur hinzu.
-
-Ziehe die **Giga**-Figur auf die rechte Seite der Bühne.
-
---- /task ---
-
---- task ---
-
-Stelle sich, dass du die **Giga**-Figur in der Figurenliste unter der Bühne ausgewählt hast. Füge diesen Code zur **Giga**-Figur hinzu um sie über Farbänderungen kommunizieren zu lassen:
-
-![Die Giga-Figur.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [Farbe v] effect to [0] // 0 ist die Startfarbe
-think [Hmm...] for [2] seconds 
-clear graphic effects // zurück zur Ausgangsfarbe
-```
-
---- /task ---
+> [!TASK]
+>
+> Stelle sich, dass du die **Giga**-Figur in der Figurenliste unter der Bühne ausgewählt hast. Füge diesen Code zur **Giga**-Figur hinzu um sie über Farbänderungen kommunizieren zu lassen:
+>
+> ![Die Giga-Figur.](images/giga-sprite.png)
+>
+> ```blocks3
+> when this sprite clicked
+> set [Farbe v] effect to [0] // 0 ist die Startfarbe
+> think [Hmm...] for [2] seconds
+> clear graphic effects // zurück zur Ausgangsfarbe
+> ```
 
 **Tipp:** Klicke auf die Figur in der Figuren-Liste unter der Bühne, bevor du Code, Kostüme oder Klänge hinzufügst oder änderst. Stelle sicher, dass du auf die richtige Figur geklickt hast.
 
---- task ---
+> [!TASK]
+>
+> Probiere verschiedene Zahlen von `1` bis `200` im Block `setze Effekt Farbe auf`{:class="block3looks"} aus, bis du eine Farbe findest, die dir gefällt.
 
-Probiere verschiedene Zahlen von `1` bis `200` im Block `setze Effekt Farbe auf`{:class="block3looks"} aus, bis du eine Farbe findest, die dir gefällt.
+> [!TASK]
+>
+> Ändere die Wörter und Anzahl der Sekunden im `denke`{:class="block3looks"}-Block.
 
---- /task ---
-
---- task ---
-
-Ändere die Wörter und Anzahl der Sekunden im `denke`{:class="block3looks"}-Block.
-
---- /task ---
-
---- task ---
-
-**Test:** Klicke auf der Bühne auf die **Giga**-Figur und prüfe, ob die Figur die Farbe ändert und eine Gedankenblase anzeigt.
-
---- /task ---
-
+> [!TASK]
+>
+> **Test:** Klicke auf der Bühne auf die **Giga**-Figur und prüfe, ob die Figur die Farbe ändert und eine Gedankenblase anzeigt.

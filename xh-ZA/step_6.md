@@ -13,46 +13,35 @@ I-Sprites inokusebenzisa amaqamza eengcinga kwaye itshintshe imibala ukubonisa u
 
 ### Yenza uGiga atshintshe umbala
 
---- task ---
+> [!TASK]
+>
+> Yongeza i **Giga** sprite.
+>
+> Tsala i **Giga** sprite ukuya kwicala lasekunene le-qonga.
 
-Yongeza i **Giga** sprite.
-
-Tsala i **Giga** sprite ukuya kwicala lasekunene le-qonga.
-
---- /task ---
-
---- task ---
-
-Qinisekisa ukuba unayo i **Giga** sprite ekhethiweyo kuluhlu lwe-Sprite ngaphantsi kweSigaba. Yongeza le khowudi ukwenza i **Giga** sprite inxibelelane ngokutshintsha umbala:
-
-![I-Giga sprite.](images/giga-sprite.png)
-
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // U-0 ngumbala wokuqala
-think [Hmm...] for [2] seconds 
-clear graphic effects // buyela kumbala wokuqala
-```
-
---- /task ---
+> [!TASK]
+>
+> Qinisekisa ukuba unayo i **Giga** sprite ekhethiweyo kuluhlu lwe-Sprite ngaphantsi kweSigaba. Yongeza le khowudi ukwenza i **Giga** sprite inxibelelane ngokutshintsha umbala:
+>
+> ![I-Giga sprite.](images/giga-sprite.png)
+>
+> ```blocks3
+> when this sprite clicked
+> set [color v] effect to [0] // U-0 ngumbala wokuqala
+> think [Hmm...] for [2] seconds
+> clear graphic effects // buyela kumbala wokuqala
+> ```
 
 **Icebiso:** Cofa kwi-sprite kuluhlu lwe-Sprite ngezantsi kweNqanaba ngaphambi kokuba wongeze okanye utshintshe ikhowudi, iimpahla, okanye isandi. Qinisekisa ukuba ucofe kwi-sprite esichanekileyo.
 
---- task ---
+> [!TASK]
+>
+> Zama amanani ahlukeneyo ukusuka ku `1` ukuya ku `200` kwi `cwangcisa isiphumo sombala ukuya ku`{:class="block3looks"} vimba ude ufumane umbala owuthandayo.
 
-Zama amanani ahlukeneyo ukusuka ku `1` ukuya ku `200` kwi `cwangcisa isiphumo sombala ukuya ku`{:class="block3looks"} vimba ude ufumane umbala owuthandayo.
+> [!TASK]
+>
+> Guqula amagama kunye nenani lemizuzwana kwi `cinga`{:class="block3looks"} bloko.
 
---- /task ---
-
---- task ---
-
-Guqula amagama kunye nenani lemizuzwana kwi `cinga`{:class="block3looks"} bloko.
-
---- /task ---
-
---- task ---
-
-**Uvavanyo:** Cofa kwi- **Giga** sprite kwi-Stage kwaye ukhangele ukuba i-sprite itshintsha umbala kwaye ibonisa iqamza lokucinga.
-
---- /task ---
-
+> [!TASK]
+>
+> **Uvavanyo:** Cofa kwi- **Giga** sprite kwi-Stage kwaye ukhangele ukuba i-sprite itshintsha umbala kwaye ibonisa iqamza lokucinga.

@@ -6,54 +6,19 @@ Voeg de **Tera** sprite toe en gebruik een van de blokken waar je over hebt gele
 </div>
 <div>
 
-![De Tera sprite in het Speelveld.](images/tera-step.png){:width="300px"}
+> [!PRINTONLY]
+>
+> ![Het project 'Neem de bus'.](images/scratch-tour-bus.png)
 
-</div>
-</div>
+> [!NOPRINT]
+>
+> <div class="scratch-preview" style="margin-left: 15px;">
+>   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/589764379/?autostart=false" frameborder="0"></iframe>
+> </div>
 
-Je kunt ook de tekst-naar-spraakextensie gebruiken om **Tera** echt te laten praten:
+> [!ACCORDION] Voltooid project
+>
+> Dit project werd vertaald door vrijwilligers:
+> Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/595587060/){:target="_blank"} bekijken.
 
-[[[scratch3-text-to-speech]]]
-
-De persoonlijkheid van de **Tera** sprite is jouw keuze, dus veel plezier met het gebruiken van je eigen creatieve ideeën.
-
-```blocks3
-when this sprite clicked
-
-say [Hallo!] for [2] seconds
-
-say [Hallo!]
-
-say [] // tekstballon verbergen
-
-think [Hmm...] for [2] seconds
-
-switch costume to [tera-d v]
-
-wait (1) seconds // 0.5 is een halve seconde
-
-set [kleur v] effect to [0] // aantal tot 200
-
-clear graphic effects
-
-play sound [pop v] until done
-
-start sound [pop v]
-
-speak [hallo]
-```
-
-Je kunt het project ook 'remixen' om wijzigingen die je leuk vindt aan te brengen. Je zou de achtergrond kunnen veranderen, en hoe de sprites emoties laten zien, en zelfs verschillende sprites kiezen en ze emoties geven.
-
-**Tip:** Klik op een sprite in de Sprite-ijst onder het Speelveld om de code, de uiterlijken en het geluid voor die sprite te wijzigen.
-
---- collapse ---
----
-title: Voltooid project
----
-
-Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/595587060/){:target="_blank"} bekijken.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]

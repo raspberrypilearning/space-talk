@@ -47,13 +47,8 @@ Tu peux également « remixer » le projet pour apporter les modifications que
 
 **Astuce :** Clique sur un sprite dans la liste des Sprite sous la scène pour modifier le code, les costumes et le son de ce sprite.
 
---- collapse ---
----
-title: Projet terminé
----
+> [!ACCORDION] Projet terminé
+>
+> Tu peux voir le [projet terminé ici](https://scratch.mit.edu/projects/595566051/){:target="\_blank"}.
 
-Tu peux voir le [projet terminé ici](https://scratch.mit.edu/projects/595566051/){:target="_blank"}.
-
---- /collapse ---
-
---- save ---
+> [!SAVE]
