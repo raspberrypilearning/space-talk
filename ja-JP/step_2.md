@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![スペースの背景とPicoのスプライト。](images/backdrop-step.png){:width="300px"}
+![スペースの背景とPicoのスプライト。 ](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>

@@ -1,29 +1,29 @@
 नमस्कार!
 
-2 सेकंड के बाद स्पीच छुपा दें
+hide speech after 2 seconds
 
-जब Nano पर क्लिक किया जाता है
+when Nano is clicked
 
-Nano बात कर रहा है
+Nano talking
 
-0.5. के बजाय 0.25 का प्रयास करें
+try 0.25 instead of 0.5
 
-हम्म...
+Hm...
 
-0 प्रारंभिक रंग है
+0 is the starting colour
 
-शुरुआती रंग में वापस
+back to the starting colour
 
-स्पीच बबल छुपाएं
+hide speech bubble
 
-200 तक की संख्या
+number up to 200
 
-0.5 आधा सेकंड है
+0.5 is half a second
 
-ध्वनि बजाता है, प्रतीक्षा नहीं करता
+plays sound, doesn't wait
 
-स्पीच बबल दिखाता है
+shows speech bubble
 
-हाथ मुंह तक ले जाएँ
+put hand to mouth
 
-मुस्कराते हुए
+smiling

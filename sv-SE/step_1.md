@@ -1,4 +1,4 @@
-## Du kommer att skapa
+## What you will make
 
 Skapa en rymdbakgrund med karaktärer 👾 som gör gester för att dela sina tankar och känslor.
 
@@ -9,8 +9,7 @@ Du kommer:
 + Klicka på sprajts för att få dem att kommunicera med `Utseende`{:class="block3looks"} och `:ljud`{:class="block3sound"} kodblock
 + Använd **Färgredigeraren** för att ändra **klädsel**
 
---- no-print ---
---- task ---
+--- no-print --- --- task ---
 ### Spela ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
@@ -19,11 +18,10 @@ Klicka på varje sprajt för att se vad de gör.
 Vad händer om du klickar på en sprajt och sedan snabbt klickar på en annan sprajt?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/827154361/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
---- /task ---
---- /no-print ---
+--- /task --- --- /no-print ---
 
 --- print-only ---
 

@@ -1,23 +1,29 @@
 こんにちは！
 
-2秒後にセリフを隠す
+hide speech after 2 seconds
 
-ありがとう！
+when Nano is clicked
 
-Nanoがクリックされたとき
+Nano talking
 
-Nanoが話す
+try 0.25 instead of 0.5
 
-2の代わりに1を試してみましょう
+Hm...
 
-Nanoが笑う
+0 is the starting colour
 
-うーん...
+back to the starting colour
 
-0が最初の色
+hide speech bubble
 
-最初の色に戻る
+number up to 200
 
-ふきだしを隠す
+0.5 is half a second
 
-200までの数
+plays sound, doesn't wait
+
+shows speech bubble
+
+put hand to mouth
+
+smiling
