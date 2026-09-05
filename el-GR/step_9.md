@@ -1,28 +1,59 @@
 ## Τι υπάρχει στη συνέχεια;
 
-Εάν ακολουθείς την [Εισαγωγή στο Scratch](https://projects.raspberrypi.org/el-GR/pathways/scratch-intro), μπορείς να προχωρήσεις στο έργο [Πρόλαβε το λεωφορείο](https://projects.raspberrypi.org/el-GR/projects/catch-the-bus). Σε αυτό το έργο, θα προγραμματίσεις μια κινούμενη εικόνα με αντικείμενα που πρέπει να προλάβουν ένα λεωφορείο πριν φύγει.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+</div>
+<div>
 
---- print-only ---
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 
-![Το έργο «Πρόλαβε το λεωφορείο».](images/scratch-tour-bus.png)
-
---- /print-only ---
-
---- no-print ---
-
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/486719199/?autostart=false" frameborder="0"></iframe>
+</div>
 </div>
 
---- /no-print ---
+You could also use the Text to Speech extension to make **Tera** speak out loud:
+
+[[[scratch3-text-to-speech]]]
+
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
+
+```blocks3
+when this sprite clicked
+
+say [Hello!] for [2] seconds
+
+say [Hello!]
+
+say [] // hide speech bubble
+
+think [Hmm...] for [2] seconds
+
+switch costume to [tera-d v]
+
+wait (1) seconds // 0.5 is half a second
+
+set [color v] effect to [0] // number up to 200
+
+clear graphic effects
+
+play sound [pop v] until done
+
+start sound [pop v]
+
+speak [hello]
+```
+
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+
+--- collapse ---
+---
+title: Completed project
+---
 
 Αν θέλεις να διασκεδάσεις περισσότερο εξερευνώντας το Scratch, τότε μπορείς να δοκιμάσεις οποιοδήποτε από [αυτά τα έργα](https://projects.raspberrypi.org/el-GR/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-***
-Το έργο αυτό μεταφράστηκε από τους εθελοντές:
+--- /collapse ---
 
-Ευστάθιος Ιωσηφίδης
-Σταυρούλα Μισθού
-Μάνος Ζεάκης
-
-Χάρη στους εθελοντές, μπορούμε να δώσουμε σε ανθρώπους σε όλο τον κόσμο την ευκαιρία να μάθουν στη γλώσσα τους. Μπορείτε να μας βοηθήσετε να προσεγγίσουμε περισσότερους ανθρώπους μεταφράζοντας εθελοντικά - περισσότερες πληροφορίες στο [rpf.io/translate](https://rpf.io/translate).
+--- save ---

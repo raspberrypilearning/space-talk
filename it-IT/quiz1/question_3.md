@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Domanda 3 di 3
+legend: Question 3 of 3
 ---
 
 Nel tuo progetto, hai fatto dire a Nano "Grazie". Quale codice hai usato per portare la mano di Nano alla sua bocca?
@@ -12,7 +12,7 @@ Nel tuo progetto, hai fatto dire a Nano "Grazie". Quale codice hai usato per por
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Ciao!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---

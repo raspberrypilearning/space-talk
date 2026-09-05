@@ -6,7 +6,7 @@
 </div>
 <div>
 
-![Το αντικείμενο Pico λέει, «Γεια!».](images/pico-step2.png){:width="300px"}
+! [Το αντικείμενο Pico λέει, «Γεια!».](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
@@ -58,9 +58,9 @@
 ![Το αντικείμενο Pico.](images/pico-sprite.png)
 
 ```blocks3
-when this sprite clicked
-+start sound [Alien Creak1 v] 
-say [Γεια σου!] for [2] seconds // απόκρυψη ομιλίας μετά από 2 δευτερόλεπτα
+όταν γίνει κλικ σε αυτό το αντικείμενο
++παίξε τον ήχο [Alien Creak1 v] 
+πες [Γεια!] για [2] δευτερόλεπτα // απόκρυψη της ομιλίας μετά από 2 δευτερόλεπτα
 ```
 
 --- /task ---

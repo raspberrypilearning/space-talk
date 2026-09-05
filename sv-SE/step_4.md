@@ -60,7 +60,7 @@ Din kod ska se ut så här:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Hej!] for [2] seconds // dölj tal efter 2 sekunder
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -69,7 +69,7 @@ say [Hej!] for [2] seconds // dölj tal efter 2 sekunder
 
 --- task ---
 
-Kontrollera att ditt `starta ljud`{:class="block3sound"} block har ditt valda ljud. Om det inte gör det måste du klicka på ljudet i `starta ljud`{:class="block3sound"} blocket och välja ditt ljud i menyn.
+Kontrollera att ditt `starta ljud`{:class="block3sound"}block har ditt valda ljud. Om det inte gör det måste du klicka på ljudet i `starta ljud`blocket {:class="block3sound"} och välja ditt ljud i menyn.
 
 ![Klicka på Alien Creak1 ljudet i menyn inom "starta ljud"-blocket.](images/pico-sound-menu.png)
 

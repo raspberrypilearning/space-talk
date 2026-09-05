@@ -29,15 +29,15 @@ Zorg ervoor dat de **Nano** sprite geselecteerd is in de Sprite lijst onder het 
 
 ![De Sprite-lijst, met een blauwe rand rond de Nano sprite om aan te geven dat Nano is geselecteerd.](images/nano-selected.png)
 
-Klik op het tabblad **Code** en voeg een script toe om de **Nano**-sprite van uiterlijk te laten veranderen met behulp van `verander uiterlijk naar`{:class="block3looks"} en `wacht`{:class="block3control"}. Gebruik het drop down menu om te schakelen tussen `nano-b`{:class="block3looks"} en `nano-a`{:class="block3looks"}:
+Klik op het tabblad **Code** en voeg een script toe om de **Nano** sprite van uiterlijk te laten veranderen met behulp van `verander uiterlijk naar`{:class="block3looks"} en `wacht`{:class="block3control"}. Gebruik het drop down menu om te schakelen tussen `nano-b`{:class="block3looks"} en `nano-a`{:class="block3looks"}:
 
 ![De Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // wanneer op Nano wordt geklikt
-switch costume to (nano-b v) // Nano praat
-wait (0.5) seconds // probeer 0.25 in plaats van 0.5
-switch costume to (nano-a v) // Nano lacht
+when this sprite clicked // when Nano is clicked
+switch costume to (nano-b v) // Nano talking
+wait (0.5) seconds // try 0.25 instead of 0.5
+switch costume to (nano-a v) // Nano smiling
 ```
 --- /task ---
 

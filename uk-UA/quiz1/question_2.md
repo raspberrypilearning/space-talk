@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Питання 2 з 3
+legend: Question 2 of 3
 ---
 
 Ти змусив Pico `говорити`{:class="block3looks"} "Привіт!" у мовній бульбашці.
 
 ```blocks3
-say [Привіт!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Куди можна зайти, щоб знайти цей блок?

@@ -1,23 +1,34 @@
 ---
 title: Conversación espacial
 hero_image: images/banner.png
-description: Usa Scratch para darle un 'emote' a los objetos para que se comuniquen cuando se hace clic en ellos
-version: 4
+description: Usa Scratch para darle una 'emoción' a los objetos para que se comuniquen cuando se hace clic en ellos
+meta_title: Proyectos de codificación de Scratch para niños y adolescentes | Encuentra el insecto
+meta_description: Crea un juego en el que tienes que encontrar un insecto oculto en cada nivel.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
-  - title: Lo que harás
-  - title: Crea tu escena
-  - title: Pico dice hola
+  - 
+    title: What you will make
+  - 
+    title: Crea tu escena
+  - 
+    title: Pico dice hola
     completion:
       - engaged
-  - title: Pico reproduce un sonido
-  - title: Nano cambia de disfraz
-  - title: Giga cambia de color
+  - 
+    title: Pico reproduce un sonido
+  - 
+    title: Nano cambia de disfraz
+  - 
+    title: Giga cambia de color
+  - 
+    title: Examen rápido
     completion:
       - internal
-  - title: Examen rápido
+  - 
+    title: Mejora tu proyecto
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -25,4 +36,5 @@ steps:
       passing_score: 3
     completion:
       - external
-  - title: Mejora tu proyecto
+  - 
+    title: Upgrade your project

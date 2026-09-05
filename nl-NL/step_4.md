@@ -49,7 +49,7 @@ Speel een paar verschillende geluiden met behulp van het **Afspeel** pictogram. 
 
 Klik op het **Code** tabblad. Zoek bij de `Geluid`{:class="block3sound"} blokken het blok `start geluid`{:class="block3sound"}.
 
-Sleep het blok naar het codegebied tussen `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok en het `zeg`{:class="block3looks"} blok. Er ontstaat een opening en het blok klikt op zijn plaats.
+Sleep het blok naar het codegebied tussen `wanneer op deze sprite wordt geklikt` {:class="block3events"} blok en het `zeg`{:class="block3looks"} blok. Er ontstaat een opening en het blok klikt op zijn plaats.
 
 ![Het 'startgeluid'-blok dat tussen de twee blokken wordt toegevoegd.](images/pico-insert-block.gif)
 
@@ -60,7 +60,7 @@ Je code zou er als volgt uit moeten zien:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Hallo!] for [2] seconds // spraak verbergen na 2 seconden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---

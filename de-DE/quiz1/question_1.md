@@ -8,7 +8,7 @@ Viel Spaß!
 
 --- question ---
 ---
-legend: Frage 1 von 3
+legend: Question 1 of 3
 ---
 
 Du hast in deinem Projekt Figuren hinzugefügt.

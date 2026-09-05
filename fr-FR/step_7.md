@@ -29,9 +29,9 @@ Assure-toi que tu as sélectionné le sprite **Giga** dans la liste Sprite sous 
 
 ```blocks3
 when this sprite clicked
-set [couleur v] effect to [0] // 0 est la couleur de départ
-think [Hum...] for [2] seconds 
-clear graphic effects // retour à la couleur de départ
+set [color v] effect to [0] // 0 is the starting colour
+think [Hmm...] for [2] seconds 
+clear graphic effects // back to the starting colour
 ```
 
 --- /task ---
@@ -52,7 +52,7 @@ Modifie les mots et le nombre de secondes dans le bloc `penser`{:class="block3lo
 
 --- task ---
 
-**Test :** Clique sur le sprite **Giga** sur la Scène et vérifie que le sprite change de couleur et affiche une bulle de pensée.
+**Tester :** Clique sur le sprite **Giga** sur la Scène et vérifie que le sprite change de couleur et affiche une bulle de pensée.
 
 --- /task ---
 

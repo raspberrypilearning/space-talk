@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: 3లో 2వ ప్రశ్న
+legend: Question 2 of 3
 ---
 
-మీరు స్పీచ్ బబుల్ లో Pico తో "Hello!" అనిపించారు.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
 say [Hello!] for [2] seconds

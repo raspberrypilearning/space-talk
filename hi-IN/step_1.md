@@ -1,4 +1,4 @@
-## परिचय
+## What you will make
 
 इस प्रोजेक्ट में, आप पात्रों के साथ एक अंतरिक्ष दृश्य बनाएंगे जो अपने विचारों या भावनाओं को साझा करने के लिए इमोट (भावना व्यक्त करना) करेंगे।
 
@@ -9,8 +9,7 @@
 + `Looks`{:class="block3looks"} और `Sound`{:class="block3sound"} कोड ब्लॉक का उपयोग करके स्प्राइट से बातचीत करने के लिए क्लिक करें।
 + **costume** बदलने के लिए **Paint editor** का उपयोग करें
 
---- no-print ---
---- task ---
+--- no-print --- --- task ---
 ### इसे आजमाएँ!
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
@@ -19,11 +18,10 @@
 क्या होता है यदि आप एक स्प्राइट पर क्लिक करते हैं और फिर जल्दी से दूसरे स्प्राइट पर क्लिक करते हैं?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658227120/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
---- /task ---
---- /no-print ---
+--- /task --- --- /no-print ---
 
 --- print-only ---
 

@@ -1,4 +1,4 @@
-## はじめに
+## What you will make
 
 キャラクター👾が「感情を表現（エモート）」して考えや感情をやりとりする宇宙の場面をつくります。
 
@@ -9,8 +9,7 @@ Scratchでは、キャラクターとオブジェクトは**スプライト**と
 + `見た目`{:class="block3looks"}および`音`{:class="block3sound"}コードブロックを使い、スプライトをクリックするとコミュニケーションが行われるようにします
 + **ペイントエディタ**を使って**コスチューム**を変更します
 
---- no-print --- 
---- task ---
+--- no-print --- --- task ---
 ### プレイ ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
@@ -19,7 +18,7 @@ Scratchでは、キャラクターとオブジェクトは**スプライト**と
 あるスプライトをクリックしてから別のスプライトをすばやくクリックするとどうなりますか？
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/606912139/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task --- --- /no-print ---
@@ -31,5 +30,4 @@ Scratchでは、キャラクターとオブジェクトは**スプライト**と
 --- /print-only ---
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
-
 
