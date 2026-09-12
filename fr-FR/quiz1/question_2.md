@@ -1,20 +1,20 @@
 
 --- question ---
 ---
-legend: Question 2 sur 3
+legend: Question 2 of 3
 ---
 
-Tu as fait `dire`{:class="block3looks"} à Pico « Bonjour ! » dans une bulle.
+Tu as fait dire à Pico ``{:class="block3looks"} « Bonjour ! » dans une bulle.
 
 ```blocks3
-say [Bonjour !] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Où irais-tu pour trouver ce bloc ?
 
 --- choices ---
 
-- (x) `Apparence`{:class="block3looks"}
+- (x) `apparence`{:class="block3looks"}
 
   --- feedback ---
 

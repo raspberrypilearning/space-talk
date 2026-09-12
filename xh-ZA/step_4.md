@@ -6,7 +6,7 @@ Enye indlela yokunxibelelana kukusebenzisa isandi.
 </div>
 <div>
 
-![I-Pico sprite ithi, "Molo!"](images/pico-step2.png){:width="300px"}
+![I-Pico sprite ithi, "Molo!"](imifanekiso/pico-step2.png){:width="300px"}
 
 </div>
 </div>
@@ -37,7 +37,7 @@ Ukukhetha isandi esitsha, cofa kwindawo ethi **Khetha i-icon yesandi** kwaye ukh
 
 --- task ---
 
-Dlala izandi ezimbalwa ezahlukeneyo usebenzisa i **Play** icons. Nje ukuba ufumene isandi ofuna ukusisebenzisa, cofa kuso ukuze uyongeze kwiprojekthi yakho.
+Dlala izandi ezimbalwa ezahlukeneyo usebenzisa i **Play**icons. Nje ukuba ufumene isandi ofuna ukusisebenzisa, cofa kuso ukuze uyongeze kwiprojekthi yakho.
 
 ![Umzekelo wesandi (isandi se-Alien Creak1) esiboniswe ngezantsi kwesandi sepop kwithebhu yeZandi.](images/pico-inserted-sound.png)
 
@@ -60,7 +60,7 @@ Ikhowudi yakho kufuneka ijongeke ngolu hlobo:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -77,7 +77,7 @@ Jonga ukuba `yakho yokuqala isandi`{:class="block3sound"} ibhloko inesandi osikh
 
 --- task ---
 
-**Uvavanyo:** Cofa kwi- **Pico** sprite kwaye ujonge ukuba iqamza lentetho liyavela kwaye unokuva isandi. Ukuba awusiva isandi, qiniseka ukuba wongeze i `isandi sokuqala`{:class="block3sound"} ibhloko phantsi ko- `xa Isprite sicofwa`{:class="block3events"} bhloko.
+**Uvavanyo:** Cofa kwi- **Pico** sprite kwaye ujonge ukuba iqamza lentetho liyavela kwaye unokuva isandi. Ukuba awusiva isandi, qiniseka ukuba wongeze i `isandi sokuqala`{:class="block3sound"} ibhloko phantsi ko- `xa Isprite sicofwa `{:class="block3events"} bhloko.
 
 --- /task ---
 

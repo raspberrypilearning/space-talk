@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Pregunta 2 de 3
+legend: Question 2 of 3
 ---
 
 Has fet que Pico `digués`{:class="block3looks"} "Hola!" en una bafarada.
 
 ```blocks3
-say [Hola!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 On aniries a trobar aquest bloc?

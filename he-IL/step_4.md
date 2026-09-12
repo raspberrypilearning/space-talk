@@ -60,7 +60,7 @@
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [שלום!] for [2] seconds // הסתר דיבור לאחר 2 שניות
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---

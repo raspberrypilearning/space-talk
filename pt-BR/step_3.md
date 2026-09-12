@@ -57,22 +57,25 @@ Arraste um bloco `quando este ator for clicado`{:class="block3events"} do menu d
 
 ```blocks3
 +when this sprite clicked
-say [Olá!] for [2] seconds // esconder a fala após 2 segundos
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
 
 ### Comentários de código
 
-```blocks3
-say [Olá!] for [2] seconds // esconder a fala após 2 segundos
-```
+--- task ---
 
+```blocks3
+say [Hello!] for [2] seconds // hide speech after 2 seconds
+```
 Você verá comentários em código de exemplo. Você não precisa adicionar comentários ao adicionar código ao seu projeto.
 
-Se você tiver tempo ao terminar seu projeto, é uma boa ideia adicionar comentários ao seu código para que seja mais fácil de entender mais tarde. Para adicionar um comentário, clique com o botão direito (ou em um tablet, pressione e segure) em um bloco na área de Código e escolha **Comentar**.
+Se você tiver tempo ao terminar seu projeto, é uma boa ideia adicionar comentários ao seu código para que seja mais fácil de entender mais tarde. Try adding a comment now. Para adicionar um comentário, clique com o botão direito (ou em um tablet, pressione e segure) em um bloco na área de Código e escolha **Comentar**.
 
 ![O menu pop-up que aparece quando você clica com o botão direito em um bloco. 'Comentar' é selecionado.](images/add-comment.png)
+
+--- /task ---
 
 ### Teste
 
