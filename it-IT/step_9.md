@@ -1,29 +1,59 @@
-## E ora?
+## Upgrade your project
 
-Se stai seguendo il percorso [Introduzione a Scratch](https://projects.raspberrypi.org/it-IT/pathways/scratch-intro) puoi passare al progetto [Prendi l'autobus](https://projects.raspberrypi.org/it-IT/projects/catch-the-bus). In questo progetto, userai il codice per creare un'animazione in cui alcuni sprite  devono raggiungere l'autobus, prima che parta.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
+</div>
+<div>
 
---- print-only ---
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 
-![Il progetto "Prendi l'autobus".](images/scratch-tour-bus.png)
-
---- /print-only ---
-
---- no-print ---
-
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/946029360/?autostart=false" frameborder="0"></iframe>
+</div>
 </div>
 
---- /no-print ---
+You could also use the Text to Speech extension to make **Tera** speak out loud:
 
-Se vuoi divertirti ancora di più esplorando Scratch, puoi provare uno qualsiasi di [questi progetti](https://projects.raspberrypi.org/it-IT/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+[[[scratch3-text-to-speech]]]
 
-***
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
-Questo progetto è stato tradotto da volontari:
+```blocks3
+when this sprite clicked
 
-Alberto Giust
-Stefano Panzera
-Omar Lazzari
+say [Hello!] for [2] seconds
 
-Grazie ai volontari, possiamo offrire alle persone di tutto il mondo la possibilità di imparare nella loro lingua. Puoi aiutarci a raggiungere più persone offrendoti come volontario per la traduzione - puoi trovare maggiori informazioni su [rpf.io/translate](https://rpf.io/translate).
+say [Hello!]
+
+say [] // hide speech bubble
+
+think [Hmm...] for [2] seconds
+
+switch costume to [tera-d v]
+
+wait (1) seconds // 0.5 is half a second
+
+set [color v] effect to [0] // number up to 200
+
+clear graphic effects
+
+play sound [pop v] until done
+
+start sound [pop v]
+
+speak [hello]
+```
+
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
+
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
+
+--- collapse ---
+---
+title: Completed project
+---
+
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
+
+--- /collapse ---
+
+--- save ---

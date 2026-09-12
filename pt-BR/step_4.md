@@ -60,7 +60,7 @@ Seu código deve ficar assim:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Olá!] for [2] seconds // esconder a fala após 2 segundos
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---

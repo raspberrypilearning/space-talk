@@ -1,0 +1,29 @@
+Hello!
+
+hide speech after 2 seconds
+
+when Nano is clicked
+
+Nano talking
+
+try 0.25 instead of 0.5
+
+Hm...
+
+0 is the starting colour
+
+back to the starting colour
+
+hide speech bubble
+
+number up to 200
+
+0.5 is half a second
+
+plays sound, doesn't wait
+
+shows speech bubble
+
+put hand to mouth
+
+smiling

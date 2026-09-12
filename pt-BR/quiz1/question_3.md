@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Pergunta 3 de 3
+legend: Question 3 of 3
 ---
 
 Em seu projeto, você fez o Nano fazer o sinal de "obrigado". Qual código você usou para fazer o Nano levar a mão à boca?
@@ -12,7 +12,7 @@ Em seu projeto, você fez o Nano fazer o sinal de "obrigado". Qual código você
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Olá!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---

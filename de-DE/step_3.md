@@ -57,7 +57,7 @@ Ziehe einen Block `Wenn diese Figur angeklickt wird`{:class="block3events"} aus 
 
 ```blocks3
 +when this sprite clicked
-say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -67,7 +67,7 @@ say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
 --- task ---
 
 ```blocks3
-say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Du wirst Kommentare in Codebeispielen sehen. Du musst keine Kommentare hinzufügen, wenn du deinem Projekt Code hinzufügst.
 

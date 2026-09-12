@@ -15,7 +15,7 @@ Seta iprojekthi yakho kwindawo engasemva kunye ne-sprite sokuqala.
 
 --- task ---
 
-Vula i [Iprojekthi yokuqalisa intetho yesikhala](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch uya kuvula kwenye ithebhu yesikhangeli.
+Vula i [Iprojekthi yokuqalisa intetho yesikhala](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch uya kuvula kwenye ithebhu yesikhangeli. Scratch uya kuvula kwenye ithebhu yesikhangeli.
 
 [[[working-offline]]]
 

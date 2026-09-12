@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Fråga 2 av 3
+legend: Question 2 of 3
 ---
 
 Du fick Pico `att säga`{:class="block3looks"} "Hej!" i en pratbubbla.
 
 ```blocks3
-say [Hej!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Var hittar man detta block?

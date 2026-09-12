@@ -4,11 +4,13 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 I-sprite inokuba nekhowudi, isinxibo, kunye nezandi zokutshintsha indlela ekhangeleka ngayo kunye nento eyenzayo. 
   
+I-sprite inokuba nekhowudi, isinxibo, kunye nezandi zokutshintsha indlela ekhangeleka ngayo kunye nento eyenzayo. 
+  
 Yongeza iibhloko zekhowudi ukwenza i-Pico ivakale ngamagama kunye nesandi xa i-sprite icofa.
 </div>
 <div>
 
-![I-Pico sprite ithi, "Molo!"](images/pico-step2.png){:width="300px"}
+![I-Pico sprite ithi, "Molo!"](imifanekiso/pico-step2.png){:width="300px"}
 
 </div>
 </div>
@@ -57,7 +59,7 @@ Tsala i- `xa le sprite icofa i`{:class="block3events"} ibhlokhi esuka kwi `Iziga
 
 ```blocks3
 +when this sprite clicked
-say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -67,7 +69,7 @@ say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
 --- task ---
 
 ```blocks3
-say [Molo!] for [2] seconds // fihla intetho emva kwemizuzwana emi-2
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Uya kubona izimvo kwimizekelo yekhowudi. Awudingi ukongeza izimvo xa usongeza ikhowudi kwiprojekthi yakho.
 
