@@ -8,7 +8,7 @@ Ha det så kul!
 
 --- question ---
 ---
-legend: Fråga 1 av 3
+legend: Question 1 of 3
 ---
 
 Lägg till några sprajtkaraktärer i ditt projekt.

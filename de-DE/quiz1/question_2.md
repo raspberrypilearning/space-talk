@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Frage 2 von 3
+legend: Question 2 of 3
 ---
 
 Du hast Pico `sage`{:class="block3looks"} "Hallo!" in einer Sprechblase sagen lassen.
 
 ```blocks3
-say [Hallo!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Wo würdest du diesen Block finden?

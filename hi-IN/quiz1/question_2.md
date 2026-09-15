@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: दूसरा प्रश्न
+legend: Question 2 of 3
 ---
 
 एक भाषण बुलबुले मेंआपने पिको को "नमस्ते!" `कहा`{:class="block3looks"}।

@@ -1,23 +1,29 @@
 Привет!
 
-скрыть речь через 2 секунды
+hide speech after 2 seconds
 
-Спасибо!
+when Nano is clicked
 
-при нажатии на Nano
+Nano talking
 
-Nano разговаривает
+try 0.25 instead of 0.5
 
-попробуй 1 вместо 2
+Hm...
 
-Nano улыбается
+0 is the starting colour
 
-Хммм...
+back to the starting colour
 
-0 - начальный цвет
+hide speech bubble
 
-вернуться к исходному цвету
+number up to 200
 
-скрыть диалоговое окно
+0.5 is half a second
 
-число до 200
+plays sound, doesn't wait
+
+shows speech bubble
+
+put hand to mouth
+
+smiling
