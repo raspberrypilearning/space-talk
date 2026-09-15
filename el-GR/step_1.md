@@ -1,4 +1,4 @@
-## Τι θα φτιάξεις
+## What you will make
 
 Σε αυτό το έργο, θα δημιουργήσεις μια διαστημική σκηνή με χαρακτήρες 👾 που «εκφράζουν συναισθήματα» για να μοιραστούν τις σκέψεις ή τα συναισθήματά τους.
 
@@ -18,7 +18,7 @@
 Τι συμβαίνει εάν κάνεις κλικ σε ένα αντικείμενο και μετά κάνεις γρήγορα κλικ σε ένα άλλο αντικείμενο;
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599522701/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task --- --- /no-print ---

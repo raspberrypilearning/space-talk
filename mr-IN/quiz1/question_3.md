@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: प्रश्न 3 पैकी 3
+legend: Question 3 of 3
 ---
 
 तुमच्या प्रोजेक्टमध्ये, तुम्ही "thank you" हे Nano साईन तयार केलेत. Nano ने त्यांच्या तोंडाकडे हात मूव करण्यासाठी कोणता कोड तुम्ही वापरलात?
@@ -39,7 +39,7 @@ clear graphic effects
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
