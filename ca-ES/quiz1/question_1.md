@@ -8,7 +8,7 @@ Diverteix-te!
 
 --- question ---
 ---
-legend: Pregunta 1 de 3
+legend: Question 1 of 3
 ---
 
 Al teu projecte, has afegit alguns personatges.

@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Question 3 sur 3
+legend: Question 3 of 3
 ---
 
 Dans ton projet, tu as fait faire un signe « merci » à Nano . Quel code as-tu utilisé pour que Nano porte une main à sa bouche ?
@@ -12,7 +12,7 @@ Dans ton projet, tu as fait faire un signe « merci » à Nano . Quel code as-tu
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Bonjour !] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ Ce code émet un son et affiche une bulle de dialogue.
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Hum...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
@@ -35,7 +35,7 @@ Ce code change la couleur du sprite et affiche une bulle de pensée.
 
   --- /feedback ---
 
-- (x)
+- (X)
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 

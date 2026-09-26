@@ -7,7 +7,7 @@ legend: Vraag 2 van 3
 Je hebt Pico "Hallo!" in een tektsballon laten zeggen door een `zeg`{:class="block3looks"} blok te gebruiken.
 
 ```blocks3
-say [Hallo!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Waar zou je dit blok kunnen vinden?

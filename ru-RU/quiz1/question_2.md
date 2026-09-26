@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Вопрос 2 из 3
+legend: Question 2 of 3
 ---
 
-Ты сделал так, что Pico говорит "Привет!" в диалоговом окне.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
-say [Привет!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Куда бы ты пошёл, чтобы найти этот блок?

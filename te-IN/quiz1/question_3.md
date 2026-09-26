@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: 3లో 3వ ప్రశ్న
+legend: Question 3 of 3
 ---
 
 మీ ప్రాజెక్ట్‌లో, మీరు Nano "thank you" అని సంకేతం చేసేలా చేసారు. Nano, తన నోటికి చేతిని తరలించడానికి మీరు ఏ కోడ్‌ని ఉపయోగించారు?
@@ -39,7 +39,7 @@ clear graphic effects
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 

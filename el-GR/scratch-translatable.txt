@@ -1,29 +1,29 @@
 Γεια σου!
 
-απόκρυψη ομιλίας μετά από 2 δευτερόλεπτα
+hide speech after 2 seconds
 
-όταν κάνεις κλικ στον Nano
+when Nano is clicked
 
-Ο Νανο μιλάει
+Nano talking
 
-δοκίμασε 0.25 αντί για 0.5
+try 0.25 instead of 0.5
 
-Χμ...
+Hm...
 
-Το 0 είναι το αρχικό χρώμα
+0 is the starting colour
 
-επιστροφή στο αρχικό χρώμα
+back to the starting colour
 
-απόκρυψη του σύννεφου ομιλίας
+hide speech bubble
 
-αριθμός έως 200
+number up to 200
 
-Το 0.5 είναι μισό δευτερόλεπτο
+0.5 is half a second
 
-παίζει ήχο, δεν περιμένει
+plays sound, doesn't wait
 
-εμφάνιση του σύννεφου ομιλίας
+shows speech bubble
 
-τοποθετεί το χέρι στο στόμα
+put hand to mouth
 
-χαμογελάει
+smiling

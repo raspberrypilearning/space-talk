@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: प्रश्न 3 पैकी 2
+legend: Question 2 of 3
 ---
 
 तुम्ही स्पीच बबल मध्ये "Hello!" म्हणणारा Pico तयार केलात.
