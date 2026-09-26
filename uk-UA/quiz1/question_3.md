@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Питання 3 з 3
+legend: Question 3 of 3
 ---
 
 У твоєму проєкті ти змусив Nano сказати "дякую". Який код був використаний, щоб змусити Nano піднести руку до рота?
@@ -12,7 +12,7 @@ legend: Питання 3 з 3
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Привіт!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ say [Привіт!] for [2] seconds
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Хмм...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 

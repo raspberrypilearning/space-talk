@@ -49,7 +49,7 @@ Fais glisser le bloc `dire`{:class="block3looks"} `Bonjour !` `pendant`{:class=
 
 --- task ---
 
-Fais glisser un `quand ce sprite est cliqué` du `bloc d'événements`{:class="block3events"} et connecte-le en haut de ton bloc `dire`{:class="block3looks"} dans la zone de Code. Les blocs vont s'imbriquer.
+Fais glisser un `quand ce sprite est cliqué ` du ` bloc d'événements`{:class="block3events"} et connecte-le en haut de ton bloc `dire`{:class="block3looks" } dans la zone de Code. Les blocs vont s'imbriquer.
 
 ![Une animation des blocs qui s'imbriquent. Lorsqu'on clique sur Pico, ils disent "Bonjour !" pendant deux secondes.](images/pico-snap-together.gif)
 
@@ -57,7 +57,7 @@ Fais glisser un `quand ce sprite est cliqué` du `bloc d'événements`{:class="b
 
 ```blocks3
 +when this sprite clicked
-say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -67,7 +67,7 @@ say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
 --- task ---
 
 ```blocks3
-say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Tu verras des commentaires dans les exemples de code. Tu n'as pas besoin d'ajouter les commentaires lorsque tu ajoutes du code à ton projet.
 
@@ -87,7 +87,7 @@ Si tu as le temps lorsque tu as terminé ton projet, c'est une bonne idée d'ajo
 
 --- task ---
 
-Tu as déjà sauvegardé ton projet et tu lui as donné un nom. Scratch va maintenant enregistrer **automatiquement** pour toi.
+Tu as déjà sauvegardé ton projet et tu lui as donné un nom. Scratch va maintenant enregistrer ** automatiquement** pour toi.
 
 Tu peux toujours cliquer sur Enregistrer si tu le souhaites, juste pour t'en assurer.
 

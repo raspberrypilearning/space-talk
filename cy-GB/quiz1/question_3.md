@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Cwestiwn 3 o 3
+legend: Question 3 of 3
 ---
 
 Yn dy brosiect, roedd nano wedi dweud "diolch" yn iaith arwyddion. Pa god wnes ti ei ddefnyddio i gael Nano i symud ei law i'w geg?
@@ -12,7 +12,7 @@ Yn dy brosiect, roedd nano wedi dweud "diolch" yn iaith arwyddion. Pa god wnes t
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Helo!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -39,7 +39,7 @@ Mae'r cod hwn yn newid lliw y corlun ac yn dangos swigen meddwl.
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Diolch!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
