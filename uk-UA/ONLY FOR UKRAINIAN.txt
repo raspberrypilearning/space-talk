@@ -1,19 +1,19 @@
-Вкладка Код
+Code tab
 
-Меню блоків
+Blocks menu
 
-Тло
+Backpack
 
-Масштабування
+Zoom
 
-Список спрайтів
+Sprite list
 
-Вкладка спрайтів
+Sprite pane
 
-Вкладка Сцени
+Stage pane
 
-Вкладка Сцени
+Stage pane
 
-Повний екран
+Full screen
 
-Область коду
+Code area

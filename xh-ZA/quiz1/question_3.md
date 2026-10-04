@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Umbuzo 3 wesi-3
+legend: Question 3 of 3
 ---
 
 Kwiprojekthi yakho, wenze uNano uphawule "Thank you". Yeyiphi ikhowudi oye wayisebenzisa ukufumana uNano ukuhambisa isandla emlonyeni wabo?
@@ -12,7 +12,7 @@ Kwiprojekthi yakho, wenze uNano uphawule "Thank you". Yeyiphi ikhowudi oye wayis
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Molo!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -45,7 +45,7 @@ switch costume to [nano-a v]
 
   --- feedback ---
 
-Ewe. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume.
+Ewe. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume.
 
   --- /feedback ---
 

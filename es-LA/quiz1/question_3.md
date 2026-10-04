@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Pregunta 3 de 3
+legend: Question 3 of 3
 ---
 
 En tu proyecto, hiciste que Nano dijera "gracias". ¿Qué código usaste para que Nano se llevara la mano a la boca?
@@ -12,7 +12,7 @@ En tu proyecto, hiciste que Nano dijera "gracias". ¿Qué código usaste para qu
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [¡Hola!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ Este código reproduce un sonido y muestra una burbuja de diálogo.
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Umm...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 

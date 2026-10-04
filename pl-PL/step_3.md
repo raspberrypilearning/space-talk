@@ -57,21 +57,25 @@ Przeciągnij blok `kiedy ten duszek kliknięty`{:class="block3events"} z menu bl
 
 ```blocks3
 +when this sprite clicked
-say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
 
 ### Komentarze do kodu
 
+--- task ---
+
 ```blocks3
-say [Cześć!] for [2] seconds // ukryj dymek po 2 sekundach
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 W przykładach kodu zobaczysz komentarze. Nie musisz dodawać komentarzy podczas dodawania kodu do projektu.
 
-Jeśli po zakończeniu projektu masz czas, dobrym pomysłem jest dodanie komentarzy do kodu, aby później był łatwiejszy do zrozumienia. Aby dodać komentarz, kliknij prawym przyciskiem myszy (lub na tablecie naciśnij i przytrzymaj) blok w obszarze Skrypt i wybierz **Dodaj komentarz**.
+Jeśli po zakończeniu projektu masz czas, dobrym pomysłem jest dodanie komentarzy do kodu, aby później był łatwiejszy do zrozumienia. Try adding a comment now. Aby dodać komentarz, kliknij prawym przyciskiem myszy (lub na tablecie naciśnij i przytrzymaj) blok w obszarze Skrypt i wybierz **Dodaj komentarz**.
 
 ![Wyskakujące menu, które pojawia się po kliknięciu bloku prawym przyciskiem myszy. Wybrano opcję „Dodaj komentarz”.](images/add-comment.png)
+
+--- /task ---
 
 ### Test
 
