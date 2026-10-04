@@ -49,7 +49,7 @@ Reprodueix uns quants sons diferents amb les icones **Reprodueix** . Un cop hàg
 
 Feu clic a la pestanya **Codi** . Al menú de blocs `So`{:class="block3sound"}, cerqueu el bloc `d'inici`{:class="block3sound"}.
 
-Arrossegueu el bloc a l'àrea de codi, entre el `quan aquest personatge va fer clic al bloc`{:class="block3events"} i el `dir`{:class="block3looks"} bloc. S'obrirà un buit i el bloc encaixarà al seu lloc.
+Arrossegueu el bloc a l'àrea de codi, entre el `quan aquest personatge va fer clic al bloc`{:class="block3events"} i el `dir`{:class= "block3looks"} bloc. S'obrirà un buit i el bloc encaixarà al seu lloc.
 
 ![El bloc "so d'inici" que s'afegeix entre els dos blocs.](images/pico-insert-block.gif)
 
@@ -60,7 +60,7 @@ El teu codi hauria de ser així:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Hola!] for [2] seconds // para de parlar després de 2 segons
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---

@@ -1,35 +1,29 @@
 హలో!
 
-2 సెకన్ల తర్వాత ప్రసంగాన్ని దాచండి
+hide speech after 2 seconds
 
-ధన్యవాదాలు!
+when Nano is clicked
 
-Nano ని క్లిక్ చేసినప్పుడు
+Nano talking
 
-Nano మాట్లాడుతున్నది
+try 0.25 instead of 0.5
 
-2 కి బదులుగా 1 ప్రయత్నించండి
+Hm...
 
-Nano నవ్వుతున్నది
+0 is the starting colour
 
-మ్...
+back to the starting colour
 
-0 అనేది ప్రారంభ రంగు
+hide speech bubble
 
-తిరిగి ప్రారంభ రంగుకి
+number up to 200
 
-స్పీచ్ బబుల్ ను దాచండి
+0.5 is half a second
 
-200 వరకు సంఖ్య
+plays sound, doesn't wait
 
-ప్లే సౌండ్, వేచి ఉండదు
+shows speech bubble
 
-స్పీచ్ బబుల్ ను చూపిస్తుంది
+put hand to mouth
 
-నోటికి చేయి
-
-నవ్వుతూ
-
-థాట్ బబుల్ ను చూపుతుంది
-
-సాధారణ రంగుకు తిరిగి వస్తుంది
+smiling
