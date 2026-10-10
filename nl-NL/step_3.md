@@ -57,7 +57,7 @@ Sleep een `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok uit
 
 ```blocks3
 +when this sprite clicked
-say [Hallo!] for [2] seconds // spraak verbergen na 2 seconden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -67,7 +67,7 @@ say [Hallo!] for [2] seconds // spraak verbergen na 2 seconden
 --- task ---
 
 ```blocks3
-say [Hallo!] for [2] seconds // spraak verbergen na 2 seconden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Je ziet opmerkingen in de codevoorbeelden. Je hoeft de opmerkingen niet toe te voegen wanneer je code aan jouw project toevoegt.
 

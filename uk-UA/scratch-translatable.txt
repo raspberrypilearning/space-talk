@@ -1,29 +1,29 @@
 Привіт!
 
-приховати мову через 2 секунди
+hide speech after 2 seconds
 
-коли натиснуто на Nano
+when Nano is clicked
 
-Nano говорить
+Nano talking
 
-спробуй 0.25 замість 0.5
+try 0.25 instead of 0.5
 
-Хмм...
+Hm...
 
-0 - початковий колір
+0 is the starting colour
 
-повернення до початкового кольору
+back to the starting colour
 
-приховати мовну бульбашку
+hide speech bubble
 
-число до 200
+number up to 200
 
-0.5 це пів секунди
+0.5 is half a second
 
-відтворює звук, не чекає
+plays sound, doesn't wait
 
-показує мовну бульбашку
+shows speech bubble
 
-доводить руку до рота
+put hand to mouth
 
-посмішка
+smiling
