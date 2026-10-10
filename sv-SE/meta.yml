@@ -2,22 +2,33 @@
 title: Rymdsamtal
 hero_image: images/banner.png
 description: Använd Scratch för att ge sprajts gester som de kan kommunicera med när de blir klickade
-version: 4
+meta_title: Scratch coding projects for kids and teens | Intro to Scratch
+meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
-  - title: Du kommer att skapa
-  - title: Skapa din scen
-  - title: Pico säger hej
+  - 
+    title: What you will make
+  - 
+    title: Skapa din scen
+  - 
+    title: Pico säger hej
     completion:
       - engaged
-  - title: Pico spelar ett ljud
-  - title: Nano byter klädsel
-  - title: Giga byter färg
+  - 
+    title: Pico spelar ett ljud
+  - 
+    title: Nano byter klädsel
+  - 
+    title: Giga byter färg
+  - 
+    title: Snabbt quiz
     completion:
       - internal
-  - title: Snabbt quiz
+  - 
+    title: Uppgradera ditt projekt
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -25,4 +36,5 @@ steps:
       passing_score: 3
     completion:
       - external
-  - title: Uppgradera ditt projekt
+  - 
+    title: Upgrade your project

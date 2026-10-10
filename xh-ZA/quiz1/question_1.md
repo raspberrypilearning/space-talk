@@ -8,7 +8,7 @@ Yonwaba!
 
 --- question ---
 ---
-legend: Umbuzo 1 wesi-3
+legend: Question 1 of 3
 ---
 
 Kwiprojekthi yakho, wongeze abanye abalinganiswa besprite.
@@ -27,7 +27,7 @@ Uye kwi **Isinxibo** ithebhu ukuhlela isinxibo se sprite yakho.
 
   --- /feedback ---
 
-- ( ) 2: I **Sounds-** tab
+- ( ) 2: I **Izandi-** tab
 
   --- feedback ---
 

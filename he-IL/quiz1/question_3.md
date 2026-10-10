@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: שאלה 3 מתוך 3
+legend: Question 3 of 3
 ---
 
 בפרויקט שלך, גרמת לננו לסמן "תודה". באיזה קוד השתמשת כדי לגרום לנאנו להזיז יד לפיו?
@@ -12,7 +12,7 @@ legend: שאלה 3 מתוך 3
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [שלום!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -24,8 +24,8 @@ say [שלום!] for [2] seconds
 - ( )
 ```blocks3
 when this sprite clicked
-set [צבע v] effect to [50] 
-think [הממ...] for [2] seconds 
+set [color v] effect to [50] 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
@@ -52,7 +52,7 @@ switch costume to [nano-a v]
 - ( )
 ```blocks3
 when this sprite clicked
-set [צבע v] effect to [50]
+set [color v] effect to [50]
 start sound [Alien Creak1 v] 
 clear graphic effects 
 ```
