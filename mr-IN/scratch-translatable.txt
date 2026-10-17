@@ -1,35 +1,29 @@
 हॅलो!
 
-2 सेकंदांनंतर स्पीच लपवा
+hide speech after 2 seconds
 
-धन्यवाद!
+when Nano is clicked
 
-Nano वर जेव्हा क्लिक केले जाते
+Nano talking
 
-Nano टॉकींग
+try 0.25 instead of 0.5
 
-2 ऐवजी 1 चा प्रयत्न करा
+Hm...
 
-Nano स्माइलिंग
+0 is the starting colour
 
-हं...
+back to the starting colour
 
-0 हा सुरूवातीचा रंग आहे
+hide speech bubble
 
-सुरूवातीच्या रंगावर परत
+number up to 200
 
-स्पीच बबल लपवा
+0.5 is half a second
 
-200 पर्यंतच्या संख्या
+plays sound, doesn't wait
 
-साऊंड प्ले करा, प्रतिक्षा करू नका
+shows speech bubble
 
-स्पीच बबल दाखवतो
+put hand to mouth
 
-हँड टू माऊथ
-
-स्माइलिंग
-
-थॉट बबल दाखवतो
-
-सामान्य रंगावर परत जातो
+smiling

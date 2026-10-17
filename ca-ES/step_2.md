@@ -73,7 +73,7 @@ Suprimeix el personatge **Personatge1** (Gat de Scratch): seleccioneu el persona
 
 Feu clic a **Trieu un Personatge** a la llista de Personatges:
 
-![La icona "Tria un Personatge". ](images/sprite-button.png)
+![La icona "Tria un Personatge".](images/sprite-button.png)
 
 ![L'editor Scratch amb "Tria un Personatge" ressaltat.](images/choose-a-sprite.png)
 

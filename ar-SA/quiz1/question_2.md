@@ -1,10 +1,10 @@
 
 --- question ---
 ---
-legend: سؤال ٢ من ٣
+legend: Question 2 of 3
 ---
 
-لقد جعلت بيكو يقول "مرحبًا!" في فقاعة كلام.
+لقد جعلت بيكو `يقول`{: class = "block3looks"} "مرحبًا!" في فقاعة كلام.
 
 ```blocks3
 say [Hello!] for [2] seconds
