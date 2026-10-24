@@ -1,29 +1,29 @@
 שלום!
 
-הסתר דיבור לאחר 2 שניות
+hide speech after 2 seconds
 
-כאשר לוחצים על ננו
+when Nano is clicked
 
-ננו מדבר
+Nano talking
 
-נסה 0.25 במקום 0.5
+try 0.25 instead of 0.5
 
-הממ...
+Hm...
 
-0 הוא צבע ההתחלתי
+0 is the starting colour
 
-חזרה לצבע ההתחלתי
+back to the starting colour
 
-הסתר בועת דיבור
+hide speech bubble
 
-מספר עד 200
+number up to 200
 
-0.5 זה חצי שנייה
+0.5 is half a second
 
-מנגן צליל, לא מחכה
+plays sound, doesn't wait
 
-מציג בועת דיבור
+shows speech bubble
 
-לקרב יד לפה
+put hand to mouth
 
-מחייך
+smiling

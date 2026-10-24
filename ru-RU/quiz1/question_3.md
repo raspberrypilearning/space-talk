@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Вопрос 3 из 3
+legend: Question 3 of 3
 ---
 
 В своем проекте ты сделал для Nano подпись «спасибо». Какой код ты использовал, чтобы Nano поднёс руку ко рту?
@@ -12,7 +12,7 @@ legend: Вопрос 3 из 3
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Привет!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ say [Привет!] for [2] seconds
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Хммм...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
@@ -39,7 +39,7 @@ clear graphic effects
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Спасибо!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
