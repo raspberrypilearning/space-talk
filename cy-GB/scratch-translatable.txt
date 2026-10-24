@@ -1,35 +1,29 @@
 Helo!
 
-cuddio'r llais ar ôl 2 eiliad
+hide speech after 2 seconds
 
-Diolch!
+when Nano is clicked
 
-pan fydd Nano yn cael ei glicio
+Nano talking
 
-Nano yn siarad
-
-rho gynnig ar 1 yn lle 2
-
-Nano yn gwenu
+try 0.25 instead of 0.5
 
 Hm...
 
-0 yw'r lliw cychwynnol
+0 is the starting colour
 
-mynd yn ôl i'r lliw cychwyn
+back to the starting colour
 
-cuddio'r swigen siarad
+hide speech bubble
 
-rhif hyd at 200
+number up to 200
 
-chwarae sain, ddim yn aros
+0.5 is half a second
 
-dangos y swigen siarad
+plays sound, doesn't wait
 
-llaw i'r geg
+shows speech bubble
 
-gwenu
+put hand to mouth
 
-dangos swigen meddwl
-
-mynd yn ôl i'r lliw arferol
+smiling
