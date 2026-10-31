@@ -8,7 +8,7 @@ Amuse-toi bien !
 
 --- question ---
 ---
-legend: Question 1 sur 3
+legend: Question 1 of 3
 ---
 
 Dans ton projet, tu as ajouté des sprite personnages.
