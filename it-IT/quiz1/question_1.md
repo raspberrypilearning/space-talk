@@ -8,7 +8,7 @@ Divertiti!
 
 --- question ---
 ---
-legend: Domanda 1 di 3
+legend: Question 1 of 3
 ---
 
 Nel tuo progetto hai aggiunto alcuni sprite a forma di personaggi.

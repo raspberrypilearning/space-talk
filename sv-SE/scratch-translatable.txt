@@ -1,29 +1,29 @@
 Hej!
 
-dölj tal efter 2 sekunder
+hide speech after 2 seconds
 
-när Nano blir klickad
+when Nano is clicked
 
-Nano pratar
+Nano talking
 
-prova 0,25 istället för 0,5
+try 0.25 instead of 0.5
 
 Hm...
 
-0 är startfärgen
+0 is the starting colour
 
-tillbaka till startfärgen
+back to the starting colour
 
-dölj pratbubblan
+hide speech bubble
 
-tal upp till 200
+number up to 200
 
-0,5 är en halv sekund
+0.5 is half a second
 
-spelar ljud, väntar inte
+plays sound, doesn't wait
 
-visar pratbubbla
+shows speech bubble
 
-lägga handen på munnen
+put hand to mouth
 
-ler
+smiling
