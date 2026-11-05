@@ -9,17 +9,26 @@ listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
-  - title: אתה תעשה
-  - title: צור את הסצנה שלך
-  - title: פיקו אומר שלום
+  - 
+    title: What you will make
+  - 
+    title: צור את הסצנה שלך
+  - 
+    title: פיקו אומר שלום
     completion:
       - engaged
-  - title: פיקו משמיע צליל
-  - title: ננו מחליף תחפושות
-  - title: גיגה משנה צבע
+  - 
+    title: פיקו משמיע צליל
+  - 
+    title: ננו מחליף תחפושות
+  - 
+    title: גיגה משנה צבע
+  - 
+    title: חידון מהיר
     completion:
-      - internal
-  - title: חידון מהיר
+      - external
+  - 
+    title: שדרגו את הפרויקט שלכם
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -27,4 +36,5 @@ steps:
       passing_score: 3
     completion:
       - external
-  - title: שדרגו את הפרויקט שלכם
+  - 
+    title: Upgrade your project

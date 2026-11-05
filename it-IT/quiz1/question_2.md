@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Domanda 2 di 3
+legend: Question 2 of 3
 ---
 
-Hai fatto `dire`{:class="block3looks"} a Pico "Ciao!" in un fumetto.
+Hai fatto `dire` a Pico {:class="block3looks"} "Ciao!" in un fumetto.
 
 ```blocks3
-say [Ciao!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Dove andresti per trovare questo blocco?
@@ -26,7 +26,7 @@ Sì. Il blocco `dire`{:class="block3looks"} si trova nel menù dei blocchi `Aspe
 
   --- feedback ---
 
-I blocchi nel menu dei blocchi `Suono`{:class="block3sound"} sono utilizzati per far riprodurre dei suoni agli sprite.
+I blocchi nel menu dei blocchi`Suono`{:class="block3sound"} sono utilizzati per far riprodurre dei suoni agli sprite.
 
   --- /feedback ---
 

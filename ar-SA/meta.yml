@@ -2,27 +2,39 @@
 title: حديث الفضاء
 hero_image: images/banner.png
 description: استخدم Scratch لإعطاء الكائنات "تعبيرًا" بحيث يتواصلون عند النقر عليهم
-version: 4
+meta_title: مشاريع الترميز Scratch للأطفال والمراهقين | مقدمة إلى سكراتش
+meta_description: تعلم البرمجة في سكراتش باستخدام مشاريع الترميز الخاصة بمؤسسة Raspberry Pi Foundation للأطفال والمراهقين. أنشئ رسومًا متحركة وألعابًا وتطبيقات من سكراتش والمزيد.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
-last_tested: '2021-02-09'
+last_tested: "2021-02-09"
 steps:
-- title: المقدمة
-- title: اصنع مشهدك
-- title: Pico يقول مرحبًا
-  completion:
-  - engaged
-- title: Pico يشغل صوت
-- title: Nano يبدل المظاهر
-- title: Giga يغير اللون
-  completion:
-  - internal
-- title: تفكير
-  knowledge_quiz:
-    path: quiz1
-    version: 1
-    questions: 3
-    passing_score: 3
-  completion:
-  - external
-- title: قم بترقية مشروعك
+  - 
+    title: What you will make
+  - 
+    title: اصنع مشهدك
+  - 
+    title: Pico يقول مرحبًا
+    completion:
+      - engaged
+  - 
+    title: Pico يشغل صوت
+  - 
+    title: Nano يبدل المظاهر
+  - 
+    title: Giga يغير اللون
+  - 
+    title: تفكير
+    completion:
+      - external
+  - 
+    title: قم بترقية مشروعك
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - 
+    title: Upgrade your project
