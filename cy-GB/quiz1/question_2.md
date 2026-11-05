@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Cwestiwn 2 o 3
+legend: Question 2 of 3
 ---
 
 Rwyt ti wedi gwneud i Pico ddweud "Helo!" mewn swigen siarad.
 
 ```blocks3
-say [Helo!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Ble fydde ti'n mynd i ddod o hyd i'r bloc hwn?

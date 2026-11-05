@@ -37,7 +37,7 @@ El personatge d'en  **Pico** mostrarà una bafarada durant dos segons.
 
 --- task ---
 
-Arrossegueu el `Dir`{:class="block3looks"} `Hola!` `per a`{:class="block3looks"} `2` `segons`{:class="block3looks"} a l'àrea de codi. Feu-hi clic de nou.
+Arrossegueu el `Dir`{:class="block3looks"} `Hola!` `per a`{:class="block3looks"} `2` `segons`{:class= bloc "block3looks"} a l'àrea de codi. Feu-hi clic de nou.
 
 ![Arrossegueu el bloc "dir" a l'àrea de codi i feu-hi clic per executar-lo.](images/pico-drag-say.gif)
 
@@ -57,7 +57,7 @@ Arrossegueu `quan es fasi clic al personatge`{:class="block3events"} des del men
 
 ```blocks3
 +when this sprite clicked
-say [Hola!] for [2] seconds // para de parlar després de 2 segons
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -67,7 +67,7 @@ say [Hola!] for [2] seconds // para de parlar després de 2 segons
 --- task ---
 
 ```blocks3
-say [Hola!] for [2] seconds // para de parlar després de 2 segons
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Veureu comentaris en exemples de codi. No cal que afegiu els comentaris quan afegiu codi al vostre projecte.
 

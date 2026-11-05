@@ -1,23 +1,29 @@
 مرحباً!
 
-إخفاء الكلام بعد ثانيتين
+hide speech after 2 seconds
 
-شكرا!
+when Nano is clicked
 
-عندما يتم النقر فوق Nano
+Nano talking
 
-Nano يتحدث
+try 0.25 instead of 0.5
 
-جرب 1 بدلاً من 2
+Hm...
 
-Nano يبتسم
+0 is the starting colour
 
-همم...
+back to the starting colour
 
-الصفر هو لون البداية
+hide speech bubble
 
-العودة إلى لون البداية
+number up to 200
 
-إخفاء فقاعة الكلام
+0.5 is half a second
 
-عدد يصل إلى 200
+plays sound, doesn't wait
+
+shows speech bubble
+
+put hand to mouth
+
+smiling
