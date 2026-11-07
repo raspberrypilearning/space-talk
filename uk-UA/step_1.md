@@ -1,4 +1,4 @@
-## Ти зробиш
+## What you will make
 
 Створиш космічну сцену з персонажами 👾, які 'емоційно' діляться своїми думками чи почуттями.
 
@@ -9,8 +9,7 @@
 + Натискати на спрайти, щоб змусити їх спілкуватися за допомогою блоків коду `Вигляд`{:class="block3looks"} та `Звук`{:class="block3sound"}
 + Використовуй **Редактор Малювання**, щоб змінити **образ**
 
---- no-print ---
---- task ---
+--- no-print --- --- task ---
 ### Грати ▶️
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
@@ -19,11 +18,10 @@
 Що станеться, якщо клацнути по одному спрайту, а потім швидко клацнути по іншому спрайту?
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/749061299/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
---- /task ---
---- /no-print ---
+--- /task --- --- /no-print ---
 
 --- print-only ---
 
