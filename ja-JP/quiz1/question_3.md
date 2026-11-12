@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: 質問3/3
+legend: Question 3 of 3
 ---
 
 プロジェクトで、Nanoに「ありがとう」の手話を行わせました。 Nanoが手を口に動かすために、どのコードを使用しましたか？
@@ -12,7 +12,7 @@ legend: 質問3/3
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [こんにちは！] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ say [こんにちは！] for [2] seconds
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [うーん...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 

@@ -1,29 +1,29 @@
 Ciao!
 
-nascondi il fumetto dopo 2 secondi
+hide speech after 2 seconds
 
-quando si clicca su Nano
+when Nano is clicked
 
-Nano sta parlando
+Nano talking
 
-prova 0.25 invece di 0.5
+try 0.25 instead of 0.5
 
-Hmm...
+Hm...
 
-0 è il colore iniziale
+0 is the starting colour
 
-ritorna al colore iniziale
+back to the starting colour
 
-nascondi il fumetto
+hide speech bubble
 
-un numero fino a 200
+number up to 200
 
-0,5 è mezzo secondo
+0.5 is half a second
 
-riproduce il suono, non aspetta
+plays sound, doesn't wait
 
-mostra il fumetto
+shows speech bubble
 
-mette la mano alla bocca
+put hand to mouth
 
-sorridente
+smiling

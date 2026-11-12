@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Pytanie 3 z 3
+legend: Question 3 of 3
 ---
 
 W swoim projekcie sprawiłeś, że Nano pokazał „dziękuję”. Którego kodu użyłeś, aby Nano przyłożył rękę do ust?
@@ -12,7 +12,7 @@ W swoim projekcie sprawiłeś, że Nano pokazał „dziękuję”. Którego kodu
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Cześć!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -24,7 +24,7 @@ Ten kod odtwarza dźwięk i wyświetla dymek z tekstem.
 - ( )
 ```blocks3
 when this sprite clicked
-set [kolor v] effect to [50] 
+set [color v] effect to [50] 
 think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
@@ -52,7 +52,7 @@ Tak. Bloki `zmień kostium na`{:class="block3looks"} zmieniają kostium duszka t
 - ( )
 ```blocks3
 when this sprite clicked
-set [kolor v] effect to [50]
+set [color v] effect to [50]
 start sound [Alien Creak1 v] 
 clear graphic effects 
 ```
