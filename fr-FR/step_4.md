@@ -49,7 +49,7 @@ Joue quelques sons différents à l'aide des icônes **Jouer**. Une fois que tu 
 
 Clique sur l'onglet **Code**. Dans le menu des blocs `Son`{:class="block3sound"}, recherche le bloc `jouer le son`{:class="block3sound"}.
 
-Fais glisser le bloc dans la zone de Code, entre le bloc `quand ce sprite est cliqué`{:class="block3events"} et le bloc `dire`{:class="block3looks"}. Un espace s'ouvrira et le bloc se mettra en place.
+Fais glisser le bloc dans la zone de Code, entre le bloc `quand ce sprite est cliqué ` {:class="block3events"} et le bloc `dire`{:class="block3looks"}. Un espace s'ouvrira et le bloc se mettra en place.
 
 ![Le bloc « jouer le son » étant ajouté entre les deux blocs.](images/pico-insert-block.gif)
 
@@ -60,7 +60,7 @@ Ton code devrait ressembler à ceci :
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -77,7 +77,7 @@ Vérifie que ton bloc `jouer le son`{:class="block3sound"} contient le son que t
 
 --- task ---
 
-**Test :** Clique sur le sprite **Pico** et vérifie que la bulle apparaît et que tu entends le son. Si tu n'entends pas le son, assure-toi d'avoir ajouté le bloc `jouer le son`{:class="block3sound"} sous le bloc `quand ce sprite est cliqué`{:class="block3events"}.
+**Test :** Clique sur le sprite **Pico** et vérifie que la bulle apparaît et que tu entends le son. Si tu n'entends pas le son, assure-toi d'avoir ajouté le bloc `jouer le son`{:class="block3sound"} sous le bloc `quand ce sprite est cliqué `{:class="block3events”} .
 
 --- /task ---
 

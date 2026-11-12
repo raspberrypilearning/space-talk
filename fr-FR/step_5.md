@@ -34,10 +34,10 @@ Clique sur l'onglet **Code** et ajoute un script pour que le sprite **Nano** cha
 ![Le sprite Nano.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // quand on clique sur Nano
-switch costume to [nano-b v] // Nano parle
-wait (0.5) seconds // essaie 0.25 au lieu de 0.5
-switch costume to [nano-a v] // Nano souriant
+quand le sprite est cliqué // quand on clique sur Nano
+bascule sur le costume [nano-b v] // Nano parle
+attendre (0.5) seconds // essaie 0.25 au lieu de 0.5
+bascule sur le costume [nano-a v] // Nano souriant
 ```
 --- /task ---
 

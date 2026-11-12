@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: שאלה 2 מתוך 3
+legend: Question 2 of 3
 ---
 
 גרמת לפיקו `לומר`{:class="block3looks"} "שלום!" בבועת דיבור.
 
 ```blocks3
-say [שלום!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 לאן היית הולך כדי למצוא את הבלוק הזה?

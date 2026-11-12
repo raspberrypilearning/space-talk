@@ -2,23 +2,33 @@
 title: अंतरिक्ष वार्ता
 hero_image: images/banner.png
 description: स्प्राइट्स को 'इमोट' देने के लिए Scratch का उपयोग करें ताकि क्लिक करने पर वे बातें कर सकें
-meta_title: Scratch coding projects for kids and teens | Intro to Scratch
+meta_title: बच्चों और किशोरों के लिए स्क्रैच कोडिंग प्रोजेक्ट | स्क्रैच का परिचय
 meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
-  - title: परिचय
-  - title: अपना दृश्य बनाएं
-  - title: Pico हेलो (hello) कहता है
+  - 
+    title: What you will make
+  - 
+    title: अपना दृश्य बनाएं
+  - 
+    title: Pico हेलो (hello) कहता है
     completion:
       - engaged
-  - title: Pico ने बजायी एक ध्वनि
-  - title: Nano ने कास्ट्यूम (costume) बदल लिया
-  - title: Giga ने रंग बदला
+  - 
+    title: Pico ने बजायी एक ध्वनि
+  - 
+    title: Nano ने कास्ट्यूम (costume) बदल लिया
+  - 
+    title: Giga ने रंग बदला
+  - 
+    title: सोचिए
     completion:
       - internal
-  - title: सोचिए
+  - 
+    title: प्रोजेक्ट को अपग्रेड करें
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -26,4 +36,5 @@ steps:
       passing_score: 3
     completion:
       - external
-  - title: प्रोजेक्ट को अपग्रेड करें
+  - 
+    title: Upgrade your project

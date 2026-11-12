@@ -1,35 +1,29 @@
 Olá!
 
-esconder a fala após 2 segundos
+hide speech after 2 seconds
 
-Obrigado!
+when Nano is clicked
 
-quando o Nano é clicado
+Nano talking
 
-Nano falando
-
-tente 1 em vez de 2
-
-Nano sorrindo
+try 0.25 instead of 0.5
 
 Hm...
 
-0 é a cor inicial
+0 is the starting colour
 
-de volta à cor inicial
+back to the starting colour
 
-esconder balão de fala
+hide speech bubble
 
-número até 200
+number up to 200
 
-toca som, não espera
+0.5 is half a second
 
-mostra balão de diálogo
+plays sound, doesn't wait
 
-mão na boca
+shows speech bubble
 
-sorrindo
+put hand to mouth
 
-mostra um balão de pensamento
-
-volta a cor normal
+smiling

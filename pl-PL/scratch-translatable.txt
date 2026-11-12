@@ -1,29 +1,29 @@
 Cześć!
 
-ukryj dymek po 2 sekundach
+hide speech after 2 seconds
 
-po kliknięciu Nano
+when Nano is clicked
 
-Nano mówi
+Nano talking
 
-spróbuj 0.25 zamiast 0.5
+try 0.25 instead of 0.5
 
 Hm...
 
-0 to kolor początkowy
+0 is the starting colour
 
-powrót do koloru początkowego
+back to the starting colour
 
-ukryj dymek z tekstem
+hide speech bubble
 
-liczba mniejsza lub równa 200
+number up to 200
 
-0.5 to pół sekundy
+0.5 is half a second
 
-odtwórz dźwięk bez czekania
+plays sound, doesn't wait
 
-pokaż dynek rozmowy
+shows speech bubble
 
-połóż rękę przy ustach
+put hand to mouth
 
-Nano się uśmiecha
+smiling

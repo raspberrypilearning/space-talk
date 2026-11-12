@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: سؤال ٣ من ٣
+legend: Question 3 of 3
 ---
 
 في مشروعك ، قمت بجعل Nano يعطي علامة "شكرًا لك". ما الكتل البرمجية التي استخدمتها لجعل Nano يحرك يده إلى فمه؟
@@ -12,7 +12,7 @@ legend: سؤال ٣ من ٣
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [مرحباً!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ say [مرحباً!] for [2] seconds
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [همم...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
@@ -39,7 +39,7 @@ clear graphic effects
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [شكرا!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
