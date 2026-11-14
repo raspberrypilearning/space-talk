@@ -8,7 +8,7 @@ Divirta-se!
 
 --- question ---
 ---
-legend: Pergunta 1 de 3
+legend: Question 1 of 3
 ---
 
 Em seu projeto, você adicionou um cenário e alguns personagens (atores).

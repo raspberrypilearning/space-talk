@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Ερώτηση 3 από 3
+legend: Question 3 of 3
 ---
 
 Στο έργο σου έβαλες τον Νάνο να πει «ευχαριστώ». Ποιον κώδικα χρησιμοποίησες για να κάνεις τον Nano να μετακινήσει το χέρι του στο στόμα του;
@@ -12,7 +12,7 @@ legend: Ερώτηση 3 από 3
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Γεια σου!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
@@ -25,7 +25,7 @@ say [Γεια σου!] for [2] seconds
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Χμ...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
