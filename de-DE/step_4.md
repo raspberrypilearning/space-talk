@@ -60,7 +60,7 @@ Dein Code sollte wie folgt aussehen:
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
@@ -69,7 +69,7 @@ say [Hallo!] for [2] seconds // Sprache nach 2 Sekunden ausblenden
 
 --- task ---
 
-Prüfe ob dein `spiele Klang`{:class="block3sound"}-Block den korrekten Klang ausgewählt hat. Falls nicht, klicke auf den Klang in dem `Spiele Klang`{:class="block3sound"}-Block und wähle deinen gewählten Klang in dem Dropdown-Menü.
+Prüfe ob dein `spiele Klang`{:class="block3sound"} -Block den korrekten Klang ausgewählt hat. Falls nicht, klicke auf den Klang in dem `Spiele Klang`{:class="block3sound"}-Block und wähle deinen gewählten Klang in dem Dropdown-Menü.
 
 ![Klick auf den Alien Creak1 Klang im Dropdown-Menü im 'spiele Klang'-Block.](images/pico-sound-menu.png)
 
