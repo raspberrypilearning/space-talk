@@ -43,7 +43,7 @@ Clique (ou sur une tablette, appuie) sur **Choisir un arrière-plan** dans le vo
 
 Clique sur **Space** ou tape `space` dans le champ de recherche :
 
-![La bibliothèque d'arrière-plan avec la catégorie « Space » sélectionnée.](images/space-backdrops.png)
+![La bibliothèque d'arrière-plan avec la catégorie « Espace » sélectionnée.](images/space-backdrops.png)
 
 --- /task ---
 

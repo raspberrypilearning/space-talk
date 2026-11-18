@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: 質問2/3
+legend: Question 2 of 3
 ---
 
 Picoに吹き出しで「こんにちは！」と`言わせ`{:class="block3looks"}ました。
 
 ```blocks3
-say [こんにちは！] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 このブロックはどこにありますか？
@@ -26,7 +26,7 @@ say [こんにちは！] for [2] seconds
 
   --- feedback ---
 
-`音`{:class="block3sound"}ブロックメニューのブロックは、スプライトに音声を再生させるために使用されます。
+`音`{:class = "block3sound"}ブロックメニューのブロックは、スプライトに音声を再生させるために使用されます。
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ say [こんにちは！] for [2] seconds
 
   --- feedback ---
 
-`動き`{:class="block3motion"}ブロックメニューのブロックは、スプライトを動かすために使用されます。
+`動き`{:class = "block3motion"}ブロックメニューのブロックは、スプライトを動かすために使用されます。
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ say [こんにちは！] for [2] seconds
 
   --- feedback ---
 
-`イベント`{:class="block3events"}ブロックメニューのブロックは、イベントを発生させるために使用されます。
+`イベント`{:class = "block3events"}ブロックメニューのブロックは、イベントを発生させるために使用されます。
 
   --- /feedback ---
 

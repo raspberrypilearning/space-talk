@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Pregunta 3 de 3
+legend: Question 3 of 3
 ---
 
 En el teu projecte, has fet que Nano signes "gràcies". Quin codi vas utilitzar per fer que Nano mogui una mà a la boca?
@@ -12,7 +12,7 @@ En el teu projecte, has fet que Nano signes "gràcies". Quin codi vas utilitzar 
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Hola!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
