@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: Fråga 3 av 3
+legend: Question 3 of 3
 ---
 
 Du fick Nano att säga "tack" i ditt projekt. Vilken kod använde du för att få Nano att röra en hand till sin mun?
@@ -12,7 +12,7 @@ Du fick Nano att säga "tack" i ditt projekt. Vilken kod använde du för att f�
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Hej!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---

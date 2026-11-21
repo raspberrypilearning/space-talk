@@ -12,7 +12,7 @@ In je project heb je Nano "dank je" laten zeggen. Welke code heb je gebruikt om 
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Hallo!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
   --- feedback ---
