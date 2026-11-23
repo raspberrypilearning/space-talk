@@ -20,19 +20,19 @@ De persoonlijkheid van de **Tera** sprite is jouw keuze, dus veel plezier met he
 ```blocks3
 when this sprite clicked
 
-say [Hallo!] for [2] seconds
+say [Hello!] for [2] seconds
 
-say [Hallo!]
+say [Hello!]
 
-say [] // tekstballon verbergen
+say [] // hide speech bubble
 
 think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
-wait (1) seconds // 0.5 is een halve seconde
+wait (1) seconds // 0.5 is half a second
 
-set [kleur v] effect to [0] // aantal tot 200
+set [color v] effect to [0] // number up to 200
 
 clear graphic effects
 
@@ -40,7 +40,7 @@ play sound [pop v] until done
 
 start sound [pop v]
 
-speak [hallo]
+speak [hello]
 ```
 
 Je kunt het project ook 'remixen' om wijzigingen die je leuk vindt aan te brengen. Je zou de achtergrond kunnen veranderen, en hoe de sprites emoties laten zien, en zelfs verschillende sprites kiezen en ze emoties geven.
@@ -52,7 +52,7 @@ Je kunt het project ook 'remixen' om wijzigingen die je leuk vindt aan te brenge
 title: Voltooid project
 ---
 
-Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/595587060/){:target="_blank"} bekijken.
+Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/485673032/){:target="_blank"} bekijken.
 
 --- /collapse ---
 

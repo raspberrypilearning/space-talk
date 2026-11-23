@@ -1,7 +1,7 @@
 
 --- question ---
 ---
-legend: ಪ್ರಶ್ನೆ 3
+legend: Question 3 of 3
 ---
 
 ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನೀವು Nano "thank you" ಸಂಕೇತ ಮಾಡುವಂತೆ ಮಾಡಿದ್ದೀರಿ. Nano ಅವುಗಳ ಬಾಯಿಗೆ ಕೈಯನ್ನು ಚಲಿಸಲು ನೀವು ಯಾವ ಕೋಡ್‌ ಉಪಯೋಗಿಸಿದಿರಿ?
@@ -39,7 +39,7 @@ clear graphic effects
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
-say [Thanks!] for [2] seconds
+wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 

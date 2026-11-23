@@ -11,17 +11,21 @@
 </div>
 </div>
 
+### Open the starter project
+
 --- task ---
 
-Открой [Стартовый проект Космический разговор](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch откроется в другой вкладке браузера.
+Открой [Стартовый проект Космический разговор](https://scratch.mit.edu/projects/582213331/editor){:target="_ blank"}. Scratch откроется в другой вкладке браузера.
 
 [[[working-offline]]]
 
 --- /task ---
 
-Редактор Scratch выглядит так:
+### Редактор Scratch выглядит так:
 
 ![Снимок экрана редактора Scratch с пометкой Сцена, Панель Сцены, Панель Спрайтов, Список Спрайтов и Код.](images/scratch-interface.png)
+
+### Add a backdrop
 
 **Сцена** - это то место, где выполняется твой проект. **Фон** изменяет внешний вид Сцены.
 
@@ -52,6 +56,8 @@
 ![Редактор Scratch с добавленным фоном Space.](images/inserted-backdrop.png)
 
 --- /task ---
+
+### Add a Sprite
 
 Ты видишь спрайт, который уже включён в твой проект? Это Кот Scratch.
 

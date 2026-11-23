@@ -29,9 +29,9 @@ Zorg ervoor dat je de **Giga** sprite hebt geselecteerd in de Sprite-lijst onder
 
 ```blocks3
 when this sprite clicked
-set [kleur v] effect to [0] // 0 is de startkleur
+set [color v] effect to [0] // 0 is the starting colour
 think [Hmm...] for [2] seconds 
-clear graphic effects // terug naar de startkleur
+clear graphic effects // back to the starting colour
 ```
 
 --- /task ---
