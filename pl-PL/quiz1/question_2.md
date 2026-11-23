@@ -1,13 +1,13 @@
 
 --- question ---
 ---
-legend: Pytanie 2 z 3
+legend: Question 2 of 3
 ---
 
 Sprawiłeś, że Pico `powiedział`{:class="block3looks"} „Cześć!” w dymku z tekstem.
 
 ```blocks3
-say [Cześć!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
 Gdzie będziesz szukać tego bloku?

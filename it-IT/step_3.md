@@ -23,7 +23,7 @@ Le <span style="color: #0faeb0">**Emoticon**</span> servono a dare una personali
 
 Apri il menu dei blocchi `Aspetto`{:class="block3looks"}.
 
-Fai clic sul blocco `dire`{:class="block3looks"} `Ciao!` `per`{:class="block3looks"} `2` `secondi`{:class="block3looks"}.
+Fai clic sul blocco `dire`{:class="block3looks"} `Ciao!``per`{:class="block3looks"} `2` `secondi`{:class="block3looks"}.
 
 ![Il blocco 'dire Ciao! per 2 secondi' si illumina con un contorno giallo.](images/pico-say-hello-blocks-menu.png)
 
@@ -37,7 +37,7 @@ Lo sprite **Pico** mostrerà un fumetto per due secondi.
 
 --- task ---
 
-Trascina il blocco `dire`{:class="block3looks"} `Ciao!` `per`{:class="block3looks"} `2` `secondi`{:class="block3looks"} nell'area del Codice. Clicca sul blocco di nuovo.
+Trascina il blocco `dire`{:class="block3looks"} `Ciao!``per`{:class="block3looks"} `2` `secondi`{:class="block3looks"} nell'area del Codice. Clicca sul blocco di nuovo.
 
 ![Trascinando il blocco 'dire' nell'area del Codice e facendo clic su di esso per eseguirlo.](images/pico-drag-say.gif)
 
@@ -57,21 +57,25 @@ Trascina un blocco `quando si clicca su questo sprite`{:class="block3events"} da
 
 ```blocks3
 +when this sprite clicked
-say [Ciao!] for [2] seconds // nascondi il fumetto dopo 2 secondi
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
 
 ### Commenti al Codice
 
+--- task ---
+
 ```blocks3
-say [Ciao!] for [2] seconds // nascondi il fumetto dopo 2 secondi
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 Vedrai i commenti negli esempi di codice. Non serve che aggiungi i commenti quanto aggiungi codice al tuo progetto.
 
-Se hai tempo quando hai finito il progetto, è una buona idea aggiungere commenti al codice così sarà più facile da capire. Per aggiungere un commento, fai clic con il pulsante destro (o su un tablet, tocca e tieni premuto) su un blocco nell'area del Codice e seleziona **Aggiungi commento**.
+Se hai tempo quando hai finito il progetto, è una buona idea aggiungere commenti al codice così sarà più facile da capire. Try adding a comment now. Per aggiungere un commento, fai clic con il pulsante destro (o su un tablet, tocca e tieni premuto) su un blocco nell'area del Codice e seleziona **Aggiungi commento**.
 
 ![Il menu a comparsa che appare quando fai clic con il pulsante destro del mouse su un blocco. È selezionato "Aggiungi commento".](images/add-comment.png)
+
+--- /task ---
 
 ### Prova
 
